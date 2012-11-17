@@ -48,7 +48,9 @@ all: lettreries
 clean:
 	rm -R ${COMPILE}/*
 
-lettreries:
+%.native: src/*
 	${BUILD_COMMAND} ${MAIN}.native
+
+lettreries: ${COMPILE}/${PATHMAIN}/${MAIN}.native
 	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
 

@@ -59,7 +59,8 @@ let construit_poeme () =
   let regle =
     List.concat
       [
-	[ Contrainte.L (Contrainte.R (Record.Add ".")) ];
+	[ Contrainte.L (Contrainte.R (Record.Add "\n"));
+	  Contrainte.L (Contrainte.R (Record.Add ".")) ];
 	alexandrin 1;
 	alexandrin 2;
 	alexandrin 1;
