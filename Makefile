@@ -25,7 +25,7 @@ IGNS = data
 COMMANDS = -w,Aem
 
 BUILD_FLAGS = \
-	${COMMANDS}#,-I,${shell ocamlfind query camomile}
+	${COMMANDS},-I,${shell ocamlfind query camomile}
 
 BUILD_COMMAND = \
 	ocamlbuild -j 0 \
@@ -38,6 +38,7 @@ BUILD_COMMAND = \
 
 EXEC = lettreries
 MAIN = main
+PATHMAIN = src/ecriture
 
 -include settings.sh # If you want to personalize your options…
 
@@ -49,5 +50,5 @@ clean:
 
 lettreries:
 	${BUILD_COMMAND} ${MAIN}.native
-	cp ${MAIN}.native ${EXEC}
+	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
 
