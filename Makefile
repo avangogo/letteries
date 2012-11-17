@@ -18,7 +18,7 @@ LIBS = camomile
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique
 
 IGNS = data
 
@@ -34,7 +34,7 @@ BUILD_COMMAND = \
 	-Xs ${IGNS} \
 	-libs ${LIBS} \
 	-cflags ${BUILD_FLAGS} \
-	-lflags ${BUILD_FLAGS},-linkpkg \
+	-lflags ${BUILD_FLAGS} \
 
 EXEC = lettreries
 MAIN = main
