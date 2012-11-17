@@ -44,7 +44,7 @@ let construit_poeme () =
   (* Lecture du corpus *)
   p "Récupération des textes..."; 
   let textes_parses = Lecture.recupere_textes "data/corpus/"
-    ["Textes/"; "Poésies(Mallarmé,1914)/"; "Les fleurs du mal (1868)/"; "Rimbaud, Poésies/"] in
+    ["Poésies(Mallarmé,1914)/"; "Les fleurs du mal (1868)/"; "Rimbaud, Poésies/"] in
   
   p "Précalcul des données...";
   let markov = B.build textes_parses in
