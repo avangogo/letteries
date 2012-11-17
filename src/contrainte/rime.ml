@@ -29,6 +29,13 @@ let string_of_genre = function
   |Masculine -> "M"
   |Feminine -> "F"
   |Vide -> "N"
+
+let reduit_pluriel s =
+  let l = String.length s in
+  if l = 0 then s
+  else if s.[l-1] = 's' then String.sub s 0 (l - 1)
+  else s
+
       
 type rime = Phonetique.rime * genre
 let makeRime s =
@@ -65,7 +72,7 @@ struct
   let precompute _ _ s =
     let phonetique = (!automaton s) in
     let rime = if (String.length s >= minSize) then makeRime s else rimeVide in
-    let w = if phonetique = [] then "" else s in
+    let w = if phonetique = [] then "" else reduit_pluriel s in
     rime, w;;
 
   let filter _ _ = true
