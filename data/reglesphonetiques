@@ -1,0 +1,197 @@
+(*  Lettreries is a random poem generator.
+    Copyright (C) 2012 Rémi de Verclos
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
+
+(*definitions des variables, regles, exception*)
+(*defintions*)
+V = [a e i o u y é è]
+C = [b c d f g h j k l m n p q r s t v z]
+K = [b c d f g h j k l p q r s t v z]
+A = [a o u]
+I = [e i y é è]
+M = [b c d s t g] (*lettres muettes*)
+
+*section*
+(*regles*)
+
+
+(*regles de plusieurs lettres*)
+
+ein[K]	-> 'e~'
+ain[K]	-> 'e~'
+ein FIN	-> 'e~'
+ain FIN	-> 'e~'
+oin FIN	-> 'w''e~'
+oim FIN	-> 'w''e~'
+ien FIN	-> 'j''e~'
+
+ai	-> 'e^'
+eau	-> 'o'
+au	-> 'o'
+oeu	-> 'x^'
+eu	-> 'x'
+ei	-> 'e^'
+ou	-> 'u'
+ui	-> 'h''i'
+oy[V]	-> 'w''a''j'
+oi	-> 'w''a'
+
+am[K]	-> 'a~'
+an[K]	-> 'a~'
+am FIN	-> 'a~'
+an FIN	-> 'a~'
+en[K]	-> 'a~'
+em[K]	-> 'a~'
+en FIN	-> 'a~'
+em FIN	-> 'a~'
+in[K]	-> 'e~'
+im[K]	-> 'e~'
+in FIN	-> 'e~'
+im FIN	-> 'e~'
+on[K]	-> 'o~'
+om[K]	-> 'o~'
+on FIN	-> 'o~'
+om FIN	-> 'o~'
+un[K]	-> 'e~'
+um[K]	-> 'e~'
+un FIN	-> 'e~'
+um FIN	-> 'e~'
+
+ch	-> 's^'
+gue FIN	-> 'g'('q')
+gues FIN -> 'g'('q''s')
+que FIN	-> 'k'('q')
+ques FIN -> 'k'('q''s')
+qu	-> 'k'
+cu[V]	-> 'k'
+gu[V]	-> 'g'
+
+
+(*regles de fin*)
+ec	FIN 	-> 'e^''k'
+ed	FIN	-> 'e'
+er	FIN	-> 'e'('r')
+[V]es	FIN	-> ('z')
+es	FIN	-> ('q''z')
+et  	FIN	-> 'e^'('t')
+
+
+[V]e 	FIN	-> 	
+e 	FIN	-> ('q')
+
+b	FIN	-> ('b')
+d	FIN	-> ('d')
+s	FIN	-> ('z')
+t	FIN	-> ('t')
+x	FIN	-> ('z')
+g	FIN	->
+M[M]	FIN	->
+M[MM]   FIN	->
+
+
+
+(*regles par défaut*)
+a	-> 'a'
+	
+bb	-> 'b'
+b	-> 'b'
+
+c[A]	-> 'k'
+c[I]	-> 's'
+c	-> 'k'
+
+d	-> 'd'
+
+e[CV]	-> 'q'
+e[CC]	-> 'e^'
+e	-> 'q'
+
+é	-> 'e'
+è	-> 'e^'
+
+f	-> 'f'
+
+g[A]	-> 'g'
+g[I]	-> 'z^'
+g	-> 'g'
+
+h	-> 
+i	-> 'i'
+j	-> 'z^'
+k	-> 'k'
+
+ll	-> 'l'
+l	-> 'l'
+
+mm	-> 'm'
+m	-> 'm'
+
+nn	-> 'n'
+n	-> 'n'
+
+o	-> 'o'
+
+pp	-> 'p'
+p	-> 'p'
+
+q	-> 'k'
+
+rr	-> 'r'
+r	-> 'r'
+
+ss	-> 's'
+[V]s[V]	-> 'z'
+[C]s[V]	-> 's'
+[V]s[C]	-> 's'
+[C]s[C]	-> 's'
+s	-> 's'
+
+
+tt	-> 't'
+t[ia]	-> 's'
+t[iel]	-> 's'
+t[io]	-> 's'
+t	-> 't'
+
+u	-> 'y'
+v	-> 'v'
+w	-> 'v'
+
+[e]x[V] -> 'g''z'
+x	-> 'k''s' (*pour faire simple*)
+
+y	-> 'i'
+z	-> 'z'
+
+*section*
+(*exceptions*)
+
+les	-> 'l''e'('z')
+le	-> 'l''q'
+et	-> 'e'('t')
+s	-> 's'
+d	-> 'd'
+t	-> 't'
+c	-> 's'
+m	-> 'm'
+n	-> 'n'
+eut	-> 'y'('t')
+eus	-> 'y'('z')
+eu	-> 'y'
+fer	-> 'f''e^''r'
+fers	-> 'f''e^''r'('z')
+cher	-> 's^''e^''r'
+chers	-> 's^''e^''r'('z')
+sens	-> 's''a~''s'
