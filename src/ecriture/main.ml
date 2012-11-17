@@ -30,32 +30,32 @@ let construit_poeme () =
   Random.self_init ();
   (* construction des automates de calcul de phonétique *)
   p "Précalcul des règles phonétiques (peut être long).";
-  
+
   let t0 = Sys.time () in
   let machine = Phonetique.make_automate "data/reglesphonetiques" in
   let t1 = (Sys.time ()) -. t0 in
-  Printf.printf "Temps de création de l'automate: %f\n" t1;
+  Printf.printf "Temps de création de l’automate : %f\n" t1;
 
-  (* La fonction de traduction aux modules qui l'utilisent *)
+  (* La fonction de traduction aux modules qui l’utilisent *)
   let traduit = Phonetique.of_string machine in
   Pieds.automaton := traduit;
   Rime.automaton := traduit;
 
   (* Lecture du corpus *)
-  p "Récupération des textes..."; 
+  p "Récupération des textes…";
   let textes_parses = Lecture.recupere_textes "data/corpus/"
     ["Poésies(Mallarmé,1914)/"; "Les fleurs du mal (1868)/"; "Rimbaud, Poésies/"] in
-  
-  p "Précalcul des données...";
+
+  p "Précalcul des données…";
   let markov = B.build textes_parses in
-  
-  (* Création de l'état initial *)
-  let alexandrin rime = 
-    [Contrainte.L (Contrainte.L rime);
+
+  (* Création de l’état initial *)
+  let alexandrin rime =
+    [ Contrainte.L (Contrainte.L rime);
      Contrainte.R (Pieds.Newline 6);
      Contrainte.R (Pieds.Cesure 6);
      Contrainte.L (Contrainte.R (Record.Add "\n"))] in
-     
+
   let regle =
     List.concat
       [
@@ -75,23 +75,24 @@ let construit_poeme () =
 	[ Contrainte.L (Contrainte.R Record.END) ]
       ] in
   let state_init = T.make_init regle in
-  p "Etat initial accepté";
-  
+  p "État initial accepté.";
+
   try
     (* Recherche du poeme *)
-    p "Ecriture...";
+    p "Écriture…";
     let poeme = E.write markov (State.of_string Sys.argv.(1)) state_init in
-    
+
     (* Mise en forme et affichage *)
-    p "Mise en page...";
+    p "Mise en page…";
     ignore (Ecriture.affiche_poeme true poeme);
 
     (* Affichage des modules de débuggages *)
     let debug = !Debug.mem in
     List.iter p (List.rev debug);
-      
-  with Not_found -> (p "Sylvain est un pignouf") (*poème alternatif*)
+
+  with Not_found -> (p "Sylvain est un pignouf") (* Poème alternatif *)
 ;;
 
 
 construit_poeme ();;
+

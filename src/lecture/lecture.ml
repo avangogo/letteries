@@ -29,7 +29,7 @@ let parse texte =
       Parser_l.main Lexer_l.token res0 
     with
       |Lexer_l.Caractere_inconnu (c, p) ->
-	failwith (Printf.sprintf "Erreur en lisant %s, ligne %i caractere %i\nCaractere inconnu: '%c' '%i'."
+	failwith (Printf.sprintf "Erreur en lisant %s, ligne %i caractère %i\nCaractère inconnu : ‘%c’ ‘%i’."
 		    p.Lexing.pos_fname p.Lexing.pos_lnum p.Lexing.pos_bol c (int_of_char c))
   in
 (*  p "fin lecture";*)
@@ -46,3 +46,4 @@ let recupere_textes dossier_corpus (dossiers : string list) =
   let liste0 = List.map (fun f -> List.map (fun text -> f, text) (parse f)) fichiers in
   let liste1 = List.concat liste0 in
   liste1;;
+
