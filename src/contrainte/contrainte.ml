@@ -26,10 +26,12 @@ module type Constraint =
 sig
   type metadata (*metadonnée*)
   type state (*etat*)
-  val precompute : string -> bool -> string -> metadata (* fichier -> est un mot état -> mot *)
+  val precompute : string -> bool -> Tag.tag -> string -> metadata (* fichier -> est un mot état -> mot *)
   val filter : state -> metadata -> bool
   val step : state -> metadata -> state
-  val init_state: state
+  (* compute the initial state AND initiate the automaton *)
+  (* constraints can assume that init_state is called exctly once at the begining of each computation *)
+  val init_state: unit -> state
   (*prettyprinting*)
   val name : string
   val print_metadata : metadata -> string
@@ -56,10 +58,10 @@ module MergeConstraint (A:Constraint) (B:Constraint) =
 struct
   type metadata = A.metadata * B.metadata
   type state = A.state*B.state
-  let precompute f b w = A.precompute f b w, B.precompute f b w
+  let precompute f b tag w = A.precompute f b tag w, B.precompute f b tag w
   let filter (sa, sb) (ma, mb) = (A.filter sa ma) && (B.filter sb mb)
   let step (sa, sb) (ma, mb) = (A.step sa ma), (B.step sb mb)
-  let init_state = A.init_state, B.init_state
+  let init_state () = A.init_state (), B.init_state ()
   (* prettyprinting *)
   let name = Printf.sprintf "[%s %s]" A.name B.name
   let print_metadata (ma, mb) = Printf.sprintf "(%s, %s)" (A.print_metadata ma) (B.print_metadata mb) 
@@ -93,7 +95,7 @@ struct
   module C = MergeConstraint (O.C) (Metric.C)
   type metadata = C.metadata
   type state = C.state * (((O.order, Metric.order) sum) list)
-  let precompute : string -> bool -> string -> metadata = C.precompute
+  let precompute : string -> bool -> Tag.tag -> string -> metadata = C.precompute
   let filter (s, _ : state) (m : metadata) = C.filter s m
   let rec read_order oState metricState  = function
     |(R metricOrder)::q ->
@@ -105,8 +107,8 @@ struct
     if not (Metric.finished metricState) then (newState, l : state)
     else
       read_order oState metricState l
-  let init_state = (C.init_state, [] : state)
-  let make_init l = ((read_order O.C.init_state Metric.C.init_state l) : state)
+  let init_state () = (C.init_state (), [] : state)
+  let make_init l = ((read_order (O.C.init_state ()) (Metric.C.init_state ()) l) : state)
   let name = C.name
   let print_metadata : metadata -> string = C.print_metadata
   let print_state ((s, l) : state) = Printf.sprintf "%s|<%d>" (C.print_state s) (List.length l)
