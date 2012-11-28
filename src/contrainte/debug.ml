@@ -30,14 +30,14 @@ module OfConstraint (C:Contrainte.Constraint) =
 struct
   type metadata = C.metadata
   type state = C.state  * string list
-  let precompute f b w = C.precompute f b w
-  let filter (s, l) m = C.filter s m
+  let precompute f b tag w = C.precompute f b tag w
+  let filter (s, _) m = C.filter s m
   let step (s, l) m =
     let new_s = C.step s m in
     let new_l = (Printf.sprintf "%s%s%s -> %s%s%s" rouge (C.print_metadata m) fin bleu (C.print_state new_s) fin )::l in
     mem := new_l;
     new_s, new_l
-  let init_state = C.init_state, ["DEBUT"]
+  let init_state () = C.init_state (), ["DEBUT"]
     (* prettyprinting *)
   let name = Printf.sprintf "[DEBUG(%s)]" C.name
   let print_metadata m = C.print_metadata m 

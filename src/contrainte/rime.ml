@@ -69,7 +69,7 @@ struct
   (* la rime attendue, *)
   type state = task * (key * rime * (string list)) list;;
 
-  let precompute _ _ s =
+  let precompute _ _ _ s =
     let phonetique = (!automaton s) in
     let rime = if (String.length s >= minSize) then makeRime s else rimeVide in
     let w = if phonetique = [] then "" else reduit_pluriel s in
@@ -88,7 +88,7 @@ struct
 	if rime <> matchRime || (List.mem word forbidden) then raise Contrainte.ContrainteNonRespectee
 	else (None_, (key, matchRime, (word::forbidden))::assoc)
 
-  let init_state = None_, [];;
+  let init_state () = None_, [];;
 
   (*prettyprinting*)
   let name = "Rime";;
@@ -104,7 +104,7 @@ type order = key
 
 let extract key l =
   let rec aux acc = function
-    |((k, r, l) as t)::q ->
+    |((k, _, _) as t)::q ->
       if k = key
       then List.rev_append acc q, t
       else aux (t::acc) q

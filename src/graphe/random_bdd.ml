@@ -16,12 +16,14 @@
 
 module StateMap = Map.Make (State);;
 
+let max_try = 50;;
+
 let swap v i j =
   let aux = v.(i) in
   v.(i) <- v.(j);
   v.(j) <- aux;;
 
-module RandomBdd (C : Contrainte.Constraint) = 
+module RandomBdd : Bdd.Bdd = functor (C : Contrainte.Constraint) ->
 struct
   type t = ((State.t * C.metadata list) array) StateMap.t
   type trans = (State.t * C.metadata list) array * int
@@ -35,7 +37,7 @@ struct
     with 
       |Not_found -> raise Contrainte.ContrainteNonRespectee
   let choose (succ, i) = (* petit effet de bord *)
-    if i = 0 then raise Contrainte.ContrainteNonRespectee
+    if i = 0 || (Array.length succ) - i > max_try then raise Contrainte.ContrainteNonRespectee
     else
       let j = Random.int i in
       let res = succ.(j) in

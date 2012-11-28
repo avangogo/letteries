@@ -23,10 +23,10 @@ module C =
 struct
   type metadata = string
   type state = string list
-  let precompute _ _ s = s
+  let precompute _ _ _ s = s
   let filter _ _ = true
   let step l s = s::l
-  let init_state = []
+  let init_state () = []
  (*pretty-printing*)
   let name = "Record";;
   let print_state = function

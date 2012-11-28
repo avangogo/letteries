@@ -15,8 +15,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 val build :
-  (string -> bool -> string -> 'meta) ->
-  (string * (string * string list) list) list ->
+  (string -> bool -> Tag.tag -> string -> 'meta) ->
+  (string * (State.wild * State.wild list) list) list ->
   (State.t * (State.t * 'meta list) list) list
 
 
@@ -25,7 +25,7 @@ module type Bdd  =
 sig
   type t
   type trans
-  val build : (string * (string * string list) list) list -> t
+  val build : (string * (State.wild * State.wild list) list) list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
 end

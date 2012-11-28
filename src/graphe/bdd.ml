@@ -36,21 +36,21 @@ let merge_assoc a b = List.merge compare_assoc a b;;
 let liste_succession precompute (fichier, texte) =
   let rec aux = function
     |(ma, pa)::(mb,pb)::q ->
-      let pre = precompute fichier in
+      let pre bool (word, tag) = precompute fichier bool tag word in
       let metadata = (List.rev ((pre true ma)::(List.map (pre false) pa))) in
-      (State.of_string mb, (State.of_string ma, metadata))::(aux ((mb, pb)::q))
+      (State.make mb, (State.make ma, metadata))::(aux ((mb, pb)::q))
     |_            -> []
   in aux texte;;
   
 let build precompute textes =
   fusionne_assoc (List.concat (List.map (liste_succession precompute) textes));;
-
+ 
 (***)
 module type Bdd = functor (C : Contrainte.Constraint) ->
 sig
   type t
   type trans
-  val build : (string * (string * string list) list) list -> t
+  val build : (string * ((string * Tag.tag) * (string * Tag.tag) list) list) list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
 end

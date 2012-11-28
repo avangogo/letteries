@@ -1,5 +1,5 @@
 (* 
-   Lettreries is a random poem generator.
+    Lettreries is a random poem generator.
     Copyright (C) 2012 Rémi de Verclos
 
     This program is free software: you can redistribute it and/or modify
@@ -33,14 +33,14 @@ let int_of_filename =
 
 type metadata = int
 type state = int
-let precompute f b _ =
+let precompute f b _ _ =
   if b then int_of_filename f else 0;;
 let filter _ _ = true;;
 let step j k  =
   if k=0 then j
   else if j=k then raise Contrainte.ContrainteNonRespectee
   else k;;
-let init_state = 0
+let init_state () = 0
 (*pretty-printing*)
 let name = "Creation";;
 let print_state = string_of_int;;

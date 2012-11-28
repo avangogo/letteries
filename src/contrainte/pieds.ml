@@ -7,7 +7,7 @@ struct
   type metadata = Phonetique.phoneme * int * Phonetique.muet
   type state = Phonetique.phoneme * int
 
-  let precompute _ _ s =
+  let precompute _ _ _ s =
     let phonetique = (!automaton s) in
     let debut = match phonetique with
       |t::_ -> t
@@ -23,7 +23,7 @@ struct
     if i < 0 then raise Contrainte.ContrainteNonRespectee else
       (debut2, new_i)
 
-  let init_state = (Phonetique.phoneme_vide, 0)
+  let init_state () = (Phonetique.phoneme_vide, 0)
 
   (*pretty-printing*)
   let name = "Pieds";;

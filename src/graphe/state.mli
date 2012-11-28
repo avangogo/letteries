@@ -16,7 +16,9 @@
 
 type t
 
-val of_string : string -> t
+type wild = string * Tag.tag
+
+val make : wild -> t
 
 val sprint : t -> string
 

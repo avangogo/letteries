@@ -14,10 +14,12 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
-type t = string
+type wild = string*Tag.tag
 
-let of_string s = s
+type t = wild
 
-let sprint s = s 
+let make s = s
+
+let sprint (s, _) = s 
 
 let compare = Pervasives.compare
