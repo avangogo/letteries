@@ -72,7 +72,7 @@ let verifie_regle0 vars = function
      List.iter (verifie_lettre0 vars) c2;
      List.iter verifie_phoneme p;;
 
-let verifie_exception (mot, p) =
+let verifie_exception (_, p) =
   List.iter verifie_phoneme p;;
 
 (*vérifie que touts les éléments invoqués existent*)
@@ -86,7 +86,7 @@ let ast0 (var,regle,expt) =
 let lettre1_of_lettre0 = function
   |Lettre0 c -> Lettre1 c
   |Fin0      -> Fin1
-  |Var0 c    -> raise (ErreurDeRegle "lettre1_of_lettre0")
+  |Var0 _    -> raise (ErreurDeRegle "lettre1_of_lettre0")
 
 (*multiplie les petits pains*)
 (*donne toutes les interprétations possibles d'une lettre*)

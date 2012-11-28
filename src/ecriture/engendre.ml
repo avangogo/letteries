@@ -39,7 +39,7 @@ struct
     Printf.printf "Constraint name : %s.\n" C.name;
     let get (s, _) = Markov.get markov s
     and choose = Markov.choose
-    and go (s1, m) (s2, l) = (s2, (List.fold_left C.step m l)) in
+    and go (_, m) (s2, l) = (s2, (List.fold_left C.step m l)) in
     try
       engendre get choose go (last_word, init)
     with

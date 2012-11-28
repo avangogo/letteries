@@ -70,10 +70,10 @@ let reparse l =
       if mot_lu <> "" then resultat := mot_lu::(!resultat);
       mot_en_cours := [] in
   let transition etat c = match (etat, (type_carac_of_char c)) with
-    |(i, PonctuationLiante) -> push c; 2
-    |(i, PonctuationFinale) -> push c; 1
+    |(_, PonctuationLiante) -> push c; 2
+    |(_, PonctuationFinale) -> push c; 1
     |(1, Lettre)            -> mot_fini (); push c; 3
-    |(i, Lettre)            -> push c; 3
+    |(_, Lettre)            -> push c; 3
     |(1, Espace)            -> 1
     |(2, Espace)            -> 2
     |(3, Espace)            -> 1
@@ -139,7 +139,7 @@ let affiche (majuscule:bool) l =
     if not est_debut then ps " ";
     ps mot2;
     ((string_end mot) = '\n') in
-  List.fold_left aux true l;;
+  ignore (List.fold_left aux true l);;
 
 (*met en page et affiche*)
 let affiche_poeme majuscule poeme =

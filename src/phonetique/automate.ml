@@ -74,7 +74,7 @@ let make alphabet mots =
   
   let assoc_mots_initiaux =
     let rec pgsuffixe = function
-      |t::q as l -> if List.mem l mots then l else pgsuffixe q
+      |_::q as l -> if List.mem l mots then l else pgsuffixe q
       |[]        -> [] in
     Array.map pgsuffixe mot_of_int in
   

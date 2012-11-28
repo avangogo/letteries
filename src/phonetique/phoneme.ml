@@ -29,8 +29,8 @@ let liste =
 let est_valide x =
   List.mem x liste;;
 
-let p1 = function C(x,y) -> x
-and p2 = function C(x,y) -> y;;
+let p1 = function C(x,_) -> x
+and p2 = function C(_,y) -> y;;
 
 let voyelle x =
   let liste = ['a';'e';'i';'o';'u';'y';'x';'q'] in

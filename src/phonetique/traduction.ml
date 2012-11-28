@@ -48,17 +48,17 @@ let p_charlist l =  ps (string_of_charlist l);;
 
 let filtre_prefixe pre regle =
   let aux = function
-    |Fleche2(c1,c2,p) -> est_suffixe pre c1 in
+    |Fleche2(c1, _, _) -> est_suffixe pre c1 in
   List.filter aux regle;;
 
 let filtre_suffixe suf regle =
   let aux = function
-    |Fleche2(c1,c2,p) -> est_prefixe suf c2 in
+    |Fleche2(_, c2, _) -> est_prefixe suf c2 in
   List.filter aux regle;;
 
 let applique_regle_prefixe regle pre =
   let rec aux = function
-    |(Fleche2(c1,c2,p))::q -> 
+    |(Fleche2(c1,_,p))::q -> 
       if (est_suffixe pre c1) then p
       else aux q
     |[] -> raise (Cassansregle (pre,[])) in
@@ -75,7 +75,7 @@ let applique_regle regle pre suf =
   aux regle;;
 
 (*cree tout le matériel pour permettre la traduction*)
-let precalcul (regle,expt) =
+let precalcul (regle, _) =
   let (prefixes,suffixes) = pre_et_suf_fixes regle in
   let auto1 = Automate.make (caractere_fin::Regles.alphabet) prefixes
   and auto2 = Automate.make (caractere_fin::Regles.alphabet) (List.map List.rev suffixes) in
