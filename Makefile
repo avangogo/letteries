@@ -14,11 +14,11 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-LIBS = camomile
+LIBS = camomile,str,unix
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton
 
 IGNS = data
 
@@ -43,7 +43,6 @@ PATHMAIN = src/ecriture
 -include settings.sh # If you want to personalize your options…
 
 all: lettreries
-	
 
 clean:
 	rm -R ${COMPILE}/*
@@ -54,3 +53,6 @@ clean:
 lettreries: ${COMPILE}/${PATHMAIN}/${MAIN}.native
 	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
 
+mcorpus: src/*
+	${BUILD_COMMAND} makecorpus.native
+	cp ${COMPILE}/src/grammaire/makecorpus.native makecorpus
