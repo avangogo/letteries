@@ -16,25 +16,28 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
 
-let dirs = ["Poésies(Mallarmé,1914)/";
-	    "Les fleurs du mal (1868)/";
-	    "Rimbaud, Poésies/"];;
-
-let corpus_dir = "data/corpus/";;
-let dir_computed = "data/computed/";;
+let corpus_subdirs = !Param.corpus_subdirs
+let corpus_dir = !Param.corpus_dir
+let computed_dir = !Param.computed_dir
+let dir_tmp = !Param.tmp_dir
 
 
 let new_id =
   let i = ref 0 in
   function () -> incr i; "text_"^(string_of_int !i);;
 
-let precompute dossier_corpus (dossiers : string list) =
+let precompute () =
   let fichiers = List.concat
-    (List.map Lecture_gram.getFiles
-       (List.map ((^) dossier_corpus) dossiers)) in
+    ( List.map Lecture.getFiles
+	( List.map ( (^) !Param.corpus_dir ) !Param.corpus_subdirs ) ) in
   let lireFichier name =
-    Lecture_gram.normalize name "tmp/normalize";
-    Lecture_gram.treeTagger "tmp/normalize" (dir_computed^(new_id ())) in
+    let tmp = !Param.tmp_dir ^ "normalize" in
+    Lecture.normalize name tmp;
+    Lecture.treeTagger tmp ( !Param.computed_dir ^ ( new_id () ) ) in
   List.iter lireFichier fichiers;;
 
-precompute corpus_dir dirs;;
+let main () =
+  ignore
+    (Unix.system
+       (Printf.sprintf "rm %stext_*" !Param.computed_dir));
+  precompute ();;

@@ -21,7 +21,7 @@ val minimize : t -> t
 val nd_size : nondeterministic -> int
 val nd_sigma : nondeterministic -> int
 val determinize : nondeterministic -> t
-val make_setstar_naive : int list list -> nondeterministic
+val make_setstar_naive : ?k:int -> int list list -> nondeterministic
 val confuse_letters : nondeterministic -> sigma list -> nondeterministic
 val is_safe : t -> unit
 val reconnait : t -> sigma list -> bool

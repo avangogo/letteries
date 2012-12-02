@@ -18,14 +18,14 @@
 }
 
 
-rule token out = parse    (* la "fonction" aussi s'appelle token .. *)
+rule token out = parse
   | [' ' '\t' '\n'] as c                         	      { output_char out c; token out lexbuf }    (* on saute les blancs *)
   | "(*" [^ '*']* "*)"		                              { token out lexbuf } (* pas d'étoile dans un commentaire (lex est mauvais..) *)
   | ['(' ')']                                                 { token out lexbuf }      
   | ".." ['.']*                                               { output_string out "..." ; token out lexbuf}
   | "'"|"`"|"\'"                                              { output_string out "'" ; token out lexbuf}
   | "«"|"»"|'"'                                               { token out lexbuf }
-  | "-"                                                       { token out lexbuf } (*a améliorer: il faudrait garder ceux des mots composés*)
+  | "-"                                                       { output_char out ' '; token out lexbuf } (*a améliorer: il faudrait garder ceux des mots composés et des formes verbales inversées "est-il"*)
   | ['.' ',' ';' '?' ':' '\'' '/' '!' ] as s                  { output_char out s; token out lexbuf}
   | ['A'-'Z' 'a'-'z'
 	'À''Â''Ç''È''É''Ê''Ë''Î''Ï''Ô''Û''Ù'

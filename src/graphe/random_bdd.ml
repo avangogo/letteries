@@ -16,7 +16,7 @@
 
 module StateMap = Map.Make (State);;
 
-let max_try = 50;;
+let max_try = 30;;
 
 let swap v i j =
   let aux = v.(i) in

@@ -214,16 +214,18 @@ let determinize ((init, final, delta) as auto : nondeterministic) =
   List.iter (fun (i, b) -> new_final.(i) <- b) !prefinal;
   new_init, new_final, new_delta;;
 
-let make_setstar_naive l =
+let make_setstar_naive ?k l =
+  let new_k = match k with
+    |Some i -> i
+    |None -> (List.fold_left (List.fold_left max) (-1) l) + 1 in
   let n = List.fold_left (fun acc w -> acc + (List.length w) - 1) 1 l in
-  let k = (List.fold_left (List.fold_left max) (-1) l) + 1 in
   let count = ref (-1) in
   let new_id () = incr count; !count in
   let init_state = new_id () in
   let final = Array.make n false in
   final.(init_state) <- true;
   let init = [init_state] in
-  let delta = Array.make_matrix n k [] in
+  let delta = Array.make_matrix n new_k [] in
   let rec aux state = function
     |[]   -> failwith "toto"
     |[c]  -> delta.(state).(c) <- init_state::delta.(state).(c)

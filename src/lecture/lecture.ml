@@ -1,4 +1,5 @@
-(*  Lettreries is a random poem generator.
+(* 
+    Lettreries is a random poem generator.
     Copyright (C) 2012 Rémi de Verclos
 
     This program is free software: you can redistribute it and/or modify
@@ -12,38 +13,83 @@
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*)
 
-exception Erreur_externe of string;;
-let ps x = print_string x;;
-let p x = print_string x; print_newline ();;
+(* rewrite input on output with only authorized characters *)
+let normalize input output =
+  let inChannel = open_in input
+  and outChannel = open_out output in
+  Normalize.token outChannel (Lexing.from_channel inChannel);
+  close_out outChannel;
+  close_in inChannel;;
 
-(*************parser le fichier "texte"**************)
-let parse texte =
-  ps "Lecture : "; p texte;
-  let entree = open_in texte in
-  let res0 = Lexing.from_channel entree
-  in
-  let res1 =
-    try
-      Parser_l.main Lexer_l.token res0 
-    with
-      |Lexer_l.Caractere_inconnu (c, p) ->
-	failwith (Printf.sprintf "Erreur en lisant %s, ligne %i caractère %i\nCaractère inconnu : ‘%c’ ‘%i’."
-		    p.Lexing.pos_fname p.Lexing.pos_lnum p.Lexing.pos_bol c (int_of_char c))
-  in
-(*  p "fin lecture";*)
-  close_in entree;
-  res1;; (*c'est une liste de textes*)
+let treeTagger input output =
+  ignore (Unix.system (
+    Printf.sprintf "%s %s > %s" !Param.treetagger_script input output
+  ));;
 
-let recupere_name rep =
+(* read the file outputed by TreeTagger *)
+let readTreeTaggerOutput input =
+  let inChannel = open_in input in
+  let result = ReadTreeTagger.token [] (Lexing.from_channel inChannel) in
+  close_in inChannel;
+  result;;
+
+(* read any normalized file and output something of the same type of readTreeTaggerOutput *)
+let readAndTag input =
+  let inChannel = open_in input in
+  let result = ReadAndTag.token [] (Lexing.from_channel inChannel) in
+  close_in inChannel;
+  result;;
+
+let printTreeTaggerOutput treetagger output =
+  let outChannel = open_out output in
+  List.iter (fun (w, tag) -> Printf.fprintf outChannel "%s\t%s\n" w (Tag.string_of_tag tag)) treetagger;
+  close_out outChannel;;
+
+let parse filename =
+  let tmp_normalize = !Param.tmp_dir ^ "normalize"
+  and tmp_withtag = !Param.tmp_dir ^ "withtag" in
+  normalize filename tmp_normalize;
+  treeTagger tmp_normalize tmp_withtag;
+  let text = readTreeTaggerOutput tmp_withtag in
+  text;;
+
+let getFiles rep =
   let files = List.sort compare (Array.to_list (Sys.readdir rep)) in
   List.map ((^) rep) files;;
 
-(***récupérer les différents textes, les formater et les assembler****)
-let recupere_textes dossier_corpus (dossiers : string list) =
-  let fichiers = List.concat (List.map recupere_name (List.map ((^) dossier_corpus) dossiers)) in
-  let liste0 = List.map (fun f -> List.map (fun text -> f, text) (parse f)) fichiers in
-  let liste1 = List.concat liste0 in
-  liste1;;
 
+(* met sous la forme avec "ponctuation "*)
+let sortStates l =
+  let rec aux acc punct = function
+    |((_, tag) as t)::q ->
+      if Grammaire.isRelevant tag
+      then aux ((t, punct)::acc) [] q
+      else aux acc (t::punct) q
+    |[] -> acc in
+  aux [] [] (List.rev l);;
+
+(* the last action to do with treeTagger output*)
+let return name text =
+  Grammaire.learn (List.map snd text);
+  name, sortStates text;;
+
+let getComputed dossiers =
+  let fichiers = List.concat (List.map getFiles dossiers) in
+  let lireFichier nom =
+    Printf.printf "Recuperation : %s.\n" nom; flush stdout; 
+    let texte = readTreeTaggerOutput nom in    
+    return nom texte in
+  List.map lireFichier fichiers;;
+
+let getRaw dossiers =
+  let tmp_normalize = !Param.tmp_dir ^ "normalize" in
+  let fichiers = List.concat (List.map getFiles dossiers) in
+  let lireFichier nom =
+    Printf.printf "Lecture : %s.\n" nom; flush stdout;
+    normalize nom tmp_normalize; 
+    let texte = readAndTag tmp_normalize in    
+    return nom texte in
+  List.map lireFichier fichiers;;

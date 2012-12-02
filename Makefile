@@ -52,7 +52,3 @@ clean:
 
 lettreries: ${COMPILE}/${PATHMAIN}/${MAIN}.native
 	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
-
-mcorpus: src/*
-	${BUILD_COMMAND} makecorpus.native
-	cp ${COMPILE}/src/grammaire/makecorpus.native makecorpus

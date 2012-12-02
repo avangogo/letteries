@@ -133,14 +133,14 @@ let string_end s = match String.length s with
   |n -> s.[n-1];;
 
 (*affiche un texte déjà mis en page*)
-let affiche (majuscule:bool) l =
+let affiche out (majuscule:bool) l =
   let aux est_debut mot =
     let mot2 = if est_debut&&majuscule then String.capitalize mot else mot in
-    if not est_debut then ps " ";
-    ps mot2;
+    if not est_debut then output_string out " ";
+    output_string out mot2;
     ((string_end mot) = '\n') in
   ignore (List.fold_left aux true l);;
 
 (*met en page et affiche*)
-let affiche_poeme majuscule poeme =
-  affiche majuscule (List.map gere_sauts (reparse poeme));;
+let affiche_poeme ?(out=stdout) ?(majuscule=true) poeme =
+  affiche out majuscule (List.map gere_sauts (reparse poeme));;
