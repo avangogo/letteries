@@ -113,7 +113,8 @@ je	PRO:PER
 pense	VER:pres
 plus	ADV
 longtemps	ADV
-peutêtre	ADJ
+peut	VER:pres
+être	VER:infi
 éperdûment	NOM
 a	VER:pres
 l'	DET:ART

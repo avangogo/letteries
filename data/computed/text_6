@@ -15,7 +15,8 @@ livres	NOM
 .	SENT
 fuir	VER:infi
 !	SENT
-làbas	VER:simp
+là	ADV
+bas	ADV
 fuir	VER:infi
 !	SENT
 je	PRO:PER
@@ -118,7 +119,8 @@ mouchoirs	NOM
 !	SENT
 et	KON
 ,	PUN
-peutêtre	NOM
+peut	VER:pres
+être	VER:infi
 ,	PUN
 les	DET:ART
 mâts	NOM
@@ -126,7 +128,8 @@ mâts	NOM
 invitant	VER:ppre
 les	DET:ART
 orages	NOM
-sontils	ADJ
+sont	VER:pres
+ils	PRO:PER
 de	PRP
 ceux	PRO:DEM
 qu'	PRO:REL

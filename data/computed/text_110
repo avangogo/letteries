@@ -16,7 +16,8 @@ de	PRP
 ma	DET:POS
 vie	NOM
 !	SENT
-emmitoufletoi	NOM
+emmitoufle	VER:pres
+toi	PRO:PER
 d'	PRP
 ombre	NOM
 ;	PUN

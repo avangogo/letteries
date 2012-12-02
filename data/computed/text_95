@@ -34,7 +34,8 @@ j'	PRO:PER
 haut	ADV
 comme	ADV
 un	DET:ART
-infolio	NOM
+in	ADJ
+folio	NOM
 .	SENT
 deux	NUM
 voix	NOM
@@ -103,7 +104,8 @@ du	PRP:det
 connu	VER:pper
 !	SENT
 et	KON
-cellelà	NOM
+celle	PRO:DEM
+là	ADV
 chantait	VER:impf
 comme	ADV
 le	DET:ART
@@ -246,7 +248,8 @@ amer	ADJ
 que	KON
 je	PRO:PER
 prends	VER:pres
-trèssouvent	NOM
+très	ADV
+souvent	ADV
 les	DET:ART
 faits	NOM
 pour	KON

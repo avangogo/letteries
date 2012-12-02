@@ -92,7 +92,8 @@ parfum	NOM
 .	SENT
 j'	PRO:PER
 irai	VER:futu
-làbas	NOM
+là	ADV
+bas	ADJ
 où	PRO:REL
 l'	DET:ART
 arbre	NOM
@@ -313,7 +314,8 @@ jamais	ADV
 sourde	ADJ
 !	SENT
 n'	ADV
-estu	VER:pper
+es	VER:pres
+tu	PRO:PER
 pas	ADV
 l'	DET:ART
 oasis	NOM

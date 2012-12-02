@@ -27,7 +27,8 @@ mai	NOM
 !	SENT
 quels	PRO:REL
 délirants	ADJ
-culnus	NOM
+cul	NOM
+nus	NOM
 !	SENT
 sèvres	NOM
 ,	PUN
@@ -145,7 +146,8 @@ reniflements	NOM
 poivre	NOM
 !	SENT
 la	DET:ART
-grandville	NOM
+grand	ADJ
+ville	NOM
 a	VER:pres
 le	DET:ART
 pavé	NOM

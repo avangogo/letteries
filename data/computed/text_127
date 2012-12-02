@@ -25,7 +25,8 @@ mérite	NOM
 sois	VER:impe
 charmante	ADJ
 et	KON
-taistoi	NOM
+tais	VER:pres
+toi	PRO:PER
 !	SENT
 mon	DET:POS
 coeur	NOM
@@ -81,7 +82,8 @@ me	PRO:PER
 fait	VER:pres
 mal	ADV
 !	SENT
-aimonsnous	NOM
+aimons	VER:pres
+nous	PRO:PER
 doucement	ADV
 .	SENT
 l'	DET:ART
@@ -121,7 +123,8 @@ marguerite	NOM
 comme	KON
 moi	PRO:PER
 n'	ADV
-estu	VER:pper
+es	VER:pres
+tu	PRO:PER
 pas	ADV
 un	DET:ART
 soleil	NOM

@@ -79,8 +79,9 @@ par	PRP
 chaque	PRO:IND
 pore	NOM
 ;	PUN
-estce	NOM
-que	KON
+est	VER:pres
+ce	PRO:DEM
+que	PRO:REL
 par	PRP
 hasard	NOM
 la	DET:ART

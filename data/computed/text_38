@@ -52,7 +52,8 @@ t'	PRO:PER
 ai	VER:pres
 mis	VER:pper
 ,	PUN
-moimême	NOM
+moi	PRO:PER
+même	ADV
 ,	PUN
 en	PRP
 un	DET:ART
@@ -89,7 +90,8 @@ mal	ADV
 pour	PRP
 notre	DET:POS
 fête	NOM
-trèssimple	NOM
+très	ADV
+simple	ADJ
 de	PRP
 chanter	VER:infi
 l'	DET:ART
@@ -280,8 +282,9 @@ souvenir	NOM
 d'	PRP
 horizons	NOM
 ,	PUN
-qu'	KON
-estce	ADJ
+qu'	PRO:REL
+est	VER:pres
+ce	PRO:DEM
 ,	PUN
 ô	INT
 toi	PRO:PER
@@ -360,7 +363,8 @@ d'	PRP
 un	DET:ART
 nom	NOM
 .	SENT
-estil	NOM
+est	VER:pres
+il	PRO:PER
 de	PRP
 ce	PRO:DEM
 destin	NOM

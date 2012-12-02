@@ -167,7 +167,8 @@ ton	DET:POS
 amant	NOM
 !	SENT
 ...	PUN
-dixsept	NOM
+dix	NUM
+sept	NUM
 ans	NOM
 !	SENT
 tu	PRO:PER
@@ -236,7 +237,8 @@ porte	VER:pres
 ,	PUN
 l'	DET:ART
 oeil	NOM
-mifermé	ADJ
+mi	NOM
+fermé	VER:pper
 ...	PUN
 je	PRO:PER
 te	PRO:PER
@@ -383,7 +385,8 @@ le	DET:ART
 village	NOM
 au	PRP:det
 ciel	NOM
-minoir	NOM
+mi	NOM
+noir	ADJ
 ;	PUN
 et	KON
 ça	PRO:DEM
@@ -424,8 +427,9 @@ lumière	NOM
 ;	PUN
 et	KON
 ,	PUN
-tout	PRO:IND
-làbas	NOM
+tout	ADV
+là	ADV
+bas	ADJ
 ,	PUN
 une	DET:ART
 vache	NOM
@@ -609,7 +613,8 @@ vitre	NOM
 cachée	VER:pper
 qui	PRO:REL
 rit	VER:pres
-làbas	NOM
+là	ADV
+bas	ADJ
 ...	PUN
 tu	PRO:PER
 viendras	VER:futu
@@ -629,8 +634,9 @@ tu	PRO:PER
 viendras	VER:futu
 ,	PUN
 n'	ADV
-estce	VER:pres
-pas	ADV
+est	VER:pres
+ce	PRO:DEM
+pas	NOM
 ?	SENT
 et	KON
 même	ADV

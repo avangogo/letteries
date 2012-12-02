@@ -77,7 +77,8 @@ charogne	NOM
 maudite	VER:pper
 ,	PUN
 maudite	NOM
-soistu	ADJ
+sois	VER:subp
+tu	VER:pper
 !	SENT
 j'	PRO:PER
 ai	VER:pres

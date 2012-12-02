@@ -113,7 +113,8 @@ on	PRO:PER
 le	PRO:PER
 voyait	VER:impf
 ,	PUN
-làhaut	NOM
+là	ADV
+haut	ADJ
 ,	PUN
 qui	PRO:REL
 râlait	VER:impf
@@ -460,7 +461,8 @@ bible	NOM
 à	PRP
 la	DET:ART
 tranche	NOM
-vertchou	ADJ
+vert	ADJ
+chou	NOM
 ;	PUN
 des	PRP:det
 rêves	NOM

@@ -117,7 +117,8 @@ lumineuse	ADJ
 .	SENT
 lecteur	NOM
 ,	PUN
-astu	ADJ
+as	VER:pres
+tu	PRO:PER
 quelquefois	ADV
 respiré	VER:pper
 avec	PRP
@@ -232,7 +233,8 @@ soit	VER:subp
 d'	PRP
 un	DET:ART
 pinceau	NOM
-trèsvanté	ADJ
+très	ADV
+vanté	VER:pper
 ,	PUN
 je	PRO:PER
 ne	ADV
@@ -388,7 +390,9 @@ des	PRP:det
 rayons	NOM
 ,	PUN
 que	KON
-restetil	NOM
+reste	VER:pres
+t	VER:simp
+il	PRO:PER
 ?	SENT
 c'	PRO:DEM
 est	VER:pres

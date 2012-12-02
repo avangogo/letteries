@@ -226,11 +226,14 @@ dans	PRP
 son	DET:POS
 empire	NOM
 ;	PUN
-peutêtre	VER:pres
-estil	ADJ
+peut	VER:pres
+être	VER:infi
+est	VER:pres
+il	PRO:PER
 fée	NOM
 ,	PUN
-estil	ADJ
+est	VER:pres
+il	PRO:PER
 dieu	NOM
 .	SENT
 quand	KON
@@ -257,7 +260,8 @@ que	PRO:REL
 je	PRO:PER
 regarde	VER:pres
 en	PRP
-moimême	NOM
+moi	PRO:PER
+même	ADV
 ,	PUN
 je	PRO:PER
 vois	VER:pres

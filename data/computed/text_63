@@ -30,8 +30,9 @@ bouquetier	NOM
 de	PRP
 cristal	NOM
 obscurci	VER:pper
-le	DET:ART
-saistu	NOM
+le	PRO:PER
+sais	VER:pres
+tu	PRO:PER
 ,	PUN
 oui	INT
 !	SENT

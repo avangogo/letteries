@@ -10,7 +10,8 @@ couvert	ADJ
 ton	DET:POS
 oeil	NOM
 mystérieux	ADJ
-estil	NOM
+est	VER:pres
+il	PRO:PER
 bleu	ADJ
 ,	PUN
 gris	ADJ
@@ -112,7 +113,8 @@ dangereuse	ADJ
 séduisants	ADJ
 climats	NOM
 !	SENT
-adoreraije	VER:pres
+adorerai	VER:futu
+je	PRO:PER
 aussi	ADV
 ta	DET:POS
 neige	NOM
@@ -121,7 +123,8 @@ vos	DET:POS
 frimas	NOM
 ,	PUN
 et	KON
-sauraije	VER:subi
+saurai	VER:simp
+je	PRO:PER
 tirer	VER:infi
 de	PRP
 l'	DET:ART

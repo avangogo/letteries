@@ -258,7 +258,8 @@ ces	PRO:DEM
 baisers	NOM
 infinis	ADJ
 ,	PUN
-renaîtrontils	NOM
+renaîtront	VER:futu
+ils	PRO:PER
 d'	PRP
 un	DET:ART
 gouffre	NOM

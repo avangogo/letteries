@@ -104,7 +104,8 @@ somme	NOM
 :	PUN
 nature	NOM
 ,	PUN
-bercele	NOM
+berce	VER:pres
+le	PRO:PER
 chaudement	ADV
 :	PUN
 il	PRO:PER

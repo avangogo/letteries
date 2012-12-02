@@ -162,7 +162,8 @@ mère	NOM
 se	PRO:PER
 lève	VER:pres
 .	SENT
-ceuxlà	NOM
+ceux	PRO:DEM
+là	ADV
 sont	VER:pres
 consolés	VER:pper
 ,	PUN
@@ -403,7 +404,8 @@ amertume	NOM
 .	SENT
 vexés	VER:pper
 ne	ADV
-vontils	VER:subi
+vont	VER:pres
+ils	PRO:PER
 pas	ADV
 provoquer	VER:infi
 le	DET:ART

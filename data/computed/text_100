@@ -17,7 +17,8 @@ ta	DET:POS
 patte	NOM
 ,	PUN
 et	KON
-laissemoi	VER:subi
+laisse	VER:pres
+moi	PRO:PER
 plonger	VER:infi
 dans	PRP
 tes	DET:POS

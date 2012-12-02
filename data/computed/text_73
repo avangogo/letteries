@@ -48,7 +48,8 @@ soleil	NOM
 sans	PRP
 chaleur	NOM
 plane	ADJ
-audessus	NOM
+au	PRP:det
+dessus	ADV
 six	NUM
 mois	NOM
 ,	PUN

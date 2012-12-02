@@ -42,8 +42,11 @@ romances	NOM
 a	VER:pres
 la	DET:ART
 lèvre	NOM
-voletil	ADJ
-exclusen	ADJ
+vole	VER:pres
+t	VER:pper
+il	PRO:PER
+exclus	VER:pper
+en	PRP
 si	KON
 tu	PRO:PER
 commences	VER:pres

@@ -251,7 +251,9 @@ yeux	NOM
 !	SENT
 mais	KON
 pourquoi	ADV
-pleuretelle	ADJ
+pleure	NOM
+t	VER:simp
+elle	PRO:PER
 ?	SENT
 elle	PRO:PER
 ,	PUN
@@ -323,7 +325,8 @@ encore	ADV
 !	SENT
 demain	ADV
 ,	PUN
-aprèsdemain	NOM
+après	PRP
+demain	ADV
 et	KON
 toujours	ADV
 !	SENT

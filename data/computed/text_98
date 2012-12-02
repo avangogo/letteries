@@ -127,7 +127,8 @@ et	KON
 lui	PRO:PER
 ,	PUN
 le	DET:ART
-toutpuissant	NOM
+tout	ADV
+puissant	ADJ
 ,	PUN
 créateur	ADJ
 de	PRP
@@ -286,7 +287,8 @@ les	DET:ART
 prophètes	NOM
 disaient	VER:impf
 :	PUN
-voyezvous	VER:pres
+voyez	VER:pres
+vous	PRO:PER
 cette	PRO:DEM
 bande	NOM
 de	PRP
@@ -395,7 +397,8 @@ gitche	VER:simp
 manito	NOM
 leur	PRO:PER
 donnait	VER:impf
-rendezvous	NOM
+rendez	VER:pres
+vous	PRO:PER
 .	SENT
 les	DET:ART
 guerriers	NOM
@@ -479,7 +482,8 @@ compassion	NOM
 comme	KON
 un	DET:ART
 père	NOM
-trèsbon	NOM
+très	ADV
+bon	ADJ
 ,	PUN
 ennemi	ADJ
 du	PRP:det
@@ -623,7 +627,8 @@ pourquoi	ADV
 donc	ADV
 le	DET:ART
 chasseur	NOM
-devientil	VER:futu
+devient	VER:pres
+il	PRO:PER
 assassin	ADJ
 ?	SENT
 le	DET:ART
@@ -637,7 +642,8 @@ volatiles	NOM
 ;	PUN
 pourquoi	ADV
 n'	ADV
-êtesvous	NOM
+êtes	VER:pres
+vous	PRO:PER
 pas	ADV
 contents	ADJ
 ,	PUN
@@ -647,7 +653,8 @@ indociles	ADJ
 pourquoi	ADV
 l'	DET:ART
 homme	NOM
-faitil	NOM
+fait	VER:pres
+il	PRO:PER
 la	DET:ART
 chasse	NOM
 à	PRP
@@ -893,7 +900,8 @@ splendide	ADJ
 du	PRP:det
 nuage	NOM
 le	DET:ART
-toutpuissant	NOM
+tout	ADV
+puissant	ADJ
 montait	VER:impf
 ,	PUN
 content	ADJ

@@ -18,7 +18,8 @@ entrais	VER:impf
 charleroi	NOM
 .	SENT
 au	PRP:det
-cabaretvert	NOM
+cabaret	NOM
+vert	ADJ
 :	PUN
 je	PRO:PER
 demandai	VER:simp
@@ -72,7 +73,8 @@ aux	PRP:det
 yeux	NOM
 vifs	ADJ
 ,	PUN
-cellelà	NOM
+celle	PRO:DEM
+là	ADV
 ,	PUN
 ce	PRO:DEM
 n'	ADV

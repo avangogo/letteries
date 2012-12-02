@@ -1,7 +1,8 @@
 tel	PRO:DEM
 qu'	PRO:REL
 en	PRO:PER
-luimême	VER:pres
+lui	PRO:PER
+même	ADV
 enfin	ADV
 l'	DET:ART
 éternité	NOM
@@ -88,7 +89,8 @@ avec	PRP
 ne	ADV
 sculpte	VER:pres
 un	DET:ART
-basrelief	NOM
+bas	ADJ
+relief	NOM
 dont	PRO:REL
 la	DET:ART
 tombe	NOM
@@ -99,7 +101,8 @@ s'	PRO:PER
 orne	VER:pres
 calme	ADJ
 bloc	NOM
-icibas	VER:simp
+ici	ADV
+bas	ADV
 chu	VER:pper
 d'	PRP
 un	DET:ART

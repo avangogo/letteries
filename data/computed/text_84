@@ -49,7 +49,8 @@ dieu	NOM
 m'	PRO:PER
 a	VER:pres
 faite	VER:pper
-trèsbelle	NOM
+très	ADV
+belle	ADJ
 .	SENT
 son	DET:POS
 coeur	NOM
@@ -93,7 +94,8 @@ ténèbres	NOM
 où	PRO:REL
 donc	ADV
 l'	PRO:PER
-aperçoistu	VER:pper
+aperçois	VER:pres
+tu	PRO:PER
 ,	PUN
 ce	PRO:DEM
 créateur	NOM
@@ -267,7 +269,8 @@ comme	KON
 le	DET:ART
 monde	NOM
 !	SENT
-avezvous	NOM
+avez	VER:pres
+vous	PRO:PER
 donc	ADV
 pu	VER:pper
 croire	VER:infi

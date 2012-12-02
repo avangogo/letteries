@@ -23,7 +23,8 @@ plus	ADV
 t'	PRO:PER
 enfourcher	VER:infi
 !	SENT
-couchetoi	NOM
+couche	VER:pres
+toi	PRO:PER
 sans	PRP
 pudeur	NOM
 ,	PUN
@@ -37,7 +38,8 @@ chaque	PRO:IND
 obstacle	NOM
 butte	NOM
 .	SENT
-résignetoi	NOM
+résigne	VER:pres
+toi	PRO:PER
 ,	PUN
 mon	DET:POS
 coeur	NOM
@@ -148,7 +150,8 @@ cahute	NOM
 !	SENT
 avalanche	NOM
 ,	PUN
-veuxtu	ADJ
+veux	VER:pres
+tu	PRO:PER
 m'	PRO:PER
 emporter	VER:infi
 dans	PRP

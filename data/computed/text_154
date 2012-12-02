@@ -27,7 +27,8 @@ ma	DET:POS
 grande	ADJ
 chaise	NOM
 ,	PUN
-minue	ADJ
+mi	NOM
+nue	NOM
 ,	PUN
 elle	PRO:PER
 joignait	VER:impf
@@ -84,7 +85,8 @@ eut	VER:simp
 un	DET:ART
 long	ADJ
 rire	NOM
-trismal	ADJ
+tris	NOM
+mal	ADJ
 qui	PRO:REL
 s'	PRO:PER
 égrenait	VER:impf
@@ -106,7 +108,8 @@ chemise	NOM
 se	PRO:PER
 sauvèrent	VER:simp
 :	PUN
-veuxtu	VER:pres
+veux	VER:pres
+tu	PRO:PER
 finir	VER:infi
 !	SENT
 la	DET:ART

@@ -325,7 +325,8 @@ mais	KON
 ,	PUN
 hélas	INT
 !	SENT
-icibas	NOM
+ici	ADV
+bas	ADV
 est	VER:pres
 maître	NOM
 :	PUN
@@ -359,7 +360,8 @@ devant	PRP
 l'	DET:ART
 azur	NOM
 .	SENT
-estil	NOM
+est	VER:pres
+il	PRO:PER
 moyen	ADJ
 ,	PUN
 ô	INT

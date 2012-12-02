@@ -112,7 +112,8 @@ mort	ADJ
 .	SENT
 il	PRO:PER
 repense	VER:pres
-peutêtre	NOM
+peut	VER:pres
+être	VER:infi
 au	PRP:det
 compère	NOM
 en	PRP
@@ -131,7 +132,8 @@ comme	ADV
 aux	PRP:det
 soirs	NOM
 de	PRP
-saintcloud	NOM
+saint	ADJ
+cloud	NOM
 ,	PUN
 un	DET:ART
 fin	ADJ

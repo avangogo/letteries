@@ -68,7 +68,8 @@ auberge	NOM
 était	VER:impf
 à	PRP
 la	DET:ART
-grandeourse	NOM
+grande	ADJ
+ourse	NOM
 ;	PUN
 mes	DET:POS
 étoiles	NOM
@@ -77,7 +78,8 @@ ciel	NOM
 avaient	VER:impf
 un	DET:ART
 doux	ADJ
-froufrou	NOM
+frou	NOM
+frou	ADJ
 .	SENT
 et	KON
 je	PRO:PER

@@ -42,7 +42,8 @@ pleins	ADJ
 ,	PUN
 le	PRO:PER
 baisons	VER:pres
-soufflesy	NOM
+souffles	VER:pres
+y	PRO:PER
 qu'	PRO:REL
 il	PRO:PER
 se	PRO:PER
@@ -89,7 +90,8 @@ robes	NOM
 et	KON
 peau	NOM
 ,	PUN
-veuxtu	VER:pres
+veux	VER:pres
+tu	PRO:PER
 lacérer	VER:infi
 le	DET:ART
 satin	NOM

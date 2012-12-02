@@ -854,7 +854,8 @@ joyeux	ADJ
 que	KON
 leur	DET:POS
 lèvre	NOM
-miclose	ADJ
+mi	NOM
+close	VER:pper
 ,	PUN
 souriante	ADJ
 ,	PUN
@@ -918,7 +919,8 @@ la	DET:ART
 fenêtre	NOM
 on	PRO:PER
 voit	VER:pres
-làbas	NOM
+là	ADV
+bas	ADV
 un	DET:ART
 beau	ADJ
 ciel	NOM
@@ -937,7 +939,8 @@ enivre	VER:pres
 la	DET:ART
 terre	NOM
 ,	PUN
-deminue	ADJ
+demi	ADJ
+nue	NOM
 ,	PUN
 heureuse	ADJ
 de	PRP

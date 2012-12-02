@@ -36,7 +36,8 @@ de	PRP
 sommeils	NOM
 touffus	ADJ
 .	SENT
-aimaije	VER:pres
+aimai	VER:simp
+je	PRO:PER
 un	DET:ART
 rêve	NOM
 ?	SENT
@@ -128,8 +129,9 @@ autre	ADJ
 tout	PRO:IND
 soupirs	NOM
 ,	PUN
-distu	VER:pper
-qu'	KON
+dis	VER:pres
+tu	PRO:PER
+qu'	PRO:REL
 elle	PRO:PER
 contraste	VER:pres
 comme	ADV
@@ -340,7 +342,8 @@ la	NOM
 :	PUN
 alors	ADV
 m'	PRO:PER
-éveilleraisje	VER:subp
+éveillerais	VER:cond
+je	PRO:PER
 à	PRP
 la	DET:ART
 ferveur	NOM
@@ -457,7 +460,8 @@ des	PRP:det
 confusions	NOM
 fausses	ADJ
 entre	PRP
-ellemême	NOM
+elle	PRO:PER
+même	ADV
 et	KON
 notre	DET:POS
 chant	NOM

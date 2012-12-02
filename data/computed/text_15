@@ -48,8 +48,9 @@ une	DET:ART
 envahissante	ADJ
 chevelure	NOM
 ici	ADV
-metsla	VER:simp
-que	KON
+mets	VER:pres
+la	PRO:PER
+que	PRO:REL
 le	DET:ART
 brin	NOM
 salubre	ADJ

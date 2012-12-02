@@ -73,7 +73,8 @@ la	DET:ART
 dent	NOM
 dit	VER:pres
 :	PUN
-vivrastu	VER:pper
+vivras	VER:futu
+tu	VER:pper
 ce	PRO:DEM
 soir	NOM
 ?	SENT

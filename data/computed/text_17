@@ -14,7 +14,8 @@ dégel	NOM
 ,	PUN
 ce	PRO:DEM
 gai	ADJ
-sifflelitre	NOM
+siffle	VER:pres
+litre	NOM
 crie	VER:pres
 un	DET:ART
 premier	NUM

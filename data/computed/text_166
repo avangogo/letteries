@@ -31,7 +31,8 @@ bouche	NOM
 et	KON
 prenant	VER:ppre
 ce	PRO:DEM
-groslà	NOM
+gros	ADV
+là	ADV
 dans	PRP
 son	DET:POS
 regard	NOM
@@ -297,7 +298,8 @@ contredises	VER:subp
 or	NOM
 ,	PUN
 n'	ADV
-estce	VER:pres
+est	VER:pres
+ce	PRO:DEM
 pas	ADV
 joyeux	ADJ
 de	PRP
@@ -612,7 +614,8 @@ tête	NOM
 non	INT
 .	SENT
 ces	PRO:DEM
-saletéslà	NOM
+saletés	NOM
+là	ADV
 datent	VER:pres
 de	PRP
 nos	DET:POS
@@ -828,7 +831,8 @@ doux	ADJ
 et	KON
 depuis	PRP
 ce	PRO:DEM
-jourlà	NOM
+jour	NOM
+là	ADV
 ,	PUN
 nous	PRO:PER
 sommes	VER:pres
@@ -1037,7 +1041,8 @@ plats	ADJ
 et	KON
 de	PRP
 ces	PRO:DEM
-ventresdieux	NOM
+ventres	NOM
+dieux	NOM
 .	SENT
 ah	INT
 !	SENT
@@ -1352,7 +1357,8 @@ nez	NOM
 !	SENT
 crapule	NOM
 .	SENT
-làdedans	NOM
+là	ADV
+dedans	ADV
 sont	VER:pres
 des	PRP:det
 filles	NOM
@@ -1433,7 +1439,8 @@ vont	VER:pres
 qui	PRO:REL
 dans	PRP
 ce	PRO:DEM
-travaillà	NOM
+travail	NOM
+là	ADV
 sentent	VER:pres
 crever	VER:infi
 leur	DET:POS
@@ -1447,7 +1454,8 @@ bourgeois	NOM
 !	SENT
 oh	INT
 !	SENT
-ceuxlà	NOM
+ceux	PRO:DEM
+là	ADV
 ,	PUN
 sont	VER:pres
 les	DET:ART
@@ -1534,7 +1542,8 @@ pas	ADV
 ,	PUN
 c'	PRO:DEM
 est	VER:pres
-peutêtre	NOM
+peut	VER:pres
+être	VER:infi
 terrible	ADJ
 :	PUN
 nous	PRO:PER
@@ -1640,7 +1649,8 @@ on	PRO:PER
 aurait	VER:cond
 un	DET:ART
 fusil	NOM
-audessus	ADJ
+au	PRP:det
+dessus	NOM
 du	PRP:det
 foyer	NOM
 ...	PUN
@@ -1660,7 +1670,8 @@ bataille	NOM
 !	SENT
 que	KON
 te	PRO:PER
-disaisje	VER:impf
+disais	VER:impf
+je	PRO:PER
 donc	ADV
 ?	SENT
 je	PRO:PER
@@ -1807,8 +1818,9 @@ eh	INT
 bien	ADV
 ,	PUN
 n'	ADV
-estce	VER:pres
-pas	ADV
+est	VER:pres
+ce	PRO:DEM
+pas	NOM
 ,	PUN
 vous	PRO:PER
 tous	NOM
@@ -1816,7 +1828,8 @@ tous	NOM
 merde	NOM
 à	PRP
 ces	PRO:DEM
-chienslà	NOM
+chiens	NOM
+là	ADV
 !	SENT
 il	PRO:PER
 reprit	VER:simp
@@ -1831,7 +1844,8 @@ foule	NOM
 près	ADV
 de	PRP
 cet	PRO:DEM
-hommelà	NOM
+homme	NOM
+là	ADV
 se	PRO:PER
 sentait	VER:impf
 l'	DET:ART

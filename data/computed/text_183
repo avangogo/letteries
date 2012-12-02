@@ -7,7 +7,8 @@ sérieux	ADJ
 quand	KON
 on	PRO:PER
 a	VER:pres
-dixsept	NOM
+dix	NUM
+sept	NUM
 ans	NOM
 .	SENT
 un	DET:ART
@@ -128,7 +129,8 @@ nuit	NOM
 de	PRP
 juin	NOM
 !	SENT
-dixsept	NOM
+dix	NUM
+sept	NUM
 ans	NOM
 !	SENT
 on	PRO:PER
@@ -198,7 +200,8 @@ sous	PRP
 l'	DET:ART
 ombre	NOM
 du	PRP:det
-fauxcol	NOM
+faux	ADJ
+col	NOM
 effrayant	VER:ppre
 de	PRP
 son	DET:POS
@@ -287,7 +290,8 @@ vous	PRO:PER
 ...	PUN
 !	SENT
 ce	PRO:DEM
-soirlà	NOM
+soir	NOM
+là	ADV
 ,	PUN
 ...	PUN
 vous	PRO:PER
@@ -314,7 +318,8 @@ sérieux	ADJ
 quand	KON
 on	PRO:PER
 a	VER:pres
-dixsept	NOM
+dix	NUM
+sept	NUM
 ans	NOM
 et	KON
 qu'	PRO:REL

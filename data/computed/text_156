@@ -1,4 +1,5 @@
-estelle	NOM
+est	VER:pres
+elle	PRO:PER
 almée	NOM
 ?	SENT
 ...	PUN
@@ -7,7 +8,9 @@ premières	NUM
 heures	NOM
 bleues	ADJ
 se	PRO:PER
-détruiratelle	VER:subp
+détruira	VER:futu
+t	VER:pper
+elle	PRO:PER
 comme	ADV
 les	DET:ART
 fleurs	NOM

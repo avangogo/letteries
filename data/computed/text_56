@@ -1,6 +1,8 @@
 tout	PRO:IND
 orgueil	NOM
-fumetil	NOM
+fume	VER:pres
+t	VER:pper
+il	PRO:PER
 du	PRP:det
 soir	NOM
 ,	PUN

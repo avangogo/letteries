@@ -9,8 +9,9 @@ songe	NOM
 la	DET:ART
 douceur	NOM
 d'	PRP
-aller	NOM
-làbas	VER:simp
+aller	VER:infi
+là	ADV
+bas	ADV
 vivre	VER:infi
 ensemble	ADV
 !	SENT

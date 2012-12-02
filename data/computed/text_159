@@ -340,8 +340,9 @@ pantins	NOM
 ,	PUN
 ventriloques	ADJ
 ,	PUN
-qu'	KON
-estce	ADJ
+qu'	PRO:REL
+est	VER:pres
+ce	PRO:DEM
 que	KON
 ça	PRO:DEM
 peut	VER:pres

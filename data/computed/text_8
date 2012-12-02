@@ -104,8 +104,9 @@ clavecin	NOM
 avec	PRP
 le	DET:ART
 doigt	NOM
-fané	VER:pper
-presserastu	VER:pper
+fané	ADJ
+presseras	VER:futu
+tu	VER:pper
 le	DET:ART
 sein	NOM
 par	PRP

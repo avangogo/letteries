@@ -9,7 +9,8 @@ escargots	NOM
 je	PRO:PER
 veux	VER:pres
 creuser	VER:infi
-moimême	NOM
+moi	PRO:PER
+même	ADV
 une	DET:ART
 fosse	NOM
 profonde	ADJ
@@ -111,7 +112,8 @@ sans	PRP
 remords	NOM
 ,	PUN
 et	KON
-ditesmoi	NOM
+dites	VER:pres
+moi	PRO:PER
 s'	PRO:PER
 il	PRO:PER
 est	VER:pres

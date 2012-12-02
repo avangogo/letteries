@@ -259,7 +259,8 @@ enfer	NOM
 ...	PUN
 holà	NOM
 ,	PUN
-secouezmoi	ADJ
+secouez	VER:pres
+moi	PRO:PER
 ces	PRO:DEM
 capitans	NOM
 funèbres	ADJ

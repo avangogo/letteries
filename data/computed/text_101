@@ -18,8 +18,9 @@ lançant	VER:ppre
 son	DET:POS
 bonjour	NOM
 !	SENT
-bienheureux	NOM
-celuilà	VER:pper
+bienheureux	ADJ
+celui	PRO:DEM
+là	ADV
 qui	PRO:REL
 peut	VER:pres
 avec	PRP

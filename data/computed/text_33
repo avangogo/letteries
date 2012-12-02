@@ -50,8 +50,9 @@ le	DET:ART
 temps	NOM
 nous	PRO:PER
 immémoriaux	ADJ
-quelquesuns	ADJ
-si	KON
+quelques	PRO:IND
+uns	NOM
+si	ADV
 contents	ADJ
 sur	PRP
 la	DET:ART

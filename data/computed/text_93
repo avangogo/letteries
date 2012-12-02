@@ -67,7 +67,8 @@ de	PRP
 velours	NOM
 ,	PUN
 ou	KON
-versemoi	NOM
+verse	VER:subp
+moi	PRO:PER
 tes	DET:POS
 sommeils	NOM
 lourds	ADJ

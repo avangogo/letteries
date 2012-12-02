@@ -206,7 +206,8 @@ mer	NOM
 .	SENT
 et	KON
 pourtant	ADV
-aimezmoi	NOM
+aimez	VER:pres
+moi	PRO:PER
 ,	PUN
 tendre	ADJ
 coeur	NOM
@@ -255,7 +256,8 @@ avide	ADJ
 !	SENT
 ah	INT
 !	SENT
-laissezmoi	NOM
+laissez	VER:pres
+moi	PRO:PER
 ,	PUN
 mon	DET:POS
 front	NOM
@@ -276,7 +278,8 @@ torride	ADJ
 ,	PUN
 de	PRP
 l'	DET:ART
-arrièresaison	NOM
+arrière	ADJ
+saison	NOM
 le	DET:ART
 rayon	NOM
 jaune	ADJ

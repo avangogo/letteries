@@ -311,7 +311,8 @@ sales	ADJ
 ils	PRO:PER
 songent	VER:pres
 à	PRP
-ceuxlà	NOM
+ceux	PRO:DEM
+là	ADV
 qui	PRO:REL
 les	PRO:PER
 ont	VER:pres

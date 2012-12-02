@@ -8,7 +8,8 @@ s'	PRO:PER
 y	PRO:PER
 lance	VER:pres
 éclater	VER:infi
-làhaut	NOM
+là	ADV
+haut	ADV
 perdu	VER:pper
 avec	PRP
 furie	NOM
@@ -61,7 +62,9 @@ le	DET:ART
 sanglot	NOM
 pire	ADJ
 déchiré	VER:pper
-vatil	NOM
+va	VER:pres
+t	VER:simp
+il	PRO:PER
 entier	ADJ
 rester	VER:infi
 sur	PRP

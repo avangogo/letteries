@@ -3,7 +3,8 @@ plein	ADJ
 de	PRP
 gaîté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 l'	DET:ART
 angoisse	NOM
 ,	PUN
@@ -42,7 +43,8 @@ plein	ADJ
 de	PRP
 gaîté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 l'	DET:ART
 angoisse	NOM
 ?	SENT
@@ -51,7 +53,8 @@ plein	ADJ
 de	PRP
 bonté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 la	DET:ART
 haine	NOM
 ,	PUN
@@ -89,7 +92,8 @@ plein	ADJ
 de	PRP
 bonté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 la	DET:ART
 haine	NOM
 ?	SENT
@@ -98,7 +102,8 @@ plein	ADJ
 de	PRP
 santé	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 les	DET:ART
 fièvres	NOM
 ,	PUN
@@ -140,7 +145,8 @@ plein	ADJ
 de	PRP
 santé	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 les	DET:ART
 fièvres	NOM
 ?	SENT
@@ -149,7 +155,8 @@ plein	ADJ
 de	PRP
 beauté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 les	DET:ART
 rides	NOM
 ,	PUN
@@ -185,7 +192,8 @@ plein	ADJ
 de	PRP
 beauté	NOM
 ,	PUN
-connaissezvous	NOM
+connaissez	VER:pres
+vous	PRO:PER
 les	DET:ART
 rides	NOM
 ?	SENT

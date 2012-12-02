@@ -71,7 +71,9 @@ du	PRP:det
 sentiment	NOM
 ne	ADV
 te	PRO:PER
-sembletil	VER:cond
+semble	VER:pres
+t	VER:pper
+il	PRO:PER
 pas	ADV
 ,	PUN
 disons	VER:pres

@@ -174,7 +174,8 @@ l'	DET:ART
 heureuse	ADJ
 enfant	NOM
 ,	PUN
-veuxtu	VER:pres
+veux	VER:pres
+tu	PRO:PER
 voir	VER:infi
 notre	DET:POS
 france	NOM
@@ -218,7 +219,8 @@ mousselines	NOM
 frêles	ADJ
 ,	PUN
 frissonnante	ADJ
-làbas	NOM
+là	ADV
+bas	ADV
 sous	PRP
 la	DET:ART
 neige	NOM

@@ -30,7 +30,8 @@ les	DET:ART
 meilleurs	ADJ
 cavaliers	NOM
 !	SENT
-avezvous	NOM
+avez	VER:pres
+vous	PRO:PER
 vu	VER:pper
 théroigne	NOM
 ,	PUN

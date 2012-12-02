@@ -35,7 +35,8 @@ ton	DET:POS
 bon	ADJ
 ange	NOM
 ,	PUN
-entendstu	VER:pper
+entends	VER:pres
+tu	PRO:PER
 ?	SENT
 je	PRO:PER
 le	PRO:PER

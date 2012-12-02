@@ -16,7 +16,8 @@ les	DET:ART
 haleurs	NOM
 ;	PUN
 des	PRP:det
-peauxrouges	NOM
+peaux	NOM
+rouges	ADJ
 criards	ADJ
 les	PRO:PER
 avaient	VER:impf
@@ -102,7 +103,8 @@ n'	ADV
 ont	VER:pres
 pas	ADV
 subi	VER:pper
-tohubohus	NOM
+tohu	NOM
+bohus	NOM
 plus	ADV
 triomphants	ADJ
 .	SENT
@@ -415,7 +417,8 @@ j'	PRO:PER
 ai	VER:pres
 heurté	VER:pper
 ,	PUN
-savezvous	NOM
+savez	VER:pres
+vous	PRO:PER
 ?	SENT
 d'	PRP
 incroyables	ADJ
@@ -435,9 +438,11 @@ d'	PRP
 hommes	NOM
 ,	PUN
 des	PRP:det
-arcsenciel	ADJ
-tendus	ADJ
-comme	KON
+arcs	NOM
+en	PRP
+ciel	NOM
+tendus	VER:pper
+comme	ADV
 des	PRP:det
 brides	NOM
 ,	PUN
@@ -798,7 +803,8 @@ ouverts	VER:pper
 au	PRP:det
 vogueur	NOM
 :	PUN
-estce	NOM
+est	VER:pres
+ce	PRO:DEM
 en	PRP
 ces	PRO:DEM
 nuits	NOM

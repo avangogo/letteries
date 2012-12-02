@@ -5,7 +5,8 @@ ma	DET:POS
 mémoire	NOM
 triomphalement	ADV
 ne	ADV
-saistu	VER:pper
+sais	VER:pres
+tu	PRO:PER
 te	PRO:PER
 lever	VER:infi
 ,	PUN

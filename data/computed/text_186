@@ -892,7 +892,8 @@ rive	NOM
 en	PRP
 voyant	VER:ppre
 fuir	VER:infi
-làbas	NOM
+là	ADV
+bas	ADV
 sur	PRP
 les	DET:ART
 flots	NOM
@@ -917,7 +918,8 @@ nuit	NOM
 a	VER:pres
 brisée	VER:pper
 ,	PUN
-taistoi	NOM
+tais	VER:pres
+toi	PRO:PER
 !	SENT
 sur	PRP
 son	DET:POS
@@ -1038,7 +1040,8 @@ chevelure	NOM
 .	SENT
 entre	PRP
 le	DET:ART
-laurierrose	NOM
+laurier	NOM
+rose	ADJ
 et	KON
 le	DET:ART
 lotus	NOM

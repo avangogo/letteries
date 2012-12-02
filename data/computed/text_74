@@ -84,7 +84,8 @@ le	DET:ART
 ravin	NOM
 hanté	VER:pper
 des	PRP:det
-chatspards	NOM
+chats	NOM
+pards	ADJ
 et	KON
 des	PRP:det
 onces	NOM
@@ -120,7 +121,8 @@ nos	DET:POS
 amis	NOM
 peuplé	VER:pper
 !	SENT
-roulonsy	NOM
+roulons	VER:pres
+y	PRO:PER
 sans	PRP
 remords	NOM
 ,	PUN

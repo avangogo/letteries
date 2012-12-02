@@ -56,7 +56,8 @@ la	DET:ART
 fin	NOM
 que	PRO:REL
 me	PRO:PER
-veuton	NOM
+veut	VER:pres
+on	PRO:PER
 de	PRP
 trancher	VER:infi
 ras	ADJ

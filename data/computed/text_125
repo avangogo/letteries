@@ -3,7 +3,8 @@ où	PRO:REL
 vous	PRO:PER
 vient	VER:pres
 ,	PUN
-disiezvous	NOM
+disiez	VER:impf
+vous	PRO:PER
 ,	PUN
 cette	PRO:DEM
 tristesse	NOM
@@ -45,7 +46,8 @@ connu	VER:pper
 ,	PUN
 une	DET:ART
 douleur	NOM
-trèssimple	NOM
+très	ADV
+simple	ADJ
 et	KON
 non	ADV
 mystérieuse	ADJ
@@ -78,9 +80,11 @@ voix	NOM
 soit	KON
 douce	ADJ
 ,	PUN
-taisezvous	NOM
+taisez	VER:pres
+vous	PRO:PER
 !	SENT
-taisezvous	NOM
+taisez	VER:pres
+vous	PRO:PER
 ,	PUN
 ignorante	ADJ
 !	SENT

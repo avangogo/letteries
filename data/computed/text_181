@@ -87,7 +87,8 @@ je	PRO:PER
 te	PRO:PER
 prends	VER:pres
 ,	PUN
-soismoi	NOM
+sois	VER:subp
+moi	PRO:PER
 préparée	VER:pper
 aux	PRP:det
 heures	NOM

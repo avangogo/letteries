@@ -51,7 +51,8 @@ un	DET:ART
 frisson	NOM
 familier	ADJ
 !	SENT
-enfouissezle	VER:pres
+enfouissez	VER:pres
+le	DET:ART
 moi	PRO:PER
 plutôt	ADV
 dans	PRP

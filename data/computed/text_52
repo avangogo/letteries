@@ -80,7 +80,8 @@ un	DET:ART
 or	NOM
 agonise	VER:pres
 selon	PRP
-peutêtre	NOM
+peut	VER:pres
+être	VER:infi
 le	DET:ART
 décor	NOM
 des	PRP:det

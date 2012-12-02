@@ -7,7 +7,9 @@ et	KON
 le	DET:ART
 bel	NOM
 aujourd'hui	ADV
-vatil	VER:cond
+va	VER:pres
+t	VER:pper
+il	PRO:PER
 nous	PRO:PER
 déchirer	VER:infi
 avec	PRP
