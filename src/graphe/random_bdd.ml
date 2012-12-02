@@ -16,7 +16,6 @@
 
 module StateMap = Map.Make (State);;
 
-let max_try = 30;;
 
 let swap v i j =
   let aux = v.(i) in
@@ -27,6 +26,7 @@ module RandomBdd : Bdd.Bdd = functor (C : Contrainte.Constraint) ->
 struct
   type t = ((State.t * C.metadata list) array) StateMap.t
   type trans = (State.t * C.metadata list) array * int
+  type meta = C.metadata
   let build text = 
     let assoc = Bdd.build C.precompute text in
     List.fold_left (fun map (key, l) -> (StateMap.add key (Array.of_list  l) map)) StateMap.empty assoc
@@ -37,7 +37,7 @@ struct
     with 
       |Not_found -> raise Contrainte.ContrainteNonRespectee
   let choose (succ, i) = (* petit effet de bord *)
-    if i = 0 || (Array.length succ) - i > max_try then raise Contrainte.ContrainteNonRespectee
+    if i = 0 || (Array.length succ) - i > !Param.maxTries then raise Contrainte.ContrainteNonRespectee
     else
       let j = Random.int i in
       let res = succ.(j) in

@@ -32,6 +32,7 @@ let isRelevant = function
   |PRO _ -> false
   |ADV -> false
   |INT -> false
+  |KON -> false
   |_ -> true;;
 
 (* cut sentences after SENT tags *)
@@ -45,7 +46,7 @@ let cutSentences l =
 (* function to filter sentences *)
 let isAcceptable sentence =
   let l = List.length sentence in
-  3 <= l  && l < 40 && not (List.mem INT sentence)
+  !Param.minSentenceLength <= l  && l <= !Param.maxSentenceLength && not (List.mem INT sentence)
 
 let learn taglist =
   words := (cutSentences taglist) @ !words;;

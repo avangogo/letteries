@@ -50,6 +50,7 @@ module type Bdd = functor (C : Contrainte.Constraint) ->
 sig
   type t
   type trans
+  type meta = C.metadata
   val build : (string * ((string * Tag.tag) * (string * Tag.tag) list) list) list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
@@ -61,6 +62,7 @@ module ListBdd : Bdd = functor (C : Contrainte.Constraint) ->
 struct
   type trans = (State.t * C.metadata list) list
   type t = (State.t * trans) list
+  type meta = C.metadata
   let build textes = build C.precompute textes
   let get bdd x =
     try

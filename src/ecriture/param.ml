@@ -42,6 +42,13 @@ let tmp_dir        = ref "tmp/"
 let phoneticrules_file = ref "data/reglesphonetiques"
 let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 
+(* algorithm parameters *)
+let minSentenceLength = ref 6
+let maxSentenceLength = ref 40
+let maxTries = ref 40 (* Nombre maximal de backtracking sur un mot *)
+
+(* poem form *)
+let poemLength = ref 6
 
 (* reading arguments *)
 let set_output s = output := Some s
@@ -70,6 +77,14 @@ let first_spec =
     "<string> The seed word for the algorithm."
   )
 
+    
+let poemlength_spec =
+  (
+    "-l",
+    Arg.Set_int poemLength,
+    "<int> The number of verses to be printed."
+  )
+
 let without_treetagger_spec =
   (
     "-old",
@@ -84,7 +99,7 @@ let makecorpus_spec =
     " Build the tagged texts with Treetagger. Do nothing else."
   )
  
-let spec = Arg.align [output_spec; seed_spec; first_spec; without_treetagger_spec; makecorpus_spec]
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; without_treetagger_spec; makecorpus_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))

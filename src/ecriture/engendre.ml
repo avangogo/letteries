@@ -44,14 +44,17 @@ go : state -> arrow -> state
   type arrow = string * C.metadata list*)
 
 
-
-module Engendre (C:Contrainte.Constraint) (Markov :
+module type Markov =
 sig
   type t
   type trans
+  type meta
   val get : t -> State.t -> trans
-  val choose : trans -> (State.t * C.metadata list) * trans
-end) =
+  val choose : trans -> (State.t * meta list) * trans
+end;;
+
+
+module Engendre ( C : Contrainte.Constraint ) ( Markov : Markov with type meta = C.metadata ) =
 struct
   let write (markov : Markov.t) last_word init =
     Printf.printf "Constraint name : %s.\n" C.name;

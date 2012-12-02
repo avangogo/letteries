@@ -63,6 +63,7 @@ let construit_poeme parse_texts =
   
   p "Précalcul des données…";
   let markov = B.build textes_parses in
+  
 
   p "Initialisation…";
   (* Création de l’état initial *)
@@ -76,19 +77,20 @@ let construit_poeme parse_texts =
       Contrainte.R (Pieds.Newline 12);
       Contrainte.L (Contrainte.R (Record.Add "\n"))] in
 
-  let regle =
+  let poeme_alexandrins n =
+    let rec aux = function
+      |1 -> []
+      |i -> ( alexandrin_smpl (i / 2) ) @ ( aux (i - 1) ) in
     List.concat
       [
 	[ Contrainte.L (Contrainte.R (Record.Add "\n"));
 	  Contrainte.L (Contrainte.R (Record.Add ".")) ];
-	alexandrin_smpl 1;
-	alexandrin_smpl 1;
-	alexandrin_smpl 2;
-	alexandrin_smpl 2;
-	alexandrin_smpl 3;
-	alexandrin_smpl 3;
+	( aux (n + 1) );
 	[ Contrainte.L (Contrainte.R Record.END) ]
       ] in
+
+  let regle = poeme_alexandrins !Param.poemLength  in
+  
   let state_init = T.make_init regle in
   p "État initial accepté.";
 

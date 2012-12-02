@@ -25,6 +25,7 @@ module type Bdd  =
 sig
   type t
   type trans
+  type meta = C.metadata
   val build : (string * (State.wild * State.wild list) list) list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
