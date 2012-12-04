@@ -75,7 +75,7 @@ struct
   let use_order ((sa,sb):C.state) o = sa, B.use_order sb o
 end;;
 
-module MergeOrderConstraint (A:OrderConstraint) (B:OrderConstraint) : OrderConstraint with type order = (A.order, B.order) sum =
+module MergeOrderConstraint (A:OrderConstraint) (B:OrderConstraint) =
 struct
   module C = MergeConstraint (A.C) (B.C)
   type order = (A.order, B.order) sum
