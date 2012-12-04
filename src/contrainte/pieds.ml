@@ -2,6 +2,10 @@ let automaton = ref (fun (_: string) -> failwith "unassigned automaton")
 
 let emptystate = Phonetique.phoneme_vide
 
+type rules =
+  |Newline of int
+  |Cesure of int
+
 module C =
 struct
   type metadata = Phonetique.phoneme * int * Phonetique.muet
@@ -31,9 +35,8 @@ struct
   let print_metadata (phoneme, i, muet) = Printf.sprintf "(%s, %d%, %s)" (Phonetique.string_of_phoneme phoneme) i (Phonetique.string_of_muet muet);;
 end;;
 
-type order =
-  |Newline of int
-  |Cesure of int;;
+type order = rules
+
 let use_order (p,_) = function
   |Newline i -> Phonetique.phoneme_vide, i
   |Cesure i -> p, i;;

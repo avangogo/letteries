@@ -30,28 +30,17 @@ module type MetricConstraint =
 
 module MergeConstraint :
   functor (A : Constraint) ->
-    functor (B : Constraint) ->
-	(Constraint
-	 with type metadata = A.metadata * B.metadata
-	 and type state = A.state * B.state)
-
+    functor (B : Constraint) -> Constraint
 
 module MergeConstraintAndOrderConstraint :
   functor (A : Constraint) ->
     functor (B : OrderConstraint) ->
-      (OrderConstraint
-       with type C.metadata = A.metadata * B.C.metadata
-       and  type C.state = A.state * B.C.state
-       and type order = B.order)
+      OrderConstraint with type order = B.order
 
 module MergeOrderConstraint :
   functor (A : OrderConstraint) ->
     functor (B : OrderConstraint) ->
-      (OrderConstraint
-       with type C.metadata = A.C.metadata * B.C.metadata
-       and  type C.state = A.C.state * B.C.state
-       and type order = (A.order, B.order) sum)
-
+      OrderConstraint with type order = (A.order, B.order) sum
 
 module FinalConstraint :
   functor (O : OrderConstraint) ->

@@ -19,6 +19,10 @@ exception End of (string list)
 let ps = print_string;;
 let p s = ps s; ps "/n";;
 
+type action =
+  |Add of string
+  |END
+
 module C =
 struct
   type metadata = string
@@ -37,9 +41,7 @@ struct
   let print_metadata s = s;;
 end
 
-type order =
-  |Add of string
-  |END
+type order = action
       
 let use_order l = function
   |Add s -> s::l
