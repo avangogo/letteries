@@ -22,11 +22,12 @@ module DPieds = Debug.OfMetricConstraint (Pieds)
 module DRecord = Debug.OfOrderConstraint (Record)
 module DCreation = Debug.OfConstraint (Creation)*)
 
+
 module T =
   Contrainte.FinalConstraint
     (Contrainte.MergeOrderConstraint
        (Contrainte.MergeConstraintAndOrderConstraint
-	  (Contrainte.MergeConstraint (Grammaire) (Creation.Weak))
+	    ((Contrainte.MergeConstraint (Grammaire) (Creation.Weak)))
 	  (Rime)) (Record)) (Pieds)
 
 module B = Complex_bdd.ComplexBdd (T)

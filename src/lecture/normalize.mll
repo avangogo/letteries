@@ -29,6 +29,6 @@ rule token out = parse
   | ['.' ',' ';' '?' ':' '\'' '/' '!' ] as s                  { output_char out s; token out lexbuf}
   | ['A'-'Z' 'a'-'z'
 	'À''Â''Ç''È''É''Ê''Ë''Î''Ï''Ô''Û''Ù'
-        'à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*   as s         { output_string out (String.lowercase s); token out lexbuf }
+        'à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*   as s         { (*print_string s;*) output_string out (String.lowercase s); token out lexbuf }
   | eof             					      { () }
   | _ as x                                                    { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }

@@ -34,7 +34,8 @@ let output = ref None;;
 (* locations and directories *)
 let corpus_dir     = ref "data/corpus/"
 let corpus_subdirs = ref
-  [ "Poésies(Mallarmé,1914)/";
+  [ "Les Châtiments/";
+    "Poésies(Mallarmé,1914)/";
     "Les fleurs du mal (1868)/";
     "Rimbaud, Poésies/" ]
 let computed_dir   = ref "data/computed/"
@@ -43,8 +44,8 @@ let phoneticrules_file = ref "data/reglesphonetiques"
 let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 
 (* algorithm parameters *)
-let minSentenceLength = ref 6
-let maxSentenceLength = ref 40
+let minSentenceLength = ref 10
+let maxSentenceLength = ref 30
 let maxTries = ref 50 (* Nombre maximal de backtracking sur un mot *)
 
 (* poem form *)
