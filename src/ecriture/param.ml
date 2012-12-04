@@ -45,7 +45,7 @@ let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 (* algorithm parameters *)
 let minSentenceLength = ref 6
 let maxSentenceLength = ref 40
-let maxTries = ref 40 (* Nombre maximal de backtracking sur un mot *)
+let maxTries = ref 50 (* Nombre maximal de backtracking sur un mot *)
 
 (* poem form *)
 let poemLength = ref 6

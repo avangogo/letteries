@@ -31,17 +31,52 @@ let int_of_filename =
 	l := (name, j)::(!l); j in
   aux;;
 
-type metadata = int
-type state = int
-let precompute f b _ _ =
-  if b then int_of_filename f else 0;;
-let filter _ _ = true;;
-let step j k  =
-  if k=0 then j
-  else if j=k then raise Contrainte.ContrainteNonRespectee
-  else k;;
-let init_state () = 0
-(*pretty-printing*)
-let name = "Creation";;
-let print_state = string_of_int;;
-let print_metadata = string_of_int;;
+(* ban sequences of three relevant words from the same poem *)
+(* Warning: In particular, it forbids words that appear only once in the corpus*)
+module Normal =
+struct
+  type metadata = int
+  type state = int
+
+  let precompute f b _ _ =
+    if b then int_of_filename f else 0
+
+  let filter _ _ = true
+
+  let step j k  =
+    if k=0 then j
+    else if j=k then raise Contrainte.ContrainteNonRespectee
+    else k
+
+  let init_state () = 0
+
+  (*pretty-printing*)
+  let name = "Creation";;
+  let print_state = string_of_int;;
+  let print_metadata = string_of_int;;
+end
+  
+(* weak version : ban sequences of four relevant words from the same poem *)
+module Weak =
+struct
+  type metadata = int
+  type state = int * int
+
+  let precompute = Normal.precompute
+
+  let filter = Normal.filter
+
+  let step ( (a, b) as state ) c  =
+    if c = 0 then state
+    else if a = c && b = c then raise Contrainte.ContrainteNonRespectee
+    else (b, c)
+
+  let init_state () = 0, 0
+  
+  (*pretty-printing*)
+  let name = "Creation"
+  let print_state (a, b) = Printf.sprintf "(%i, %i)" a b
+  let print_metadata = string_of_int
+end
+
+(* Remark : These classes could be generalized, I think it would be useless *)

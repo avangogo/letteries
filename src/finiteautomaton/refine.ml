@@ -29,7 +29,7 @@ let next ((_, elems, loc, sidx, _, end_, _) :t ) e =
   if i >= end_.(sidx.(e)) then failwith "next"
   else elems.(i)
 
-let mark ((_, elems, loc, sidx, _, end_, mid) :t ) e =
+let mark ((_, elems, loc, sidx, _, _, mid) :t ) e =
   let s = sidx.(e)
   and l = loc.(e) in
   let m = mid.(s) in
@@ -42,7 +42,7 @@ let mark ((_, elems, loc, sidx, _, end_, mid) :t ) e =
       mid.(s) <- m + 1
     end
 
-let split ((sets, elems, loc, sidx, first, end_, mid) :t ) s =
+let split ((sets, elems, _, sidx, first, end_, mid) :t ) s =
   if mid.(s) = end_.(s) then mid.(s) <- first.(s);
   if mid.(s) = first.(s) then (-1)
   else

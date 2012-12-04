@@ -91,7 +91,7 @@ let init_state () =
   p "starts";
   automaton := min_auto;
   trash := Finiteautomaton.trash !automaton;
-  Finiteautomaton.generate_f "toto" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 5;
+  Finiteautomaton.generate_f "sentences" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 5;
   Finiteautomaton.delta !automaton (Finiteautomaton.initState !automaton) (int_of_tag SENT)
 
 let name = "Grammaire";;

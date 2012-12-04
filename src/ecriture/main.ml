@@ -26,10 +26,10 @@ module T =
   Contrainte.FinalConstraint
     (Contrainte.MergeOrderConstraint
        (Contrainte.MergeConstraintAndOrderConstraint
-	  (Contrainte.MergeConstraint (Grammaire) (Creation))
+	  (Contrainte.MergeConstraint (Grammaire) (Creation.Weak))
 	  (Rime)) (Record)) (Pieds)
 
-module B = Random_bdd.RandomBdd (T)
+module B = Complex_bdd.ComplexBdd (T)
 
 module E = Engendre.Engendre (T) (B);;
 
@@ -63,7 +63,10 @@ let construit_poeme parse_texts =
   
   p "Précalcul des données…";
   let markov = B.build textes_parses in
-  
+
+  let out = open_out "bdd" in
+  B.printAll out markov;
+  close_out out;
 
   p "Initialisation…";
   (* Création de l’état initial *)
@@ -95,11 +98,16 @@ let construit_poeme parse_texts =
   p "État initial accepté.";
 
   (* Recherche du poeme *)
-  p "Écriture…";
 
   begin
+    let firstWord = !Param.first_word in
     try
-      let poeme = E.write markov (State.make (!Param.first_word, Tag.ADJ)) state_init in
+      let tag = List.hd (B.possibleTags markov firstWord) in
+      Printf.printf "Tag de %s : %s\n" firstWord (Tag.string_of_tag tag);
+
+      p "Écriture…";
+
+      let poeme = E.write markov (State.make (firstWord, tag)) state_init in
       
 	(* Mise en forme et affichage *)
       p "Mise en page…";
@@ -113,6 +121,7 @@ let construit_poeme parse_texts =
 	  end
     with
       |Contrainte.ContrainteNonRespectee -> p "Echec de l'écriture."
+      |Failure "hd" -> Printf.printf "%s n'est pas dans le corpus." firstWord (* pas propre : il faudrait une erreur spécifique *)
   end;
   
     (* Affichage des modules de débuggages *)
