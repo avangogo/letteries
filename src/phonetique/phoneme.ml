@@ -22,6 +22,9 @@ let of_string s =  match String.length s with
   |2 -> C(s.[0],s.[1])
   |_ -> failwith ("phoneme_of_string: cet élément n'a pas la bonne taille: "^s);;
 
+let to_string = function
+  |C(a,b) -> Printf.sprintf "'%c%s'" a (if b = ' ' then "" else String.make 1 b)
+
 let liste =
   let brut = ["a"; "a~"; "s^"; "n~"; "e"; "e~"; "v"; "i"; "o~"; "z"; "u"; "x~"; "z^"; "y"; "p"; "j"; "o"; "t"; "w"; "x"; "k"; "h"; "q"; "b"; "l"; "a^"; "d"; "r"; "x^"; "g"; "m"; "e^"; "f"; "n"; "o^"; "s"; "g~"] in
     List.map of_string brut;;

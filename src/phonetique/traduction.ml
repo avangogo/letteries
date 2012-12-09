@@ -16,6 +16,12 @@
 
 open Regles;;
 
+type automate =
+    char Automate.t * (* premier automate *)
+      char Automate.t * (* second automate *)
+      (char * Phoneme.phoneme list array array) list * (* fonction de résolution *)
+      (string, Phoneme.phoneme list) Hashtbl.t (* table des exceptions *)
+
 let rec est_prefixe mot pre =
   match pre with
     |[] -> true
@@ -74,8 +80,13 @@ let applique_regle regle pre suf =
     |[] -> raise (Cassansregle (pre,suf)) in
   aux regle;;
 
+let table_des_exceptions assoc =
+  let res = Hashtbl.create (List.length assoc) in
+  List.iter (fun (mot, phon) -> Hashtbl.add res mot phon) assoc;
+  res;;
+
 (*cree tout le matériel pour permettre la traduction*)
-let precalcul (regle, _) =
+let precalcul (regle, exceptions) =
   let (prefixes,suffixes) = pre_et_suf_fixes regle in
   let auto1 = Automate.make (caractere_fin::Regles.alphabet) prefixes
   and auto2 = Automate.make (caractere_fin::Regles.alphabet) (List.map List.rev suffixes) in
@@ -83,7 +94,6 @@ let precalcul (regle, _) =
   let n1, n2 = Automate.length auto1, Automate.length auto2 in
   
   let table_char c =
-    (*let s = " \n" in s.[0] <- c; print_string s;*)
     let table = Array.make_matrix n1 n2 [] in 
     let regle_c = List.assoc c regle in
     for j = 0 to n2-1 do
@@ -95,7 +105,8 @@ let precalcul (regle, _) =
     done;
     table in
   let grandetable = List.map (fun c -> (c,table_char c)) alphabet in
-  (auto1,auto2,grandetable);;
+  let tableexception = table_des_exceptions exceptions in
+  (auto1,auto2,grandetable,tableexception);;
 
 (**)
 let lis_table table c i j =
@@ -110,28 +121,30 @@ let chartab_of_string s =
   res;;
 
 (*traduit un mot*)
-let traduit (auto1,auto2,table) mot0 =
-(*  let mot = Array.of_list mot0 in*)
-  let mot = chartab_of_string mot0 in
-  let n = Array.length mot in
-  let etat1 = Array.make n (-1)
-  and etat2 = Array.make n (-1) in
-  let e1 = ref Automate.initial in (*l'état que l'on lit*)
-  for i = 0 to n-1 do
-    etat1.(i) <- !e1;
-    e1 := Automate.transition auto1 (!e1) mot.(i)
-  done;
-  let e2 = ref (Automate.transition auto2 Automate.initial caractere_fin) in (*idem*)
-  for i = n-1 downto 0 do
+let traduit (auto1,auto2,table,exceptions) mot0 =
+  try
+    Hashtbl.find exceptions mot0
+  with Not_found ->
+    begin
+      let mot = chartab_of_string mot0 in
+      let n = Array.length mot in
+      let etat1 = Array.make n (-1)
+      and etat2 = Array.make n (-1) in
+      let e1 = ref Automate.initial in (*l'état que l'on lit*)
+      for i = 0 to n-1 do
+	etat1.(i) <- !e1;
+	e1 := Automate.transition auto1 (!e1) mot.(i)
+      done;
+      let e2 = ref (Automate.transition auto2 Automate.initial caractere_fin) in (*idem*)
+      for i = n-1 downto 0 do
     etat2.(i) <- !e2;
-    e2 := Automate.transition auto2 (!e2) mot.(i)
-  done;
-  List.concat(Array.to_list (Array.mapi
-			       (fun i c -> 
-				 (*(let s = " \n" in s.[0] <- c; p "";  ps "regle : "; ps s);
-				   ps "prefixe: "; p_charlist (Automate.traduit_etat auto1 etat1.(i)); p " ";
-				   ps "suffixe: "; p_charlist (Automate.traduit_etat auto2 etat2.(i)); ps "-"; (print_int etat2.(i)); p " ";*)
-				 lis_table table c etat1.(i) etat2.(i))
-			       mot));;
+	e2 := Automate.transition auto2 (!e2) mot.(i)
+      done;
+      List.concat (Array.to_list
+		     (Array.mapi
+			(fun i c -> 
+			  lis_table table c etat1.(i) etat2.(i))
+			mot))
+    end;;
 
 

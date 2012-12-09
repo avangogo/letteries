@@ -100,8 +100,8 @@ let length automate =
   match automate with (_,_,n) -> n;;
 
 (*****tests*****)
-let mots = [['c';'h';'a';'r';'l';'o';'t';'t';'e'];['m';'o';'t'];['c';'h';'a';'t'];['l';'o';'t']];;
+(* let mots = [['c';'h';'a';'r';'l';'o';'t';'t';'e'];['m';'o';'t'];['c';'h';'a';'t'];['l';'o';'t']];;
 let alphabet = ['a';'b';'c';'d';'e';'f';'g';'h';'i';'j';'k';'l';'m';'n';'o';'p';'q';'r';'s';'t';'u';'v';'w';'x';'y';'z'];;
 let a = make alphabet mots;;
 
-traduit_etat a (List.fold_left (transition a) initial ['c';'h';'a';'r';'l';'o';'t']);;
+traduit_etat a (List.fold_left (transition a) initial ['c';'h';'a';'r';'l';'o';'t']);;*)

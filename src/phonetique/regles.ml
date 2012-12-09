@@ -47,7 +47,7 @@ exception ErreurDeRegle of string;;
 
 let alphabet = ['a';'b';'c';'d';'e';'f';'g';'h';'i';'j';'k';'l';'m';'n';'o';'p';'q';'r';'s';'t';'u';'v';'w';'x';'y';'z';'\233'; '\232'];;
 
-let string_of_char x = let s = " " in s.[0] <- x ; s;;
+let string_of_char x = String.make 1 x;;
 
 (**vérifications**)
 let verifie_char x =

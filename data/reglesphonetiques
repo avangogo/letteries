@@ -36,6 +36,8 @@ ain FIN	-> 'e~'
 oin FIN	-> 'w''e~'
 oim FIN	-> 'w''e~'
 ien FIN	-> 'j''e~'
+eil FIN -> 'e^''j'
+eils FIN -> 'e^''j'('z')
 
 ai	-> 'e^'
 eau	-> 'o'
@@ -82,6 +84,7 @@ gu[V]	-> 'g'
 (*regles de fin*)
 ec	FIN 	-> 'e^''k'
 ed	FIN	-> 'e'
+eds	FIN	-> 'e'('s')
 er	FIN	-> 'e'('r')
 [V]es	FIN	-> ('z')
 es	FIN	-> ('q''z')
@@ -195,3 +198,4 @@ fers	-> 'f''e^''r'('z')
 cher	-> 's^''e^''r'
 chers	-> 's^''e^''r'('z')
 sens	-> 's''a~''s'
+oeil    -> 'q''j'

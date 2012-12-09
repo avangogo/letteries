@@ -15,10 +15,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 type phoneme = Phoneme.phoneme
-type automate =
-    ((char * int array) list * char list array * int) * (*premier automate*)
-      ((char * int array) list * char list array * int) * (*second automate*)
-      (char * Phoneme.phoneme list array array) list (*fonction de résolution*)
+type automate = Traduction.automate
 type rime = phoneme list
 type muet = phoneme option * phoneme option
 

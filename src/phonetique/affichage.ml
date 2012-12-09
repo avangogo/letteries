@@ -22,8 +22,7 @@ let pn = print_newline;;
 let p x = ps x; pn();; 
 
 let so_char c = let s = " " in s.[0] <-c ; s;;
-let so_phoneme = function
-  |C(a,b) -> Printf.sprintf "'%c%s'" a (if b = ' ' then "" else so_char b)
+let so_phoneme = Phoneme.to_string
 
 let p_list pe =
   pn ();
