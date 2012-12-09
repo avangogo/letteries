@@ -41,23 +41,3 @@ val nbre_voyelles : Phoneme.phoneme list -> int
 
 val traduit_phrase :
   Traduction.automate -> string -> Phoneme.phoneme list
-
-(* Ancien syteme de calcul du nombre de pieds (à supprimer?) *)
-val traduit_mot :
-  Phoneme.phoneme list ->
-  Phoneme.phoneme * int * Phoneme.phoneme list *
-  (Phoneme.phoneme option * Phoneme.phoneme option)
-
-val tete0 : int * ('a option * 'b option) * 'c list
-
-val avance :
-  int * (Phoneme.phoneme option * Phoneme.phoneme option) * 'a ->
-  Phoneme.phoneme * int * 'a *
-  (Phoneme.phoneme option * Phoneme.phoneme option) ->
-  int * (Phoneme.phoneme option * Phoneme.phoneme option) * 'a
-
-val traduit_string :
-  Traduction.automate ->
-  string ->
-  Phoneme.phoneme * int * Phoneme.phoneme list *
-  (Phoneme.phoneme option * Phoneme.phoneme option)
