@@ -14,9 +14,13 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
+(* Remarque : tout ou une partie de ce code pourrait être récrit
+de manière plus lisible avec lex *)
+
 let ps = print_string;;
 let p = fun s -> ps s; print_newline ();;
 
+(* comportement de la ponctuation vis-à-vis des espaces *)
 let ponctuation_liante = ['-' ; '\''];;
 let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ','; '\n' ];;
 let ponctuation_espace = [' '];;

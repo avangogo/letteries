@@ -21,7 +21,7 @@ let words = ref []
 let automaton = ref Finiteautomaton.empty
 let trash = ref []
 
-let p s = Printf.printf "Grammaire : %s\n" s; flush stdout;;
+let p s = if !Param.verbose then Printf.printf "Grammaire : %s\n" s; flush stdout;;
 
 (* say wether the word can be a state of the automaton *)
 let isRelevant = function
@@ -84,10 +84,10 @@ let init_state () =
   let conf4_auto = Finiteautomaton.confuse_letters conf3_auto (List.map int_of_tag [PRO (Some DEM); DET ART; DET Pos; NUM]) in
   p "determinize";
   let det_auto = Finiteautomaton.determinize conf4_auto in
-  Printf.printf "%i states\n" (Finiteautomaton.size det_auto);
+  p (Printf.sprintf "%i states" (Finiteautomaton.size det_auto));
   p "minimize" ;
   let min_auto = Finiteautomaton.minimize det_auto in
-  Printf.printf "%i states\n" (Finiteautomaton.size min_auto);
+  p (Printf.sprintf "%i states" (Finiteautomaton.size min_auto));
   p "starts";
   automaton := min_auto;
   trash := Finiteautomaton.trash !automaton;

@@ -16,6 +16,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
 
+let p s = if !Param.verbose then begin print_string s; print_newline () end (* FIXME: code duplication *)
+
 (* rewrite input on output with only authorized characters *)
 let normalize input output =
   let inChannel = open_in input
@@ -79,7 +81,7 @@ let return name text =
 let getComputed dossiers =
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
-    Printf.printf "Recuperation : %s.\n" nom; flush stdout; 
+    p (Printf.sprintf "Recuperation : %s." nom); 
     let texte = readTreeTaggerOutput nom in    
     return nom texte in
   List.map lireFichier fichiers;;
@@ -88,7 +90,7 @@ let getRaw dossiers =
   let tmp_normalize = !Param.tmp_dir ^ "normalize" in
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
-    Printf.printf "Lecture : %s.\n" nom; flush stdout;
+    p (Printf.sprintf "Lecture : %s." nom);
     normalize nom tmp_normalize; 
     let texte = readAndTag tmp_normalize in    
     return nom texte in

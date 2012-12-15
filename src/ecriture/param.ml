@@ -29,7 +29,10 @@ let first_word = ref "bleu"
 let seed = ref (Random.self_init (); Random.int (1 lsl 29))
 
 (* output *)
-let output = ref None;;
+let output = ref None
+
+(* information writing *)
+let verbose = ref true
 
 (* locations and directories *)
 let corpus_dir     = ref "data/corpus/"
@@ -64,6 +67,13 @@ let output_spec =
     "<file> The output file."
   )
     
+let quietmod_spec =
+  (
+    "-q",
+    Arg.Unit (fun () -> verbose := false),
+    " Write nothing but the poem"
+  )
+
 let seed_spec =
   (
     "-s",
@@ -100,7 +110,7 @@ let makecorpus_spec =
     " Build the tagged texts with Treetagger. Do nothing else."
   )
  
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; without_treetagger_spec; makecorpus_spec]
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; without_treetagger_spec; makecorpus_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))

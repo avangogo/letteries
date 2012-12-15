@@ -35,12 +35,12 @@ module B = Complex_bdd.ComplexBdd (T)
 module E = Engendre.Engendre (T) (B);;
 
 let ps = print_string;;
-let p x = ps x; print_newline ();;
-let pp x = Phonetique.print x; print_newline ();;
+let p s = if !Param.verbose then begin ps s; print_newline () end
+(* let pp x = Phonetique.print x; print_newline ();; *)
 
 let construit_poeme parse_texts =
-  Printf.printf "Graine : %i\n" !Param.seed;
-  Printf.printf "Premier mot : %s\n" !Param.first_word;
+  p (Printf.sprintf "Graine : %i" !Param.seed);
+  p (Printf.sprintf "Premier mot : %s" !Param.first_word);
 
   Random.init !Param.seed;
   
@@ -50,7 +50,7 @@ let construit_poeme parse_texts =
   let t0 = Sys.time () in
   let machine = Phonetique.make_automate !Param.phoneticrules_file in
   let t1 = (Sys.time ()) -. t0 in
-  Printf.printf "Temps de création de l’automate : %f\n" t1;
+  p (Printf.sprintf "Temps de création de l’automate : %f" t1);
 
   (* La fonction de traduction aux modules qui l’utilisent *)
   let traduit = Phonetique.of_string machine in
@@ -104,7 +104,7 @@ let construit_poeme parse_texts =
     let firstWord = !Param.first_word in
     try
       let tag = List.hd (B.possibleTags markov firstWord) in
-      Printf.printf "Tag de %s : %s\n" firstWord (Tag.string_of_tag tag);
+      p (Printf.sprintf "Tag de %s : %s\n" firstWord (Tag.string_of_tag tag));
 
       p "Écriture…";
 
@@ -121,8 +121,8 @@ let construit_poeme parse_texts =
 	    close_out out
 	  end
     with
-      |Contrainte.ContrainteNonRespectee -> p "Echec de l'écriture."
-      |Failure "hd" -> Printf.printf "%s n'est pas dans le corpus." firstWord (* pas propre : il faudrait une erreur spécifique *)
+      |Contrainte.ContrainteNonRespectee -> ps "Echec de l'écriture."
+      |Failure "hd" -> ps (Printf.sprintf "%s n'est pas dans le corpus." firstWord) (* pas propre : il faudrait une erreur spécifique *)
   end;
   
     (* Affichage des modules de débuggages *)
