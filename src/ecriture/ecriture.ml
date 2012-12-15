@@ -17,13 +17,16 @@
 (* Remarque : tout ou une partie de ce code pourrait être récrit
 de manière plus lisible avec lex *)
 
-let ps = print_string;;
-let p = fun s -> ps s; print_newline ();;
+let ps = print_string
+let p = fun s -> ps s; print_newline ()
 
 (* comportement de la ponctuation vis-à-vis des espaces *)
-let ponctuation_liante = ['-' ; '\''];;
-let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ','; '\n' ];;
-let ponctuation_espace = [' '];;
+let ponctuation_liante = ['-' ; '\'']
+let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ','; '\n' ]
+let ponctuation_espace = [' ']
+
+(* éléments de ponctuation suivis par une majuscule *)
+let ponctuation_capitalisante = ['\n'; '!'; '?'; '.']
 
 type type_carac = 
   |PonctuationLiante
@@ -136,15 +139,22 @@ let string_end s = match String.length s with
   |0 -> failwith "string_end: chaine vide"
   |n -> s.[n-1];;
 
+let ajoute_majuscules =
+  let rec aux maj = function
+    | mot :: texte ->
+      (if maj then String.capitalize mot else mot) ::
+	(aux (List.mem (string_end mot) ponctuation_capitalisante) texte)
+    | [] -> [] in
+  aux true
+
 (*affiche un texte déjà mis en page*)
-let affiche out (majuscule:bool) l =
+let affiche out l =
   let aux est_debut mot =
-    let mot2 = if est_debut&&majuscule then String.capitalize mot else mot in
     if not est_debut then output_string out " ";
-    output_string out mot2;
-    ((string_end mot) = '\n') in
+    output_string out mot;
+    (string_end mot = '\n') in
   ignore (List.fold_left aux true l);;
 
 (*met en page et affiche*)
-let affiche_poeme ?(out=stdout) ?(majuscule=true) poeme =
-  affiche out majuscule (List.map gere_sauts (reparse poeme));;
+let affiche_poeme ?(out=stdout) poeme =
+  affiche out (ajoute_majuscules (List.map gere_sauts (reparse poeme)));;
