@@ -43,7 +43,6 @@ go : state -> arrow -> state
   type trans = Markov.trans
   type arrow = string * C.metadata list*)
 
-let p s = if !Param.verbose then begin print_string s; print_newline () end (* code duplication *)
 
 module type Markov =
 sig
@@ -58,7 +57,6 @@ end;;
 module Engendre ( C : Contrainte.Constraint ) ( Markov : Markov with type meta = C.metadata ) =
 struct
   let write (markov : Markov.t) last_word init =
-    p (Printf.sprintf "Constraint name : %s." C.name);
     let get (s, _) = Markov.get markov s
     and choose = Markov.choose
     and go (_, m) (s2, l) = (s2, (List.fold_left C.step m l)) in

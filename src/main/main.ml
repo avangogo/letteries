@@ -17,40 +17,39 @@
 *)
 
 open Grammaire
-(*module DRime = Debug.OfOrderConstraint (Rime)
+module DRime = Debug.OfOrderConstraint (Rime)
 module DPieds = Debug.OfMetricConstraint (Pieds)
 module DRecord = Debug.OfOrderConstraint (Record)
-module DCreation = Debug.OfConstraint (Creation)*)
+module DCreation = Debug.OfConstraint (Creation.Weak)
 
 
 module T =
   Contrainte.FinalConstraint
     (Contrainte.MergeOrderConstraint
        (Contrainte.MergeConstraintAndOrderConstraint
-	    ((Contrainte.MergeConstraint (Grammaire) (Creation.Weak)))
-	  (Rime)) (Record)) (Pieds)
+	  (Contrainte.MergeConstraint (Grammaire) (Creation.Weak))
+	  (Rime))
+       (Record)) (Pieds)
 
 module B = Complex_bdd.ComplexBdd (T)
 
 module E = Engendre.Engendre (T) (B);;
 
-let ps = print_string;;
-let p s = if !Param.verbose then begin ps s; print_newline () end
-(* let pp x = Phonetique.print x; print_newline ();; *)
 
 let construit_poeme parse_texts =
-  p (Printf.sprintf "Graine : %i" !Param.seed);
-  p (Printf.sprintf "Premier mot : %s" !Param.first_word);
+  Print.p (Printf.sprintf "Premier mot : %s" !Param.first_word);
+  Print.p (Printf.sprintf "Graine : %i" !Param.seed);
+  Print.p (Printf.sprintf "Nom de la contrainte : %s." T.name);
 
   Random.init !Param.seed;
   
   (* construction des automates de calcul de phonétique *)
-  p "Précalcul des règles phonétiques (peut être long).";
+  Print.p "Précalcul des règles phonétiques…";
 
   let t0 = Sys.time () in
   let machine = Phonetique.make_automate !Param.phoneticrules_file in
   let t1 = (Sys.time ()) -. t0 in
-  p (Printf.sprintf "Temps de création de l’automate : %f" t1);
+  Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);
 
   (* La fonction de traduction aux modules qui l’utilisent *)
   let traduit = Phonetique.of_string machine in
@@ -58,28 +57,32 @@ let construit_poeme parse_texts =
   Rime.automaton := traduit;
 
   (* Lecture du corpus *)
-  p "Récupération des textes…";
+  Print.p "Récupération des textes…";
 
   let textes_parses = parse_texts () in
   
-  p "Précalcul des données…";
+  Print.p "Précalcul des données…";
   let markov = B.build textes_parses in
 
   let out = open_out "bdd" in
   B.printAll out markov;
   close_out out;
 
-  p "Initialisation…";
+  Print.p "Initialisation…";
   (* Création de l’état initial *)
-  let alexandrin rime =
-    [ Contrainte.L (Contrainte.L rime);
-     Contrainte.R (Pieds.Newline 6);
-     Contrainte.R (Pieds.Cesure 6);
-     Contrainte.L (Contrainte.R (Record.Add "\n"))] in
+  (* let alexandrin rime =
+    [ 
+      Contrainte.L (Contrainte.L rime);
+      Contrainte.R (Pieds.Newline 6);
+      Contrainte.R (Pieds.Cesure 6);
+      Contrainte.L (Contrainte.R (Record.Add "\n"))
+    ] in *)
   let alexandrin_smpl rime =
-    [ Contrainte.L (Contrainte.L rime);
+    [
+      Contrainte.L (Contrainte.L rime);
       Contrainte.R (Pieds.Newline 12);
-      Contrainte.L (Contrainte.R (Record.Add "\n"))] in
+      Contrainte.L (Contrainte.R (Record.Add "\n"))
+    ] in
 
   let poeme_alexandrins n =
     let rec aux = function
@@ -96,7 +99,7 @@ let construit_poeme parse_texts =
   let regle = poeme_alexandrins !Param.poemLength  in
   
   let state_init = T.make_init regle in
-  p "État initial accepté.";
+  Print.p "État initial accepté.";
 
   (* Recherche du poeme *)
 
@@ -104,14 +107,14 @@ let construit_poeme parse_texts =
     let firstWord = !Param.first_word in
     try
       let tag = List.hd (B.possibleTags markov firstWord) in
-      p (Printf.sprintf "Tag de %s : %s\n" firstWord (Tag.string_of_tag tag));
+      Print.p (Printf.sprintf "Tag de %s : %s" firstWord (Tag.string_of_tag tag));
 
-      p "Écriture…";
+      Print.p "Écriture…";
 
       let poeme = E.write markov (State.make (firstWord, tag)) state_init in
       
 	(* Mise en forme et affichage *)
-      p "Mise en page…";
+      Print.p "Mise en page…";
       match !Param.output with
 	|None -> Ecriture.affiche_poeme poeme
 	|Some file ->
@@ -121,13 +124,13 @@ let construit_poeme parse_texts =
 	    close_out out
 	  end
     with
-      |Contrainte.ContrainteNonRespectee -> ps "Echec de l'écriture."
-      |Failure "hd" -> ps (Printf.sprintf "%s n'est pas dans le corpus." firstWord) (* pas propre : il faudrait une erreur spécifique *)
+      |Contrainte.ContrainteNonRespectee -> Print.error "Echec de l'écriture."
+      |Failure "hd" -> Print.error (Printf.sprintf "%s n'est pas dans le corpus." firstWord) (* pas propre : il faudrait une erreur spécifique *)
   end;
   
     (* Affichage des modules de débuggages *)
   let debug = !Debug.mem in
-  List.iter p (List.rev debug)
+  List.iter Print.p (List.rev debug)
 ;;
 
 let main () =

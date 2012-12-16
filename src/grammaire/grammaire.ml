@@ -21,8 +21,6 @@ let words = ref []
 let automaton = ref Finiteautomaton.empty
 let trash = ref []
 
-let p s = if !Param.verbose then Printf.printf "Grammaire : %s\n" s; flush stdout;;
-
 (* say wether the word can be a state of the automaton *)
 let isRelevant = function
   |DET _ -> false
@@ -69,26 +67,27 @@ let step (state : state) id_tag =
   else new_state
 
 let init_state () =
-  p "words";
+  Print.p "Grammaire : Création de l'automate…";
+  Print.verbose "Grammaire : liste des phrases";
   let words2 =
       (List.map List.rev
 	 (List.map
 	    (List.map (Tag.int_of_tag)) 
 	    (List.filter isAcceptable !words))) in
-  p "nd_auto";
+  Print.verbose "Grammaire : premier automate";
   let nd_auto = Finiteautomaton.make_setstar_naive ~k:Tag.nbre words2 in
-  p "confuse_letters"; (*allègement des regles de grammaires*)
+  Print.verbose "Grammaire : fusionne tags"; (*allègement des regles de grammaires*)
   let conf_auto  = Finiteautomaton.confuse_letters nd_auto    (List.map int_of_tag [VER Futu; VER Impf; VER Pres; VER Simp]) in
   let conf2_auto = Finiteautomaton.confuse_letters conf_auto  (List.map int_of_tag [VER Subi; VER Subp]) in
   let conf3_auto = Finiteautomaton.confuse_letters conf2_auto (List.map int_of_tag [ADJ; VER Pper; VER Ppre]) in
   let conf4_auto = Finiteautomaton.confuse_letters conf3_auto (List.map int_of_tag [PRO (Some DEM); DET ART; DET Pos; NUM]) in
-  p "determinize";
+  Print.verbose "Grammaire : determinisation";
   let det_auto = Finiteautomaton.determinize conf4_auto in
-  p (Printf.sprintf "%i states" (Finiteautomaton.size det_auto));
-  p "minimize" ;
+  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size det_auto));
+  Print.verbose "Grammaire : minimisation" ;
   let min_auto = Finiteautomaton.minimize det_auto in
-  p (Printf.sprintf "%i states" (Finiteautomaton.size min_auto));
-  p "starts";
+  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size min_auto));
+  Print.verbose "Grammaire : starts";
   automaton := min_auto;
   trash := Finiteautomaton.trash !automaton;
   Finiteautomaton.generate_f "sentences" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 5;

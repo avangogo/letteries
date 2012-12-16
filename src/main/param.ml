@@ -21,6 +21,11 @@ type task =
   |PoemFromCorpus
   |MakeComputed;;
 
+type loquacity =
+  | Quiet
+  | Usual
+  | Verbose
+
 (* action to perform *)
 let task = ref PoemFromComputed
 
@@ -32,7 +37,7 @@ let seed = ref (Random.self_init (); Random.int (1 lsl 29))
 let output = ref None
 
 (* information writing *)
-let verbose = ref true
+let loquacity = ref Usual
 
 (* locations and directories *)
 let corpus_dir     = ref "data/corpus/"
@@ -70,8 +75,15 @@ let output_spec =
 let quietmod_spec =
   (
     "-q",
-    Arg.Unit (fun () -> verbose := false),
+    Arg.Unit (fun () -> loquacity := Quiet),
     " Write nothing but the poem"
+  )
+    
+let verbosemod_spec =
+  (
+    "-v",
+    Arg.Unit (fun () -> loquacity := Verbose),
+    " Say more"
   )
 
 let seed_spec =
@@ -110,7 +122,7 @@ let makecorpus_spec =
     " Build the tagged texts with Treetagger. Do nothing else."
   )
  
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; without_treetagger_spec; makecorpus_spec]
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))

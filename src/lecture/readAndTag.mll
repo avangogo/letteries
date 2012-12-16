@@ -22,9 +22,9 @@
 rule token acc = parse (* doit renvoyer un objet du meme type que readTreeTagger *)
   | [' ' '\t' '\n']                          	                { token acc lexbuf }
   | ['?' '.' '!']|"..." as s                                    { token ((s, SENT) :: acc) lexbuf }
-  | [',' ';' ':' '\'' '/'] as s                                  { token ((stringOfChar s, PUN None) :: acc) lexbuf }
+  | [',' ';' ':' '\'' '/'] as s                                 { token ((stringOfChar s, PUN None) :: acc) lexbuf }
   | "ne"|"y"|"de"|"le"|"la"|"les"|"un"|"une"|"des"|"au"|"aux"
-  | "du"|"l"|"en"|"n"|"d"|"à"|"c"|"s"|"se" as s                 { token ((s, PUN None) :: acc) lexbuf }
+  | "du"|"l"|"en"|"n"|"d"|"à"|"c"|"s"|"se"|"et" as s            { token ((s, PUN None) :: acc) lexbuf }
   | ['a'-'z''à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']* as s         { token ((s, NAM) :: acc) lexbuf }         
   | eof             					        { List.rev acc }
   | _ as x                                                      { raise (ReadTreeTagger.Caractere_inconnu

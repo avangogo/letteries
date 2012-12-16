@@ -20,15 +20,15 @@
 
 module StringSet = Set.Make (String)
 
-let cantBeTwice s =
-  String.length s >= 5
+(* let cantBeTwice s =
+  String.length s >= 5 *)
 
 (* -- begin of the constraint-- *)
 type metadata = string option
 type state = StringSet.t
 
-let precompute _ _ _ s =
-  if cantBeTwice s then Some s else None
+let precompute _ isState _ s =
+  if isState then Some s else None
     
 let filter _ _ = true
 
