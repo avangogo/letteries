@@ -18,7 +18,7 @@ LIBS = unix
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc,src/main
 
 IGNS = data
 
@@ -38,7 +38,7 @@ BUILD_COMMAND = \
 
 EXEC = lettreries
 MAIN = main
-PATHMAIN = src/ecriture
+PATHMAIN = src/main
 
 PHON_EXEC = phonetique
 PHON_MAIN = phonetique_interractiveloop
