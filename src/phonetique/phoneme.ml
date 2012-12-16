@@ -68,27 +68,28 @@ let est_valide0 x =
 let est_valide1 x =
   List.mem x liste1;;
 
-let vide = ('~','~');;
+let vide = ('~', '~');;
 
 (* écrit le phonème selon l'alphabet phonetique internationnal *)
-(* let prettyprint_api_utf8  =
-  match tag with
-    | ' ' ->
-      begin match x with
-	| 'a' ->
-	| 'e' ->
-	| 'v' ->
-	| 'i' ->
-	| 'z' ->
-	| 'u' ->
-	| '' ->
-	  
-	  
-	  
-	  
-      end
-    |C ' '' '
+let rec api  = function
+  | p when p = vide -> ""
+  | c, '_' -> "("^ ( api (c,' ') ) ^")"
 
+  | 'a', ' ' -> "a"  | 'e', ' ' -> "e"  | 'i', ' ' -> "i" | 'o', ' ' -> "o" 
+  | 'u', ' ' -> "u"  | 'y', ' ' -> "y"  | 'q', ' ' -> "ə"
+  | 'x', ' ' -> "ø"
 
-["a";"e"; "v"; "i"; "z"; "u"; "p"; "j"; "o"; "t"; "y"; "w"; "x"; "k"; "h"; "q"; "b"; "l"
-"a~"; "s^"; "n~";  "e~"; "o~"; "x~"; "z^"; "a^"; "d"; "r"; "x^"; "g"; "m"; "e^"; "f"; "n"; "o^"; "s"; "g~"]*)
+  | 'b', ' ' -> "b"  | 'd', ' ' -> "d"  | 'f', ' ' -> "f"  | 'g', ' ' -> "g"
+  | 'k', ' ' -> "k"  | 'l', ' ' -> "l"  | 'm', ' ' -> "m"  | 'n', ' ' -> "n"
+  | 'p', ' ' -> "p"  | 'r', ' ' -> "ʁ"  | 's', ' ' -> "s"  | 't', ' ' -> "t"
+  | 'v', ' ' -> "v"  | 'z', ' ' -> "z"
+
+  | 'h', ' ' -> "ɥ"  | 'w', ' ' -> "w"  | 'j', ' ' -> "j"
+
+  | 'n', '~' -> "ɲ"  | 'g', '~' -> "ŋ"  | 'a', '~' -> "ɑ̃"  | 'e', '~' -> "ɛ̃"
+  | 'o', '~' -> "ɔ̃"
+
+  | 'a', '^' -> "ɑ"  | 'e', '^' -> "ɛ"  | 'o', '^' -> "ɔ"  | 'x', '^' -> "œ"
+
+  | 's', '^' -> "ʃ"  | 'z', '^' -> "ʒ"
+  | c,t -> failwith (Printf.sprintf "Phonème inconnu : '%c%c'." c t)

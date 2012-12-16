@@ -43,3 +43,5 @@ val exprime : phoneme -> phoneme
 val of_string0 : string -> phoneme
 
 val vide : phoneme
+
+val api : phoneme -> string

@@ -47,3 +47,5 @@ val string_of_muet :
   muet -> string
 val print :
   phoneme list -> unit
+val prettyprint_api_utf8 :
+  phoneme list -> unit
