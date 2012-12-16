@@ -18,7 +18,7 @@ LIBS = unix
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc
 
 IGNS = data
 
@@ -40,6 +40,10 @@ EXEC = lettreries
 MAIN = main
 PATHMAIN = src/ecriture
 
+PHON_EXEC = phonetique
+PHON_MAIN = phonetique_interractiveloop
+PHON_PATH = src/misc
+
 -include settings.sh # If you want to personalize your options…
 
 all: lettreries
@@ -48,7 +52,10 @@ clean:
 	rm -R ${COMPILE}/*
 
 %.native: src/*
-	${BUILD_COMMAND} ${MAIN}.native
+	${BUILD_COMMAND} $*.native
 
-lettreries: ${COMPILE}/${PATHMAIN}/${MAIN}.native
+lettreries: ${MAIN}.native
 	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
+
+phonetique: ${PHON_MAIN}.native
+	cp ${COMPILE}/${PHON_PATH}/${PHON_MAIN}.native ${PHON_EXEC}

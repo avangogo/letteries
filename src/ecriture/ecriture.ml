@@ -93,7 +93,8 @@ let reparse l =
     List.rev (!resultat)(*le resultat est à l'envers*)
 ;;
 
-(*met les sut de ligne à la fin du mot*)
+(* met les sauts de ligne à la fin du mot *)
+(* exemple : "lampadophore\n," -> "lampadophore,\n" *)
 let gere_sauts s0 =
   let s = String.copy s0 in
   let n = String.length s in
