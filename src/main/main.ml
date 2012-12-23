@@ -17,19 +17,11 @@
 *)
 
 open Grammaire
-module DRime = Debug.OfOrderConstraint (Rime)
-module DPieds = Debug.OfMetricConstraint (Pieds)
-module DRecord = Debug.OfOrderConstraint (Record)
-module DCreation = Debug.OfConstraint (Creation.Weak)
 
+(* Change here to select the constraint *)
+module T = PoemShape.Classic
+let poeme n = PoemShape.poeme_alexandrins n
 
-module T =
-  Contrainte.FinalConstraint
-    (Contrainte.MergeOrderConstraint
-       (Contrainte.MergeConstraintAndOrderConstraint
-	  (Contrainte.MergeConstraint (Grammaire) (Creation.Weak))
-	  (Rime))
-       (Record)) (Pieds)
 
 module B = Complex_bdd.ComplexBdd (T)
 
@@ -70,33 +62,9 @@ let construit_poeme parse_texts =
 
   Print.p "Initialisation…";
   (* Création de l’état initial *)
-  (* let alexandrin rime =
-    [ 
-      Contrainte.L (Contrainte.L rime);
-      Contrainte.R (Pieds.Newline 6);
-      Contrainte.R (Pieds.Cesure 6);
-      Contrainte.L (Contrainte.R (Record.Add "\n"))
-    ] in *)
-  let alexandrin_smpl rime =
-    [
-      Contrainte.L (Contrainte.L rime);
-      Contrainte.R (Pieds.Newline 12);
-      Contrainte.L (Contrainte.R (Record.Add "\n"))
-    ] in
 
-  let poeme_alexandrins n =
-    let rec aux = function
-      |1 -> []
-      |i -> ( alexandrin_smpl (i / 2) ) @ ( aux (i - 1) ) in
-    List.concat
-      [
-	[ Contrainte.L (Contrainte.R (Record.Add "\n"));
-	  Contrainte.L (Contrainte.R (Record.Add ".")) ];
-	( aux (n + 1) );
-	[ Contrainte.L (Contrainte.R Record.END) ]
-      ] in
 
-  let regle = poeme_alexandrins !Param.poemLength  in
+  let regle = poeme !Param.poemLength  in
   
   let state_init = T.make_init regle in
   Print.p "État initial accepté.";

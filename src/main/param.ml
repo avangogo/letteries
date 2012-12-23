@@ -45,7 +45,8 @@ let corpus_subdirs = ref
   [ "Les Châtiments/";
     "Poésies(Mallarmé,1914)/";
     "Les fleurs du mal (1868)/";
-    "Rimbaud, Poésies/" ]
+    "Rimbaud, Poésies/";
+    "usr/" ]
 let computed_dir   = ref "data/computed/"
 let tmp_dir        = ref "tmp/"
 let phoneticrules_file = ref "data/reglesphonetiques"
