@@ -70,7 +70,7 @@ let output_spec =
   (
     "-o",
     Arg.String set_output,
-    "<file> The output file."
+    "<file> Specify an output file"
   )
     
 let quietmod_spec =
@@ -91,14 +91,14 @@ let seed_spec =
   (
     "-s",
     Arg.Set_int seed,
-    "<int> The seed for the random generator."
+    "<int> The seed for the random generator"
   )
     
 let first_spec =
   (
     "-f",
     Arg.Set_string first_word,
-    "<string> The seed word for the algorithm."
+    "<string> The seed word for the algorithm"
   )
 
     
@@ -106,21 +106,21 @@ let poemlength_spec =
   (
     "-l",
     Arg.Set_int poemLength,
-    "<int> The number of verses to be printed."
+    "<int> Set the number of verses to be printed"
   )
 
 let without_treetagger_spec =
   (
     "-old",
     Arg.Unit (fun () -> task := PoemFromCorpus),
-    " Run the algorithm directly on the corpus. Do not use Treetagger."
+    " Run the algorithm directly on the corpus. Do not use Treetagger"
   )
 
 let makecorpus_spec =
   (
     "-makecorpus",
     Arg.Unit (fun () -> task := MakeComputed),
-    " Build the tagged texts with Treetagger. Do nothing else."
+    " Build the tagged texts with Treetagger. Do nothing else"
   )
  
 let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec]

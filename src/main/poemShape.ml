@@ -60,8 +60,8 @@ let alexandrin_smpl idRime =
 (* construit le poeme *)
 let poeme_alexandrins n =
   let rec aux = function
-    |1 -> []
-    |i -> ( alexandrin_smpl (i / 2) ) @ ( aux (i - 1) ) in
+    |0 -> []
+    |i -> ( alexandrin_smpl ((i + 1) / 2) ) @ ( aux (i - 1) ) in
   [addNewline; add "."]@(aux n)@[end_]
 
 (* ************************ En vers libres *********************** *)

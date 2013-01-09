@@ -14,7 +14,11 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
+let arrayFilter f v = Array.of_list (List.filter f (Array.to_list v))
+
 module StateMap = Map.Make (State);;
+
+let stateMapFilter f map = StateMap.fold (fun s x m -> if f s x then StateMap.add s x m else m) map StateMap.empty;;
 
 let list_of_map map = StateMap.fold (fun k a acc -> (k, a)::acc) map []
 
@@ -67,6 +71,13 @@ struct
       let res = succ.(i) in
       res, (succ, (i + 1), 0)
 
+  let filter f map =
+    let filterElem (array, _) =
+      let v = arrayFilter (fun (s, _) -> f s) array in
+      (v, ref (Array.length v)) in
+    stateMapFilter (fun s (array, _) -> f s && array <> [||])
+      (StateMap.map filterElem map)
+      
   let printStatesByArrity out ?(min=0) ?(max=max_int) (map : t) =
     let l = list_of_map map in
     let withlength = List.map (fun (k, (v, _)) -> (k, Array.length v)) l in

@@ -36,7 +36,7 @@ sig
   val name : string
   val print_metadata : metadata -> string
   val print_state : state -> string 
-end;;
+end
 
 module type OrderConstraint =
 sig
@@ -66,14 +66,14 @@ struct
   let name = Printf.sprintf "[%s %s]" A.name B.name
   let print_metadata (ma, mb) = Printf.sprintf "(%s, %s)" (A.print_metadata ma) (B.print_metadata mb) 
   let print_state (sa, sb) = Printf.sprintf "(%s, %s)" (A.print_state sa) (B.print_state sb)
-end;;
+end
 
 module MergeConstraintAndOrderConstraint (A:Constraint) (B:OrderConstraint) =
 struct
   module C = MergeConstraint (A) (B.C)
   type order = B.order
   let use_order ((sa,sb):C.state) o = sa, B.use_order sb o
-end;;
+end
 
 module MergeOrderConstraint (A:OrderConstraint) (B:OrderConstraint) =
 struct
@@ -82,11 +82,7 @@ struct
   let use_order (sa,sb) = function
     |L oa -> A.use_order sa oa, sb
     |R ob -> sa, B.use_order sb ob
-end;;
-
-(*type 'b 'a patern =
-  |Read of int
-  |Order of 'a*)
+end
 
 module FinalConstraint
   (O : OrderConstraint)
@@ -95,7 +91,7 @@ struct
   module C = MergeConstraint (O.C) (Metric.C)
   type metadata = C.metadata
   type state = C.state * (((O.order, Metric.order) sum) list)
-  let precompute : string -> bool -> Tag.tag -> string -> metadata = C.precompute
+  let precompute = C.precompute
   let filter (s, _ : state) (m : metadata) = C.filter s m
   let rec read_order oState metricState  = function
     |(R metricOrder)::q ->
