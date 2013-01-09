@@ -1,0 +1,21 @@
+Lettreries est un logiciel qui écrit des poèmes aléatoires.
+Lettreries est sous licence GPL (www.gnu.org/licenses/gpl.html).
+Lettreries est écrit en Ocaml, il utilise les bibliothèques : .
+
+* Pour tester le programe :
+$ make
+$ ./lettreries
+
+* Pour afficher les options :
+$ ./lettreries -help
+
+* Exemple de commandes possibles :
+./lettreries
+./lettreries -q -l 1
+./lettreries -l 8
+./lettreries -s 42 -f rouge
+./bonus.sh
+
+* Bonus : Une boucle interractive pour tester le calcul de phonétique.
+$ make phonetique
+$ ./phonetique -api
