@@ -1,6 +1,6 @@
 Lettreries est un logiciel qui écrit des poèmes aléatoires.
 Lettreries est sous licence GPL (www.gnu.org/licenses/gpl.html).
-Lettreries est écrit en Ocaml, il utilise les bibliothèques : .
+Lettreries est écrit en Ocaml, il utilise les bibliothèques : Camomile.
 
 * Pour tester le programe :
 $ make
