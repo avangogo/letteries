@@ -15,7 +15,6 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 open Regles
-open Phoneme
 
 let ps = print_string;;
 let pn = print_newline;;

@@ -16,9 +16,6 @@
 
 exception End of (string list)
 
-let ps = print_string;;
-let p s = ps s; ps "/n";;
-
 type action =
   |Add of string
   |END

@@ -16,8 +16,6 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
 
-open Grammaire
-
 (* Change here to select the constraint *)
 module T = PoemShape.Classic
 let poeme n = PoemShape.poeme_alexandrins n

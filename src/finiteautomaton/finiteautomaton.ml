@@ -1,7 +1,7 @@
 (* Affichage, debuggage *)
-let p s = Printf.printf "%s\n" s; flush stdout;;
+(*let p s = Printf.printf "%s\n" s; flush stdout;;*)
 let pi s i = Printf.printf "%s : %i\n" s i; flush stdout;;
-let ps s = Printf.printf "A - %s\n" s; flush stdout;;
+(*let ps s = Printf.printf "A - %s\n" s; flush stdout;;*)
 
 let pauto (init, final, delta)=
   pi "Init" init;
@@ -297,7 +297,7 @@ let generate_f name pstate auto a b =
 (*** tests ***)
 (*    0((12)*|2)1    *)
 (* init 2 ; 3 : trash *)
-let (auto1 : t) =
+(* let (auto1 : t) =
   2,
   [|false;false;false;true;false;false;true;false|],
   [|
@@ -318,7 +318,7 @@ let (auto2:t) =
     [|2;2;1|];
     [|1;1;2|];
     [|2;2;2|]
-  |];;
+  |];;*)
 
 
 let random_automaton n k : t =
@@ -333,7 +333,7 @@ let random_nondeterministic n k =
   and delta = Array.init n (fun _ -> Array.init k (fun _ -> [Random.int n; Random.int n; Random.int n; Random.int n; Random.int n])) in
   init, final, delta;;
 
-
+(*
 let nd1 =
   [1; 3], 
   [4; 0],
@@ -356,3 +356,4 @@ let auto = make_setstar_naive
     [4;4;4];
     [5;5;5]
 ];;
+*)

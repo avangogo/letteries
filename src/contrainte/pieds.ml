@@ -1,7 +1,5 @@
 let automaton = ref (fun (_: string) -> failwith "unassigned automaton")
 
-let emptystate = Phonetique.phoneme_vide
-
 type rules =
   |Newline of int
   |Cesure of int

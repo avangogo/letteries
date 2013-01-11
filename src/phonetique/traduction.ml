@@ -48,14 +48,11 @@ let string_of_charlist l =
   done;
   res;;
 let ps = print_string;;
-let p x = ps x; print_newline ();;
-let p_charlist l =  ps (string_of_charlist l);;
 
-
-let filtre_prefixe pre regle =
+(*let filtre_prefixe pre regle =
   let aux = function
     |Fleche2(c1, _, _) -> est_suffixe pre c1 in
-  List.filter aux regle;;
+  List.filter aux regle;;*)
 
 let filtre_suffixe suf regle =
   let aux = function
@@ -71,14 +68,13 @@ let applique_regle_prefixe regle pre =
   aux regle;;
 
 
-let applique_regle regle pre suf =
+(*let applique_regle regle pre suf =
   let rec aux = function
     |(Fleche2(c1,c2,p))::q ->
-      (* p_charlist c1; ps "_"; p_charlist c2; print_newline ();*) 
       if (est_suffixe pre c1)&&(est_prefixe suf c2) then p
       else aux q
     |[] -> raise (Cassansregle (pre,suf)) in
-  aux regle;;
+  aux regle;;*)
 
 let table_des_exceptions assoc =
   let res = Hashtbl.create (List.length assoc) in

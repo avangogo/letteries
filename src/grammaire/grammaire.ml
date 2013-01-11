@@ -49,11 +49,6 @@ let isAcceptable sentence =
 let learn taglist =
   words := (cutSentences taglist) @ !words;;
 
-let rec take_begin n l =
-  if n = 0 then [] else match l with
-    |t::q -> t::(take_begin (n-1) q)
-    |[] -> []
-
 type metadata = int
 type state = Finiteautomaton.state
 
