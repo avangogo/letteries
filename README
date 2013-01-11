@@ -16,6 +16,18 @@ $ ./lettreries -help
 ./lettreries -s 42 -f rouge
 ./bonus.sh
 
+* Pour ajouter des textes au corpus, les placer dans le répertoire lettreries/data/corpus/user/.
+Ces fichiers supplémentaire ne seront utilisés que si:
+- Vous utilisez l'option -old :
+$./lettreries -old
+- Vous re-précalculez le corpus (!!Nécessite TreeTager!!):
+$./lettreries -makecorpus
+$./lettreries
+Les fichiers ajoutés doivent être en format Latin-15 et ne pas contenir d'autre caractère que des lettres (majuscules ou accentuées comprises) et de la ponctuation usuelle.
+
+* En changeant le code:
+Certains paramètres peuvent être modifiés dans Param.ml. Il faut recompiler après.
+
 * Bonus : Une boucle interractive pour tester le calcul de phonétique.
 $ make phonetique
 $ ./phonetique -api
