@@ -20,7 +20,7 @@ exception Toto of char
 type automate
 
 val precalcul :
-  (char * Regles.regle2 list) list * (string * Phoneme.phoneme list) list -> automate
+  (char, Phoneme.phoneme) Transducteur.localGrammar * (string * Phoneme.phoneme list) list -> automate
     
 val traduit :
   automate -> string -> Phoneme.phoneme list

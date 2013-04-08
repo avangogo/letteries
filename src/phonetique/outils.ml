@@ -25,9 +25,8 @@ let lis_regles fichier =
 
 let construit_machine nom =
   let r1 = lis_regles nom in
-  let r2 = Regles.construit_1 r1 in
-  let r3 = Regles.construit_2 r2 in
-  Traduction.precalcul r3;;
+  let r2 = Regles.construit_grammaire_locale r1 in
+  Traduction.precalcul r2;;
 
 (*fait une liaison*)
 let liaison (voy,con) premiere =
@@ -79,6 +78,5 @@ let nbre_voyelles mot =
 
 
 let traduit_phrase auto p =
-  let segments = Format.segmente p in
-  (*List.iter (fun x -> print_string x; print_newline ()) segments;*)
+  let segments = Norme.segmente p in
   List.fold_left concat [] (List.map (Traduction.traduit auto) segments);;

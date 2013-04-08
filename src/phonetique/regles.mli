@@ -40,3 +40,7 @@ val construit_1 :
   (char * lettre0 list) list * regle0 list * (string * Phoneme.phoneme list) list ->
   regle1 list * (string * Phoneme.phoneme list) list
 val construit_2 : regle1 list * 'a -> (char * regle2 list) list * 'a
+
+val construit_grammaire_locale :
+  (char * lettre0 list) list * regle0 list * (string * Phoneme.phoneme list) list ->
+  (char, Phoneme.phoneme) Transducteur.localGrammar * (string * Phoneme.phoneme list) list

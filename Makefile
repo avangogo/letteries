@@ -14,15 +14,15 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-LIBS = unix
+LIBS = unix,bigarray,camomile
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc,src/main
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc,src/main,src/structures
 
 IGNS = data
 
-COMMANDS = -w,Aem
+COMMANDS = -w,Ae
 
 BUILD_FLAGS = \
 	${COMMANDS},-I,${shell ocamlfind query camomile}
@@ -46,7 +46,7 @@ PHON_PATH = src/misc
 
 -include settings.sh # If you want to personalize your options…
 
-all: lettreries
+all: lettreries phonetique
 
 clean:
 	rm -R ${COMPILE}/*

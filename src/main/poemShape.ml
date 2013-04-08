@@ -29,7 +29,7 @@ module Classic =
   FinalConstraint
     (MergeOrderConstraint
        (MergeConstraintAndOrderConstraint
-	  (MergeConstraint (Grammaire) (Creation.Weak))
+	  (MergeConstraint (Grammaire) (MergeConstraint (Singulier) (Creation.Weak) ))
 	  (Rime))
        (Record)) (Pieds)
 
@@ -61,7 +61,7 @@ let alexandrin_smpl idRime =
 let poeme_alexandrins n =
   let rec aux = function
     |0 -> []
-    |i -> ( alexandrin_smpl ((i + 1) / 2) ) @ ( aux (i - 1) ) in
+    |i -> ( alexandrin ((i + 1) / 2) ) @ ( aux (i - 1) ) in
   [addNewline; add "."]@(aux n)@[end_]
 
 (* ************************ En vers libres *********************** *)

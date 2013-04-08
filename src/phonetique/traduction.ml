@@ -15,8 +15,12 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 open Regles;;
+open Transducteur;;
 
-type automate =
+type automate = (char, Phoneme.phoneme) transducer *
+    (string, Phoneme.phoneme list) Hashtbl.t (* table des exceptions *)
+
+(* type automate =
     char Automate.t * (* premier automate *)
       char Automate.t * (* second automate *)
       (char * Phoneme.phoneme list array array) list * (* fonction de résolution *)
@@ -36,11 +40,12 @@ let est_suffixe mot suf =
 let pre_et_suf_fixes regles =
   let extrait_contexte = function
     |Fleche2(c1,c2,_) -> (c1,c2) in
-  List.split(List.concat(List.map (fun (_,l) -> List.map extrait_contexte l) regles));;
+  List.split(List.concat(List.map (fun (_,l) -> List.map extrait_contexte l) regles));;*)
 
 exception Cassansregle of (char list)*(char list);;
 exception Toto of char;;
-let string_of_charlist l =
+
+(*let string_of_charlist l =
   let n = List.length l in
   let res = String.make n '*' in
   for i = 0 to n-1 do
@@ -48,11 +53,6 @@ let string_of_charlist l =
   done;
   res;;
 let ps = print_string;;
-
-(*let filtre_prefixe pre regle =
-  let aux = function
-    |Fleche2(c1, _, _) -> est_suffixe pre c1 in
-  List.filter aux regle;;*)
 
 let filtre_suffixe suf regle =
   let aux = function
@@ -65,24 +65,21 @@ let applique_regle_prefixe regle pre =
       if (est_suffixe pre c1) then p
       else aux q
     |[] -> raise (Cassansregle (pre,[])) in
-  aux regle;;
-
-
-(*let applique_regle regle pre suf =
-  let rec aux = function
-    |(Fleche2(c1,c2,p))::q ->
-      if (est_suffixe pre c1)&&(est_prefixe suf c2) then p
-      else aux q
-    |[] -> raise (Cassansregle (pre,suf)) in
   aux regle;;*)
+
 
 let table_des_exceptions assoc =
   let res = Hashtbl.create (List.length assoc) in
   List.iter (fun (mot, phon) -> Hashtbl.add res mot phon) assoc;
   res;;
 
+let precalcul (regles, exceptions) =
+  let automate = Transducteur.make (caractere_fin::Regles.alphabet) regles
+  and tableexceptions = table_des_exceptions exceptions in
+  (automate, tableexceptions)
+
 (*cree tout le matériel pour permettre la traduction*)
-let precalcul (regle, exceptions) =
+(*let precalcul (regle, exceptions) =
   let (prefixes,suffixes) = pre_et_suf_fixes regle in
   let auto1 = Automate.make (caractere_fin::Regles.alphabet) prefixes
   and auto2 = Automate.make (caractere_fin::Regles.alphabet) (List.map List.rev suffixes) in
@@ -102,10 +99,10 @@ let precalcul (regle, exceptions) =
     table in
   let grandetable = List.map (fun c -> (c,table_char c)) alphabet in
   let tableexception = table_des_exceptions exceptions in
-  (auto1,auto2,grandetable,tableexception);;
+  (auto1,auto2,grandetable,tableexception);;*)
 
 (**)
-let lis_table table c i j =
+(* let lis_table table c i j =
   (List.assoc c table).(i).(j);;
 
 let chartab_of_string s =
@@ -114,10 +111,10 @@ let chartab_of_string s =
   for i = 0 to n-1 do
     res.(i) <- s.[i]
   done;
-  res;;
+  res;;*)
 
 (*traduit un mot*)
-let traduit (auto1,auto2,table,exceptions) mot0 =
+(* let traduit (auto1,auto2,table,exceptions) mot0 =
   try
     Hashtbl.find exceptions mot0
   with Not_found ->
@@ -141,6 +138,18 @@ let traduit (auto1,auto2,table,exceptions) mot0 =
 			(fun i c -> 
 			  lis_table table c etat1.(i) etat2.(i))
 			mot))
-    end;;
+    end;;*)
 
+let charlist_of_string s =
+  let n = String.length s in
+  let res = ref [caractere_fin] in
+  for i = n-1 downto 0 do
+    res := s.[i] :: !res
+  done;
+  !res;;
 
+let traduit (auto, exceptions) mot =
+  try
+    Hashtbl.find exceptions mot
+  with Not_found ->
+    transduce auto (charlist_of_string mot) (* enlever la sérialisation? *)

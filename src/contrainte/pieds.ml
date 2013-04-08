@@ -18,12 +18,14 @@ struct
   let int_of_liaison muet debut =
     Phonetique.nbre_voyelles (Phonetique.liaison muet debut)
 
-  let filter (debut, i) (_, j, muet) = i >= j + (int_of_liaison muet debut)(*FIXME: optimiser?*)
+  let filter (debut, i) (_, j, muet) = i >= j + (int_of_liaison muet debut)
 
   let step (debut, i) (debut2, j, muet) =
-    let new_i = i - (j + (int_of_liaison muet debut)) in
-    if i < 0 then raise Contrainte.ContrainteNonRespectee else
-      (debut2, new_i)
+    if j=0 && muet=Phonetique.muet_vide then (debut, i)
+    else
+      let new_i = i - (j + (int_of_liaison muet debut)) in
+      if i < 0 then raise Contrainte.ContrainteNonRespectee else
+	(debut2, new_i)
 
   let init_state () = (Phonetique.phoneme_vide, 0)
 

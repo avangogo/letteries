@@ -48,6 +48,7 @@ ei	-> 'e^'
 ou	-> 'u'
 ui	-> 'h''i'
 oy[V]	-> 'w''a''j'
+ay[V]	-> 'e^''j'
 oi	-> 'w''a'
 
 am[K]	-> 'a~'
@@ -79,6 +80,7 @@ ques FIN -> 'k'('q''s')
 qu	-> 'k'
 cu[V]	-> 'k'
 gu[V]	-> 'g'
+gn	-> 'n''j'
 
 
 (*regles de fin*)
@@ -89,7 +91,7 @@ er	FIN	-> 'e'('r')
 [V]es	FIN	-> ('z')
 es	FIN	-> ('q''z')
 et  	FIN	-> 'e^'('t')
-
+ent	FIN	-> ('q''t')
 
 [V]e 	FIN	-> 	
 e 	FIN	-> ('q')
@@ -182,6 +184,10 @@ z	-> 'z'
 (*exceptions*)
 
 les	-> 'l''e'('z')
+des	-> 'd''e'('z')
+mes	-> 'm''e'('z')
+tes	-> 't''e'('z')
+ses	-> 's''e'('z')
 le	-> 'l''q'
 et	-> 'e'('t')
 s	-> 's'

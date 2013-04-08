@@ -51,16 +51,16 @@ let string_of_char x = String.make 1 x;;
 
 (**vérifications**)
 let verifie_char x =
-  if not (List.mem x alphabet) then raise  (ErreurDeRegle ("char: caractere inconnu : "^(string_of_char x)));;
+  if not (List.mem x alphabet) then raise (ErreurDeRegle ("char: caractere inconnu : "^(string_of_char x)));;
 
 let verifie_Lettre0 = function
-  |Lettre0 c -> verifie_char c
-  |_ -> raise (ErreurDeRegle "cet élément doit etre un Lettre0");;
+  | Lettre0 c -> verifie_char c
+  | _ -> raise (ErreurDeRegle "Cet élément doit etre un Lettre0");;
 
 let verifie_lettre0 vars = function
-  |Var0 c    -> if not (List.mem c vars) then raise  (ErreurDeRegle ("lettre0: caractere inconnu : "^(string_of_char c)))
-  |Lettre0 c -> verifie_char c
-  |Fin0      -> ();;
+  | Var0 c    -> if not (List.mem c vars) then raise  (ErreurDeRegle ("lettre0: caractere inconnu : "^(string_of_char c)))
+  | Lettre0 c -> verifie_char c
+  | Fin0      -> ();;
 
 let verifie_phoneme p =
   if not (Phoneme.est_valide1 p) then raise (ErreurDeRegle "Phoneme inconnu");;
@@ -82,61 +82,61 @@ let ast0 (var,regle,expt) =
     List.iter (verifie_regle0 vars) regle;
     List.iter verifie_exception expt;;
 
-(**********passage de 0 à 1*********)
+(* **************** passage de 0 à 1 ************* *)
 let lettre1_of_lettre0 = function
-  |Lettre0 c -> Lettre1 c
-  |Fin0      -> Fin1
-  |Var0 _    -> raise (ErreurDeRegle "lettre1_of_lettre0")
+  | Lettre0 c -> Lettre1 c
+  | Fin0      -> Fin1
+  | Var0 _    -> raise (ErreurDeRegle "lettre1_of_lettre0")
 
 (*multiplie les petits pains*)
 (*donne toutes les interprétations possibles d'une lettre*)
 let lettre1list_of_lettre0 vars = function
-  |Var0 c    -> List.map lettre1_of_lettre0 (List.assoc c vars)
-  |Lettre0 c -> [Lettre1 c]
-  |Fin0      -> [Fin1]
+  | Var0 c    -> List.map lettre1_of_lettre0 (List.assoc c vars)
+  | Lettre0 c -> [Lettre1 c]
+  | Fin0      -> [Fin1]
 
-(*a [A1; ;An] associe A1*..*An au sens du produit cartésien*)
+(*à [A1; ;An] associe A1*..*An au sens du produit cartésien*)
 let rec produitcartesien = function
-  |[] -> [[]]
-  |t::q -> List.concat (List.map (fun l -> List.map (fun x -> x::l) t) (produitcartesien q));;
+  | [] -> [[]]
+  | t::q -> List.concat (List.map (fun l -> List.map (fun x -> x::l) t) (produitcartesien q));;
 
 
-(*donne toutes les interprétations possibles d'un mot dans lettre0* *)
+(*donne toutes les interprétations possibles d'un mot dans lettre0 i.e. supprime les varables *)
 let lettre1listlist_of_lettre0list vars mot =
   produitcartesien (List.map (lettre1list_of_lettre0 vars) mot);;
 
 (*construit les regles pour un contexte fixé et un mot d'éventuellement plusieurs lettre*)
 let rec construit_regles1 c1 x c2 p = match x with
-  |[]   -> []
-  |t::q -> (Fleche1(c1,t,q@c2,p))::(construit_regles1 (c1@[t]) q c2 []);;
-
+  | []   -> []
+  | t::q -> (Fleche1(c1,t,q@c2,p))::(construit_regles1 (c1@[t]) q c2 []);;
 
 (*transforme une regle en toutes ses interprétations*)
 let regle1_list_of_regle0 vars = function
-  |Fleche0(c1,x,c2,p) -> (*(lettre0 list)*(lettre0 list)*(lettre0 list)*(phoneme list) *)
-     let lc1 = lettre1listlist_of_lettre0list vars c1
-     and lc2 = lettre1listlist_of_lettre0list vars c2 in
-     let lx  = lettre1listlist_of_lettre0list vars x in
-       (*BOUM*)
-       List.concat (List.concat( List.concat(
-				   List.map (fun co1 -> List.map (fun xo -> List.map (fun co2 ->
-											construit_regles1 co1 xo co2 p
-										     ) lc2) lx) lc1)));;
+  | Fleche0(c1,x,c2,p) -> (*(lettre0 list)*(lettre0 list)*(lettre0 list)*(phoneme list) *)
+    let lc1 = lettre1listlist_of_lettre0list vars c1
+    and lc2 = lettre1listlist_of_lettre0list vars c2 in
+    let lx  = lettre1listlist_of_lettre0list vars x in
+    (*BOUM*)
+    List.concat (List.concat( List.concat(
+      List.map (fun co1 -> List.map (fun xo -> List.map (fun co2 ->
+	construit_regles1 co1 xo co2 p
+      ) lc2) lx) lc1)));;
 (*transforme une liste de regles*)
 let construit_1 (vars,rgle,expt) =
   ast0 (vars,rgle,expt);
   ((List.concat (List.map (regle1_list_of_regle0 vars) rgle)), expt);;
 
-(***de 1 à 2***)
+
+(* ************************ de 1 à 2 ******************** *)
 let lettre2_of_lettre1 = function
-  |Lettre1 c -> c
-  |Fin1      -> caractere_fin;;
+  | Lettre1 c -> c
+  | Fin1      -> caractere_fin;;
 
 let rec add_assoc clef elem = function
-  |(clef0,l)::q ->
+  | (clef0, l)::q ->
     if clef=clef0 then (clef0, elem::l)::q
-    else (clef0,l)::(add_assoc clef elem q)
-  |[] -> [(clef,[elem])];;
+    else (clef0, l)::(add_assoc clef elem q)
+  | [] -> [(clef,[elem])];;
 
 let add_regle regle1 l_assoc =
   match regle1 with
@@ -154,3 +154,23 @@ let regles2_assoc_of_regle1_list r1 =
 
 let construit_2 (rgle,expt) =
   (regles2_assoc_of_regle1_list rgle, expt);;
+
+(* ***************** de 1 à une grammaire locale ************** *)
+let chars_of_lettre1s = List.map lettre2_of_lettre1
+
+let localRule_list_of_regle0 vars = function
+  | Fleche0(c1,x,c2,p) -> (*(lettre0 list)*(lettre0 list)*(lettre0 list)*(phoneme list) *)
+    let lc1 = lettre1listlist_of_lettre0list vars c1
+    and lc2 = lettre1listlist_of_lettre0list vars c2
+    and lx  = lettre1listlist_of_lettre0list vars x in
+     (*BOUM*)
+    List.concat (List.concat (
+      List.map (fun co1 -> List.map (fun xo -> List.map (fun co2 ->
+	Transducteur.Arrow(chars_of_lettre1s co1, chars_of_lettre1s xo, chars_of_lettre1s co2, p)
+      ) lc2) lx) lc1));;
+
+(*transforme une liste de regles locales*)
+let construit_grammaire_locale (vars,rgle,expt) =
+  ast0 (vars,rgle,expt); (* tests *)
+  let gere_fin = Transducteur.Arrow([],[caractere_fin],[],[]) in
+  (gere_fin :: (List.concat (List.map (localRule_list_of_regle0 vars) rgle)), expt);;
