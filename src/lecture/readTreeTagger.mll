@@ -25,7 +25,8 @@ let tag = letters* (':' letters*)?
 rule token acc = parse
   | ((word as word) '\t')                             { let tag = tag lexbuf in
 							newline lexbuf;
-						        token ((word, tag) :: acc) lexbuf }
+							(* Traduction en même temps *)
+						        token ((UseCamomile.utf8_of_latin0 word, tag) :: acc) lexbuf }
   | eof             		        	      { List.rev acc }
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 

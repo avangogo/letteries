@@ -15,7 +15,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 let filtre =
-  let res = String.make 256 ' '(*'*'*) in
+  let res = String.make 256 '*'(*'*'*) in
   for i = 97 to 122 do 
     res.[i]    <- char_of_int i; (*minuscules*)
     res.[i-32] <- char_of_int i (*majuscules*)
@@ -25,10 +25,11 @@ let filtre =
   enregistre 'a' ['À';'Á';'Â';'Ã';'Ä';'Å';'à';'á';'â';'ã';'ä';'å'];
   enregistre 'è' ['È';'Ê';'Ë';'è';'ê';'ë'];
   enregistre 'é' ['é';'É'];
-  enregistre 'i' ['ì';'í';'î';'ï';'Ì';'Í';'Î';'Ï'];
+  enregistre 'i' ['ì';'í';'î';'ï';'Ì';'Í';'Î';'Ï']; (* WARNING : FAUX POUR LES TREMAS *)
   enregistre 'o' ['Ò';'Ó';'Ô';'Õ';'Ö';'ò';'ó';'ô';'õ';'ö'];
   enregistre 'u' ['Ù';'Ú';'Û';'Ü';'ù';'ú';'û';'ü'];
   enregistre 'y' ['Ý';'ý';'ÿ'];
+  enregistre 's' ['ç']; (* WARNING : REDUCTION INEXACTE *)
   enregistre ' ' [' '; '!'; '"'; '\''; '(' ; ')'; ','; '-'; '.'; ':'; ';'; '?'; '\n'];
   res;;
 

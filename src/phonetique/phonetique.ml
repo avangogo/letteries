@@ -39,3 +39,4 @@ let string_of_muet (p1, p2) =
 let print l = List.iter Affichage.p_phoneme l
 let prettyprint_api_utf8 l =
   Printf.printf "[ %s ]" (String.concat "" (List.map Phoneme.api l))
+let size = Traduction.size

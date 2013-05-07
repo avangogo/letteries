@@ -39,10 +39,11 @@ let construit_poeme parse_texts =
   let t0 = Sys.time () in
   let machine = Phonetique.make_automate !Param.phoneticrules_file in
   let t1 = (Sys.time ()) -. t0 in
+  Print.verbose (Printf.sprintf "%d états" (Phonetique.size machine));
   Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);
 
   (* La fonction de traduction aux modules qui l’utilisent *)
-  let traduit = Phonetique.of_string machine in
+  let traduit mot = Phonetique.of_string machine (UseCamomile.latin0_of_utf8 mot) in
   Pieds.automaton := traduit;
   Rime.automaton := traduit;
 

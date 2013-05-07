@@ -2,13 +2,15 @@ open Minidata
 
 type state = int
 
-(* initial state, number of states, transitions *)
-type ('a, 'b) transducer = state * int * ('a * (state * 'b list)) list array
+(* initial state, transitions *)
+type ('a, 'b) transducer = state * ('a * (state * 'b list)) list array
 
 type ('a, 'b) localRule =
     Arrow of 'a list * 'a list * 'a list * 'b list
 
 type ('a, 'b) localGrammar = ('a, 'b) localRule list
+
+let size (_, t) = Array.length t
 
 let left_context = function
   | Arrow( c, _, _, _ ) -> c
@@ -86,7 +88,7 @@ let fst_letter = function
 let index_rules = function
   |Arrow(_, w, _, _) -> fst_letter w;;
 
-let crade = ref (Obj.magic 0);;
+(*let crade = ref (Obj.magic 0);;
 let ps = print_string
 let pc = print_char
 let pn = print_newline
@@ -103,7 +105,7 @@ let pauto (n, init, trans) =
   Printf.printf "n : %i\ninit : %i\n" n init;
   Array.iteri (fun i t -> Printf.printf "%i\n" i; List.iter pt t) trans;;
 let pi i = print_int i; print_newline ();;
-let pregle = function Arrow( u, v, w, _ ) -> Printf.printf "[%s]%s[%s] -> ...\n" (scharlist u) (scharlist v) (scharlist w);;
+let pregle = function Arrow( u, v, w, _ ) -> Printf.printf "[%s]%s[%s] -> ...\n" (scharlist u) (scharlist v) (scharlist w);;*)
 
 let rec simplify = function
   |t :: q -> t::(simplify (List.filter (fun x -> not (is_more_general t x)) q))
@@ -153,18 +155,18 @@ let make sigma0 rules0 =
   let m = List.length sigma0 in
   let sigma = makeToInt sigma0 in
 
-  let a = start () in
+  (* let a = start () in *)
 
   let rules = makeTree word_and_suffixe (elem sigma) rules0 in
   
-  stop "makeTree" a;
+  (* stop "makeTree" a;*)
   
   let prefix = Automate.make (elem sigma) (List.map left_context rules0) in
-  Printf.printf "Nombre de prefixes : %i\n" (Automate.length prefix);
+  (* Printf.printf "Nombre de prefixes : %i\n" (Automate.length prefix);
   Printf.printf "Regles avec [] : %i\n" (List.length rules0);
-  Printf.printf "Regles avec [] : %i\n" (List.length (List.filter (fun x -> left_context x = []) rules0));
+  Printf.printf "Regles avec [] : %i\n" (List.length (List.filter (fun x -> left_context x = []) rules0));*)
   let init = Automate.initial, [] in
-  let states = Hashtbl.create (let i = m*m in Printf.printf "toto : %d\n" i; i)
+  let states = Hashtbl.create (m*m)
   and delta = ref []
   and to_do = Stack.create () in
   let new_id =
@@ -186,42 +188,37 @@ let make sigma0 rules0 =
     (alpha, (s_id, o))
   in
 
-  let b = start () in
+  (*let b = start () in*)
 
   while not (Stack.is_empty to_do) do
     let state, id_state = Stack.pop to_do in
     delta := (id_state, (List.map (calc_succ state) (elem sigma)))::(!delta)
   done;
 
-  stop "boucle" b;
+  (*stop "boucle" b;*)
 
   (* normalisation *)
   let n = new_id () in
-  Printf.printf "nombre d'appels : %d\n" !i;
+  (* Printf.printf "nombre d'appels : %d\n" !i;
   Printf.printf "nombre d'appels non vides : %d\n" !j;
-  Printf.printf "nombre d'états : %d\n" n;
+  Printf.printf "nombre d'états : %d\n" n;*)
   let new_delta = Array.make n [] in
   List.iter (fun (i, t) -> new_delta.(i) <- t) !delta;
-  (n, get_id init, new_delta);;
+  (get_id init, new_delta);;
 
 (* Minimisation *)
 
 
 
 (* Exécution *)
-let transduce0 (init, _, _, delta) w =
-  let step (s, out) a =
-    let (new_s, o) = List.assoc a (List.assoc s delta) in (new_s, out@o)
-  in
-  let (_, res) = List.fold_left step (init, []) w in
-  res;;
-
-let transduce (_, init, trans) w =
+let transduce (init, trans) w =
   let step (s, out) a =
     let (new_s, o) = List.assoc a trans.(s) in (new_s, out@o)
   in
   let (_, res) = List.fold_left step (init, []) w in
   res;;
+
+
 
 (* ===================== *)
 let r =

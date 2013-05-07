@@ -26,6 +26,28 @@ M = [b c d s t g] (*lettres muettes*)
 *section*
 (*regles*)
 
+(*regles de fin*)
+ec	FIN 	-> 'e^''k'
+ed	FIN	-> 'e'
+eds	FIN	-> 'e'('s')
+er	FIN	-> 'e'('r')
+et  	FIN	-> 'e^'('t')
+
+[V]ent	FIN	-> ('t')
+ent	FIN	-> ('q''t')
+[V]es	FIN	-> ('z')
+es	FIN	-> ('q''z')
+[V]e 	FIN	-> 	
+e 	FIN	-> ('q')
+
+b	FIN	-> ('b')
+d	FIN	-> ('d')
+s	FIN	-> ('z')
+t	FIN	-> ('t')
+x	FIN	-> ('z')
+g	FIN	->
+M[M]	FIN	->
+M[MM]   FIN	->
 
 (*regles de plusieurs lettres*)
 
@@ -33,6 +55,8 @@ ein[K]	-> 'e~'
 ain[K]	-> 'e~'
 ein FIN	-> 'e~'
 ain FIN	-> 'e~'
+oin [K]	-> 'w''e~'
+oim [K]	-> 'w''e~'
 oin FIN	-> 'w''e~'
 oim FIN	-> 'w''e~'
 ien FIN	-> 'j''e~'
@@ -73,37 +97,13 @@ un FIN	-> 'e~'
 um FIN	-> 'e~'
 
 ch	-> 's^'
-gue FIN	-> 'g'('q')
-gues FIN -> 'g'('q''s')
-que FIN	-> 'k'('q')
-ques FIN -> 'k'('q''s')
-qu	-> 'k'
+qu[V]	-> 'k'
 cu[V]	-> 'k'
 gu[V]	-> 'g'
 gn	-> 'n''j'
 
 
-(*regles de fin*)
-ec	FIN 	-> 'e^''k'
-ed	FIN	-> 'e'
-eds	FIN	-> 'e'('s')
-er	FIN	-> 'e'('r')
-[V]es	FIN	-> ('z')
-es	FIN	-> ('q''z')
-et  	FIN	-> 'e^'('t')
-ent	FIN	-> ('q''t')
 
-[V]e 	FIN	-> 	
-e 	FIN	-> ('q')
-
-b	FIN	-> ('b')
-d	FIN	-> ('d')
-s	FIN	-> ('z')
-t	FIN	-> ('t')
-x	FIN	-> ('z')
-g	FIN	->
-M[M]	FIN	->
-M[MM]   FIN	->
 
 
 
@@ -206,3 +206,7 @@ cher	-> 's^''e^''r'
 oeil    -> 'q''j'
 femme	-> 'f''a''m'('q')
 femmes	-> 'f''a''m'('q''z')
+vent	-> 'v''a~'('t')
+vents	-> 'v''a~'('z')
+lent	-> 'l''a~'('t')
+lents	-> 'l''a~'('z')

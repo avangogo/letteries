@@ -19,8 +19,11 @@ exception Toto of char
 
 type automate
 
+val size :
+  automate -> int
+
 val precalcul :
   (char, Phoneme.phoneme) Transducteur.localGrammar * (string * Phoneme.phoneme list) list -> automate
-    
+
 val traduit :
   automate -> string -> Phoneme.phoneme list

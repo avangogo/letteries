@@ -21,11 +21,10 @@ struct
   let filter (debut, i) (_, j, muet) = i >= j + (int_of_liaison muet debut)
 
   let step (debut, i) (debut2, j, muet) =
-    if j=0 && muet=Phonetique.muet_vide then (debut, i)
-    else
-      let new_i = i - (j + (int_of_liaison muet debut)) in
-      if i < 0 then raise Contrainte.ContrainteNonRespectee else
-	(debut2, new_i)
+    let new_debut = if debut2 <> Phonetique.phoneme_vide then debut2 else debut in
+    let new_i = i - (j + (int_of_liaison muet debut)) in
+    if new_i < 0 then raise Contrainte.ContrainteNonRespectee else
+      (new_debut, new_i)
 
   let init_state () = (Phonetique.phoneme_vide, 0)
 
