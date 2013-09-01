@@ -74,7 +74,7 @@ struct
   let init_state () = 0, 0
   
   (*pretty-printing*)
-  let name = "Creation"
+  let name = "Creation (faible)"
   let print_state (a, b) = Printf.sprintf "(%i, %i)" a b
   let print_metadata = string_of_int
 end

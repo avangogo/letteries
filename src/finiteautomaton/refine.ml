@@ -1,7 +1,7 @@
 
 (*nsets elems loc sidx begin end mid*)
 type t = int ref * int array * int array * int array * int array * int array * int array
-type el = int
+type elt = int
 type set = int
 
 

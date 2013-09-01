@@ -20,6 +20,8 @@ module DRime = Debug.OfOrderConstraint (Rime)
 module DPieds = Debug.OfMetricConstraint (Pieds)
 module DRecord = Debug.OfOrderConstraint (Record)
 module DCreation = Debug.OfConstraint (Creation.Weak)
+module DGrammaire = Debug.OfConstraint (Grammaire)
+module DSingulier = Debug.OfConstraint (Singulier)
 
 (* ********************* Forme habituelle *********************** *)
 
@@ -30,6 +32,14 @@ module Classic =
     (MergeOrderConstraint
        (MergeConstraintAndOrderConstraint
 	  (MergeConstraint (Grammaire) (MergeConstraint (Singulier) (Creation.Weak) ))
+	  (Rime))
+       (Record)) (Pieds)
+
+module Noble =
+  FinalConstraint
+    (MergeOrderConstraint
+       (MergeConstraintAndOrderConstraint
+	  (MergeConstraint (Grammaire) (MergeConstraint (Singulier) (Creation.Normal) ))
 	  (Rime))
        (Record)) (Pieds)
 
@@ -63,6 +73,17 @@ let poeme_alexandrins n =
     |0 -> []
     |i -> ( alexandrin ((i + 1) / 2) ) @ ( aux (i - 1) ) in
   [addNewline; add "."]@(aux n)@[end_]
+
+let quatrain _ =
+  List.concat
+    [
+      [addNewline; add "."];
+      alexandrin 1;
+      alexandrin 2;
+      alexandrin 1;
+      alexandrin 2;
+      [end_]
+    ]
 
 (* ************************ En vers libres *********************** *)
 

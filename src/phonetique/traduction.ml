@@ -31,7 +31,7 @@ let table_des_exceptions assoc =
   res;;
 
 let precalcul (regles, exceptions) =
-  let automate = Transducteur.make (caractere_fin::Regles.alphabet) regles
+  let automate = Transducteur.pseudo_minimize (Transducteur.make (caractere_fin::Regles.alphabet) regles)
   and tableexceptions = table_des_exceptions exceptions in
   (automate, tableexceptions)
 

@@ -17,8 +17,8 @@
 *)
 
 (* Change here to select the constraint *)
-module T = PoemShape.Classic
-let poeme n = PoemShape.poeme_alexandrins n
+module T = PoemShape.Noble
+let poeme n = PoemShape.quatrain n (*PoemShape.poeme_alexandrins n*)
 
 
 module B = Complex_bdd.ComplexBdd (T)

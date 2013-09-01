@@ -22,6 +22,7 @@ K = [b c d f g h j k l p q r s t v z]
 A = [a o u]
 I = [e i y é è]
 M = [b c d s t g] (*lettres muettes*)
+G = [q g]
 
 *section*
 (*regles*)
@@ -33,10 +34,13 @@ eds	FIN	-> 'e'('s')
 er	FIN	-> 'e'('r')
 et  	FIN	-> 'e^'('t')
 
+[Gu]ent	FIN	-> ('q''t')
 [V]ent	FIN	-> ('t')
 ent	FIN	-> ('q''t')
+[Gu]es	FIN	-> ('q''s')
 [V]es	FIN	-> ('z')
 es	FIN	-> ('q''z')
+[Gu]e	FIN	-> ('q')
 [V]e 	FIN	-> 	
 e 	FIN	-> ('q')
 
@@ -60,10 +64,16 @@ oim [K]	-> 'w''e~'
 oin FIN	-> 'w''e~'
 oim FIN	-> 'w''e~'
 ien FIN	-> 'j''e~'
+
 eil FIN -> 'e^''j'
 eils FIN -> 'e^''j'('z')
+euil FIN -> 'q''j'
+euils FIN -> 'q''j'('z')
+
+[V]ill  ->  'j'
 
 ai	-> 'e^'
+
 eau	-> 'o'
 au	-> 'o'
 oeu	-> 'x^'
@@ -101,6 +111,8 @@ qu[V]	-> 'k'
 cu[V]	-> 'k'
 gu[V]	-> 'g'
 gn	-> 'n''j'
+
+
 
 
 
@@ -207,6 +219,5 @@ oeil    -> 'q''j'
 femme	-> 'f''a''m'('q')
 femmes	-> 'f''a''m'('q''z')
 vent	-> 'v''a~'('t')
-vents	-> 'v''a~'('z')
 lent	-> 'l''a~'('t')
-lents	-> 'l''a~'('z')
+vient 	-> 'v''j''e~'('t')

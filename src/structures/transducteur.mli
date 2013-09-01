@@ -14,3 +14,6 @@ val make :
 
 val transduce :
   ('a, 'b) transducer -> 'a list -> 'b list
+
+val pseudo_minimize :
+  ('a, 'b) transducer -> ('a, 'b) transducer

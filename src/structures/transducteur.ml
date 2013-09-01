@@ -1,17 +1,18 @@
 open Minidata
 
+(* ** types ** *)
 type state = int
 
-(* initial state, transitions *)
-type ('a, 'b) transducer = state * ('a * (state * 'b list)) list array
+type ('a, 'b) transducer = { init : state; delta : ('a * (state * 'b list)) list array}
 
 type ('a, 'b) localRule =
     Arrow of 'a list * 'a list * 'a list * 'b list
 
 type ('a, 'b) localGrammar = ('a, 'b) localRule list
 
-let size (_, t) = Array.length t
+let size t = Array.length t.delta
 
+(* Comparaisons de listes *)
 let left_context = function
   | Arrow( c, _, _, _ ) -> c
 
@@ -46,13 +47,13 @@ let rec compare_prefix a b =
 	|t2::q2 -> if t1=t2
 	  then compare_prefix q1 q2
 	  else Uncomparable;;
-  
+
 let rec prefix_sym v w =
   match v,w with
-    |[], _ -> true
-    |_, [] -> true
-    |t2::q2, t1::q1 when t1=t2 -> prefix_sym q1 q2
-    |_ -> false;;
+    | [], _ -> true
+    | _, [] -> true
+    | t2::q2, t1::q1 when t1=t2 -> prefix_sym q1 q2
+    | _ -> false;;
 
 let suffix s w =
   prefix (List.rev s) (List.rev w)
@@ -88,7 +89,7 @@ let fst_letter = function
 let index_rules = function
   |Arrow(_, w, _, _) -> fst_letter w;;
 
-(*let crade = ref (Obj.magic 0);;
+(* let crade = ref (Obj.magic 0);;
 let ps = print_string
 let pc = print_char
 let pn = print_newline
@@ -101,11 +102,13 @@ let ptrans t = Printf.printf "%s\n" (strans t)
 let p_ (s, l) = pstate s; pn (); List.iter ptrans l
 let pdelta l = List.iter (fun (s, succ) -> pstate s; List.iter p_ succ) l
 let pt (c, (s, l)) = Printf.printf "  %c -- %s --> %i\n" c (scharlist l) s;;
-let pauto (n, init, trans) =
-  Printf.printf "n : %i\ninit : %i\n" n init;
-  Array.iteri (fun i t -> Printf.printf "%i\n" i; List.iter pt t) trans;;
+let pauto a =
+  Printf.printf "n : %i\ninit : %i\n" (Array.length a.delta) a.init;
+  Array.iteri (fun i t -> Printf.printf "%i\n" i; List.iter pt t) a.delta;;
 let pi i = print_int i; print_newline ();;
-let pregle = function Arrow( u, v, w, _ ) -> Printf.printf "[%s]%s[%s] -> ...\n" (scharlist u) (scharlist v) (scharlist w);;*)
+let pregle = function Arrow( u, v, w, _ ) -> Printf.printf "[%s]%s[%s] -> ...\n" (scharlist u) (scharlist v) (scharlist w);;
+
+let p s = Printf.printf "%s\n" s; flush stdout;; *)
 
 let rec simplify = function
   |t :: q -> t::(simplify (List.filter (fun x -> not (is_more_general t x)) q))
@@ -188,14 +191,10 @@ let make sigma0 rules0 =
     (alpha, (s_id, o))
   in
 
-  (*let b = start () in*)
-
   while not (Stack.is_empty to_do) do
     let state, id_state = Stack.pop to_do in
     delta := (id_state, (List.map (calc_succ state) (elem sigma)))::(!delta)
   done;
-
-  (*stop "boucle" b;*)
 
   (* normalisation *)
   let n = new_id () in
@@ -204,31 +203,68 @@ let make sigma0 rules0 =
   Printf.printf "nombre d'états : %d\n" n;*)
   let new_delta = Array.make n [] in
   List.iter (fun (i, t) -> new_delta.(i) <- t) !delta;
-  (get_id init, new_delta);;
+  { init = get_id init ; delta = new_delta };;
 
 (* Minimisation *)
+(* Application de l'algorithme de minimisation des automates fini à l'automate formé
+en considérant chaque étiquette du transducteur (entrée + sortie) comme une seule lettre*)
 
+let finiteautomaton_of_transducer t =
+  let translate (input, (state, output)) = (input, output), state in
+  let delta = Array.map (List.map translate) t.delta
+  and init = t.init
+  and final = Array.make (size t) true
+  in
+  Finiteautomaton.make_noncomplete init final delta;;
 
+let transducer_of_finiteautomaton a =
+  let init, _, delta = Finiteautomaton.drop_noncomplete a in (* peu robuste *)
+  let translate ((input, output), state) = input, (state, output) in
+  let new_delta = Array.map (List.map translate) delta in
+  { init = init; delta = new_delta };;
+
+let pseudo_minimize t =
+  let a = finiteautomaton_of_transducer t in
+  let minimized_a = Finiteautomaton.nc_minimize a in
+  transducer_of_finiteautomaton minimized_a;;
+
+(* ************************** *)
 
 (* Exécution *)
-let transduce (init, trans) w =
+let transduce t w =
   let step (s, out) a =
-    let (new_s, o) = List.assoc a trans.(s) in (new_s, out@o)
+    let (new_s, o) = List.assoc a t.delta.(s) in (new_s, out@o)
   in
-  let (_, res) = List.fold_left step (init, []) w in
+  let (_, res) = List.fold_left step (t.init, []) w in
   res;;
 
 
 
 (* ===================== *)
-let r =
+(* let r =
   [
     Arrow( ['b'], ['a';'a'], ['a'], ['2']);
     Arrow( [], ['a'], [], ['A']);
     Arrow( [], ['b'], [], ['B']);
-    Arrow( [], ['f'], [], ['E';'N';'D'])
+    Arrow( [], ['b'], ['a'], ['B']);
+    Arrow( [], ['c'], [], ['E';'N';'D']);
+    Arrow( [], ['c'], [], ['E';'N']);
+    Arrow( ['a'], ['a'], [], ['A']);
+    Arrow( ['b'], ['a'], [], ['A']);
+    Arrow( ['c'], ['a'], [], ['A'])
   ];;
 
-let sigma = ['a'; 'b'; 'f'];;
+let sigma = ['a'; 'b'; 'c'];;
 
 
+let t = make sigma r;;
+
+p (string_of_int (size t));;
+pauto t;;
+let s = pseudo_minimize t;;
+p (string_of_int (size s));;
+pauto s;;
+
+
+
+failwith "toto";;*)

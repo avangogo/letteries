@@ -1,14 +1,14 @@
 type t
-type el = int
+type elt = int
 type set = int
 
 val sets : t -> int
 val make : int -> t
 val size : t -> set -> int
-val set : t -> el -> set
-val first : t -> set -> el
-val next : t -> el -> el
-val mark : t -> el -> unit
+val set : t -> elt -> set
+val first : t -> set -> elt
+val next : t -> elt -> elt
+val mark : t -> elt -> unit
 val split : t -> set -> set
 val no_marks : t -> set -> bool
-val iter : t -> (el -> unit) -> set -> unit
+val iter : t -> (elt -> unit) -> set -> unit

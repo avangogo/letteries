@@ -1,47 +1,46 @@
+type state = int
+type sigma = int
+
+(* etat init, etats finaux, transitions*)
+type t = { init : state; final : bool array; delta : state array array }
+
+(* fonctions générales *)
+let sigma a = Array.length a.delta.(0)
+let size a = Array.length a.delta
+let initState a = a.init
+let deltaArray a = a.delta
+
+let isFinal a i = a.final.(i)
+let delta a i letter = a.delta.(i).(letter)
+
+let empty = { init = 0; final = [|false|]; delta = [||] }
+
+
 (* Affichage, debuggage *)
 (*let p s = Printf.printf "%s\n" s; flush stdout;;*)
 let pi s i = Printf.printf "%s : %i\n" s i; flush stdout;;
 (*let ps s = Printf.printf "A - %s\n" s; flush stdout;;*)
 
-let pauto (init, final, delta)=
-  pi "Init" init;
-  print_string "Final : [|"; Array.iter (fun b -> print_string (if b then "true " else "false ")) final; print_string "|]\n";
+let pauto a =
+  pi "Init" a.init;
+  print_string "Final : [|"; Array.iter (fun b -> print_string (if b then "true " else "false ")) a.final; print_string "|]\n";
   Printf.printf "[|\n[|%s|]\n|]\n"
     (String.concat "|];\n[|"
        (Array.to_list (Array.map
 			 (fun t -> String.concat "; " (Array.to_list (Array.map string_of_int t)))
-			 delta)));;
+			 a.delta)));;
+(* ******************************** *)
 
 
-(* *)
-type state = int
-type sigma = int
-
-(* etat init, etats finaux, transitions*)
-type t = state * (bool array) * (state array array)
-
-(* fonctions générales *)
-let sigma        ((_ , _, d) : t) = Array.length d.(0)
-let size         ((_ , _, d) : t) = Array.length d
-let initState    ((s , _, _) : t) = s
-let isFinalArray ((_ , f, _) : t) = f
-let deltaArray   ((_ , _, d) : t) = d
-
-let isFinal a i = (isFinalArray a).(i)
-let delta a (state : state) (letter : sigma) = (deltaArray a).(state).(letter)
-
-let empty = 0, [|false|], [||]
-
-let reachable_states auto =
-  let res = Array.make (size auto) false in
-  let delta = deltaArray auto in
+let reachable_states a =
+  let res = Array.make (size a) false in
   let rec explore s =
     if not res.(s)
     then begin
       res.(s) <- true;
-      Array.iter explore delta.(s)
+      Array.iter explore a.delta.(s)
     end in
-  explore (initState auto);
+  explore (initState a);
   res;;
 
 let size_boolarray t =
@@ -71,7 +70,7 @@ let remove_unreachable auto =
   let new_delta = Array.init new_n
     (fun s -> Array.init (sigma auto)
       (fun alpha -> table.(delta auto inv_table.(s) alpha))) in
-  new_init, new_final, new_delta;;
+  { init = new_init; final = new_final; delta = new_delta };;
 
 (* un map qui modifie en place le vecteur en entrée *)
 let array_savemap f t =
@@ -102,7 +101,7 @@ let minimize_partition (auto : t) =
   let k = sigma auto in
   let p = Refine.make n in 
   (* création de la partition F *)
-  Array.iteri (fun i final -> if final then Refine.mark p i) (isFinalArray auto);
+  Array.iteri (fun i final -> if final then Refine.mark p i) auto.final;
   let s0 = Refine.set p 0 in
   let s1 = Refine.split p s0 in
 
@@ -144,7 +143,7 @@ let minimize (auto0 : t) : t =
   done;
   let new_final = Array.init new_n (fun i -> isFinal auto (old_of_new i)) in
   let new_init = new_of_old (initState auto) in
-  new_init, new_final, new_delta;;
+  { init = new_init; final = new_final; delta = new_delta};;
 
 (* return the list of states with no path to a final state*)
 (* if the automaton is minimal, this list has length 0 or 1 *)
@@ -157,7 +156,7 @@ let trash auto =
       seen.(s) <- true;
       Array.iter (List.iter explore) invdelta.(s)
     end in
-  Array.iteri (fun i b -> if b then explore i) (isFinalArray auto);
+  Array.iteri (fun i b -> if b then explore i) auto.final;
   let res = ref [] in
   Array.iteri (fun i b -> if not b then res := i :: !res) seen;
   !res;;  
@@ -175,14 +174,22 @@ let intset_of_intlist l =
   List.fold_right IntSet.add l IntSet.empty;;
 
 (* init, final, delta*)
-type nondeterministic = (state list) * (bool array) * (state list array array)
+type nondeterministic = { nd_init : state list;
+			  nd_final : bool array;
+			  nd_delta : state list array array }
 
-let nd_size (_, _, delta) = Array.length delta;;
-let nd_sigma (_, _, delta) = Array.length delta.(0);;
+let nd_size a = Array.length a.nd_delta;;
+let nd_sigma a = Array.length a.nd_delta.(0);;
 
-let determinize ((init, final, delta) as auto : nondeterministic) =
-  let deltaset = Array.map (Array.map intset_of_intlist) delta in
-  let k = nd_sigma auto in
+let nondeterministic_of_t a =
+  let singleton i = [i] in
+  { nd_init = singleton a.init;
+    nd_final = a.final;
+    nd_delta = Array.map (Array.map singleton) a.delta }
+
+let determinize a =
+  let deltaset = Array.map (Array.map intset_of_intlist) a.nd_delta in
+  let k = nd_sigma a in
   let w = ref IntSetMap.empty in
   let predelta = ref []
   and prefinal = ref [] in
@@ -203,16 +210,24 @@ let determinize ((init, final, delta) as auto : nondeterministic) =
 	  sucs.(c) <- explore suc
 	done;
 	predelta := (i, sucs) :: !predelta;
-	prefinal := (i, IntSet.fold (fun i acc -> (final.(i)) || acc) s false)  :: !prefinal;
+	prefinal := (i, IntSet.fold (fun i acc -> (a.nd_final.(i)) || acc) s false)  :: !prefinal;
 	i
       end in
-  let new_init = explore (intset_of_intlist init) in
+  let new_init = explore (intset_of_intlist a.nd_init) in
   let new_n = !nodecount + 1 in
   let new_delta = Array.make new_n [||] in
   List.iter (fun (i, t) -> new_delta.(i) <- t) !predelta;
   let new_final = Array.make new_n false in
   List.iter (fun (i, b) -> new_final.(i) <- b) !prefinal;
-  new_init, new_final, new_delta;;
+  { init = new_init; final = new_final; delta = new_delta };;
+
+let make init final delta =
+  { init = init; final = final; delta = delta }
+
+let make_nondeterministic init finals_list delta =
+  let finals_array = Array.make (Array.length delta) false in
+  List.iter (fun i -> finals_array.(i) <- true) finals_list;
+  { nd_init = init; nd_final = finals_array; nd_delta = delta };;
 
 let make_setstar_naive ?k l =
   let new_k = match k with
@@ -233,40 +248,285 @@ let make_setstar_naive ?k l =
 	     delta.(state).(c) <- new_state::delta.(state).(c);
 	     aux new_state q in
   List.iter (aux init_state) l;
-  init, final, delta
-;;
+  { nd_init = init; nd_final = final; nd_delta = delta };;
 
 
-let confuse_letters ((init, final, delta) as auto) letters =
-  let new_delta = Array.map Array.copy delta in
-  let new_final = Array.copy final in
-  let n = nd_size auto in
+let confuse_letters a letters =
+  let new_delta = Array.map Array.copy a.nd_delta in
+  let new_final = Array.copy a.nd_final in
+  let n = nd_size a in
   for i = 0 to n-1 do
     let new_suc = supprime_doubles (List.concat (List.map (fun c -> new_delta.(i).(c)) letters)) in
     List.iter (fun c -> new_delta.(i).(c) <- new_suc) letters
   done;
-  init, new_final, new_delta;;
+  { nd_init = a.nd_init; nd_final = new_final; nd_delta = new_delta };;
 
 
-
-
-
-let is_safe ((i, fin, delta) : t) =
+let is_safe a =
   let fail s = failwith ("Is safe : "^s) in
-  if i < 0 then fail "init<0";
-  let n = Array.length delta in
-  if i >= n then fail "init>maxi";
-  if Array.length delta <> Array.length fin then fail "final";
-  let k = Array.length delta.(0) in
+  if a.init < 0 then fail "init<0";
+  let n = Array.length a.delta in
+  if a.init >= n then fail "init>maxi";
+  if Array.length a.delta <> Array.length a.final then fail "final";
+  let k = Array.length a.delta.(0) in
   for i = 0 to n - 1 do
-    if Array.length delta.(i) <>k then fail "trans";
+    if Array.length a.delta.(i) <>k then fail "trans";
     for j = 0 to k - 1 do
-      let s = delta.(i).(j) in
+      let s = a.delta.(i).(j) in
       if s < 0 || s >= n then fail ("trans state "^(string_of_int s))
     done
   done;;
+
+(* opérations rationnelles sur les automates *)
+let complement a =
+  { init = a.init;
+    final = Array.map not a.final;
+    delta = a.delta }
+
+let intersection a b =
+  assert (sigma a = sigma b);
+  let n, m = size a, size b in
+  let encode i j = i + n*j
+  and decode k = k mod n, k/n in
+  let delta k alpha =
+    let i, j = decode k in
+    encode a.delta.(i).(alpha) b.delta.(j).(alpha) in
+  let final k =
+    let i, j = decode k in
+    a.final.(i) && b.final.(j) in
+  {
+    init = encode a.init b.init;
+    final = Array.init (n*m) final;
+    delta = Array.init (n*m) (fun k -> Array.init (sigma a) (delta k))
+  }
+
+let union a b =
+  complement (intersection (complement a) (complement b))
+
+(* fermeture transitive d'une relation représentée comme un tableau t *)
+(* où t.(i) est la liste des successeurs de i *)
+let fermeture_transitive r0 =
+  let r = Array.copy r0 in
+  let n = Array.length r in
+  let fini = ref true in
+  while not !fini do
+    fini := true;
+    for i = 0 to n-1 do
+      let l = supprime_doubles
+	(List.concat (List.map (fun j -> r.(j)) r.(i))) in
+      if l <> r.(i) then
+	begin 
+	  fini := false;
+	  r.(i) <- l
+	end
+    done
+  done;
+  r;;
+
+(* let relation_array_of_list l n =
+  let r = Array.init n (fun i -> [i]) in
+  List.iter (fun (i, j) -> r.(i) <- j::r.(i)) l;
+  Array.map supprime_doubles r;;*)
+
+let p s i = Printf.printf "%s : %d\n" s i; flush stdout;;
+
+let epsilon_transition a r0 =
+  let n = nd_size a in
+  let r = fermeture_transitive r0 in
+  let delta i alpha =
+    let l = List.map (fun j ->
+      a.nd_delta.(j).(alpha)) r.(i) in
+    supprime_doubles (List.concat l) in
+  let final i = List.exists (fun j -> a.nd_final.(j)) r.(i) in
+  {
+    nd_init = a.nd_init;
+    nd_final = Array.init n final;
+    nd_delta = Array.init n
+      (fun i -> Array.init (nd_sigma a) (delta i))
+  }
+
+(* dessin à coté deux automates, l'état initial est celui *)
+(* du premier automate *)
+let merge a b =
+  assert (nd_sigma a = nd_sigma b);
+  let n, m = nd_size a, nd_size b in
+  let new_a i = i
+  and new_b i = n + i in
+  let f fa fb i = if i < n then fa i else fb (i - n) in
+  let c =
+    {
+      nd_init = a.nd_init;
+      nd_final = Array.init (n + m)
+	(f (Array.get a.nd_final) (Array.get b.nd_final));
+      nd_delta =
+	Array.init (n + m)
+	(fun i -> Array.init (nd_sigma a)
+	  (fun alpha -> 
+	    f (fun ia -> a.nd_delta.(ia).(alpha))
+	      (fun ib -> List.map new_b b.nd_delta.(ib).(alpha))
+	    i))
+    } in
+  (c, new_a, new_b);;
+
+let list_of_boolarray t =
+  let res = ref [] in
+  Array.iteri (fun i b -> if b then res := i :: !res) t;
+  !res
+
+let nd_star a =
+  let eps = Array.init (nd_size a) 
+    (fun i -> i :: if a.nd_final.(i) then a.nd_init else []) in
+  epsilon_transition a eps
+
+let nd_concat a b =
+  let c, _, new_b = merge a b in
+  let init_b = List.map new_b b.nd_init in
+  let eps = Array.init (nd_size c) (fun i -> [i]) in
+  for i = 0 to (nd_size a)-1 do
+    if a.nd_final.(i) then eps.(i) <- i::init_b;
+    c.nd_final.(i) <- false
+  done;
+  epsilon_transition c eps;;
+
+let nd_union a b =
+  let c, _, new_b = merge a b in
+  let eps = Array.init (nd_size c) (fun i -> [i]) in
+  let init_b = List.map new_b b.nd_init in
+  List.iter (fun i -> eps.(i) <- eps.(i)@init_b) a.nd_init;
+  epsilon_transition c eps
+
+let nd_letter sigma a =
+  let delta = Array.make_matrix 2 sigma [] in
+  delta.(0).(a) <- [1];
+  {
+    nd_init = [0];
+    nd_final = [|false; true|];
+    nd_delta = delta
+  }
+  
   
 
+
+(* ************ automates non complets ************* *)
+type 'a noncomplete = { nc_init : state; nc_final : bool array; nc_delta : ('a * state) list array }
+
+let make_noncomplete init final delta = { nc_init = init; nc_final = final; nc_delta = delta }
+
+let drop_noncomplete a = a.nc_init, a.nc_final, a.nc_delta
+
+let remove_states toBeRemoved auto =
+  (* attribution des nouveaux numéros d'état *)
+  let n = Array.length toBeRemoved
+  and new_n = ref 0 in
+  let dico = Array.make n (-1) in
+  for i = 0 to n-1 do
+    if not toBeRemoved.(i) then
+      begin
+	dico.(i) <- !new_n;
+	incr new_n
+      end      
+  done;
+  let new_init = dico.(auto.nc_init)
+  and new_final = Array.make !new_n false
+  and new_delta = Array.make !new_n [] in
+  let filter (_, s) = not toBeRemoved.(s)
+  and map (alpha, s) = (alpha, dico.(s)) in
+  for i = 0 to n-1 do
+    if not toBeRemoved.(i) then
+      begin
+	new_final.(dico.(i)) <- auto.nc_final.(i);
+	new_delta.(dico.(i)) <- List.map map (List.filter filter auto.nc_delta.(i))
+      end
+  done;
+  { nc_init = new_init; nc_final = new_final; nc_delta = new_delta };;
+
+let remove_unreachable_nc auto =
+  let toBeRemoved = Array.make (Array.length auto.nc_delta) true in
+  let rec explore s =
+    if toBeRemoved.(s) then 
+      begin
+	toBeRemoved.(s) <- false;
+	List.iter (fun (_, t) -> explore t) auto.nc_delta.(s)
+      end
+  in
+  explore auto.nc_init;
+  remove_states toBeRemoved auto;;
+  
+
+(* *)
+let makeAssoc l =
+  let rec aux res acc_el = function
+    | (k, a)::((l, _)::_ as q) ->
+      if k = l then aux res (a::acc_el) q  
+      else aux ((k, a::acc_el)::res) [] q
+    | [k, a] -> (k, a::acc_el)::res
+    | [] -> [] in
+  let sorted_l = List.sort (fun (a, _) (b, _) -> compare a b) l in
+  aux [] [] sorted_l;;
+
+let mergeAssocs l =
+  List.map (fun (k, m) -> (k, List.concat m))
+    (makeAssoc (List.concat l));;
+
+(* minimisation d'automate non-complet (mais déterministe) *)
+let invDeltaList delta =
+  let n = Array.length delta in
+  let res = Array.make n [] in
+  for i = 0 to n-1 do
+    List.iter (fun (alpha, s) -> res.(s) <- (alpha, i)::res.(s)) delta.(i)
+  done;
+  Array.map makeAssoc res;;
+
+let minimize_partition_noncomplete auto =
+  let invDelta = invDeltaList auto.nc_delta in
+  let n = Array.length auto.nc_delta in
+  let p = Refine.make n in 
+  (* création de la partition F *)
+  Array.iteri (fun i final -> if final then Refine.mark p i) auto.nc_final;
+  let s0 = Refine.set p 0 in
+  let s1 = Refine.split p s0 in
+  
+  let s2 = if s1 <> -1 then s1 else s0 in
+  begin
+    let w = Stack.create () in
+    Stack.push s2 w;
+    while not (Stack.is_empty w) do
+      let a = Stack.pop w in
+      let x = ref [] in
+      Refine.iter p (fun i -> x := invDelta.(i) :: !x) a;
+      let new_x = mergeAssocs !x in
+      
+      let compute_pred (_, predlist) =
+	(* marquage *)
+	let touched = ref [] in
+	let traite e =
+	  touched := (Refine.set p e) :: !touched;
+	  Refine.mark p e in
+	List.iter traite predlist;
+	(* sissions *)
+	List.iter
+	  (fun i ->
+	    let j = Refine.split p i in
+	    if j <> -1 then Stack.push j w
+	  )
+	  !touched
+      in
+      List.iter compute_pred new_x
+    done
+  end;
+  Refine.sets p, Refine.set p, Refine.first p;;
+
+let nc_minimize a0 =
+  let a = remove_unreachable_nc a0 in
+  let new_n, new_of_old, old_of_new = minimize_partition_noncomplete a in
+  let new_delta = Array.make new_n []
+  and new_final = Array.make new_n false
+  and new_init = new_of_old a.nc_init in
+  for i = 0 to new_n-1 do
+    new_final.(i) <- a.nc_final.(new_of_old i);
+    new_delta.(i) <- List.map (fun (a, s) -> (a, new_of_old s)) a.nc_delta.(old_of_new i)
+  done;
+  { nc_init = new_init; nc_final = new_final; nc_delta = new_delta };;  
 
 
 (* ************* *)
@@ -293,45 +553,17 @@ let generate_f name pstate auto a b =
   generate_p out pstate auto a b;
   close_out out;;
 
-
-(*** tests ***)
-(*    0((12)*|2)1    *)
-(* init 2 ; 3 : trash *)
-(* let (auto1 : t) =
-  2,
-  [|false;false;false;true;false;false;true;false|],
-  [|
-    [|3;4;3|];
-    [|3;5;0|];
-    [|1;3;3|];
-    [|3;3;3|];
-    [|3;3;3|];
-    [|3;3;6|];
-    [|7;5;3|];
-    [|3;3;3|]
-  |];;
-
-let (auto2:t) =
-  0,
-  [|false; true; false|],
-  [|
-    [|2;2;1|];
-    [|1;1;2|];
-    [|2;2;2|]
-  |];;*)
-
-
 let random_automaton n k : t =
   let init = Random.int n
   and final = Array.init n (fun _ -> Random.bool ())
   and delta = Array.init n (fun _ -> Array.init k (fun _ -> Random.int n)) in
-  init, final, delta;;
+  { init = init; final = final; delta = delta };;
 
 let random_nondeterministic n k =
   let init = [Random.int n; Random.int n; Random.int n; Random.int n; Random.int n; Random.int n; Random.int n; Random.int n]
   and final = Array.init n (fun _ -> Random.int 20 = 0)
   and delta = Array.init n (fun _ -> Array.init k (fun _ -> [Random.int n; Random.int n; Random.int n; Random.int n; Random.int n])) in
-  init, final, delta;;
+  { nd_init = init; nd_final = final; nd_delta = delta };;
 
 (*
 let nd1 =
@@ -357,3 +589,17 @@ let auto = make_setstar_naive
     [5;5;5]
 ];;
 *)
+
+(* let a =
+  nd_star
+  (nd_union
+     (nd_letter 3 0)
+     (nd_concat (nd_letter 3 1) (nd_letter 3 2)));;
+p "size a" (nd_size a);;
+
+let b = minimize (determinize a);;
+p "size b" (size b);;
+
+generate_p stdout (fun i -> String.make 1 "abc".[i]) b 0 10;;
+
+failwith "TOTO";;*)
