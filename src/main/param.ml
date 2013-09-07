@@ -19,7 +19,8 @@
 type task =
   |PoemFromComputed
   |PoemFromCorpus
-  |MakeComputed;;
+  |MakeComputed
+  |Clean;;
 
 type loquacity =
   | Quiet
@@ -50,6 +51,8 @@ let corpus_subdirs = ref
 let computed_dir   = ref "data/computed/"
 let tmp_dir        = ref "tmp/"
 let phoneticrules_file = ref "data/reglesphonetiques"
+let grammarrules_file = ref "data/reglesdegrammaire"
+let phoneticautomaton_file = ref "data/precomputed/automatephonetique"
 let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 
 (* algorithm parameters *)
@@ -122,8 +125,15 @@ let makecorpus_spec =
     Arg.Unit (fun () -> task := MakeComputed),
     " Build the tagged texts with Treetagger. Do nothing else"
   )
+
+let clean_spec =
+  (
+    "-clean",
+    Arg.Unit (fun () -> task := Clean),
+    " Remove precalculated data. Do nothing else"
+  )
  
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec]
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; clean_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))

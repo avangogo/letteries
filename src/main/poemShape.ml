@@ -95,9 +95,9 @@ module Free =
        (Record)) (Libre)
 
 let read n = R n
-let add s = L (R (Record.Add s))
+let add s = L (Record.Add s)
 let addNewline = add "\n"
-let end_ = L (R Record.END)
+let end_ = L Record.END
 
 let vers_libre n = [read n; addNewline]
 

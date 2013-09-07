@@ -16,6 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
 open Tag
+open Parser_g
 
 let words = ref []
 let automaton = ref Finiteautomaton.empty
@@ -63,8 +64,8 @@ let step (state : state) id_tag =
 
 let init_state () =
   Print.p "Grammaire : Création de l'automate…";
-  Print.verbose "Grammaire : liste des phrases";
-  let words2 =
+  (*Print.verbose "Grammaire : liste des phrases";
+   let words2 =
       (List.map List.rev
 	 (List.map
 	    (List.map (Tag.int_of_tag)) 
@@ -83,9 +84,14 @@ let init_state () =
   let min_auto = Finiteautomaton.minimize det_auto in
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size min_auto));
   Print.verbose "Grammaire : starts";
-  automaton := min_auto;
+  automaton := min_auto;*)
+
+  automaton := Finiteautomaton.minimize (Regles_grammaires.auto);
+
+  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));
+
   trash := Finiteautomaton.trash !automaton;
-  Finiteautomaton.generate_f "sentences" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 5;
+  Finiteautomaton.generate_f "sentences" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 4;
   Finiteautomaton.delta !automaton (Finiteautomaton.initState !automaton) (int_of_tag SENT)
 
 let name = "Grammaire";;

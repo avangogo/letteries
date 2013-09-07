@@ -45,7 +45,10 @@ val intersection : t -> t -> t
 val union : t -> t -> t
 
 
+val nd_epsilon : int -> nondeterministic
+val nd_empty : int -> nondeterministic
 val nd_star : nondeterministic -> nondeterministic
 val nd_concat : nondeterministic -> nondeterministic -> nondeterministic
 val nd_union : nondeterministic -> nondeterministic -> nondeterministic
 val nd_letter : int -> sigma -> nondeterministic
+val nd_rev : nondeterministic -> nondeterministic

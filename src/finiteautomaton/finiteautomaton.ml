@@ -229,6 +229,16 @@ let make_nondeterministic init finals_list delta =
   List.iter (fun i -> finals_array.(i) <- true) finals_list;
   { nd_init = init; nd_final = finals_array; nd_delta = delta };;
 
+let nd_empty sigma =
+  { nd_init = [0];
+    nd_final = [|false|];
+    nd_delta = Array.make_matrix 1 sigma [] }
+
+let nd_epsilon sigma =
+  { nd_init = [0];
+    nd_final = [|true|];
+    nd_delta = Array.make_matrix 1 sigma [] }
+
 let make_setstar_naive ?k l =
   let new_k = match k with
     |Some i -> i
@@ -390,10 +400,11 @@ let nd_concat a b =
 
 let nd_union a b =
   let c, _, new_b = merge a b in
-  let eps = Array.init (nd_size c) (fun i -> [i]) in
-  let init_b = List.map new_b b.nd_init in
-  List.iter (fun i -> eps.(i) <- eps.(i)@init_b) a.nd_init;
-  epsilon_transition c eps
+  {
+    nd_init = a.nd_init @ (List.map new_b b.nd_init);
+    nd_final = c.nd_final;
+    nd_delta = c.nd_delta
+  }
 
 let nd_letter sigma a =
   let delta = Array.make_matrix 2 sigma [] in
@@ -404,8 +415,25 @@ let nd_letter sigma a =
     nd_delta = delta
   }
   
-  
-
+let nd_rev a =
+  let n = nd_size a
+  and sigma = nd_sigma a in
+  let init = list_of_boolarray a.nd_final in
+  if init = [] then nd_empty sigma
+  else
+    begin
+      let final = Array.make n false in
+      List.iter (fun i -> final.(i) <- true) a.nd_init;
+      let delta = Array.make_matrix n sigma [] in
+      for i = 0 to n-1 do
+	for alpha = 0 to sigma-1 do
+	  List.iter
+	    (fun j -> delta.(j).(alpha) <- i::delta.(j).(alpha))
+	    a.nd_delta.(i).(alpha)
+	done
+      done;
+      { nd_init = init; nd_final = final; nd_delta = delta }
+    end
 
 (* ************ automates non complets ************* *)
 type 'a noncomplete = { nc_init : state; nc_final : bool array; nc_delta : ('a * state) list array }

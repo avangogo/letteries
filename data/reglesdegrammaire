@@ -1,0 +1,63 @@
+main
+
+main:
+ | phrase*
+
+phrase:
+ | cc gn_sujet gv SENT
+ | VER:pres DET:ART NOM PUN VER:pres gn 
+
+cc:
+ | PRP DET:ART NOM pun_opt
+ | KON gn_sujet gv PUN
+ |
+
+gn_sujet :
+ | gn
+ | DET:ART NOM pun_opt PRO:REL gv pun_opt
+ | PRO:PER
+
+gv :
+ | ver cod
+ | ADV ver ADV cod
+
+cod :
+ | gn
+ | VER:infi
+ | DET:ART NOM PUN DET:ART NOM PUN DET:ART NOM 
+
+ver :
+ | VER:cond | VER:futu | VER:impf
+ | VER:pres | VER:subi | VER:subp
+
+gn :
+ | det adjs* NOM adjs* compl_nom
+ | NAM
+ | det NOM KON det NOM
+
+compl_nom :
+ | prpdet adjs NOM adjs
+ |
+
+prpdet :
+ | PRP:det
+ | PRP det
+
+adjs :
+ | ADV adj
+ | adj
+ | 
+
+adj :
+ | ADJ
+ | VER:pper
+ | VER:ppre
+
+det :
+ | DET:ART
+ | NUM
+ | PRO:POS
+
+pun_opt :
+ | PUN
+ |
