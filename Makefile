@@ -51,8 +51,14 @@ all: lettreries phonetique
 clean:
 	rm -R ${COMPILE}/*
 
+%.byte: src/*
+	${BUILD_COMMAND} $*.byte
+
 %.native: src/*
 	${BUILD_COMMAND} $*.native
+
+byte: ${MAIN}.byte
+	cp ${COMPILE}/${PATHMAIN}/${MAIN}.byte ${EXEC}
 
 lettreries: ${MAIN}.native
 	cp ${COMPILE}/${PATHMAIN}/${MAIN}.native ${EXEC}
