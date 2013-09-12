@@ -5,7 +5,7 @@ main:
 
 phrase:
  | cc gn_sujet gv SENT
- | VER:pres DET:ART NOM PUN VER:pres gn 
+ | VER:pres DET:ART NOM PUN VER:pres gn SENT
 
 cc:
  | PRP DET:ART NOM pun_opt

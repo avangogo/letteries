@@ -36,7 +36,7 @@ let construit_poeme parse_texts =
   (* construction des automates de calcul de phonétique *)
 
   let t0 = Sys.time () in
-  let machine = Lecture.loadPhonetic !Param.phoneticrules_file !Param.phoneticautomaton_file in
+  let machine = Make.loadPhonetic !Param.phoneticrules_file !Param.phoneticautomaton_file in
   let t1 = (Sys.time ()) -. t0 in
   Print.verbose (Printf.sprintf "%d états" (Phonetique.size machine));
   Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);
@@ -82,13 +82,13 @@ let construit_poeme parse_texts =
 	(* Mise en forme et affichage *)
       Print.p "Mise en page…";
       match !Param.output with
-	|None -> Ecriture.affiche_poeme poeme
-	|Some file ->
-	  begin
-	    let out = open_out file in
-	    Ecriture.affiche_poeme ~out:out poeme;
-	    close_out out
-	  end
+      |None -> Ecriture.affiche_poeme poeme
+      |Some file ->
+	begin
+	  let out = open_out file in
+	  Ecriture.affiche_poeme ~out:out poeme;
+	  close_out out
+	end
     with
       |Contrainte.ContrainteNonRespectee -> Print.error "Echec de l'écriture."
       |Failure "hd" -> Print.error (Printf.sprintf "%s n'est pas dans le corpus." firstWord) (* pas propre : il faudrait une erreur spécifique *)
@@ -113,4 +113,6 @@ let main () =
     |Param.MakeComputed -> Makecorpus.main ()
     |Param.Clean -> Sys.remove !Param.phoneticautomaton_file;;
 
+
 main ();;
+Print.verbose (Printf.sprintf "Temps d'exécution : %f s." (Sys.time ()));;

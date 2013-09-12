@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
 
-let new_number =
+let new_id =
   let i = ref 0 in
   (fun () -> incr i; !i);;
 
@@ -27,7 +27,7 @@ let int_of_filename =
       List.assoc name !l
     with
       |Not_found ->
-	let j = new_number () in
+	let j = new_id () in
 	l := (name, j)::(!l); j in
   aux;;
 

@@ -10,8 +10,8 @@
    try
      List.assoc id !assoc_list
    with
-   | Not_found -> raise (Grammar_parser ("Unknwon id : "^id))
-     
+   | Not_found -> raise (Grammar_parser ("Unknwon id : "^id))    
+
 %}
 
 /* description des lexèmes */

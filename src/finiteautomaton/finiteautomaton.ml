@@ -1,4 +1,5 @@
 type state = int
+
 type sigma = int
 
 (* etat init, etats finaux, transitions*)
@@ -333,13 +334,6 @@ let fermeture_transitive r0 =
   done;
   r;;
 
-(* let relation_array_of_list l n =
-  let r = Array.init n (fun i -> [i]) in
-  List.iter (fun (i, j) -> r.(i) <- j::r.(i)) l;
-  Array.map supprime_doubles r;;*)
-
-let p s i = Printf.printf "%s : %d\n" s i; flush stdout;;
-
 let epsilon_transition a r0 =
   let n = nd_size a in
   let r = fermeture_transitive r0 in
@@ -406,14 +400,20 @@ let nd_union a b =
     nd_delta = c.nd_delta
   }
 
-let nd_letter sigma a =
+let nd_letterSet sigma isInSet =
   let delta = Array.make_matrix 2 sigma [] in
-  delta.(0).(a) <- [1];
+  for a = 0 to sigma - 1 do
+    if isInSet a then delta.(0).(a) <- [1]
+  done;
   {
     nd_init = [0];
     nd_final = [|false; true|];
     nd_delta = delta
   }
+
+
+let nd_letter sigma a =
+  nd_letterSet sigma ((=) a)
   
 let nd_rev a =
   let n = nd_size a
@@ -593,41 +593,3 @@ let random_nondeterministic n k =
   and delta = Array.init n (fun _ -> Array.init k (fun _ -> [Random.int n; Random.int n; Random.int n; Random.int n; Random.int n])) in
   { nd_init = init; nd_final = final; nd_delta = delta };;
 
-(*
-let nd1 =
-  [1; 3], 
-  [4; 0],
-  [|
-    [|[5;0;1]; []; []|];
-    [|[2]; []; []|];
-    [|[]; [3]; [0;3]|];
-    [|[0;4]; []; [4]|];
-    [|[5]; [3]; [4]|];
-    [|[5]; [3]; []|]
-  |]
-;;
-
-Random.self_init ();;
-let auto = make_setstar_naive 
-  [
-    [0;1;2];
-    [2;2];
-    [3;3;3];
-    [4;4;4];
-    [5;5;5]
-];;
-*)
-
-(* let a =
-  nd_star
-  (nd_union
-     (nd_letter 3 0)
-     (nd_concat (nd_letter 3 1) (nd_letter 3 2)));;
-p "size a" (nd_size a);;
-
-let b = minimize (determinize a);;
-p "size b" (size b);;
-
-generate_p stdout (fun i -> String.make 1 "abc".[i]) b 0 10;;
-
-failwith "TOTO";;*)

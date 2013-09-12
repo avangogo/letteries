@@ -51,4 +51,5 @@ val nd_star : nondeterministic -> nondeterministic
 val nd_concat : nondeterministic -> nondeterministic -> nondeterministic
 val nd_union : nondeterministic -> nondeterministic -> nondeterministic
 val nd_letter : int -> sigma -> nondeterministic
+val nd_letterSet : int -> (sigma -> bool) -> nondeterministic
 val nd_rev : nondeterministic -> nondeterministic

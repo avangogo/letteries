@@ -1,0 +1,54 @@
+************* Utilisation *************
+Le fichier reglesdegrammaire décrit un langage rationnel sur l'alphabet des natures grammaticale (nom, adjectif, adverbes, etc..). Ce langage constitue l'ensemble des structures gramaticales considérées comme valides par lettreries. Il peut être modifié pour forcer les règles grammaticales utilisées par lettreries.
+
+************* Tags ***************
+L'alphabet est constitué des tag de TreeTagger répertoriés ici: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/french-tagset.html
+
+************* Syntaxe **************
+La syntaxe ressemble grossièrement à celle de ocamlyacc. Le format est le suivant:
+
+"ident
+
+definition1
+definition2
+definition3
+..."
+
+où une défintion est de la forme :
+"ident:
+ | A1 A2 A3
+ | B1* B2
+ |..."
+
+A1,A2,A3,B1,.. peuvent être des tags (comme NOM, ADJ, VER:impe, PRO:PER) ou des identificateurs. les identificateurs sont des mots (avec lettres, nombres et _) commençant par une lettre minuscule.
+
+Il peut aussi y avoir des '*' qui indiquent que l'on prend l'étoile de l'élément précendent.
+
+Ces définitions représentent une union de concaténations. Par exemple :
+"toto:
+ | A1 A2 A3
+ | B1 B2 * B3
+ | C1 C2"
+Signifie (dans le langage des expressions rationnelles):
+toto <- A1.A2.A3 + B1.(B2*).B3 + C1.C2
+
+Les définitions sont lues de haut en bas: un identificateur utilisé dans une expression doit être définit plus bas.
+
+L'expression finale est celle de l'identificateur du début du fichier.
+
+********** Discussion :  Motivations de la syntaxe **********
+Il serait aisé de donner une syntaxe plus expressive pour reglesdegrammaire. Par exemple:
+toto:
+ | (((NOM + epsilon)* [^ tata])* (ADJ + PRP))*
+Cela permettrait une représentation plus concise de l'expression rationnelle mais elle serait à mon sens moins lisible.
+
+********* Discussion : Expliciter la grammaire *******************
+Dans les versions précédente de lettreries, l'ensemble des structures acceptées était l'ensemble des structures présentes dans le corpus. La nouvelle méthode (décrire explicitement la grammaire) donne un automate bien plus léger (quelques centaines d'états au lieu de quelques milliers) et la grammaire produite est plus permissive (donc l'algorithme trouve plus vite des phrases valides). Son inconvénient est qu'il faut l'écrire à la main. On a alors deux possibilités: soit essayer de décrire un maximum de structures présentes dans la langue française pour obtenir une grammaire très permissive, soit, au contraire, ne spécifier que les tournures les plus élégante pour éléver le registre des phrases produites.
+
+********* Amélioration possible : dépendances récursives *********
+"toto : | toto NOM | ADJ" définit bien une expression rationnelle (c'est équivalent à "toto : | ADJ NOM *") mais on ne peut pas l'écrire dans reglesdegrammaire. En revanche, "toto : | NOM toto NOM | ADJ" ne définit pas un langage rationnel. On pourrait aussi avoir deux identificateurs se faisant mutuellement référence.
+Il est possible d'autoriser ce type de règle sous la restriction suivante: Soit G le graphe (orienté) de dépendance des identificateurs, pour chaque composante fortement connexe C de G, les règles de dépendance entre identificateurs de C sont soit toutes linéaires à droite, soit toutes linéaires à gauche.
+
+
+
+

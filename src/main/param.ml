@@ -59,6 +59,7 @@ let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 let minSentenceLength = ref 10
 let maxSentenceLength = ref 30
 let maxTries = ref 50 (* Nombre maximal de backtracking sur un mot *)
+let oldGrammar = ref false
 
 (* poem form *)
 let poemLength = ref 6
@@ -132,11 +133,17 @@ let clean_spec =
     Arg.Unit (fun () -> task := Clean),
     " Remove precalculated data. Do nothing else"
   )
- 
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; clean_spec]
+
+let oldGrammar_spec =
+ (
+   "-oldGrammar",
+   Arg.Unit (fun () -> oldGrammar := true),
+   " Use the old method to compute the grammar"
+ )
+
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; oldGrammar_spec; clean_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))
 
 let parse_arg () = Arg.parse spec empty_anon_fun descr
-  

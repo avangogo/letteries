@@ -15,6 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
+
 open Tag
 open Parser_g
 
@@ -34,18 +35,14 @@ let isRelevant = function
   |KON -> false
   |_ -> true;;
 
-(* cut sentences after SENT tags *)
+
+ (* cut sentences after SENT tags *)
 let cutSentences l =
   let rec aux acc_text acc = function
-    |[] -> List.rev acc_text (* rev superflu: juste pour garder l'ordre du texte *)
+    |[] -> List.rev acc_text
     |SENT::q -> aux ((List.rev (SENT::acc))::acc_text) [] q
     |t::q -> aux acc_text (t::acc) q in
   aux [] [] l;;
-
-(* function to filter sentences *)
-let isAcceptable sentence =
-  let l = List.length sentence in
-  !Param.minSentenceLength <= l  && l <= !Param.maxSentenceLength && not (List.mem INT sentence)
 
 let learn taglist =
   words := (cutSentences taglist) @ !words;;
@@ -64,29 +61,15 @@ let step (state : state) id_tag =
 
 let init_state () =
   Print.p "Grammaire : Création de l'automate…";
-  (*Print.verbose "Grammaire : liste des phrases";
-   let words2 =
-      (List.map List.rev
-	 (List.map
-	    (List.map (Tag.int_of_tag)) 
-	    (List.filter isAcceptable !words))) in
-  Print.verbose "Grammaire : premier automate";
-  let nd_auto = Finiteautomaton.make_setstar_naive ~k:Tag.nbre words2 in
-  Print.verbose "Grammaire : fusionne tags"; (*allègement des regles de grammaires*)
-  let conf_auto  = Finiteautomaton.confuse_letters nd_auto    (List.map int_of_tag [VER Futu; VER Impf; VER Pres; VER Simp]) in
-  let conf2_auto = Finiteautomaton.confuse_letters conf_auto  (List.map int_of_tag [VER Subi; VER Subp]) in
-  let conf3_auto = Finiteautomaton.confuse_letters conf2_auto (List.map int_of_tag [ADJ; VER Pper; VER Ppre]) in
-  let conf4_auto = Finiteautomaton.confuse_letters conf3_auto (List.map int_of_tag [PRO (Some DEM); DET ART; DET Pos; NUM]) in
-  Print.verbose "Grammaire : determinisation";
-  let det_auto = Finiteautomaton.determinize conf4_auto in
-  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size det_auto));
-  Print.verbose "Grammaire : minimisation" ;
-  let min_auto = Finiteautomaton.minimize det_auto in
-  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size min_auto));
-  Print.verbose "Grammaire : starts";
-  automaton := min_auto;*)
+  
+  automaton :=
+    if !Param.oldGrammar
+    then Regles_grammaires.old !words
+    else Regles_grammaires.auto ();
 
-  automaton := Finiteautomaton.minimize (Regles_grammaires.auto);
+  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));    
+  Print.verbose "Grammaire : Minimisation";
+  automaton := Finiteautomaton.minimize !automaton;
 
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));
 
