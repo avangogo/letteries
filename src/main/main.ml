@@ -117,8 +117,10 @@ let main () =
 	Lecture.getRaw
 	  (List.map ((^) !Param.corpus_dir) !Param.corpus_subdirs))
     |Param.MakeComputed -> Makecorpus.main ()
-    |Param.Clean -> Sys.remove !Param.phoneticautomaton_file;;
+    |Param.Clean ->
+      Sys.remove !Param.phoneticautomaton_file;
+      Sys.remove !Param.grammarautomaton_file;;
 
 
 main ();;
-Print.verbose (Printf.sprintf "Temps d'exécution : %f s." (Sys.time ()));;
+Print.verbose (Printf.sprintf "\nTemps d'exécution : %f s." (Sys.time ()));;
