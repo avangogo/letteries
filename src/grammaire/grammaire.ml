@@ -60,13 +60,22 @@ let step (state : state) id_tag =
   else new_state
 
 let init_state () =
-  Print.p "Grammaire : Création de l'automate…";
-  
   automaton :=
-    if !Param.oldGrammar
-    then Regles_grammaires.old !words
-    else Regles_grammaires.auto ();
-
+    begin
+      if !Param.oldGrammar
+      then
+	begin 
+	  Print.p "Grammaire : Création de l'automate…";
+	  Regles_grammaires.old !words
+	end
+      else
+	let rules = !Param.grammarrules_file
+	and target = !Param.grammarautomaton_file in
+	Make.load
+	  ~makeMessage:"Précalcul des règles de grammaire…"
+	  ~loadMessage:"Chargement des règles de grammaire…"
+	  [rules] target (fun () -> Regles_grammaires.auto rules)
+    end;
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));    
   Print.verbose "Grammaire : Minimisation";
   automaton := Finiteautomaton.minimize !automaton;
@@ -74,7 +83,6 @@ let init_state () =
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));
 
   trash := Finiteautomaton.trash !automaton;
-  Finiteautomaton.generate_f "sentences" (fun i -> string_of_tag (tag_of_int i)) !automaton 0 4;
   Finiteautomaton.delta !automaton (Finiteautomaton.initState !automaton) (int_of_tag SENT)
 
 let name = "Grammaire";;

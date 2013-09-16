@@ -26,8 +26,8 @@ let min_length sigma min =
   f (nd_rev (nd_star !a));;
  
 
-let auto () =
-  let a = get_grammar !Param.grammarrules_file in
+let auto file =
+  let a = get_grammar file in
   let b = min_length (sigma a) !Param.minSentenceLength in
   intersection a b;;
 

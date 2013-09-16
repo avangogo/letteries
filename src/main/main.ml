@@ -36,7 +36,13 @@ let construit_poeme parse_texts =
   (* construction des automates de calcul de phonétique *)
 
   let t0 = Sys.time () in
-  let machine = Make.loadPhonetic !Param.phoneticrules_file !Param.phoneticautomaton_file in
+  let machine =
+    let rules = !Param.phoneticrules_file
+    and target = !Param.phoneticautomaton_file in
+    Make.load
+      ~makeMessage:"Précalcul des règles phonétiques…"
+      ~loadMessage:"Chargement des Règles de phonétique…"
+      [rules] target (fun () -> Phonetique.make_automate rules) in
   let t1 = (Sys.time ()) -. t0 in
   Print.verbose (Printf.sprintf "%d états" (Phonetique.size machine));
   Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);

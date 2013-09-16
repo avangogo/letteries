@@ -51,8 +51,9 @@ let corpus_subdirs = ref
 let computed_dir   = ref "data/computed/"
 let tmp_dir        = ref "tmp/"
 let phoneticrules_file = ref "data/reglesphonetiques"
-let grammarrules_file = ref "data/reglesdegrammaire"
 let phoneticautomaton_file = ref "data/precomputed/automatephonetique"
+let grammarrules_file = ref "data/reglesdegrammaire"
+let grammarautomaton_file = ref "data/precomputed/automategramatical"
 let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
 
 (* algorithm parameters *)

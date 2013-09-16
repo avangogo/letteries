@@ -79,7 +79,7 @@ let return name text =
 let getComputed dossiers =
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
-    Print.verbose (Printf.sprintf "Recuperation : %s." nom); 
+    (*Print.verbose (Printf.sprintf "Recuperation : %s." nom);*) 
     let texte = readTreeTaggerOutput nom in    
     return nom texte in
   List.map lireFichier fichiers;;
