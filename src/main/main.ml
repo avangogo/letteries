@@ -36,13 +36,7 @@ let construit_poeme parse_texts =
   (* construction des automates de calcul de phonétique *)
 
   let t0 = Sys.time () in
-  let machine =
-    let rules = !Param.phoneticrules_file
-    and target = !Param.phoneticautomaton_file in
-    Make.load
-      ~makeMessage:"Précalcul des règles phonétiques…"
-      ~loadMessage:"Chargement des Règles de phonétique…"
-      [rules] target (fun () -> Phonetique.make_automate rules) in
+  let machine = Action.loadPhonetic () in
   let t1 = (Sys.time ()) -. t0 in
   Print.verbose (Printf.sprintf "%d états" (Phonetique.size machine));
   Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);
@@ -58,11 +52,29 @@ let construit_poeme parse_texts =
   let textes_parses = parse_texts () in
   
   Print.p "Précalcul des données…";
-  let markov = B.build textes_parses in
+  let markov0 = B.build textes_parses in
+
+  let forbiddenWords = ["a"; "ont"; "est"; "sont"] in
+  
+  let markov = B.filter
+    (fun x -> let s, _ = Obj.magic x in
+	      not (List.mem s forbiddenWords))
+    markov0 in
 
   let out = open_out "bdd" in
   B.printAll out markov;
   close_out out;
+
+  (*
+  let out = open_out "bdd_byArrity" in
+  B.printStatesByArrity out markov;
+  close_out out;*)
+
+  (*
+  let out = open_out "bdd_Marshal" in
+  Marshal.to_channel out markov [];
+  close_out out;
+  *)
 
   Print.p "Initialisation…";
   (* Création de l’état initial *)
@@ -117,9 +129,7 @@ let main () =
 	Lecture.getRaw
 	  (List.map ((^) !Param.corpus_dir) !Param.corpus_subdirs))
     |Param.MakeComputed -> Makecorpus.main ()
-    |Param.Clean ->
-      Sys.remove !Param.phoneticautomaton_file;
-      Sys.remove !Param.grammarautomaton_file;;
+    |Param.Clean -> Action.makeClean ();;
 
 
 main ();;

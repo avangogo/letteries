@@ -106,3 +106,90 @@ let poeme_libre n =
     |0 -> []
     |i -> (vers_libre (Random.int 30))@(aux (i - 1)) in
   [ addNewline; add "." ]@( aux n )@[ end_ ]
+
+
+(* *********************** Acrostiche *************************** *)
+
+module Constraints =
+  MergeConstraint (Grammaire)
+    (MergeConstraint (Singulier) (Creation.Weak))
+
+module OrderConstraint =
+  MergeOrderConstraint (Rime)
+    (MergeOrderConstraint (Record) (Acrostiche))
+
+module AvecAcrostiche =
+  FinalConstraint
+    (MergeConstraintAndOrderConstraint
+       (Constraints) (OrderConstraint))
+    (Pieds)
+
+let rime i = L (L i)
+(* let newline n = R (Pieds.Newline n)
+let cesure n = R (Pieds.Cesure n)*)
+let add s = L (R (L (Record.Add s)))
+let addNewline = add "\n"
+let end_ = L (R (L Record.END))
+let initiale a = L (R (R a))
+
+let acrovers a idRime =
+  [ 
+    rime idRime;
+    newline 12;
+    initiale a;
+    addNewline
+  ]
+
+let rec make_rimes l =
+  let rec aux = function
+    | 0 -> []
+    | i -> ((i + 1)/ 2) :: (aux (i-1)) in
+  aux l;;
+  
+
+let poeme_acrostiche s _ =
+  let letters = List.rev (Common.list_of_string s) in
+  let rimes = make_rimes (List.length letters) in
+  [addNewline; add "."]
+  @ (List.concat (List.map2 acrovers letters rimes))
+  @ [end_];;
+
+
+(* ******** Tests *************** *)
+(* module TestConstraints =
+  MergeConstraint (Grammaire)
+    (MergeConstraint (Singulier) (Creation.Weak))
+
+module TestOrderConstraint =
+  MergeOrderConstraint (Rime) (Record)
+
+module TestPoem =
+  FinalConstraint
+    (MergeConstraintAndOrderConstraint
+       (TestConstraints) (TestOrderConstraint))
+    (Alexandrins)
+
+let testRime i = (L (L i))
+let testAdd s = L (R (Record.Add s))
+let testEnd = L (R Record.END)
+let testNewline = R ()
+
+let testAlexandrin idRime =
+  [
+    testRime idRime;
+    testNewline;
+    testAdd "\n"
+  ];;
+
+
+let testpoem _ =
+  List.concat
+    [
+      [testAdd ".\n"];
+      testAlexandrin 1;
+      testAlexandrin 2;
+      testAlexandrin 3;
+      testAlexandrin 4;
+      [testEnd]
+    ];;
+*)

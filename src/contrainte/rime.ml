@@ -69,9 +69,9 @@ struct
   (* la rime attendue, *)
   type state = task * (key * rime * (string list)) list;;
 
-  let precompute _ _ _ s =
+  let precompute _ b _ s =
     let phonetique = (!automaton s) in
-    let rime = if (String.length s >= minSize) then makeRime s else rimeVide in
+    let rime = if (String.length s >= minSize) && b then makeRime s else rimeVide in
     let w = if phonetique = [] then "" else reduit_pluriel s in
     rime, w;;
 
@@ -117,5 +117,3 @@ let use_order (_, assoc) key =
     Match( rime, key, forbid ), newAssoc
   with
     | Not_found -> Record key, assoc;;
-
-

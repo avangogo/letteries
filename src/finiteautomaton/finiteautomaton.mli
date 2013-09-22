@@ -21,7 +21,15 @@ val minimize : t -> t
 
 val make_noncomplete : int -> bool array -> ('a * int) list array -> 'a noncomplete
 val drop_noncomplete : 'a noncomplete -> int * bool array * ('a * int) list array 
+
+val pnc : ('a -> string) -> 'a noncomplete -> unit
+
+val nc_size : 'a noncomplete -> int
+val nc_finite_set : 'a list list -> 'a noncomplete
 val nc_minimize : 'a noncomplete -> 'a noncomplete
+
+val t_of_nc :
+  ?sigma:'a list -> 'a noncomplete -> t * 'a Minidata.dictionnary
 
 val nd_size : nondeterministic -> int
 val nd_sigma : nondeterministic -> int

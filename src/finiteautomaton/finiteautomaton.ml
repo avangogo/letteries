@@ -438,7 +438,19 @@ let nd_rev a =
 (* ************ automates non complets ************* *)
 type 'a noncomplete = { nc_init : state; nc_final : bool array; nc_delta : ('a * state) list array }
 
+let nc_size a = Array.length a.nc_final
+
 let make_noncomplete init final delta = { nc_init = init; nc_final = final; nc_delta = delta }
+
+let pnc p a =
+  pi "Init" a.nc_init;
+  print_string "Final :";
+  Array.iteri (fun i b -> if b then Printf.printf " %d" i) a.nc_final;
+  print_newline ();
+  Array.iteri
+    (fun i s -> Printf.printf "\nstate %d :\n" i;
+      List.iter (fun (a, j) -> Printf.printf "  -%s-> %d\n" (p a) j) s)
+    a.nc_delta;;
 
 let drop_noncomplete a = a.nc_init, a.nc_final, a.nc_delta
 
@@ -479,7 +491,8 @@ let remove_unreachable_nc auto =
   in
   explore auto.nc_init;
   remove_states toBeRemoved auto;;
-  
+
+
 
 (* *)
 let makeAssoc l =
@@ -495,6 +508,88 @@ let makeAssoc l =
 let mergeAssocs l =
   List.map (fun (k, m) -> (k, List.concat m))
     (makeAssoc (List.concat l));;
+
+
+(* *)
+type ('a, 'b) tree =
+| N of 'a * ('b * ('a, 'b) tree) list
+
+(* supprime les listes vides présentes au début de la liste d'entrée *)
+(* le booléen reenvoyé indique si de telles listes ont été trouvées ou non *)
+let remove_emptylists l =
+  let rec aux changed = function
+    | [] :: q -> aux true q
+    | l -> l, changed in
+  aux false (List.sort compare l);;
+
+let sort_by_first l =
+  let assoc = List.map (function t::q -> (t,q) | [] -> failwith "sort_by_first") l in
+  makeAssoc assoc;;
+
+let tree_of_list list =
+  let sortedList = List.sort compare list in
+  let rec aux l0 =
+    let l, isFinal = remove_emptylists l0 in
+    let assoc = sort_by_first l in
+    let sons = List.rev_map (fun (t, q) -> (t, aux q)) assoc in
+    N (isFinal, sons) in
+  aux sortedList;;
+
+let nc_of_tree tree =
+  let new_id =
+    let i = ref (-1) in
+    fun () -> incr i; !i in
+  let final = ref []
+  and trans = ref [] in
+  let addFinal i = final := i :: !final
+  and addTrans i alpha j = trans := (i, (alpha, j)) :: !trans in
+  let init = new_id () in
+  let rec explore i = function
+    | N (isFinal, l) ->
+      if isFinal then addFinal i;
+      List.iter
+	(fun (alpha, t) ->
+	  let j = new_id () in
+	  addTrans i alpha j;
+	  explore j t) l in
+  explore init tree;
+  (* construction of the imperative structure *)
+  let n = new_id () in
+  let nc_final = Array.make n false
+  and nc_delta = Array.make n [] in
+  List.iter (fun i -> nc_final.(i) <- true) !final;
+  List.iter (fun (i,t) -> nc_delta.(i) <- t :: nc_delta.(i)) !trans;
+  { nc_init = init; nc_final = nc_final; nc_delta = nc_delta };;
+
+(* nc_finite_set l make an automaton that recognizes the words in l *)
+let nc_finite_set l =
+  nc_of_tree (tree_of_list l);;
+
+let nc_used_letters a =
+  let res = ref [] in
+  let explore (alpha, _) = res := alpha :: !res in
+  Array.iter (List.iter explore) a.nc_delta;
+  supprime_doubles !res;;
+
+let t_of_nc ?sigma:sigma0 a =
+  let sigma = match sigma0 with
+    | None -> nc_used_letters a
+    | Some s -> s in
+  let dico = Minidata.makeToInt sigma in
+  let n = nc_size a in
+  let new_n = n + 1 in
+  let final = Array.make new_n false in
+  let delta = Array.make_matrix new_n (Minidata.size dico) n in
+  for i = 0 to n - 1 do
+    final.(i) <- a.nc_final.(i)
+  done;
+  for i = 0 to n - 1 do
+    List.iter
+      (fun (alpha, j) -> delta.(i).(Minidata.to_int dico alpha) <- j)
+      a.nc_delta.(i)
+  done;
+  ({ init = a.nc_init ; final = final ; delta = delta }, dico);;
+
 
 (* minimisation d'automate non-complet (mais déterministe) *)
 let invDeltaList delta =

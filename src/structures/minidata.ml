@@ -11,6 +11,7 @@ let remove_doubles l =
   aux [] (List.sort compare l);;
 
 let makeToInt l0 =
+  if l0 = [] then failwith "makeToInt : cannot deal with empty set";
   let l = remove_doubles l0 in
   let n = List.length l in
   let tble = Hashtbl.create n

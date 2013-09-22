@@ -18,7 +18,7 @@ LIBS = unix,bigarray,camomile
 
 COMPILE = compile
 
-REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc,src/main,src/structures
+REPS = src/contrainte,src/ecriture,src/graphe,src/lecture,src/phonetique,src/grammaire,src/finiteautomaton,src/misc,src/main,src/structures,src/test
 
 IGNS = data
 
@@ -44,6 +44,10 @@ PHON_EXEC = phonetique
 PHON_MAIN = phonetique_interractiveloop
 PHON_PATH = src/misc
 
+TEST_EXEC = test
+TEST_MAIN = test
+TEST_PATH = src/test
+
 -include settings.sh # If you want to personalize your options…
 
 all: lettreries phonetique
@@ -65,3 +69,6 @@ lettreries: ${MAIN}.native
 
 phonetique: ${PHON_MAIN}.native
 	cp ${COMPILE}/${PHON_PATH}/${PHON_MAIN}.native ${PHON_EXEC}
+
+test: ${TEST_MAIN}.native
+	cp ${COMPILE}/${TEST_PATH}/${TEST_MAIN}.native ${TEST_EXEC}

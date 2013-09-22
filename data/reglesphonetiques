@@ -36,6 +36,7 @@ et  	FIN	-> 'e^'('t')
 
 [Gu]ent	FIN	-> ('q''t')
 [V]ent	FIN	-> ('t')
+[em]ent	FIN	-> 'a~'('t')
 ent	FIN	-> ('q''t')
 [Gu]es	FIN	-> ('q''s')
 [V]es	FIN	-> ('z')
@@ -108,6 +109,7 @@ um FIN	-> 'e~'
 
 ch	-> 's^'
 qu[V]	-> 'k'
+qu FIN	-> 'k'
 cu[V]	-> 'k'
 gu[V]	-> 'g'
 gn	-> 'n''j'
@@ -141,6 +143,8 @@ e	-> 'q'
 f	-> 'f'
 
 g[A]	-> 'g'
+ge[a]	-> 'z^'
+ge[o]	-> 'z^'
 g[I]	-> 'z^'
 g	-> 'g'
 
