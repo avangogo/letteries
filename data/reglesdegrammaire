@@ -18,26 +18,32 @@ gn_sujet :
  | PRO:PER
 
 gv :
- | ver cod
- | ADV ver ADV cod
+ | ver app_nom cod
+ | ADV app_nom ver ADV cod
 
 cod :
  | gn
  | VER:infi
  | DET:ART NOM PUN DET:ART NOM PUN DET:ART NOM 
 
-ver :
- | VER:cond | VER:futu | VER:impf
- | VER:pres | VER:subi | VER:subp
-
 gn :
  | det adjs* NOM adjs* compl_nom
  | NAM
  | det NOM KON det NOM
 
+app_nom :
+ | PUN ADJ NOM PUN
+ |
+
 compl_nom :
  | prpdet adjs NOM adjs
+ | PRO:REL ver det NOM
  |
+
+ver :
+ | VER:cond | VER:futu | VER:impf
+ | VER:pres | VER:subi | VER:subp
+
 
 prpdet :
  | PRP:det
