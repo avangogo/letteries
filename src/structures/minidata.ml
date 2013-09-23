@@ -1,18 +1,9 @@
 (* ** *)
 type 'a dictionnary = ('a, int) Hashtbl.t * 'a array
 
-let remove_doubles l =
-  let rec aux acc = function
-    | a :: b :: q ->
-      if a = b then aux acc (a :: q)
-      else aux (a :: acc) (b :: q)
-    | [ a ] -> a :: acc 
-    | [] -> acc in
-  aux [] (List.sort compare l);;
-
 let makeToInt l0 =
   if l0 = [] then failwith "makeToInt : cannot deal with empty set";
-  let l = remove_doubles l0 in
+  let l = Common.remove_duplicate l0 in
   let n = List.length l in
   let tble = Hashtbl.create n
   and invtble = Array.make n (List.hd l) in

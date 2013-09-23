@@ -60,10 +60,12 @@ let construit_poeme parse_texts =
     (fun x -> let s, _ = Obj.magic x in
 	      not (List.mem s forbiddenWords))
     markov0 in
-
+  
+  (*
   let out = open_out "bdd" in
   B.printAll out markov;
   close_out out;
+  *)
 
   (*
   let out = open_out "bdd_byArrity" in

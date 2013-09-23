@@ -80,20 +80,13 @@ let array_savemap f t =
   done;
   t;;
 
-let supprime_doubles l =
-  let rec aux = function
-    |a::b::q -> if a = b
-      then aux (a::q)
-      else a:: aux (b::q)
-    |[a] -> [a]
-    |[] -> [] in
-  aux (List.sort compare l);;
+
 
 let invDeltaArray auto =
   let res = Array.make_matrix (size auto) (sigma auto) [] in
   let store s1 a s2 = res.(s2).(a) <-  s1::res.(s2).(a) in
   Array.iteri (fun s v -> Array.iteri (store s) v) (deltaArray auto);
-  array_savemap (array_savemap supprime_doubles) res;;
+  array_savemap (array_savemap Common.remove_duplicate) res;;
 
 
 let minimize_partition (auto : t) =
@@ -267,7 +260,7 @@ let confuse_letters a letters =
   let new_final = Array.copy a.nd_final in
   let n = nd_size a in
   for i = 0 to n-1 do
-    let new_suc = supprime_doubles (List.concat (List.map (fun c -> new_delta.(i).(c)) letters)) in
+    let new_suc = Common.remove_duplicate (List.concat (List.map (fun c -> new_delta.(i).(c)) letters)) in
     List.iter (fun c -> new_delta.(i).(c) <- new_suc) letters
   done;
   { nd_init = a.nd_init; nd_final = new_final; nd_delta = new_delta };;
@@ -323,7 +316,7 @@ let fermeture_transitive r0 =
   while not !fini do
     fini := true;
     for i = 0 to n-1 do
-      let l = supprime_doubles
+      let l = Common.remove_duplicate
 	(List.concat (List.map (fun j -> r.(j)) r.(i))) in
       if l <> r.(i) then
 	begin 
@@ -340,7 +333,7 @@ let epsilon_transition a r0 =
   let delta i alpha =
     let l = List.map (fun j ->
       a.nd_delta.(j).(alpha)) r.(i) in
-    supprime_doubles (List.concat l) in
+    Common.remove_duplicate (List.concat l) in
   let final i = List.exists (fun j -> a.nd_final.(j)) r.(i) in
   {
     nd_init = a.nd_init;
@@ -569,7 +562,7 @@ let nc_used_letters a =
   let res = ref [] in
   let explore (alpha, _) = res := alpha :: !res in
   Array.iter (List.iter explore) a.nc_delta;
-  supprime_doubles !res;;
+  Common.remove_duplicate !res;;
 
 let t_of_nc ?sigma:sigma0 a =
   let sigma = match sigma0 with
