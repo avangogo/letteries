@@ -193,6 +193,7 @@ w	-> 'v'
 [e]x[V] -> 'g''z'
 x	-> 'k''s' (*pour faire simple*)
 
+y[V]	-> 'j'
 y	-> 'i'
 z	-> 'z'
 
@@ -205,6 +206,10 @@ mes	-> 'm''e'('z')
 tes	-> 't''e'('z')
 ses	-> 's''e'('z')
 le	-> 'l''q'
+se	-> 's''q'
+me	-> 'm''q'
+te	-> 't''q'
+de	-> 'd''q'
 et	-> 'e'('t')
 s	-> 's'
 d	-> 'd'
