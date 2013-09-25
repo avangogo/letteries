@@ -1,6 +1,6 @@
 (* 
    Lettreries is a random poem generator.
-    Copyright (C) 2012 Rémi de Verclos
+    Copyright (C) 2013 Rémi de Verclos
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

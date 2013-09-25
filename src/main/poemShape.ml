@@ -156,9 +156,11 @@ let poeme_acrostiche s _ =
 
 
 (* ******** Tests *************** *)
-(* module TestConstraints =
+(* module DAlexandrins = Debug.OfMetricConstraint (Alexandrins)
+
+module TestConstraints =
   MergeConstraint (Grammaire)
-    (MergeConstraint (Singulier) (Creation.Weak))
+    (MergeConstraint (Singulier) (Creation.Normal))
 
 module TestOrderConstraint =
   MergeOrderConstraint (Rime) (Record)
@@ -187,9 +189,10 @@ let testpoem _ =
     [
       [testAdd ".\n"];
       testAlexandrin 1;
+      testAlexandrin 1;
       testAlexandrin 2;
-      testAlexandrin 3;
-      testAlexandrin 4;
+      testAlexandrin 2;
       [testEnd]
     ];;
+
 *)
