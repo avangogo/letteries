@@ -441,9 +441,10 @@ let pnc p a =
   Array.iteri (fun i b -> if b then Printf.printf " %d" i) a.nc_final;
   print_newline ();
   Array.iteri
-    (fun i s -> Printf.printf "\nstate %d :\n" i;
-      List.iter (fun (a, j) -> Printf.printf "  -%s-> %d\n" (p a) j) s)
-    a.nc_delta;;
+    (fun i s -> Printf.printf "\nstate %d :" i;
+      List.iter (fun (a, j) -> Printf.printf "\n  -%s-> %d" (p a) j) s)
+    a.nc_delta;
+  print_string "\n\n";;
 
 let drop_noncomplete a = a.nc_init, a.nc_final, a.nc_delta
 
@@ -639,7 +640,7 @@ let nc_minimize a0 =
   and new_final = Array.make new_n false
   and new_init = new_of_old a.nc_init in
   for i = 0 to new_n-1 do
-    new_final.(i) <- a.nc_final.(new_of_old i);
+    new_final.(i) <- a.nc_final.(old_of_new i);
     new_delta.(i) <- List.map (fun (a, s) -> (a, new_of_old s)) a.nc_delta.(old_of_new i)
   done;
   { nc_init = new_init; nc_final = new_final; nc_delta = new_delta };;  
