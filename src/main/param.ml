@@ -142,7 +142,14 @@ let oldGrammar_spec =
    " Use the old method to compute the grammar"
  )
 
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; oldGrammar_spec; clean_spec]
+let chdir_spec =
+  (
+    "-chdir",
+    Arg.String (fun s -> Sys.chdir s),
+    " Set the working directory. It should be */lettreries"
+  )
+
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; oldGrammar_spec; chdir_spec; clean_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))
