@@ -31,12 +31,12 @@ let fusionne_assoc l =
   let l2 = List.sort compare_assoc l1 in
   fusionne_triee l2;;
 
-let liste_succession precompute (fichier, texte) =
+let liste_succession precompute texte =
   let rec aux = function
     |(ma, pa)::(mb,pb)::q ->
-      let pre bool (word, tag) = precompute fichier bool tag word in
-      let metadata = (List.rev ((pre true ma)::(List.map (pre false) pa))) in
-      (State.make mb, (State.make ma, metadata))::(aux ((mb, pb)::q))
+      let metadata = (List.rev ((precompute ma)::(List.map precompute pa))) in
+      (Word.state_of_word mb, (Word.state_of_word ma, metadata))::
+	(aux ((mb, pb)::q))
     |_            -> []
   in aux texte;;
   
@@ -49,7 +49,7 @@ sig
   type t
   type trans
   type meta = C.metadata
-  val build : (string * ((string * Tag.tag) * (string * Tag.tag) list) list) list -> t
+  val build : (Word.word * Word.word list) list list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
 end

@@ -26,7 +26,7 @@ module type Constraint =
 sig
   type metadata (*metadonnée*)
   type state (*etat*)
-  val precompute : string -> bool -> Tag.tag -> string -> metadata (* fichier -> est un mot état -> mot *)
+  val precompute : Word.word -> metadata
   val filter : state -> metadata -> bool
   val step : state -> metadata -> state
   (* compute the initial state AND initiate the automaton *)
@@ -58,7 +58,7 @@ module MergeConstraint (A:Constraint) (B:Constraint) =
 struct
   type metadata = A.metadata * B.metadata
   type state = A.state*B.state
-  let precompute f b tag w = A.precompute f b tag w, B.precompute f b tag w
+  let precompute w = A.precompute w, B.precompute w
   let filter (sa, sb) (ma, mb) = (A.filter sa ma) && (B.filter sb mb)
   let step (sa, sb) (ma, mb) = (A.step sa ma), (B.step sb mb)
   let init_state () = A.init_state (), B.init_state ()

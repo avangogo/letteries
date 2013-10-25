@@ -15,6 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
+open Word
 
 let new_id =
   let i = ref 0 in
@@ -38,8 +39,8 @@ struct
   type metadata = int
   type state = int
 
-  let precompute f b _ _ =
-    if b then int_of_filename f else 0
+  let precompute w =
+    if w.relevant then int_of_filename w.file else 0
 
   let filter _ _ = true
 

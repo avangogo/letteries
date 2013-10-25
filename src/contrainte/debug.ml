@@ -30,7 +30,7 @@ module OfConstraint (C:Contrainte.Constraint) =
 struct
   type metadata = C.metadata
   type state = C.state  * string list
-  let precompute f b tag w = C.precompute f b tag w
+  let precompute w = C.precompute w
   let filter (s, _) m = C.filter s m
   let step (s, l) m =
     let new_s = C.step s m in

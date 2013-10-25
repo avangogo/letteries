@@ -17,6 +17,7 @@
 *)
 
 open Tag
+open Word
 open Parser_g
 
 let words = ref []
@@ -50,7 +51,7 @@ let learn taglist =
 type metadata = int
 type state = Finiteautomaton.state
 
-let precompute _ _ t _ = Tag.int_of_tag t
+let precompute w = Tag.int_of_tag w.tag
 
 let filter _ _ = true
 

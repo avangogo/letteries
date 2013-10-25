@@ -8,7 +8,7 @@ sig
 
   val sortByFrequency : t -> unit
 
-  val build : (string * (State.wild * State.wild list) list) list -> t
+  val build : (Word.word * Word.word list) list list -> t
 
   val get : t -> State.t -> trans
 

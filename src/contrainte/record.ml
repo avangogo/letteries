@@ -13,8 +13,9 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
+open Word
 
-exception End of (string list)
+exception End of (word list)
 
 type action =
   |Add of string
@@ -22,24 +23,24 @@ type action =
 
 module C =
 struct
-  type metadata = string
-  type state = string list
-  let precompute _ _ _ s = s
+  type metadata = word
+  type state = word list
+  let precompute w = w
   let filter _ _ = true
   let step l s = s::l
   let init_state () = []
  (*pretty-printing*)
   let name = "Record";;
   let print_state = function
-    |t :: s :: r :: q -> Printf.sprintf "%s::%s::%s::<%d>" t s r (List.length q)
-    |[t; s]           -> Printf.sprintf "%s::%s]" t s
-    |[t]              -> Printf.sprintf "%s" t
+    |t :: s :: r :: q -> Printf.sprintf "%s::%s::%s::<%d>" t.word s.word r.word (List.length q)
+    |[t; s]           -> Printf.sprintf "%s::%s]" t.word s.word
+    |[t]              -> Printf.sprintf "%s" t.word
     |[]               -> "[]";;
-  let print_metadata s = s;;
+  let print_metadata w = w.word;;
 end
 
 type order = action
       
 let use_order l = function
-  |Add s -> s::l
+  |Add s -> (make_word s)::l
   |END   -> raise (End l)

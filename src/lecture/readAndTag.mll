@@ -16,6 +16,7 @@
 {
   open Tag
   let stringOfChar = String.make 1
+  and make (s, tag) = (s, tag, s)
 }
 
 
@@ -26,7 +27,7 @@ rule token acc = parse (* doit renvoyer un objet du meme type que readTreeTagger
   | "ne"|"y"|"de"|"le"|"la"|"les"|"un"|"une"|"des"|"au"|"aux"
   | "du"|"l"|"en"|"n"|"d"|"à"|"c"|"s"|"se"|"et" as s            { token ((s, PUN None) :: acc) lexbuf }
   | ['a'-'z''à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']* as s         { token ((s, NAM) :: acc) lexbuf }         
-  | eof             					        { List.rev acc }
+  | eof             					        { List.rev_map make acc }
   | _ as x                                                      { raise (ReadTreeTagger.Caractere_inconnu
 									   (x, Lexing.lexeme_end_p lexbuf))}
 

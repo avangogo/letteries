@@ -43,13 +43,11 @@ let construit_poeme parse_texts =
 
   (* La fonction de traduction aux modules qui l’utilisent *)
   let traduit mot = Phonetique.of_string machine (UseCamomile.latin0_of_utf8 mot) in
-  Pieds.automaton := traduit;
-  Rime.automaton := traduit;
 
   (* Lecture du corpus *)
   Print.p "Récupération des textes…";
 
-  let textes_parses = parse_texts () in
+  let textes_parses = Obj.magic (parse_texts traduit) in
   
   Print.p "Précalcul des données…";
   let markov0 = B.build textes_parses in
@@ -97,8 +95,9 @@ let construit_poeme parse_texts =
 
       Print.p "Écriture…";
 
-      let poeme = E.write markov (State.make (firstWord, tag)) state_init in
-      
+      let poeme_words = E.write markov (State.make (firstWord, tag)) state_init in
+      let poeme = List.map (fun w -> w.Word.word) poeme_words in
+
 	(* Mise en forme et affichage *)
       Print.p "Mise en page…";
       match !Param.output with
@@ -124,11 +123,11 @@ let main () =
 
   match !Param.task with
     |Param.PoemFromComputed -> construit_poeme
-      (fun () ->
-	Lecture.getComputed [!Param.computed_dir])
+      (fun traduit ->
+	Lecture.getComputed traduit [!Param.computed_dir])
     |Param.PoemFromCorpus -> construit_poeme  
-      (fun () ->
-	Lecture.getRaw
+      (fun traduit ->
+	Lecture.getRaw traduit
 	  (List.map ((^) !Param.corpus_dir) !Param.corpus_subdirs))
     |Param.MakeComputed -> Makecorpus.main ()
     |Param.Clean -> Action.makeClean ();;

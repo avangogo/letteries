@@ -1,4 +1,4 @@
-let automaton = ref (fun (_: string) -> failwith "unassigned automaton")
+open Word
 
 type rules =
   |Newline of int
@@ -9,12 +9,11 @@ struct
   type metadata = Phonetique.phoneme * int * Phonetique.muet
   type state = Phonetique.phoneme * int
 
-  let precompute _ _ _ s =
-    let phonetique = (!automaton s) in
-    let debut = match phonetique with
+  let precompute w =
+    let debut = match w.phonetic with
       |t::_ -> t
       |[]   -> Phonetique.phoneme_vide in
-    debut, Phonetique.nbre_voyelles phonetique, Phonetique.fin_muette phonetique 
+    debut, Phonetique.nbre_voyelles w.phonetic, Phonetique.fin_muette w.phonetic 
   let int_of_liaison muet debut =
     Phonetique.nbre_voyelles (Phonetique.liaison muet debut)
 

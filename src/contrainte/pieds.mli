@@ -1,5 +1,3 @@
-val automaton : (string -> Phonetique.phoneme list) ref
-
 type rules =
   |Newline of int
   |Cesure of int

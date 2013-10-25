@@ -17,21 +17,23 @@
   exception Caractere_inconnu of char*Lexing.position;;
   open Tag;;
 }
-
 let word = ['\'''.' ',' ';' '?' ':' '\'' '/' '!''a'-'z''à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*
+let lemma = [^ ' ' '\t' '\n']*
 let letters = ['a'-'z' 'A'-'Z' ':'] 
 let tag = letters* (':' letters*)?
 
 rule token acc = parse
-  | ((word as word) '\t')                             { let tag = tag lexbuf in
-							newline lexbuf;
+  | ((word as word) '\t')                             { let tag = tag lexbuf
+							and lemma = lemma lexbuf in
 							(* Traduction en même temps *)
-						        token ((UseCamomile.utf8_of_latin0 word, tag) :: acc) lexbuf }
+							let convert = UseCamomile.utf8_of_latin0 in
+						        token ((convert word, tag, convert lemma) :: acc) lexbuf }
   | eof             		        	      { List.rev acc }
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 
-and newline = parse
-  | '\n'        {()}
+and lemma = parse
+  | '\t'(lemma as lemma)'\n'        { lemma }
+  | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 
 and tag = parse
   | "ABR"	{ABR}

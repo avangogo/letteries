@@ -1,4 +1,4 @@
-exception End of string list
+exception End of Word.word list
 
 type action = Add of string | END
 

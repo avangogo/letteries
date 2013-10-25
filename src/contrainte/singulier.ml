@@ -17,18 +17,15 @@
 *)
 
 (* contrainte to prevent from using a word twice*)
-
+open Word
 module StringSet = Set.Make (String)
-
-(* let cantBeTwice s =
-  String.length s >= 5 *)
 
 (* -- begin of the constraint-- *)
 type metadata = string option
 type state = StringSet.t
 
-let precompute _ isState _ s =
-  if isState then Some s else None
+let precompute w =
+  if w.relevant then Some w.lemma else None
     
 let filter _ _ = true
 

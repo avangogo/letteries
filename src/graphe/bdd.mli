@@ -15,8 +15,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
 val build :
-  (string -> bool -> Tag.tag -> string -> 'meta) ->
-  (string * (State.wild * State.wild list) list) list ->
+  (Word.word -> 'meta) ->
+  (Word.word * Word.word list) list list ->
   (State.t * (State.t * 'meta list) list) list
 
 
@@ -26,7 +26,7 @@ sig
   type t
   type trans
   type meta = C.metadata
-  val build : (string * (State.wild * State.wild list) list) list -> t
+  val build : (Word.word * Word.word list) list list -> t
   val get : t -> State.t -> trans
   val choose : trans -> (State.t * C.metadata list) * trans
 end

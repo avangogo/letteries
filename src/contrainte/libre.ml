@@ -1,4 +1,5 @@
 (* un module moins exact que "pieds" pour faire des vers libres d'une longueur approximative donnée *)
+open Word
 
 type rules = int
 
@@ -7,7 +8,7 @@ struct
   type metadata = int
   type state = int
 
-  let precompute _ _ _ s = (String.length s) + 1
+  let precompute w = (String.length w.word) + 1
 
   let filter _ _ = true
 

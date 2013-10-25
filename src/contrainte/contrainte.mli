@@ -6,7 +6,7 @@ module type Constraint =
   sig
     type metadata
     type state
-    val precompute : string -> bool -> Tag.tag -> string -> metadata
+    val precompute : Word.word -> metadata
     val filter : state -> metadata -> bool
     val step : state -> metadata -> state
     val init_state : unit -> state

@@ -1,10 +1,12 @@
+open Word
+
 module C =
 struct
   type metadata = char
 
   type state = char
 
-  let precompute _ _ _ s = s.[0]
+  let precompute w = w.word.[0]
 
   let filter _ _ = true
 

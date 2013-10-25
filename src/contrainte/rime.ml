@@ -14,8 +14,8 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 
-(* automate qui traduit un mot en phonetique *)
-let automaton = ref (fun (_: string) -> failwith "unassigned automaton");;
+open Word
+
 
 (* parametres *)
 let minSize = 4 (* taille minimale des mots autorisés à fournir une rime *) 
@@ -29,25 +29,18 @@ let string_of_genre = function
   |Masculine -> "M"
   |Feminine -> "F"
   |Vide -> "N"
-
-let reduit_pluriel s =
-  let l = String.length s in
-  if l = 0 then s
-  else if s.[l-1] = 's' then String.sub s 0 (l - 1)
-  else s
-
       
 type rime = Phonetique.rime * genre
-let makeRime s =
+let makeRime w =
   let genre =
     (try
-       let l = String.length s in
-       if String.sub s (l-1) 1 = "e"
-       || String.sub s (l-2) 2 = "es" then Feminine
+       let l = String.length w.word in
+       if String.sub w.word (l-1) 1 = "e"
+       || String.sub w.word (l-2) 2 = "es" then Feminine
        else Masculine
      with
-       | Invalid_argument _ -> Vide) in
-  let rime = Phonetique.rime (!automaton s) in
+       | Invalid_argument _ -> Masculine) in
+  let rime = Phonetique.rime w.phonetic in
   rime, genre;;
 let rimeVide = Phonetique.rime_vide, Vide;;
 let string_of_rime (p, genre) =
@@ -69,11 +62,13 @@ struct
   (* la rime attendue, *)
   type state = task * (key * rime * (string list)) list;;
 
-  let precompute _ b _ s =
-    let phonetique = (!automaton s) in
-    let rime = if (String.length s >= minSize) && b then makeRime s else rimeVide in
-    let w = if phonetique = [] then "" else reduit_pluriel s in
-    rime, w;;
+  let precompute w =
+    let rime =
+      if (String.length w.word >= minSize) && w.relevant && w.phonetic <> []
+      then makeRime w
+      else rimeVide in
+    let s = if w.phonetic = [] then "" else w.lemma in
+    rime, s
 
   let filter _ _ = true
 

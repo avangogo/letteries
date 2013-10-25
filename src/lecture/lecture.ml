@@ -15,6 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
+open Word
 
 (* rewrite input on output with only authorized characters *)
 let normalize input output =
@@ -62,35 +63,48 @@ let getFiles rep =
 
 
 (* met sous la forme avec "ponctuation "*)
-let sortStates l =
+let punctuize l =
   let rec aux acc punct = function
-    |((_, tag) as t)::q ->
-      if Grammaire.isRelevant tag
+    | t::q ->
+      if t.relevant
       then aux ((t, punct)::acc) [] q
       else aux acc (t::punct) q
     |[] -> acc in
   aux [] [] (List.rev l);;
 
-(* the last action to do with treeTagger output*)
-let return name text =
-  Grammaire.learn (List.map snd text);
-  name, sortStates text;;
+let makeWord file phon (w, tag, lemma) =
+{
+  word = w;
+  tag = tag;
+  (* micro-optimisation mémoire*)
+  lemma = if w = lemma then w else lemma;
+  file = file;
+  phonetic = phon w;
+  relevant = Grammaire.isRelevant tag
+}
 
-let getComputed dossiers =
+
+(* the last action to do with treeTagger output*)
+let return phon name text =
+  (* Grammaire.learn (List.map snd text);*)
+  let wordList = List.map (makeWord name phon) text in
+  punctuize wordList;;
+
+let getComputed phon dossiers =
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
-    (*Print.verbose (Printf.sprintf "Recuperation : %s." nom);*) 
-    let texte = readTreeTaggerOutput nom in    
-    return nom texte in
+    (*Print.verbose (Printf.sprintf "Recuperation : %s." nom);*)
+    let texte = readTreeTaggerOutput nom in
+    return phon nom texte in
   List.map lireFichier fichiers;;
 
-let getRaw dossiers =
+let getRaw phon dossiers =
   let tmp_normalize = !Param.tmp_dir ^ "normalize" in
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
     Print.verbose (Printf.sprintf "Lecture : %s." nom);
-    normalize nom tmp_normalize; 
-    let texte = readAndTag tmp_normalize in    
-    return nom texte in
+    normalize nom tmp_normalize;
+    let texte = readAndTag tmp_normalize in
+    return phon nom texte in
   List.map lireFichier fichiers;;
 
