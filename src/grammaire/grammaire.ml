@@ -75,11 +75,12 @@ let init_state () =
 	Make.load
 	  ~makeMessage:"Précalcul des règles de grammaire…"
 	  ~loadMessage:"Chargement des règles de grammaire…"
-	  [rules] target (fun () -> Regles_grammaires.auto rules)
-    end;
-  Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));    
-  Print.verbose "Grammaire : Minimisation";
-  automaton := Finiteautomaton.minimize !automaton;
+	  [rules] target (fun () ->
+	    let auto = Regles_grammaires.auto rules in
+	    Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size auto));
+	    Print.verbose "Grammaire : Minimisation";
+	    Finiteautomaton.minimize auto)
+    end;    
 
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));
 
