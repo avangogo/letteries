@@ -1,162 +1,162 @@
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-nuit	NOM
-;	PUN
-la	DET:ART
-nuit	NOM
-noire	ADJ
-,	PUN
-assoupie	VER:pper
-et	KON
-profonde	ADJ
-.	SENT
-l'	DET:ART
-ombre	NOM
-immense	ADJ
-élargit	VER:pres
-ses	DET:POS
-ailes	NOM
-sur	PRP
-le	DET:ART
-monde	NOM
-.	SENT
-dans	PRP
-vos	DET:POS
-joyeux	ADJ
-palais	NOM
-gardés	VER:pper
-par	PRP
-le	DET:ART
-canon	NOM
-,	PUN
-dans	PRP
-vos	DET:POS
-lits	NOM
-de	PRP
-velours	NOM
-,	PUN
-de	PRP
-damas	NOM
-,	PUN
-de	PRP
-linon	NOM
-,	PUN
-sous	PRP
-vos	DET:POS
-chauds	NOM
-couvre	VER:pres
-pieds	NOM
-de	PRP
-martres	NOM
-zibelines	NOM
-sous	PRP
-le	DET:ART
-nuage	NOM
-blanc	ADJ
-des	PRP:det
-molles	ADJ
-mousselines	NOM
-,	PUN
-derrière	PRP
-vos	DET:POS
-rideaux	NOM
-qui	PRO:REL
-cachent	VER:pres
-sous	PRP
-leurs	DET:POS
-plis	NOM
-toutes	PRO:IND
-les	DET:ART
-voluptés	NOM
-avec	PRP
-tous	PRO:IND
-les	DET:ART
-oublis	NOM
-,	PUN
-aux	PRP:det
-sons	NOM
-d'	PRP
-une	DET:ART
-fanfare	NOM
-amoureuse	ADJ
-et	KON
-lointaine	ADJ
-,	PUN
-tandis	KON
-qu'	KON
-une	DET:ART
-veilleuse	NOM
-,	PUN
-en	PRO:PER
-tremblant	VER:ppre
-,	PUN
-ose	NOM
-à	PRP
-peine	NOM
-eclairer	VER:infi
-le	DET:ART
-plafond	NOM
-de	PRP
-pourpre	NOM
-et	KON
-de	PRP
-lampas	NOM
-,	PUN
-vous	PRO:PER
-,	PUN
-duc	NOM
-de	PRP
-saint	ADJ
-arnaud	NAM
-,	PUN
-vous	PRO:PER
-,	PUN
-comte	NOM
-de	PRP
-maupas	ADJ
-,	PUN
-vous	PRO:PER
-,	PUN
-sénateurs	NOM
-,	PUN
-préfets	NOM
-,	PUN
-généraux	ADJ
-,	PUN
-juges	NOM
-,	PUN
-princes	NOM
-,	PUN
-toi	PRO:PER
-,	PUN
-césar	NOM
-,	PUN
-qu'	KON
-à	PRP
-genoux	NOM
-adorent	VER:pres
-tes	DET:POS
-provinces	NOM
-,	PUN
-toi	PRO:PER
-qui	PRO:REL
-rêvas	VER:simp
-l'	DET:ART
-empire	NOM
-et	KON
-le	PRO:PER
-réalisas	VER:simp
-,	PUN
-dormez	VER:pres
-,	PUN
-maîtres	NOM
-...	PUN
-voici	ADV
-le	DET:ART
-jour	NOM
-.	SENT
-debout	ADV
-,	PUN
-forçats	NOM
-!	SENT
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+nuit	NOM	nuit
+;	PUN	;
+la	DET:ART	le
+nuit	NOM	nuit
+noire	ADJ	noir
+,	PUN	,
+assoupie	VER:pper	assoupir
+et	KON	et
+profonde	ADJ	profond
+.	SENT	.
+l'	DET:ART	le
+ombre	NOM	ombre
+immense	ADJ	immense
+élargit	VER:pres	élargir
+ses	DET:POS	son
+ailes	NOM	aile
+sur	PRP	sur
+le	DET:ART	le
+monde	NOM	monde
+.	SENT	.
+dans	PRP	dans
+vos	DET:POS	votre
+joyeux	ADJ	joyeux
+palais	NOM	palais
+gardés	VER:pper	garder
+par	PRP	par
+le	DET:ART	le
+canon	NOM	canon
+,	PUN	,
+dans	PRP	dans
+vos	DET:POS	votre
+lits	NOM	lit
+de	PRP	de
+velours	NOM	velours
+,	PUN	,
+de	PRP	de
+damas	NOM	damas
+,	PUN	,
+de	PRP	de
+linon	NOM	linon
+,	PUN	,
+sous	PRP	sous
+vos	DET:POS	votre
+chauds	NOM	chaud
+couvre	VER:pres	couvrir
+pieds	NOM	pied
+de	PRP	de
+martres	NOM	martre
+zibelines	NOM	zibeline
+sous	PRP	sous
+le	DET:ART	le
+nuage	NOM	nuage
+blanc	ADJ	blanc
+des	PRP:det	du
+molles	ADJ	mou
+mousselines	NOM	mousseline
+,	PUN	,
+derrière	PRP	derrière
+vos	DET:POS	votre
+rideaux	NOM	rideau
+qui	PRO:REL	qui
+cachent	VER:pres	cacher
+sous	PRP	sous
+leurs	DET:POS	leur
+plis	NOM	pli
+toutes	PRO:IND	tout
+les	DET:ART	le
+voluptés	NOM	volupté
+avec	PRP	avec
+tous	PRO:IND	tout
+les	DET:ART	le
+oublis	NOM	oubli
+,	PUN	,
+aux	PRP:det	au
+sons	NOM	son
+d'	PRP	de
+une	DET:ART	un
+fanfare	NOM	fanfare
+amoureuse	ADJ	amoureux
+et	KON	et
+lointaine	ADJ	lointain
+,	PUN	,
+tandis	KON	tandis
+qu'	KON	que
+une	DET:ART	un
+veilleuse	NOM	veilleur|veilleuse
+,	PUN	,
+en	PRO:PER	en
+tremblant	VER:ppre	trembler
+,	PUN	,
+ose	NOM	ose
+à	PRP	à
+peine	NOM	peine
+eclairer	VER:infi	eclairer
+le	DET:ART	le
+plafond	NOM	plafond
+de	PRP	de
+pourpre	NOM	pourpre
+et	KON	et
+de	PRP	de
+lampas	NOM	lampas
+,	PUN	,
+vous	PRO:PER	vous
+,	PUN	,
+duc	NOM	duc
+de	PRP	de
+saint	ADJ	saint
+arnaud	NAM	Arnaud
+,	PUN	,
+vous	PRO:PER	vous
+,	PUN	,
+comte	NOM	comte
+de	PRP	de
+maupas	ADJ	maupas
+,	PUN	,
+vous	PRO:PER	vous
+,	PUN	,
+sénateurs	NOM	sénateur
+,	PUN	,
+préfets	NOM	préfet
+,	PUN	,
+généraux	ADJ	général
+,	PUN	,
+juges	NOM	juge
+,	PUN	,
+princes	NOM	prince
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+césar	NOM	césar
+,	PUN	,
+qu'	KON	que
+à	PRP	à
+genoux	NOM	genou
+adorent	VER:pres	adorer
+tes	DET:POS	ton
+provinces	NOM	province
+,	PUN	,
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+rêvas	VER:simp	rêver
+l'	DET:ART	le
+empire	NOM	empire
+et	KON	et
+le	PRO:PER	le
+réalisas	VER:simp	réaliser
+,	PUN	,
+dormez	VER:pres	dormir
+,	PUN	,
+maîtres	NOM	maître
+...	PUN	...
+voici	ADV	voici
+le	DET:ART	le
+jour	NOM	jour
+.	SENT	.
+debout	ADV	debout
+,	PUN	,
+forçats	NOM	forçat
+!	SENT	!

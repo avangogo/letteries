@@ -1,97 +1,97 @@
-mon	DET:POS
-âme	NOM
-vers	PRP
-ton	DET:POS
-front	NOM
-où	PRO:REL
-rêve	NOM
-,	PUN
-ô	INT
-calme	ADJ
-soeur	NOM
-,	PUN
-un	DET:ART
-automne	NOM
-jonché	VER:pper
-de	PRP
-taches	NOM
-de	PRP
-rousseur	NOM
-et	KON
-vers	PRP
-le	DET:ART
-ciel	NOM
-errant	VER:ppre
-de	PRP
-ton	DET:POS
-oeil	NOM
-angélique	ADJ
-monte	VER:pres
-,	PUN
-comme	ADV
-dans	PRP
-un	DET:ART
-jardin	NOM
-mélancolique	ADJ
-,	PUN
-fidèle	ADJ
-,	PUN
-un	DET:ART
-blanc	ADJ
-jet	NOM
-d'	PRP
-eau	NOM
-soupire	VER:pres
-vers	PRP
-l'	DET:ART
-azur	NOM
-!	SENT
-vers	PRP
-l'	DET:ART
-azur	NOM
-attendri	VER:pper
-d'	PRP
-octobre	NOM
-pâle	ADJ
-et	KON
-pur	ADJ
-qui	PRO:REL
-mire	VER:pres
-aux	PRP:det
-grands	ADJ
-bassins	NOM
-sa	DET:POS
-langueur	NOM
-infinie	ADJ
-et	KON
-laisse	NOM
-,	PUN
-sur	PRP
-l'	DET:ART
-eau	NOM
-morte	ADJ
-où	PRO:REL
-la	DET:ART
-fauve	NOM
-agonie	VER:pper
-des	PRP:det
-feuilles	NOM
-erre	VER:pres
-au	PRP:det
-vent	NOM
-et	KON
-creuse	VER:pres
-un	DET:ART
-froid	ADJ
-sillon	NOM
-,	PUN
-se	PRO:PER
-traîner	VER:infi
-le	DET:ART
-soleil	NOM
-jaune	ADJ
-d'	PRP
-un	DET:ART
-long	ADJ
-rayon	NOM
-.	SENT
+mon	DET:POS	mon
+âme	NOM	âme
+vers	PRP	vers
+ton	DET:POS	ton
+front	NOM	front
+où	PRO:REL	où
+rêve	NOM	rêve
+,	PUN	,
+ô	INT	ô
+calme	ADJ	calme
+soeur	NOM	sœur
+,	PUN	,
+un	DET:ART	un
+automne	NOM	automne
+jonché	VER:pper	joncher
+de	PRP	de
+taches	NOM	tache
+de	PRP	de
+rousseur	NOM	rousseur
+et	KON	et
+vers	PRP	vers
+le	DET:ART	le
+ciel	NOM	ciel
+errant	VER:ppre	errer
+de	PRP	de
+ton	DET:POS	ton
+oeil	NOM	œil
+angélique	ADJ	angélique
+monte	VER:pres	monter
+,	PUN	,
+comme	ADV	comme
+dans	PRP	dans
+un	DET:ART	un
+jardin	NOM	jardin
+mélancolique	ADJ	mélancolique
+,	PUN	,
+fidèle	ADJ	fidèle
+,	PUN	,
+un	DET:ART	un
+blanc	ADJ	blanc
+jet	NOM	jet
+d'	PRP	de
+eau	NOM	eau
+soupire	VER:pres	soupirer
+vers	PRP	vers
+l'	DET:ART	le
+azur	NOM	azur
+!	SENT	!
+vers	PRP	vers
+l'	DET:ART	le
+azur	NOM	azur
+attendri	VER:pper	attendrir
+d'	PRP	de
+octobre	NOM	octobre
+pâle	ADJ	pâle
+et	KON	et
+pur	ADJ	pur
+qui	PRO:REL	qui
+mire	VER:pres	mirer
+aux	PRP:det	au
+grands	ADJ	grand
+bassins	NOM	bassin
+sa	DET:POS	son
+langueur	NOM	langueur
+infinie	ADJ	infini
+et	KON	et
+laisse	NOM	laisse
+,	PUN	,
+sur	PRP	sur
+l'	DET:ART	le
+eau	NOM	eau
+morte	ADJ	mort
+où	PRO:REL	où
+la	DET:ART	le
+fauve	NOM	fauve
+agonie	VER:pper	agonir
+des	PRP:det	du
+feuilles	NOM	feuille
+erre	VER:pres	errer
+au	PRP:det	au
+vent	NOM	vent
+et	KON	et
+creuse	VER:pres	creuser
+un	DET:ART	un
+froid	ADJ	froid
+sillon	NOM	sillon
+,	PUN	,
+se	PRO:PER	se
+traîner	VER:infi	traîner
+le	DET:ART	le
+soleil	NOM	soleil
+jaune	ADJ	jaune
+d'	PRP	de
+un	DET:ART	un
+long	ADJ	long
+rayon	NOM	rayon
+.	SENT	.

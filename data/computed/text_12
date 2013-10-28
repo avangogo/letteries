@@ -1,101 +1,101 @@
-la	DET:ART
-femelle	NOM
-?	SENT
-elle	PRO:PER
-est	VER:pres
-morte	VER:pper
-.	SENT
-le	DET:ART
-mâle	NOM
-?	SENT
-un	DET:ART
-chat	NOM
-l'	PRO:PER
-emporte	VER:pres
-et	KON
-dévore	VER:pres
-ses	DET:POS
-os	NOM
-.	SENT
-au	PRP:det
-doux	ADJ
-nid	NOM
-qui	PRO:REL
-frissonne	VER:pres
-qui	PRO:REL
-reviendra	VER:futu
-?	SENT
-personne	NOM
-.	SENT
-pauvres	NOM
-petits	ADJ
-oiseaux	NOM
-!	SENT
-le	DET:ART
-pâtre	NOM
-absent	ADJ
-par	PRP
-fraude	NOM
-!	SENT
-le	DET:ART
-chien	NOM
-mort	ADJ
-!	SENT
-le	DET:ART
-loup	NOM
-rôde	VER:pres
-,	PUN
-et	KON
-tend	VER:pres
-ses	DET:POS
-noirs	ADJ
-panneaux	NOM
-.	SENT
-au	PRP:det
-bercail	NOM
-qui	PRO:REL
-frissonne	VER:pres
-qui	PRO:REL
-veillera	VER:futu
-?	SENT
-personne	NOM
-.	SENT
-pauvres	NOM
-petits	ADJ
-agneaux	NOM
-!	SENT
-l'	DET:ART
-homme	NOM
-au	PRP:det
-bagne	NOM
-!	SENT
-la	DET:ART
-mère	NOM
-a	VER:pres
-l'	DET:ART
-hospice	NOM
-!	SENT
-ô	INT
-misère	NOM
-!	SENT
-le	DET:ART
-logis	NOM
-tremble	VER:pres
-aux	PRP:det
-vents	NOM
-l'	DET:ART
-humble	ADJ
-berceau	NOM
-frissonne	VER:pres
-.	SENT
-qui	PRO
-reste	VER:pres
-t	VER:simp
-il	PRO:PER
-?	SENT
-personne	NOM
-.	SENT
-pauvres	NOM
-petits	ADJ
-enfants	NOM
-!	SENT
+la	DET:ART	le
+femelle	NOM	femelle
+?	SENT	?
+elle	PRO:PER	elle
+est	VER:pres	être
+morte	VER:pper	mourir
+.	SENT	.
+le	DET:ART	le
+mâle	NOM	mâle
+?	SENT	?
+un	DET:ART	un
+chat	NOM	chat
+l'	PRO:PER	la|le
+emporte	VER:pres	emporter
+et	KON	et
+dévore	VER:pres	dévorer
+ses	DET:POS	son
+os	NOM	os
+.	SENT	.
+au	PRP:det	au
+doux	ADJ	doux
+nid	NOM	nid
+qui	PRO:REL	qui
+frissonne	VER:pres	frissonner
+qui	PRO:REL	qui
+reviendra	VER:futu	revenir
+?	SENT	?
+personne	NOM	personne
+.	SENT	.
+pauvres	NOM	pauvre
+petits	ADJ	petit
+oiseaux	NOM	oiseau
+!	SENT	!
+le	DET:ART	le
+pâtre	NOM	pâtre
+absent	ADJ	absent
+par	PRP	par
+fraude	NOM	fraude
+!	SENT	!
+le	DET:ART	le
+chien	NOM	chien
+mort	ADJ	mort
+!	SENT	!
+le	DET:ART	le
+loup	NOM	loup
+rôde	VER:pres	rôder
+,	PUN	,
+et	KON	et
+tend	VER:pres	tendre
+ses	DET:POS	son
+noirs	ADJ	noir
+panneaux	NOM	panneau
+.	SENT	.
+au	PRP:det	au
+bercail	NOM	bercail
+qui	PRO:REL	qui
+frissonne	VER:pres	frissonner
+qui	PRO:REL	qui
+veillera	VER:futu	veiller
+?	SENT	?
+personne	NOM	personne
+.	SENT	.
+pauvres	NOM	pauvre
+petits	ADJ	petit
+agneaux	NOM	agneau
+!	SENT	!
+l'	DET:ART	le
+homme	NOM	homme
+au	PRP:det	au
+bagne	NOM	bagne
+!	SENT	!
+la	DET:ART	le
+mère	NOM	mère
+a	VER:pres	avoir
+l'	DET:ART	le
+hospice	NOM	hospice
+!	SENT	!
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+le	DET:ART	le
+logis	NOM	logis
+tremble	VER:pres	trembler
+aux	PRP:det	au
+vents	NOM	vent
+l'	DET:ART	le
+humble	ADJ	humble
+berceau	NOM	berceau
+frissonne	VER:pres	frissonner
+.	SENT	.
+qui	PRO	qui
+reste	VER:pres	rester
+t	VER:simp	t
+il	PRO:PER	il
+?	SENT	?
+personne	NOM	personne
+.	SENT	.
+pauvres	NOM	pauvre
+petits	ADJ	petit
+enfants	NOM	enfant
+!	SENT	!

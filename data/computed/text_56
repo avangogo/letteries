@@ -1,249 +1,249 @@
-ciel	NOM
-!	SENT
-après	PRP
-tes	DET:POS
-splendeurs	NOM
-,	PUN
-qui	PRO:REL
-rayonnaient	VER:impf
-naguères	NOM
-,	PUN
-liberté	NOM
-sainte	ADJ
-;	PUN
-après	KON
-toutes	PRO:IND
-ces	PRO:DEM
-grandes	ADJ
-guerres	NOM
-,	PUN
-tourbillon	NOM
-inouï	NOM
-;	PUN
-après	PRP
-ce	PRO:DEM
-marengo	NOM
-qui	PRO:REL
-brille	VER:pres
-sur	PRP
-la	DET:ART
-carte	NOM
-,	PUN
-et	KON
-qui	PRO:REL
-ferait	VER:cond
-lâcher	VER:infi
-le	DET:ART
-premier	NUM
-bonaparte	NOM
-à	PRP
-tacite	ADJ
-ébloui	VER:pper
-;	PUN
-après	PRP
-ces	PRO:DEM
-messidors	NOM
-,	PUN
-ces	PRO:DEM
-prairials	NOM
-,	PUN
-ces	PRO:DEM
-frimaires	NOM
-,	PUN
-et	KON
-tant	ADV
-de	PRP
-préjugés	NOM
-,	PUN
-d'	PRP
-hydres	NOM
-et	KON
-de	PRP
-chimères	NOM
-,	PUN
-terrassés	VER:pper
-à	PRP
-jamais	ADV
-;	PUN
-après	PRP
-le	DET:ART
-sceptre	NOM
-en	PRP
-cendre	NOM
-et	KON
-la	DET:ART
-bastille	NOM
-en	PRP
-poudre	NOM
-,	PUN
-le	DET:ART
-trône	NOM
-en	PRP
-flamme	NOM
-;	PUN
-après	KON
-tous	PRO:IND
-ces	PRO:DEM
-grands	ADJ
-coups	NOM
-de	PRP
-foudre	NOM
-sur	PRP
-tous	PRO:IND
-ces	PRO:DEM
-grands	ADJ
-sommets	NOM
-:	PUN
-après	KON
-tous	PRO:IND
-ces	PRO:DEM
-géants	NOM
-,	PUN
-après	KON
-tous	PRO:IND
-ces	PRO:DEM
-colosses	NOM
-,	PUN
-s'	PRO:PER
-acharnant	VER:ppre
-malgré	PRP
-dieu	NOM
-,	PUN
-comme	ADV
-d'	PRP
-ardents	ADJ
-molosses	NOM
-,	PUN
-quand	KON
-dieu	NOM
-disait	VER:impf
-:	PUN
-va	VER:pres
-t'	PRO:PER
-en	PRO:PER
-!	SENT
-après	PRP
-ton	DET:POS
-océan	NOM
-,	PUN
-république	NOM
-française	ADJ
-,	PUN
-où	PRO:REL
-nos	DET:POS
-pères	NOM
-ont	VER:pres
-vu	VER:pper
-passer	VER:infi
-quatrevingt	NOM
-treize	NUM
-comme	KON
-léviathan	NOM
-;	PUN
-après	ADV
-danton	ADJ
-,	PUN
-saint	ADJ
-just	NOM
-et	KON
-mirabeau	NOM
-,	PUN
-ces	PRO:DEM
-hommes	NOM
-,	PUN
-ces	PRO:DEM
-titans	NOM
-,	PUN
-aujourd'hui	ADV
-cette	PRO:DEM
-france	NOM
-où	PRO:REL
-nous	PRO:PER
-sommes	VER:pres
-contemple	VER:pres
-l'	DET:ART
-embryon	NOM
-,	PUN
-l'	DET:ART
-infiniment	ADV
-petit	ADJ
-,	PUN
-monstrueux	ADJ
-et	KON
-féroce	ADJ
-,	PUN
-et	KON
-,	PUN
-dans	PRP
-la	DET:ART
-goutte	NOM
-d'	PRP
-eau	NOM
-,	PUN
-les	DET:ART
-guerres	NOM
-du	PRP:det
-volvoce	NOM
-contre	PRP
-le	DET:ART
-vibrion	NOM
-!	SENT
-honte	NOM
-!	SENT
-france	NOM
-,	PUN
-aujourd'hui	ADV
-,	PUN
-voici	ADV
-ta	DET:POS
-grande	ADJ
-affaire	NOM
-:	PUN
-savoir	VER:infi
-si	KON
-c'	PRO:DEM
-est	VER:pres
-maupas	ADJ
-ou	KON
-morny	NOM
-qu'	PRO:REL
-on	PRO:PER
-préfère	VER:pres
-,	PUN
-là	ADV
-haut	ADJ
-,	PUN
-dans	PRP
-le	DET:ART
-palais	NOM
-;	PUN
-tous	PRO:IND
-deux	NUM
-ont	VER:pres
-sauvé	VER:pper
-l'	DET:ART
-ordre	NOM
-et	KON
-sauvé	VER:pper
-les	DET:ART
-familles	NOM
-;	PUN
-lequel	PRO:REL
-l'	PRO:PER
-emportera	VER:futu
-?	SENT
-l'	DET:ART
-un	NOM
-a	VER:pres
-pour	PRP
-lui	PRO:PER
-les	DET:ART
-filles	NOM
-,	PUN
-et	KON
-l'	DET:ART
-autre	ADJ
-,	PUN
-les	DET:ART
-valets	NOM
-.	SENT
+ciel	NOM	ciel
+!	SENT	!
+après	PRP	après
+tes	DET:POS	ton
+splendeurs	NOM	splendeur
+,	PUN	,
+qui	PRO:REL	qui
+rayonnaient	VER:impf	rayonner
+naguères	NOM	naguères
+,	PUN	,
+liberté	NOM	liberté
+sainte	ADJ	saint
+;	PUN	;
+après	KON	après
+toutes	PRO:IND	tout
+ces	PRO:DEM	ce
+grandes	ADJ	grand
+guerres	NOM	guerre
+,	PUN	,
+tourbillon	NOM	tourbillon
+inouï	NOM	inouï
+;	PUN	;
+après	PRP	après
+ce	PRO:DEM	ce
+marengo	NOM	marengo
+qui	PRO:REL	qui
+brille	VER:pres	briller
+sur	PRP	sur
+la	DET:ART	le
+carte	NOM	carte
+,	PUN	,
+et	KON	et
+qui	PRO:REL	qui
+ferait	VER:cond	faire
+lâcher	VER:infi	lâcher
+le	DET:ART	le
+premier	NUM	premier
+bonaparte	NOM	bonaparte
+à	PRP	à
+tacite	ADJ	tacite
+ébloui	VER:pper	éblouir
+;	PUN	;
+après	PRP	après
+ces	PRO:DEM	ce
+messidors	NOM	messidor
+,	PUN	,
+ces	PRO:DEM	ce
+prairials	NOM	prairial
+,	PUN	,
+ces	PRO:DEM	ce
+frimaires	NOM	frimaire
+,	PUN	,
+et	KON	et
+tant	ADV	tant
+de	PRP	de
+préjugés	NOM	préjugé
+,	PUN	,
+d'	PRP	de
+hydres	NOM	hydre
+et	KON	et
+de	PRP	de
+chimères	NOM	chimère
+,	PUN	,
+terrassés	VER:pper	terrasser
+à	PRP	à
+jamais	ADV	jamais
+;	PUN	;
+après	PRP	après
+le	DET:ART	le
+sceptre	NOM	sceptre
+en	PRP	en
+cendre	NOM	cendre
+et	KON	et
+la	DET:ART	le
+bastille	NOM	bastille
+en	PRP	en
+poudre	NOM	poudre
+,	PUN	,
+le	DET:ART	le
+trône	NOM	trône
+en	PRP	en
+flamme	NOM	flamme
+;	PUN	;
+après	KON	après
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+grands	ADJ	grand
+coups	NOM	coup
+de	PRP	de
+foudre	NOM	foudre
+sur	PRP	sur
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+grands	ADJ	grand
+sommets	NOM	sommet
+:	PUN	:
+après	KON	après
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+géants	NOM	géant
+,	PUN	,
+après	KON	après
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+colosses	NOM	colosse
+,	PUN	,
+s'	PRO:PER	se
+acharnant	VER:ppre	acharner
+malgré	PRP	malgré
+dieu	NOM	dieu
+,	PUN	,
+comme	ADV	comme
+d'	PRP	de
+ardents	ADJ	ardent
+molosses	NOM	molosse
+,	PUN	,
+quand	KON	quand
+dieu	NOM	dieu
+disait	VER:impf	dire
+:	PUN	:
+va	VER:pres	aller
+t'	PRO:PER	te
+en	PRO:PER	en
+!	SENT	!
+après	PRP	après
+ton	DET:POS	ton
+océan	NOM	océan
+,	PUN	,
+république	NOM	république
+française	ADJ	français
+,	PUN	,
+où	PRO:REL	où
+nos	DET:POS	notre
+pères	NOM	père
+ont	VER:pres	avoir
+vu	VER:pper	voir
+passer	VER:infi	passer
+quatrevingt	NOM	quatrevingt
+treize	NUM	treize
+comme	KON	comme
+léviathan	NOM	léviathan
+;	PUN	;
+après	ADV	après
+danton	ADJ	danton
+,	PUN	,
+saint	ADJ	saint
+just	NOM	just
+et	KON	et
+mirabeau	NOM	mirabeau
+,	PUN	,
+ces	PRO:DEM	ce
+hommes	NOM	homme
+,	PUN	,
+ces	PRO:DEM	ce
+titans	NOM	titan
+,	PUN	,
+aujourd'hui	ADV	aujourd'hui
+cette	PRO:DEM	ce
+france	NOM	france
+où	PRO:REL	où
+nous	PRO:PER	nous
+sommes	VER:pres	sommer|être
+contemple	VER:pres	contempler
+l'	DET:ART	le
+embryon	NOM	embryon
+,	PUN	,
+l'	DET:ART	le
+infiniment	ADV	infiniment
+petit	ADJ	petit
+,	PUN	,
+monstrueux	ADJ	monstrueux
+et	KON	et
+féroce	ADJ	féroce
+,	PUN	,
+et	KON	et
+,	PUN	,
+dans	PRP	dans
+la	DET:ART	le
+goutte	NOM	goutte
+d'	PRP	de
+eau	NOM	eau
+,	PUN	,
+les	DET:ART	le
+guerres	NOM	guerre
+du	PRP:det	du
+volvoce	NOM	volvoce
+contre	PRP	contre
+le	DET:ART	le
+vibrion	NOM	vibrion
+!	SENT	!
+honte	NOM	honte
+!	SENT	!
+france	NOM	france
+,	PUN	,
+aujourd'hui	ADV	aujourd'hui
+,	PUN	,
+voici	ADV	voici
+ta	DET:POS	ton
+grande	ADJ	grand
+affaire	NOM	affaire
+:	PUN	:
+savoir	VER:infi	savoir
+si	KON	si
+c'	PRO:DEM	ce
+est	VER:pres	être
+maupas	ADJ	maupas
+ou	KON	ou
+morny	NOM	morny
+qu'	PRO:REL	que
+on	PRO:PER	on
+préfère	VER:pres	préférer
+,	PUN	,
+là	ADV	là
+haut	ADJ	haut
+,	PUN	,
+dans	PRP	dans
+le	DET:ART	le
+palais	NOM	palais
+;	PUN	;
+tous	PRO:IND	tout
+deux	NUM	deux
+ont	VER:pres	avoir
+sauvé	VER:pper	sauver
+l'	DET:ART	le
+ordre	NOM	ordre
+et	KON	et
+sauvé	VER:pper	sauver
+les	DET:ART	le
+familles	NOM	famille
+;	PUN	;
+lequel	PRO:REL	lequel
+l'	PRO:PER	la|le
+emportera	VER:futu	emporter
+?	SENT	?
+l'	DET:ART	le
+un	NOM	un
+a	VER:pres	avoir
+pour	PRP	pour
+lui	PRO:PER	lui
+les	DET:ART	le
+filles	NOM	fille
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+autre	ADJ	autre
+,	PUN	,
+les	DET:ART	le
+valets	NOM	valet
+.	SENT	.

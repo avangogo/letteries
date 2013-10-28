@@ -1,527 +1,527 @@
-pour	PRP
-les	DET:ART
-bannis	NOM
-opiniâtres	ADJ
-,	PUN
-la	DET:ART
-france	NOM
-est	VER:pres
-loin	ADV
-,	PUN
-la	DET:ART
-tombe	NOM
-est	VER:pres
-près	ADV
-.	SENT
-prince	NOM
-,	PUN
-préside	NOM
-aux	PRP:det
-jeux	NOM
-folâtres	ADJ
-,	PUN
-chasse	NOM
-aux	PRP:det
-femmes	NOM
-dans	PRP
-les	DET:ART
-théâtres	NOM
-,	PUN
-chasse	NOM
-aux	PRP:det
-chevreuils	NOM
-dans	PRP
-les	DET:ART
-forêts	NOM
-rome	NOM
-te	PRO:PER
-brûle	VER:pres
-le	DET:ART
-cinname	NOM
-,	PUN
-les	DET:ART
-rois	NOM
-te	PRO:PER
-disent	VER:pres
-:	PUN
-mon	DET:POS
-cousin	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-les	DET:ART
-us	NOM
-frappés	ADJ
-sont	VER:pres
-les	DET:ART
-plus	ADV
-dignes	ADJ
-.	SENT
-ou	KON
-l'	DET:ART
-exil	NOM
-!	SENT
-ou	KON
-l'	DET:ART
-afrique	NOM
-en	PRP
-feu	NOM
-!	SENT
-prince	NOM
-,	PUN
-compiègne	NOM
-est	VER:pres
-plein	ADJ
-de	PRP
-cygnes	NOM
-,	PUN
-cours	NOM
-dans	PRP
-les	DET:ART
-bois	NOM
-,	PUN
-cours	NOM
-dans	PRP
-les	DET:ART
-vignes	NOM
-,	PUN
-vénus	NOM
-rayonne	NOM
-au	PRP:det
-plafond	NOM
-bleu	ADJ
-;	PUN
-la	DET:ART
-bacchante	NOM
-aux	PRP:det
-bras	NOM
-nus	NOM
-se	PRO:PER
-pâme	VER:pres
-sous	PRP
-sa	DET:POS
-couronne	NOM
-de	PRP
-raisin	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-les	DET:ART
-forçats	NOM
-bâtissent	VER:pres
-le	DET:ART
-phare	NOM
-,	PUN
-traînant	VER:ppre
-leurs	DET:POS
-fers	NOM
-au	PRP:det
-bord	NOM
-des	PRP:det
-flots	NOM
-!	SENT
-hallali	INT
-!	SENT
-hallali	INT
-!	SENT
-fanfare	NOM
-!	SENT
-le	DET:ART
-cor	NOM
-sonne	VER:pres
-,	PUN
-le	DET:ART
-bois	NOM
-s'	PRO:PER
-effare	VER:pres
-,	PUN
-la	DET:ART
-lune	NOM
-argente	VER:pres
-les	DET:ART
-bouleaux	NOM
-;	PUN
-à	PRP
-l'	DET:ART
-eau	NOM
-les	DET:ART
-chiens	NOM
-!	SENT
-le	DET:ART
-cerf	NOM
-qui	PRO:REL
-branle	VER:pres
-se	PRO:PER
-perd	VER:pres
-dans	PRP
-l'	DET:ART
-ombre	NOM
-du	PRP:det
-bassin	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-le	DET:ART
-père	NOM
-est	VER:pres
-au	PRP:det
-bagne	NOM
-à	PRP
-cayenne	NOM
-et	KON
-les	DET:ART
-enfants	NOM
-meurent	VER:pres
-de	PRP
-faim	NOM
-.	SENT
-le	DET:ART
-loup	NOM
-verse	ADJ
-à	PRP
-boire	VER:infi
-à	PRP
-l'	DET:ART
-hyène	NOM
-;	PUN
-l'	DET:ART
-homme	NOM
-à	PRP
-la	DET:ART
-mitre	NOM
-citoyenne	NOM
-trinque	VER:pres
-en	PRP
-son	DET:POS
-ciboire	NOM
-d'	PRP
-or	NOM
-fin	ADJ
-;	PUN
-on	PRO:PER
-voit	VER:pres
-luire	VER:infi
-les	DET:ART
-yeux	NOM
-de	PRP
-flamme	NOM
-des	PRP:det
-faunes	NOM
-dans	PRP
-l'	DET:ART
-antre	NOM
-voisin	ADJ
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-les	DET:ART
-morts	NOM
-,	PUN
-au	PRP:det
-boulevard	NOM
-montmartre	ADJ
-,	PUN
-rôdent	VER:pres
-,	PUN
-montrant	VER:ppre
-leur	DET:POS
-plaie	NOM
-au	PRP:det
-coeur	NOM
-.	SENT
-pâtés	NOM
-de	PRP
-strasbourg	NOM
-et	KON
-de	PRP
-chartre	NOM
-,	PUN
-sous	PRP
-la	DET:ART
-table	NOM
-,	PUN
-un	DET:ART
-tapis	NOM
-de	PRP
-martre	NOM
-les	DET:ART
-belles	ADJ
-boivent	VER:pres
-au	PRP:det
-vainqueur	NOM
-,	PUN
-et	KON
-leur	DET:POS
-sourire	NOM
-offre	VER:pres
-leur	DET:POS
-âme	NOM
-,	PUN
-et	KON
-leur	DET:POS
-corset	NOM
-offre	VER:pres
-leur	DET:POS
-sein	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-captifs	ADJ
-,	PUN
-expirez	VER:pres
-dans	PRP
-les	DET:ART
-fièvres	NOM
-.	SENT
-vous	PRO:PER
-allez	VER:pres
-donc	ADV
-vous	PRO:PER
-reposer	VER:infi
-!	SENT
-dans	PRP
-le	DET:ART
-vieux	ADJ
-saxe	NOM
-et	KON
-le	DET:ART
-vieux	ADJ
-sèvres	NOM
-on	PRO:PER
-soupe	VER:pres
-,	PUN
-on	PRO:PER
-mange	VER:pres
-,	PUN
-et	KON
-sur	PRP
-les	DET:ART
-lèvres	NOM
-éclôt	VER:pres
-le	DET:ART
-doux	ADJ
-oiseau	NOM
-baiser	NOM
-;	PUN
-et	KON
-,	PUN
-tout	ADV
-en	PRO:PER
-riant	VER:ppre
-,	PUN
-chaque	PRO:IND
-femme	NOM
-en	PRO:PER
-laisse	VER:pres
-fuir	VER:infi
-un	DET:ART
-fol	ADJ
-essaim	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-la	DET:ART
-guyane	NOM
-,	PUN
-cachot	NOM
-fournaise	NOM
-,	PUN
-tue	VER:pper
-aujourd'hui	ADV
-comme	ADV
-jadis	ADV
-.	SENT
-couche	VER:pres
-toi	PRO:PER
-,	PUN
-joyeux	ADJ
-et	KON
-plein	ADJ
-d'	PRP
-aise	NOM
-,	PUN
-au	PRP:det
-lit	NOM
-où	PRO:REL
-coucha	VER:simp
-louis	NOM
-seize	NUM
-,	PUN
-puis	ADV
-l'	DET:ART
-empereur	NOM
-,	PUN
-puis	ADV
-charles	NOM
-dix	NUM
-;	PUN
-endors	VER:pres
-toi	PRO:PER
-,	PUN
-pendant	VER:ppre
-qu'	KON
-on	PRO:PER
-t'	PRO:PER
-acclame	VER:pres
-,	PUN
-la	DET:ART
-tête	NOM
-sur	PRP
-leur	DET:POS
-traversin	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
-ô	INT
-deuil	NOM
-!	SENT
-par	PRP
-un	DET:ART
-bandit	NOM
-féroce	ADJ
-l'	DET:ART
-avenir	NOM
-est	VER:pres
-mort	VER:pper
-poignardé	VER:pper
-!	SENT
-c'	PRO:DEM
-est	VER:pres
-aujourd'hui	ADV
-la	DET:ART
-grande	ADJ
-noce	NOM
-,	PUN
-le	DET:ART
-fiancé	ADJ
-monte	NOM
-en	PRP
-carrosse	NOM
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-lui	PRO:PER
-!	SENT
-césar	NOM
-le	DET:ART
-bien	ADV
-gardé	VER:pper
-!	SENT
-peuples	NOM
-,	PUN
-chantez	VER:pres
-l'	DET:ART
-épithalame	NOM
-!	SENT
-la	DET:ART
-france	NOM
-épouse	VER:pres
-l'	DET:ART
-assassin	NOM
-.	SENT
-sonne	VER:pres
-aujourd'hui	ADV
-le	DET:ART
-glas	NOM
-,	PUN
-bourdon	NOM
-de	PRP
-notre	DET:POS
-dame	NOM
-,	PUN
-et	KON
-demain	ADV
-le	DET:ART
-tocsin	NOM
-!	SENT
+pour	PRP	pour
+les	DET:ART	le
+bannis	NOM	banni
+opiniâtres	ADJ	opiniâtre
+,	PUN	,
+la	DET:ART	le
+france	NOM	france
+est	VER:pres	être
+loin	ADV	loin
+,	PUN	,
+la	DET:ART	le
+tombe	NOM	tombe
+est	VER:pres	être
+près	ADV	près
+.	SENT	.
+prince	NOM	prince
+,	PUN	,
+préside	NOM	préside
+aux	PRP:det	au
+jeux	NOM	jeu
+folâtres	ADJ	folâtre
+,	PUN	,
+chasse	NOM	chasse
+aux	PRP:det	au
+femmes	NOM	femme
+dans	PRP	dans
+les	DET:ART	le
+théâtres	NOM	théâtre
+,	PUN	,
+chasse	NOM	chasse
+aux	PRP:det	au
+chevreuils	NOM	chevreuil
+dans	PRP	dans
+les	DET:ART	le
+forêts	NOM	forêt
+rome	NOM	rome
+te	PRO:PER	te
+brûle	VER:pres	brûler
+le	DET:ART	le
+cinname	NOM	cinname
+,	PUN	,
+les	DET:ART	le
+rois	NOM	roi
+te	PRO:PER	te
+disent	VER:pres	dire
+:	PUN	:
+mon	DET:POS	mon
+cousin	NOM	cousin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+les	DET:ART	le
+us	NOM	us
+frappés	ADJ	frappé
+sont	VER:pres	être
+les	DET:ART	le
+plus	ADV	plus
+dignes	ADJ	digne
+.	SENT	.
+ou	KON	ou
+l'	DET:ART	le
+exil	NOM	exil
+!	SENT	!
+ou	KON	ou
+l'	DET:ART	le
+afrique	NOM	afrique
+en	PRP	en
+feu	NOM	feu
+!	SENT	!
+prince	NOM	prince
+,	PUN	,
+compiègne	NOM	compiègne
+est	VER:pres	être
+plein	ADJ	plein
+de	PRP	de
+cygnes	NOM	cygne
+,	PUN	,
+cours	NOM	cour|cours
+dans	PRP	dans
+les	DET:ART	le
+bois	NOM	bois
+,	PUN	,
+cours	NOM	cour|cours
+dans	PRP	dans
+les	DET:ART	le
+vignes	NOM	vigne
+,	PUN	,
+vénus	NOM	vénus
+rayonne	NOM	rayonne
+au	PRP:det	au
+plafond	NOM	plafond
+bleu	ADJ	bleu
+;	PUN	;
+la	DET:ART	le
+bacchante	NOM	bacchante
+aux	PRP:det	au
+bras	NOM	bras
+nus	NOM	nu
+se	PRO:PER	se
+pâme	VER:pres	pâmer
+sous	PRP	sous
+sa	DET:POS	son
+couronne	NOM	couronne
+de	PRP	de
+raisin	NOM	raisin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+les	DET:ART	le
+forçats	NOM	forçat
+bâtissent	VER:pres	bâtir
+le	DET:ART	le
+phare	NOM	phare
+,	PUN	,
+traînant	VER:ppre	traîner
+leurs	DET:POS	leur
+fers	NOM	fer
+au	PRP:det	au
+bord	NOM	bord
+des	PRP:det	du
+flots	NOM	flot
+!	SENT	!
+hallali	INT	hallali
+!	SENT	!
+hallali	INT	hallali
+!	SENT	!
+fanfare	NOM	fanfare
+!	SENT	!
+le	DET:ART	le
+cor	NOM	cor
+sonne	VER:pres	sonner
+,	PUN	,
+le	DET:ART	le
+bois	NOM	bois
+s'	PRO:PER	se
+effare	VER:pres	effarer
+,	PUN	,
+la	DET:ART	le
+lune	NOM	lune
+argente	VER:pres	argenter
+les	DET:ART	le
+bouleaux	NOM	bouleau
+;	PUN	;
+à	PRP	à
+l'	DET:ART	le
+eau	NOM	eau
+les	DET:ART	le
+chiens	NOM	chien
+!	SENT	!
+le	DET:ART	le
+cerf	NOM	cerf
+qui	PRO:REL	qui
+branle	VER:pres	branler
+se	PRO:PER	se
+perd	VER:pres	perdre
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+du	PRP:det	du
+bassin	NOM	bassin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+le	DET:ART	le
+père	NOM	père
+est	VER:pres	être
+au	PRP:det	au
+bagne	NOM	bagne
+à	PRP	à
+cayenne	NOM	cayenne
+et	KON	et
+les	DET:ART	le
+enfants	NOM	enfant
+meurent	VER:pres	mourir
+de	PRP	de
+faim	NOM	faim
+.	SENT	.
+le	DET:ART	le
+loup	NOM	loup
+verse	ADJ	verse
+à	PRP	à
+boire	VER:infi	boire
+à	PRP	à
+l'	DET:ART	le
+hyène	NOM	hyène
+;	PUN	;
+l'	DET:ART	le
+homme	NOM	homme
+à	PRP	à
+la	DET:ART	le
+mitre	NOM	mitre
+citoyenne	NOM	citoyen
+trinque	VER:pres	trinquer
+en	PRP	en
+son	DET:POS	son
+ciboire	NOM	ciboire
+d'	PRP	de
+or	NOM	or
+fin	ADJ	fin
+;	PUN	;
+on	PRO:PER	on
+voit	VER:pres	voir
+luire	VER:infi	luire
+les	DET:ART	le
+yeux	NOM	œil
+de	PRP	de
+flamme	NOM	flamme
+des	PRP:det	du
+faunes	NOM	faune
+dans	PRP	dans
+l'	DET:ART	le
+antre	NOM	antre
+voisin	ADJ	voisin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+les	DET:ART	le
+morts	NOM	mort
+,	PUN	,
+au	PRP:det	au
+boulevard	NOM	boulevard
+montmartre	ADJ	montmartre
+,	PUN	,
+rôdent	VER:pres	rôder
+,	PUN	,
+montrant	VER:ppre	montrer
+leur	DET:POS	leur
+plaie	NOM	plaie
+au	PRP:det	au
+coeur	NOM	cœur
+.	SENT	.
+pâtés	NOM	pâté
+de	PRP	de
+strasbourg	NOM	strasbourg
+et	KON	et
+de	PRP	de
+chartre	NOM	chartre
+,	PUN	,
+sous	PRP	sous
+la	DET:ART	le
+table	NOM	table
+,	PUN	,
+un	DET:ART	un
+tapis	NOM	tapis
+de	PRP	de
+martre	NOM	martre
+les	DET:ART	le
+belles	ADJ	beau
+boivent	VER:pres	boire
+au	PRP:det	au
+vainqueur	NOM	vainqueur
+,	PUN	,
+et	KON	et
+leur	DET:POS	leur
+sourire	NOM	sourire
+offre	VER:pres	offrir
+leur	DET:POS	leur
+âme	NOM	âme
+,	PUN	,
+et	KON	et
+leur	DET:POS	leur
+corset	NOM	corset
+offre	VER:pres	offrir
+leur	DET:POS	leur
+sein	NOM	sein
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+captifs	ADJ	captif
+,	PUN	,
+expirez	VER:pres	expirer
+dans	PRP	dans
+les	DET:ART	le
+fièvres	NOM	fièvre
+.	SENT	.
+vous	PRO:PER	vous
+allez	VER:pres	aller
+donc	ADV	donc
+vous	PRO:PER	vous
+reposer	VER:infi	reposer
+!	SENT	!
+dans	PRP	dans
+le	DET:ART	le
+vieux	ADJ	vieux
+saxe	NOM	saxe
+et	KON	et
+le	DET:ART	le
+vieux	ADJ	vieux
+sèvres	NOM	sèvres
+on	PRO:PER	on
+soupe	VER:pres	souper
+,	PUN	,
+on	PRO:PER	on
+mange	VER:pres	manger
+,	PUN	,
+et	KON	et
+sur	PRP	sur
+les	DET:ART	le
+lèvres	NOM	lèvre
+éclôt	VER:pres	éclore
+le	DET:ART	le
+doux	ADJ	doux
+oiseau	NOM	oiseau
+baiser	NOM	baiser
+;	PUN	;
+et	KON	et
+,	PUN	,
+tout	ADV	tout
+en	PRO:PER	en
+riant	VER:ppre	rire
+,	PUN	,
+chaque	PRO:IND	chaque
+femme	NOM	femme
+en	PRO:PER	en
+laisse	VER:pres	laisser
+fuir	VER:infi	fuir
+un	DET:ART	un
+fol	ADJ	fou
+essaim	NOM	essaim
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+la	DET:ART	le
+guyane	NOM	guyane
+,	PUN	,
+cachot	NOM	cachot
+fournaise	NOM	fournaise
+,	PUN	,
+tue	VER:pper	taire
+aujourd'hui	ADV	aujourd'hui
+comme	ADV	comme
+jadis	ADV	jadis
+.	SENT	.
+couche	VER:pres	coucher
+toi	PRO:PER	toi
+,	PUN	,
+joyeux	ADJ	joyeux
+et	KON	et
+plein	ADJ	plein
+d'	PRP	de
+aise	NOM	aise
+,	PUN	,
+au	PRP:det	au
+lit	NOM	lit
+où	PRO:REL	où
+coucha	VER:simp	coucher
+louis	NOM	louis
+seize	NUM	seize
+,	PUN	,
+puis	ADV	puis
+l'	DET:ART	le
+empereur	NOM	empereur
+,	PUN	,
+puis	ADV	puis
+charles	NOM	charles
+dix	NUM	dix
+;	PUN	;
+endors	VER:pres	endormir
+toi	PRO:PER	toi
+,	PUN	,
+pendant	VER:ppre	pendre
+qu'	KON	que
+on	PRO:PER	on
+t'	PRO:PER	te
+acclame	VER:pres	acclamer
+,	PUN	,
+la	DET:ART	le
+tête	NOM	tête
+sur	PRP	sur
+leur	DET:POS	leur
+traversin	NOM	traversin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!
+ô	INT	ô
+deuil	NOM	deuil
+!	SENT	!
+par	PRP	par
+un	DET:ART	un
+bandit	NOM	bandit
+féroce	ADJ	féroce
+l'	DET:ART	le
+avenir	NOM	avenir
+est	VER:pres	être
+mort	VER:pper	mourir
+poignardé	VER:pper	poignarder
+!	SENT	!
+c'	PRO:DEM	ce
+est	VER:pres	être
+aujourd'hui	ADV	aujourd'hui
+la	DET:ART	le
+grande	ADJ	grand
+noce	NOM	noce
+,	PUN	,
+le	DET:ART	le
+fiancé	ADJ	fiancé
+monte	NOM	monte
+en	PRP	en
+carrosse	NOM	carrosse
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+lui	PRO:PER	lui
+!	SENT	!
+césar	NOM	césar
+le	DET:ART	le
+bien	ADV	bien
+gardé	VER:pper	garder
+!	SENT	!
+peuples	NOM	peuple
+,	PUN	,
+chantez	VER:pres	chanter
+l'	DET:ART	le
+épithalame	NOM	épithalame
+!	SENT	!
+la	DET:ART	le
+france	NOM	france
+épouse	VER:pres	épouser
+l'	DET:ART	le
+assassin	NOM	assassin
+.	SENT	.
+sonne	VER:pres	sonner
+aujourd'hui	ADV	aujourd'hui
+le	DET:ART	le
+glas	NOM	glas
+,	PUN	,
+bourdon	NOM	bourdon
+de	PRP	de
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+et	KON	et
+demain	ADV	demain
+le	DET:ART	le
+tocsin	NOM	tocsin
+!	SENT	!

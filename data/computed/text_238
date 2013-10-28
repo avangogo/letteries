@@ -1,171 +1,171 @@
-tu	PRO:PER
-mettrais	VER:cond
-l'	DET:ART
-univers	NOM
-entier	ADJ
-dans	PRP
-ta	DET:POS
-ruelle	NOM
-,	PUN
-femme	NOM
-impure	ADJ
-!	SENT
-l'	DET:ART
-ennui	NOM
-rend	VER:pres
-ton	DET:POS
-âme	NOM
-cruelle	ADJ
-.	SENT
-pour	PRP
-exercer	VER:infi
-tes	DET:POS
-dents	NOM
-à	PRP
-ce	PRO:DEM
-jeu	NOM
-singulier	ADJ
-,	PUN
-il	PRO:PER
-te	PRO:PER
-faut	VER:pres
-chaque	PRO:IND
-jour	NOM
-un	DET:ART
-coeur	NOM
-au	PRP:det
-râtelier	NOM
-.	SENT
-tes	DET:POS
-yeux	NOM
-,	PUN
-illuminés	VER:pper
-ainsi	ADV
-que	KON
-des	PRP:det
-boutiques	NOM
-ou	KON
-des	PRP:det
-ifs	NOM
-flamboyant	VER:ppre
-dans	PRP
-les	DET:ART
-fêtes	NOM
-publiques	ADJ
-,	PUN
-usent	VER:pres
-insolemment	ADV
-d'	PRP
-un	DET:ART
-pouvoir	NOM
-emprunté	VER:pper
-,	PUN
-sans	PRP
-connaître	VER:infi
-jamais	ADV
-la	DET:ART
-loi	NOM
-de	PRP
-leur	DET:POS
-beauté	NOM
-.	SENT
-machine	NOM
-aveugle	ADJ
-et	KON
-sourde	ADJ
-,	PUN
-en	PRP
-cruautés	NOM
-féconde	ADJ
-!	SENT
-salutaire	ADJ
-instrument	NOM
-,	PUN
-buveur	NOM
-du	PRP:det
-sang	NOM
-du	PRP:det
-monde	NOM
-,	PUN
-comment	ADV
-n'	ADV
-as	VER:pres
-tu	PRO:PER
-pas	ADV
-honte	NOM
-et	KON
-comment	ADV
-n'	ADV
-as	VER:pres
-tu	PRO:PER
-pas	ADV
-devant	PRP
-tous	PRO:IND
-les	DET:ART
-miroirs	NOM
-vu	PRP
-pâlir	VER:infi
-tes	DET:POS
-appas	NOM
-?	SENT
-la	DET:ART
-grandeur	NOM
-de	PRP
-ce	PRO:DEM
-mal	NOM
-où	PRO:REL
-tu	PRO:PER
-te	PRO:PER
-crois	VER:pres
-savante	ADJ
-ne	ADV
-t'	PRO:PER
-a	VER:pres
-donc	ADV
-jamais	ADV
-fait	VER:pres
-reculer	VER:infi
-d'	PRP
-épouvante	NOM
-,	PUN
-quand	KON
-la	DET:ART
-nature	NOM
-,	PUN
-grande	ADJ
-en	PRP
-ses	DET:POS
-desseins	NOM
-cachés	VER:pper
-,	PUN
-de	PRP
-toi	PRO:PER
-se	PRO:PER
-sert	VER:pres
-,	PUN
-ô	INT
-femme	NOM
-,	PUN
-ô	INT
-reine	NOM
-des	PRP:det
-péchés	NOM
-,	PUN
-de	PRP
-toi	PRO:PER
-,	PUN
-vil	ADJ
-animal	NOM
-,	PUN
-pour	PRP
-pétrir	VER:infi
-un	DET:ART
-génie	NOM
-?	SENT
-ô	INT
-fangeuse	ADJ
-grandeur	NOM
-!	SENT
-sublime	ADJ
-ignominie	NOM
-!	SENT
+tu	PRO:PER	tu
+mettrais	VER:cond	mettre
+l'	DET:ART	le
+univers	NOM	univers
+entier	ADJ	entier
+dans	PRP	dans
+ta	DET:POS	ton
+ruelle	NOM	ruelle
+,	PUN	,
+femme	NOM	femme
+impure	ADJ	impur
+!	SENT	!
+l'	DET:ART	le
+ennui	NOM	ennui
+rend	VER:pres	rendre
+ton	DET:POS	ton
+âme	NOM	âme
+cruelle	ADJ	cruel
+.	SENT	.
+pour	PRP	pour
+exercer	VER:infi	exercer
+tes	DET:POS	ton
+dents	NOM	dent
+à	PRP	à
+ce	PRO:DEM	ce
+jeu	NOM	jeu
+singulier	ADJ	singulier
+,	PUN	,
+il	PRO:PER	il
+te	PRO:PER	te
+faut	VER:pres	falloir
+chaque	PRO:IND	chaque
+jour	NOM	jour
+un	DET:ART	un
+coeur	NOM	cœur
+au	PRP:det	au
+râtelier	NOM	râtelier
+.	SENT	.
+tes	DET:POS	ton
+yeux	NOM	œil
+,	PUN	,
+illuminés	VER:pper	illuminer
+ainsi	ADV	ainsi
+que	KON	que
+des	PRP:det	du
+boutiques	NOM	boutique
+ou	KON	ou
+des	PRP:det	du
+ifs	NOM	if
+flamboyant	VER:ppre	flamboyer
+dans	PRP	dans
+les	DET:ART	le
+fêtes	NOM	fête
+publiques	ADJ	publique
+,	PUN	,
+usent	VER:pres	user
+insolemment	ADV	insolemment
+d'	PRP	de
+un	DET:ART	un
+pouvoir	NOM	pouvoir
+emprunté	VER:pper	emprunter
+,	PUN	,
+sans	PRP	sans
+connaître	VER:infi	connaître
+jamais	ADV	jamais
+la	DET:ART	le
+loi	NOM	loi
+de	PRP	de
+leur	DET:POS	leur
+beauté	NOM	beauté
+.	SENT	.
+machine	NOM	machine
+aveugle	ADJ	aveugle
+et	KON	et
+sourde	ADJ	sourd
+,	PUN	,
+en	PRP	en
+cruautés	NOM	cruauté
+féconde	ADJ	fécond
+!	SENT	!
+salutaire	ADJ	salutaire
+instrument	NOM	instrument
+,	PUN	,
+buveur	NOM	buveur
+du	PRP:det	du
+sang	NOM	sang
+du	PRP:det	du
+monde	NOM	monde
+,	PUN	,
+comment	ADV	comment
+n'	ADV	ne
+as	VER:pres	avoir
+tu	PRO:PER	tu
+pas	ADV	pas
+honte	NOM	honte
+et	KON	et
+comment	ADV	comment
+n'	ADV	ne
+as	VER:pres	avoir
+tu	PRO:PER	tu
+pas	ADV	pas
+devant	PRP	devant
+tous	PRO:IND	tout
+les	DET:ART	le
+miroirs	NOM	miroir
+vu	PRP	vu
+pâlir	VER:infi	pâlir
+tes	DET:POS	ton
+appas	NOM	appas
+?	SENT	?
+la	DET:ART	le
+grandeur	NOM	grandeur
+de	PRP	de
+ce	PRO:DEM	ce
+mal	NOM	mal
+où	PRO:REL	où
+tu	PRO:PER	tu
+te	PRO:PER	te
+crois	VER:pres	croire
+savante	ADJ	savant
+ne	ADV	ne
+t'	PRO:PER	te
+a	VER:pres	avoir
+donc	ADV	donc
+jamais	ADV	jamais
+fait	VER:pres	faire
+reculer	VER:infi	reculer
+d'	PRP	de
+épouvante	NOM	épouvante
+,	PUN	,
+quand	KON	quand
+la	DET:ART	le
+nature	NOM	nature
+,	PUN	,
+grande	ADJ	grand
+en	PRP	en
+ses	DET:POS	son
+desseins	NOM	dessein
+cachés	VER:pper	cacher
+,	PUN	,
+de	PRP	de
+toi	PRO:PER	toi
+se	PRO:PER	se
+sert	VER:pres	servir
+,	PUN	,
+ô	INT	ô
+femme	NOM	femme
+,	PUN	,
+ô	INT	ô
+reine	NOM	reine
+des	PRP:det	du
+péchés	NOM	péché
+,	PUN	,
+de	PRP	de
+toi	PRO:PER	toi
+,	PUN	,
+vil	ADJ	vil
+animal	NOM	animal
+,	PUN	,
+pour	PRP	pour
+pétrir	VER:infi	pétrir
+un	DET:ART	un
+génie	NOM	génie
+?	SENT	?
+ô	INT	ô
+fangeuse	ADJ	fangeux
+grandeur	NOM	grandeur
+!	SENT	!
+sublime	ADJ	sublime
+ignominie	NOM	ignominie
+!	SENT	!

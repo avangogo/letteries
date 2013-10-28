@@ -1,612 +1,612 @@
-méditons	VER:pres
-.	SENT
-il	PRO:PER
-est	VER:pres
-bon	ADJ
-que	KON
-l'	DET:ART
-esprit	NOM
-se	PRO:PER
-repaisse	VER:subp
-de	PRP
-ces	PRO:DEM
-spectacles	NOM
-là	ADV
-.	SENT
-l'	PRO:PER
-on	PRO:PER
-n'	ADV
-était	VER:impf
-qu'	ADV
-une	DET:ART
-espèce	NOM
-de	PRP
-perroquet	NOM
-ayant	VER:ppre
-un	DET:ART
-grand	ADJ
-nom	NOM
-pour	PRP
-perchoir	NOM
-,	PUN
-pauvre	ADJ
-diable	NOM
-de	PRP
-prince	NOM
-,	PUN
-usant	VER:ppre
-son	DET:POS
-habit	NOM
-noir	ADJ
-,	PUN
-auquel	PRO:REL
-mil	NOM
-huit	NUM
-cent	NUM
-quinze	NUM
-avait	VER:impf
-coupé	VER:pper
-les	DET:ART
-vivres	NOM
-.	SENT
-on	PRO:PER
-n'	ADV
-avait	VER:impf
-pas	ADV
-dix	NUM
-sous	PRP
-,	PUN
-on	PRO:PER
-emprunte	VER:pres
-cinq	NUM
-livres	NOM
-.	SENT
-maintenant	ADV
-,	PUN
-remarquons	VER:pres
-l'	DET:ART
-échelle	NOM
-,	PUN
-s'	PRO:PER
-il	PRO:PER
-vous	PRO:PER
-plaît	VER:pres
-.	SENT
-de	PRP
-l'	DET:ART
-écu	NOM
-de	PRP
-cinq	NUM
-francs	NOM
-on	PRO:PER
-s'	PRO:PER
-élève	VER:pres
-au	PRP:det
-billet	NOM
-signé	VER:pper
-garat	NOM
-;	PUN
-bravo	INT
-!	SENT
-puis	ADV
-du	PRP:det
-billet	NOM
-de	PRP
-banque	NOM
-on	PRO:PER
-grimpe	VER:pres
-au	PRP:det
-million	NOM
-,	PUN
-rapide	ADJ
-saltimbanque	NOM
-;	PUN
-le	DET:ART
-million	NOM
-gobé	VER:pper
-fait	VER:pres
-mordre	VER:infi
-au	PRP:det
-milliard	NOM
-.	SENT
-on	PRO:PER
-arrive	VER:pres
-au	PRP:det
-lingot	NOM
-en	PRP
-partant	VER:ppre
-du	PRP:det
-liard	NOM
-.	SENT
-puis	ADV
-carrosses	NOM
-,	PUN
-palais	NOM
-,	PUN
-bals	NOM
-,	PUN
-festins	NOM
-,	PUN
-opulence	NOM
-on	PRO:PER
-s'	PRO:PER
-attable	VER:pres
-au	PRP:det
-pouvoir	NOM
-et	KON
-l'	PRO:PER
-on	PRO:PER
-mange	VER:pres
-la	DET:ART
-france	NOM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-ainsi	ADV
-qu'	KON
-un	DET:ART
-filou	NOM
-devient	VER:pres
-homme	NOM
-d'	PRP
-état	NOM
-.	SENT
-qu'	KON
-a	VER:pres
-t	VER:pper
-il	PRO:PER
-fait	VER:pres
-?	SENT
-un	DET:ART
-délit	NOM
-?	SENT
-fi	NOM
-donc	ADV
-!	SENT
-un	DET:ART
-attentat	NOM
-;	PUN
-un	DET:ART
-grand	ADJ
-acte	NOM
-,	PUN
-un	DET:ART
-massacre	NOM
-,	PUN
-un	DET:ART
-admirable	ADJ
-crime	NOM
-auquel	PRO:REL
-la	DET:ART
-haute	ADJ
-cour	NOM
-prête	ADJ
-serment	NOM
-.	SENT
-l'	DET:ART
-abîme	NOM
-se	PRO:PER
-referme	VER:pres
-en	PRP
-poussant	VER:ppre
-un	DET:ART
-grognement	NOM
-bourru	ADJ
-.	SENT
-la	DET:ART
-révolution	NOM
-sous	PRP
-terre	NOM
-a	VER:pres
-disparu	VER:pper
-en	PRP
-laissant	VER:ppre
-derrière	PRP
-elle	PRO:PER
-une	DET:ART
-senteur	NOM
-de	PRP
-soufre	NOM
-.	SENT
-romieu	NOM
-montre	VER:pres
-la	DET:ART
-trappe	NOM
-et	KON
-dit	VER:pper
-:	PUN
-voyez	VER:pres
-le	DET:ART
-gouffre	NOM
-!	SENT
-vivat	NOM
-mascarillus	NOM
-!	SENT
-roulement	NOM
-de	PRP
-tambours	NOM
-.	SENT
-on	PRO:PER
-tient	VER:pres
-sous	PRP
-le	DET:ART
-bâton	NOM
-parqués	VER:pper
-dans	PRP
-les	DET:ART
-faubourgs	NOM
-les	DET:ART
-ouvriers	NOM
-ainsi	KON
-que	KON
-des	PRP:det
-noirs	NOM
-dans	PRP
-leurs	DET:POS
-cases	NOM
-paris	NOM
-sur	PRP
-ses	DET:POS
-pavés	NOM
-voit	VER:pres
-neiger	VER:infi
-les	DET:ART
-ukases	NOM
-la	DET:ART
-seine	NOM
-devient	VER:pres
-glace	NOM
-autant	ADV
-que	KON
-la	DET:ART
-néva	NOM
-.	SENT
-quant	PRP
-au	PRP:det
-maître	NOM
-,	PUN
-il	PRO:PER
-triomphe	VER:pres
-;	PUN
-il	PRO:PER
-se	PRO:PER
-promène	VER:pres
-,	PUN
-va	VER:pres
-de	PRP
-préfet	NOM
-en	PRP
-préfet	NOM
-,	PUN
-vole	NOM
-de	PRP
-maire	NOM
-en	PRP
-maire	NOM
-,	PUN
-orné	VER:pper
-du	PRP:det
-deux	NUM
-décembre	NOM
-,	PUN
-du	PRP:det
-dix	NUM
-huit	NUM
-brumaire	NOM
-,	PUN
-bombardé	VER:pper
-de	PRP
-bouquets	NOM
-,	PUN
-voituré	VER:pper
-dans	PRP
-des	PRP:det
-chars	NOM
-,	PUN
-laid	ADJ
-,	PUN
-joyeux	ADJ
-,	PUN
-salué	VER:pper
-par	PRP
-es	VER:pres
-choeurs	NOM
-de	PRP
-mouchards	NOM
-.	SENT
-puis	ADV
-il	PRO:PER
-rentre	VER:pres
-empereur	NOM
-au	PRP:det
-louvre	NOM
-,	PUN
-il	PRO:PER
-parodie	VER:pres
-napoléon	NOM
-,	PUN
-il	PRO:PER
-lit	VER:pres
-l'	DET:ART
-histoire	NOM
-,	PUN
-il	PRO:PER
-étudie	VER:pres
-l'	DET:ART
-honneur	NOM
-et	KON
-la	DET:ART
-vertu	NOM
-dans	PRP
-alexandre	NOM
-six	NUM
-;	PUN
-il	PRO:PER
-s'	PRO:PER
-installe	VER:pres
-au	PRP:det
-palais	NOM
-du	PRP:det
-spectre	NOM
-médicis	ADJ
-;	PUN
-il	PRO:PER
-quitte	VER:pres
-par	PRP
-moments	NOM
-sa	DET:POS
-pourpre	NOM
-ou	KON
-sa	DET:POS
-casaque	NOM
-,	PUN
-flâne	VER:pres
-autour	ADV
-du	PRP:det
-bassin	NOM
-en	PRP
-pantalon	NOM
-cosaque	ADJ
-,	PUN
-et	KON
-riant	VER:ppre
-,	PUN
-et	KON
-semant	VER:ppre
-les	DET:ART
-miettes	NOM
-sur	PRP
-ses	DET:POS
-pas	NOM
-,	PUN
-donne	VER:pres
-aux	PRP:det
-poissons	NOM
-le	DET:ART
-pain	NOM
-que	PRO:REL
-les	PRO:PER
-proscrits	VER:pper
-n'	ADV
-ont	VER:pres
-pas	ADV
-.	SENT
-la	DET:ART
-caserne	NOM
-l'	PRO:PER
-adore	VER:pres
-,	PUN
-on	PRO:PER
-le	PRO:PER
-bénit	VER:pres
-au	PRP:det
-prône	NOM
-;	PUN
-l'	DET:ART
-europe	NOM
-est	VER:pres
-sous	PRP
-ses	DET:POS
-pieds	NOM
-et	KON
-tremble	NOM
-sous	PRP
-son	DET:POS
-trône	NOM
-;	PUN
-il	PRO:PER
-règne	VER:pres
-par	PRP
-la	DET:ART
-mitre	NOM
-et	KON
-par	PRP
-le	DET:ART
-hausse	NOM
-col	NOM
-.	SENT
-ce	PRO:DEM
-trône	NOM
-a	VER:pres
-trois	NUM
-degrés	NOM
-,	PUN
-parjure	ADJ
-,	PUN
-meurtre	NOM
-et	KON
-vol	NOM
-.	SENT
-ô	INT
-carrare	NOM
-!	SENT
-ô	INT
-paros	NOM
-!	SENT
-ô	INT
-marbres	NOM
-pentéliques	ADJ
-!	SENT
-ô	INT
-tous	PRO:IND
-les	DET:ART
-vieux	ADJ
-héros	NOM
-des	PRP:det
-vieilles	ADJ
-républiques	NOM
-!	SENT
-ô	INT
-tous	PRO:IND
-les	DET:ART
-dictateurs	NOM
-de	PRP
-l'	DET:ART
-empire	NOM
-latin	ADJ
-!	SENT
-le	DET:ART
-moment	NOM
-est	VER:pres
-venu	VER:pper
-d'	PRP
-admirer	VER:infi
-le	DET:ART
-destin	NOM
-.	SENT
-voici	ADV
-qu'	KON
-un	DET:ART
-nouveau	ADJ
-dieu	NOM
-monte	VER:pres
-au	PRP:det
-fronton	NOM
-du	PRP:det
-temple	NOM
-.	SENT
-regarde	VER:pres
-,	PUN
-peuple	NOM
-,	PUN
-et	KON
-toi	PRO:PER
-,	PUN
-froide	ADJ
-histoire	NOM
-,	PUN
-contemple	VER:pres
-.	SENT
-tandis	KON
-que	KON
-nous	PRO:PER
-,	PUN
-martyrs	NOM
-du	PRP:det
-droit	NOM
-,	PUN
-nous	PRO:PER
-expions	VER:pres
-,	PUN
-avec	PRP
-les	DET:ART
-périclès	NOM
-,	PUN
-avec	PRP
-les	DET:ART
-scipions	NOM
-,	PUN
-sur	PRP
-les	DET:ART
-frises	NOM
-où	PRO:REL
-sont	VER:pres
-les	DET:ART
-victoires	NOM
-aptères	ADJ
-,	PUN
-au	PRP:det
-milieu	NOM
-des	PRP:det
-césars	NOM
-trainés	VER:pper
-par	PRP
-des	PRP:det
-panthères	NOM
-,	PUN
-vêtus	VER:pper
-de	PRP
-pourpre	NOM
-et	KON
-ceints	VER:pper
-du	PRP:det
-laurier	NOM
-souverain	ADJ
-,	PUN
-parmi	PRP
-les	DET:ART
-aigles	NOM
-d'	PRP
-or	NOM
-et	KON
-les	DET:ART
-louves	NOM
-d'	PRP
-airain	NOM
-,	PUN
-comme	KON
-un	DET:ART
-astre	NOM
-apparaît	VER:pres
-parmi	PRP
-ses	DET:POS
-satellites	NOM
-,	PUN
-voici	ADV
-qu'	KON
-à	PRP
-la	DET:ART
-hauteur	NOM
-des	PRP:det
-empereurs	NOM
-stylites	NOM
-,	PUN
-entre	PRP
-auguste	NOM
-à	PRP
-l'	DET:ART
-oeil	NOM
-calme	ADJ
-et	KON
-trajan	ADJ
-au	PRP:det
-front	NOM
-pur	ADJ
-,	PUN
-resplendit	VER:pres
-,	PUN
-immobile	ADJ
-en	PRP
-l'	DET:ART
-éternel	ADJ
-azur	NOM
-,	PUN
-sur	PRP
-vous	PRO:PER
-,	PUN
-ô	INT
-panthéons	NOM
-,	PUN
-sur	PRP
-vous	PRO:PER
-,	PUN
-ô	INT
-propylées	NOM
-,	PUN
-robert	NOM
-macaire	NOM
-avec	PRP
-ses	DET:POS
-bottes	NOM
-éculées	VER:pper
-!	SENT
+méditons	VER:pres	méditer
+.	SENT	.
+il	PRO:PER	il
+est	VER:pres	être
+bon	ADJ	bon
+que	KON	que
+l'	DET:ART	le
+esprit	NOM	esprit
+se	PRO:PER	se
+repaisse	VER:subp	repaître
+de	PRP	de
+ces	PRO:DEM	ce
+spectacles	NOM	spectacle
+là	ADV	là
+.	SENT	.
+l'	PRO:PER	la|le
+on	PRO:PER	on
+n'	ADV	ne
+était	VER:impf	être
+qu'	ADV	qu'
+une	DET:ART	un
+espèce	NOM	espèce
+de	PRP	de
+perroquet	NOM	perroquet
+ayant	VER:ppre	avoir
+un	DET:ART	un
+grand	ADJ	grand
+nom	NOM	nom
+pour	PRP	pour
+perchoir	NOM	perchoir
+,	PUN	,
+pauvre	ADJ	pauvre
+diable	NOM	diable
+de	PRP	de
+prince	NOM	prince
+,	PUN	,
+usant	VER:ppre	user
+son	DET:POS	son
+habit	NOM	habit
+noir	ADJ	noir
+,	PUN	,
+auquel	PRO:REL	auquel
+mil	NOM	mil
+huit	NUM	huit
+cent	NUM	cent
+quinze	NUM	quinze
+avait	VER:impf	avoir
+coupé	VER:pper	couper
+les	DET:ART	le
+vivres	NOM	vivre|vivres
+.	SENT	.
+on	PRO:PER	on
+n'	ADV	ne
+avait	VER:impf	avoir
+pas	ADV	pas
+dix	NUM	dix
+sous	PRP	sous
+,	PUN	,
+on	PRO:PER	on
+emprunte	VER:pres	emprunter
+cinq	NUM	cinq
+livres	NOM	livre
+.	SENT	.
+maintenant	ADV	maintenant
+,	PUN	,
+remarquons	VER:pres	remarquer
+l'	DET:ART	le
+échelle	NOM	échelle
+,	PUN	,
+s'	PRO:PER	se
+il	PRO:PER	il
+vous	PRO:PER	vous
+plaît	VER:pres	plaire
+.	SENT	.
+de	PRP	de
+l'	DET:ART	le
+écu	NOM	écu
+de	PRP	de
+cinq	NUM	cinq
+francs	NOM	franc
+on	PRO:PER	on
+s'	PRO:PER	se
+élève	VER:pres	élever
+au	PRP:det	au
+billet	NOM	billet
+signé	VER:pper	signer
+garat	NOM	garat
+;	PUN	;
+bravo	INT	bravo
+!	SENT	!
+puis	ADV	puis
+du	PRP:det	du
+billet	NOM	billet
+de	PRP	de
+banque	NOM	banque
+on	PRO:PER	on
+grimpe	VER:pres	grimper
+au	PRP:det	au
+million	NOM	million
+,	PUN	,
+rapide	ADJ	rapide
+saltimbanque	NOM	saltimbanque
+;	PUN	;
+le	DET:ART	le
+million	NOM	million
+gobé	VER:pper	gober
+fait	VER:pres	faire
+mordre	VER:infi	mordre
+au	PRP:det	au
+milliard	NOM	milliard
+.	SENT	.
+on	PRO:PER	on
+arrive	VER:pres	arriver
+au	PRP:det	au
+lingot	NOM	lingot
+en	PRP	en
+partant	VER:ppre	partir
+du	PRP:det	du
+liard	NOM	liard
+.	SENT	.
+puis	ADV	puis
+carrosses	NOM	carrosse
+,	PUN	,
+palais	NOM	palais
+,	PUN	,
+bals	NOM	bal
+,	PUN	,
+festins	NOM	festin
+,	PUN	,
+opulence	NOM	opulence
+on	PRO:PER	on
+s'	PRO:PER	se
+attable	VER:pres	attabler
+au	PRP:det	au
+pouvoir	NOM	pouvoir
+et	KON	et
+l'	PRO:PER	la|le
+on	PRO:PER	on
+mange	VER:pres	manger
+la	DET:ART	le
+france	NOM	france
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+ainsi	ADV	ainsi
+qu'	KON	que
+un	DET:ART	un
+filou	NOM	filou
+devient	VER:pres	devenir
+homme	NOM	homme
+d'	PRP	de
+état	NOM	état
+.	SENT	.
+qu'	KON	que
+a	VER:pres	avoir
+t	VER:pper	t
+il	PRO:PER	il
+fait	VER:pres	faire
+?	SENT	?
+un	DET:ART	un
+délit	NOM	délit
+?	SENT	?
+fi	NOM	fi
+donc	ADV	donc
+!	SENT	!
+un	DET:ART	un
+attentat	NOM	attentat
+;	PUN	;
+un	DET:ART	un
+grand	ADJ	grand
+acte	NOM	acte
+,	PUN	,
+un	DET:ART	un
+massacre	NOM	massacre
+,	PUN	,
+un	DET:ART	un
+admirable	ADJ	admirable
+crime	NOM	crime
+auquel	PRO:REL	auquel
+la	DET:ART	le
+haute	ADJ	haut
+cour	NOM	cour
+prête	ADJ	prêt
+serment	NOM	serment
+.	SENT	.
+l'	DET:ART	le
+abîme	NOM	abîme
+se	PRO:PER	se
+referme	VER:pres	refermer
+en	PRP	en
+poussant	VER:ppre	pousser
+un	DET:ART	un
+grognement	NOM	grognement
+bourru	ADJ	bourru
+.	SENT	.
+la	DET:ART	le
+révolution	NOM	révolution
+sous	PRP	sous
+terre	NOM	terre
+a	VER:pres	avoir
+disparu	VER:pper	disparaître
+en	PRP	en
+laissant	VER:ppre	laisser
+derrière	PRP	derrière
+elle	PRO:PER	elle
+une	DET:ART	un
+senteur	NOM	senteur
+de	PRP	de
+soufre	NOM	soufre
+.	SENT	.
+romieu	NOM	romieu
+montre	VER:pres	montrer
+la	DET:ART	le
+trappe	NOM	trappe
+et	KON	et
+dit	VER:pper	dire
+:	PUN	:
+voyez	VER:pres	voir
+le	DET:ART	le
+gouffre	NOM	gouffre
+!	SENT	!
+vivat	NOM	vivat
+mascarillus	NOM	mascarillus
+!	SENT	!
+roulement	NOM	roulement
+de	PRP	de
+tambours	NOM	tambour
+.	SENT	.
+on	PRO:PER	on
+tient	VER:pres	tenir
+sous	PRP	sous
+le	DET:ART	le
+bâton	NOM	bâton
+parqués	VER:pper	parquer
+dans	PRP	dans
+les	DET:ART	le
+faubourgs	NOM	faubourg
+les	DET:ART	le
+ouvriers	NOM	ouvrier
+ainsi	KON	ainsi
+que	KON	que
+des	PRP:det	du
+noirs	NOM	noir
+dans	PRP	dans
+leurs	DET:POS	leur
+cases	NOM	case
+paris	NOM	pari
+sur	PRP	sur
+ses	DET:POS	son
+pavés	NOM	pavé
+voit	VER:pres	voir
+neiger	VER:infi	neiger
+les	DET:ART	le
+ukases	NOM	ukase
+la	DET:ART	le
+seine	NOM	seine
+devient	VER:pres	devenir
+glace	NOM	glace
+autant	ADV	autant
+que	KON	que
+la	DET:ART	le
+néva	NOM	néva
+.	SENT	.
+quant	PRP	quant
+au	PRP:det	au
+maître	NOM	maître
+,	PUN	,
+il	PRO:PER	il
+triomphe	VER:pres	triompher
+;	PUN	;
+il	PRO:PER	il
+se	PRO:PER	se
+promène	VER:pres	promener
+,	PUN	,
+va	VER:pres	aller
+de	PRP	de
+préfet	NOM	préfet
+en	PRP	en
+préfet	NOM	préfet
+,	PUN	,
+vole	NOM	vole
+de	PRP	de
+maire	NOM	maire
+en	PRP	en
+maire	NOM	maire
+,	PUN	,
+orné	VER:pper	orner
+du	PRP:det	du
+deux	NUM	deux
+décembre	NOM	décembre
+,	PUN	,
+du	PRP:det	du
+dix	NUM	dix
+huit	NUM	huit
+brumaire	NOM	brumaire
+,	PUN	,
+bombardé	VER:pper	bombarder
+de	PRP	de
+bouquets	NOM	bouquet
+,	PUN	,
+voituré	VER:pper	voiturer
+dans	PRP	dans
+des	PRP:det	du
+chars	NOM	char
+,	PUN	,
+laid	ADJ	laid
+,	PUN	,
+joyeux	ADJ	joyeux
+,	PUN	,
+salué	VER:pper	saluer
+par	PRP	par
+es	VER:pres	être
+choeurs	NOM	chœur
+de	PRP	de
+mouchards	NOM	mouchard
+.	SENT	.
+puis	ADV	puis
+il	PRO:PER	il
+rentre	VER:pres	rentrer
+empereur	NOM	empereur
+au	PRP:det	au
+louvre	NOM	louvre
+,	PUN	,
+il	PRO:PER	il
+parodie	VER:pres	parodier
+napoléon	NOM	napoléon
+,	PUN	,
+il	PRO:PER	il
+lit	VER:pres	lire
+l'	DET:ART	le
+histoire	NOM	histoire
+,	PUN	,
+il	PRO:PER	il
+étudie	VER:pres	étudier
+l'	DET:ART	le
+honneur	NOM	honneur
+et	KON	et
+la	DET:ART	le
+vertu	NOM	vertu
+dans	PRP	dans
+alexandre	NOM	alexandre
+six	NUM	six
+;	PUN	;
+il	PRO:PER	il
+s'	PRO:PER	se
+installe	VER:pres	installer
+au	PRP:det	au
+palais	NOM	palais
+du	PRP:det	du
+spectre	NOM	spectre
+médicis	ADJ	médicis
+;	PUN	;
+il	PRO:PER	il
+quitte	VER:pres	quitter
+par	PRP	par
+moments	NOM	moment
+sa	DET:POS	son
+pourpre	NOM	pourpre
+ou	KON	ou
+sa	DET:POS	son
+casaque	NOM	casaque
+,	PUN	,
+flâne	VER:pres	flâner
+autour	ADV	autour
+du	PRP:det	du
+bassin	NOM	bassin
+en	PRP	en
+pantalon	NOM	pantalon
+cosaque	ADJ	cosaque
+,	PUN	,
+et	KON	et
+riant	VER:ppre	rire
+,	PUN	,
+et	KON	et
+semant	VER:ppre	semer
+les	DET:ART	le
+miettes	NOM	miette
+sur	PRP	sur
+ses	DET:POS	son
+pas	NOM	pas
+,	PUN	,
+donne	VER:pres	donner
+aux	PRP:det	au
+poissons	NOM	poisson
+le	DET:ART	le
+pain	NOM	pain
+que	PRO:REL	que
+les	PRO:PER	la|le
+proscrits	VER:pper	proscrire
+n'	ADV	ne
+ont	VER:pres	avoir
+pas	ADV	pas
+.	SENT	.
+la	DET:ART	le
+caserne	NOM	caserne
+l'	PRO:PER	la|le
+adore	VER:pres	adorer
+,	PUN	,
+on	PRO:PER	on
+le	PRO:PER	le
+bénit	VER:pres	bénir
+au	PRP:det	au
+prône	NOM	prône
+;	PUN	;
+l'	DET:ART	le
+europe	NOM	europe
+est	VER:pres	être
+sous	PRP	sous
+ses	DET:POS	son
+pieds	NOM	pied
+et	KON	et
+tremble	NOM	tremble
+sous	PRP	sous
+son	DET:POS	son
+trône	NOM	trône
+;	PUN	;
+il	PRO:PER	il
+règne	VER:pres	régner
+par	PRP	par
+la	DET:ART	le
+mitre	NOM	mitre
+et	KON	et
+par	PRP	par
+le	DET:ART	le
+hausse	NOM	hausse
+col	NOM	col
+.	SENT	.
+ce	PRO:DEM	ce
+trône	NOM	trône
+a	VER:pres	avoir
+trois	NUM	trois
+degrés	NOM	degré
+,	PUN	,
+parjure	ADJ	parjure
+,	PUN	,
+meurtre	NOM	meurtre
+et	KON	et
+vol	NOM	vol
+.	SENT	.
+ô	INT	ô
+carrare	NOM	carrare
+!	SENT	!
+ô	INT	ô
+paros	NOM	paros
+!	SENT	!
+ô	INT	ô
+marbres	NOM	marbre
+pentéliques	ADJ	pentélique
+!	SENT	!
+ô	INT	ô
+tous	PRO:IND	tout
+les	DET:ART	le
+vieux	ADJ	vieux
+héros	NOM	héro|héros
+des	PRP:det	du
+vieilles	ADJ	vieux
+républiques	NOM	république
+!	SENT	!
+ô	INT	ô
+tous	PRO:IND	tout
+les	DET:ART	le
+dictateurs	NOM	dictateur
+de	PRP	de
+l'	DET:ART	le
+empire	NOM	empire
+latin	ADJ	latin
+!	SENT	!
+le	DET:ART	le
+moment	NOM	moment
+est	VER:pres	être
+venu	VER:pper	venir
+d'	PRP	de
+admirer	VER:infi	admirer
+le	DET:ART	le
+destin	NOM	destin
+.	SENT	.
+voici	ADV	voici
+qu'	KON	que
+un	DET:ART	un
+nouveau	ADJ	nouveau
+dieu	NOM	dieu
+monte	VER:pres	monter
+au	PRP:det	au
+fronton	NOM	fronton
+du	PRP:det	du
+temple	NOM	temple
+.	SENT	.
+regarde	VER:pres	regarder
+,	PUN	,
+peuple	NOM	peuple
+,	PUN	,
+et	KON	et
+toi	PRO:PER	toi
+,	PUN	,
+froide	ADJ	froid
+histoire	NOM	histoire
+,	PUN	,
+contemple	VER:pres	contempler
+.	SENT	.
+tandis	KON	tandis
+que	KON	que
+nous	PRO:PER	nous
+,	PUN	,
+martyrs	NOM	martyr
+du	PRP:det	du
+droit	NOM	droit
+,	PUN	,
+nous	PRO:PER	nous
+expions	VER:pres	expier
+,	PUN	,
+avec	PRP	avec
+les	DET:ART	le
+périclès	NOM	périclès
+,	PUN	,
+avec	PRP	avec
+les	DET:ART	le
+scipions	NOM	scipions
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+frises	NOM	frise
+où	PRO:REL	où
+sont	VER:pres	être
+les	DET:ART	le
+victoires	NOM	victoire
+aptères	ADJ	aptère
+,	PUN	,
+au	PRP:det	au
+milieu	NOM	milieu
+des	PRP:det	du
+césars	NOM	césar
+trainés	VER:pper	trainer
+par	PRP	par
+des	PRP:det	du
+panthères	NOM	panthère
+,	PUN	,
+vêtus	VER:pper	vêtir
+de	PRP	de
+pourpre	NOM	pourpre
+et	KON	et
+ceints	VER:pper	ceindre
+du	PRP:det	du
+laurier	NOM	laurier
+souverain	ADJ	souverain
+,	PUN	,
+parmi	PRP	parmi
+les	DET:ART	le
+aigles	NOM	aigle
+d'	PRP	de
+or	NOM	or
+et	KON	et
+les	DET:ART	le
+louves	NOM	louve
+d'	PRP	de
+airain	NOM	airain
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+astre	NOM	astre
+apparaît	VER:pres	apparaître
+parmi	PRP	parmi
+ses	DET:POS	son
+satellites	NOM	satellite
+,	PUN	,
+voici	ADV	voici
+qu'	KON	que
+à	PRP	à
+la	DET:ART	le
+hauteur	NOM	hauteur
+des	PRP:det	du
+empereurs	NOM	empereur
+stylites	NOM	stylite
+,	PUN	,
+entre	PRP	entre
+auguste	NOM	auguste
+à	PRP	à
+l'	DET:ART	le
+oeil	NOM	œil
+calme	ADJ	calme
+et	KON	et
+trajan	ADJ	trajan
+au	PRP:det	au
+front	NOM	front
+pur	ADJ	pur
+,	PUN	,
+resplendit	VER:pres	resplendir
+,	PUN	,
+immobile	ADJ	immobile
+en	PRP	en
+l'	DET:ART	le
+éternel	ADJ	éternel
+azur	NOM	azur
+,	PUN	,
+sur	PRP	sur
+vous	PRO:PER	vous
+,	PUN	,
+ô	INT	ô
+panthéons	NOM	panthéon
+,	PUN	,
+sur	PRP	sur
+vous	PRO:PER	vous
+,	PUN	,
+ô	INT	ô
+propylées	NOM	propylée
+,	PUN	,
+robert	NOM	robert
+macaire	NOM	macaire
+avec	PRP	avec
+ses	DET:POS	son
+bottes	NOM	botte
+éculées	VER:pper	éculer
+!	SENT	!

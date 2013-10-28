@@ -1,184 +1,184 @@
-quand	KON
-le	DET:ART
-ciel	NOM
-bas	ADJ
-et	KON
-lourd	ADJ
-pèse	NOM
-comme	KON
-un	DET:ART
-couvercle	NOM
-sur	PRP
-l'	DET:ART
-esprit	NOM
-gémissant	VER:ppre
-en	PRP
-proie	NOM
-aux	PRP:det
-longs	ADJ
-ennuis	NOM
-,	PUN
-et	KON
-que	KON
-de	PRP
-l'	DET:ART
-horizon	NOM
-embrassant	VER:ppre
-tout	PRO:IND
-le	DET:ART
-cercle	NOM
-il	PRO:PER
-nous	PRO:PER
-verse	VER:pres
-un	DET:ART
-jour	NOM
-noir	ADJ
-plus	ADV
-triste	ADJ
-que	KON
-les	DET:ART
-nuits	NOM
-;	PUN
-quand	KON
-la	DET:ART
-terre	NOM
-est	VER:pres
-changée	VER:pper
-en	PRP
-un	DET:ART
-cachot	NOM
-humide	ADJ
-,	PUN
-où	PRO:REL
-l'	DET:ART
-espérance	NOM
-,	PUN
-comme	KON
-une	DET:ART
-chauve	ADJ
-souris	NOM
-,	PUN
-s'	PRO:PER
-en	PRO:PER
-va	VER:pres
-battant	VER:ppre
-les	DET:ART
-murs	NOM
-de	PRP
-son	DET:POS
-aile	NOM
-timide	ADJ
-et	KON
-se	PRO:PER
-cognant	VER:ppre
-la	DET:ART
-tête	NOM
-à	PRP
-des	PRP:det
-plafonds	NOM
-pourris	VER:pper
-;	PUN
-quand	KON
-la	DET:ART
-pluie	NOM
-étalant	VER:ppre
-ses	DET:POS
-immenses	ADJ
-traînées	NOM
-d'	PRP
-une	DET:ART
-vaste	ADJ
-prison	NOM
-imite	VER:pres
-les	DET:ART
-barreaux	NOM
-,	PUN
-et	KON
-qu'	KON
-un	DET:ART
-peuple	NOM
-muet	ADJ
-d'	PRP
-infâmes	ADJ
-araignées	NOM
-vient	VER:pres
-tendre	VER:infi
-ses	DET:POS
-filets	NOM
-au	PRP:det
-fond	NOM
-de	PRP
-nos	DET:POS
-cerveaux	NOM
-,	PUN
-des	PRP:det
-cloches	NOM
-tout	ADV
-à	PRP
-coup	NOM
-sautent	VER:pres
-avec	PRP
-furie	NOM
-et	KON
-lancent	VER:pres
-vers	PRP
-le	DET:ART
-ciel	NOM
-un	DET:ART
-affreux	ADJ
-hurlement	NOM
-,	PUN
-ainsi	KON
-que	KON
-des	PRP:det
-esprits	NOM
-errants	ADJ
-et	KON
-sans	PRP
-patrie	NOM
-qui	PRO:REL
-se	PRO:PER
-mettent	VER:pres
-à	PRP
-geindre	VER:infi
-opiniâtrément	NOM
-.	SENT
-et	KON
-de	PRP
-longs	ADJ
-corbillards	NOM
-,	PUN
-sans	PRP
-tambours	NOM
-ni	KON
-musique	NOM
-,	PUN
-défilent	VER:pres
-lentement	ADV
-dans	PRP
-mon	DET:POS
-âme	NOM
-;	PUN
-l'	DET:ART
-espoir	NOM
-,	PUN
-vaincu	VER:pper
-,	PUN
-pleure	NOM
-,	PUN
-et	KON
-l'	DET:ART
-angoisse	NOM
-atroce	ADJ
-,	PUN
-despotique	ADJ
-,	PUN
-sur	PRP
-mon	DET:POS
-crâne	NOM
-incliné	ADJ
-plante	VER:pres
-son	DET:POS
-drapeau	NOM
-noir	ADJ
-.	SENT
+quand	KON	quand
+le	DET:ART	le
+ciel	NOM	ciel
+bas	ADJ	bas
+et	KON	et
+lourd	ADJ	lourd
+pèse	NOM	pèse
+comme	KON	comme
+un	DET:ART	un
+couvercle	NOM	couvercle
+sur	PRP	sur
+l'	DET:ART	le
+esprit	NOM	esprit
+gémissant	VER:ppre	gémir
+en	PRP	en
+proie	NOM	proie
+aux	PRP:det	au
+longs	ADJ	long
+ennuis	NOM	ennui
+,	PUN	,
+et	KON	et
+que	KON	que
+de	PRP	de
+l'	DET:ART	le
+horizon	NOM	horizon
+embrassant	VER:ppre	embrasser
+tout	PRO:IND	tout
+le	DET:ART	le
+cercle	NOM	cercle
+il	PRO:PER	il
+nous	PRO:PER	nous
+verse	VER:pres	verser
+un	DET:ART	un
+jour	NOM	jour
+noir	ADJ	noir
+plus	ADV	plus
+triste	ADJ	triste
+que	KON	que
+les	DET:ART	le
+nuits	NOM	nuit
+;	PUN	;
+quand	KON	quand
+la	DET:ART	le
+terre	NOM	terre
+est	VER:pres	être
+changée	VER:pper	changer
+en	PRP	en
+un	DET:ART	un
+cachot	NOM	cachot
+humide	ADJ	humide
+,	PUN	,
+où	PRO:REL	où
+l'	DET:ART	le
+espérance	NOM	espérance
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+chauve	ADJ	chauve
+souris	NOM	souris
+,	PUN	,
+s'	PRO:PER	se
+en	PRO:PER	en
+va	VER:pres	aller
+battant	VER:ppre	battre
+les	DET:ART	le
+murs	NOM	mur
+de	PRP	de
+son	DET:POS	son
+aile	NOM	aile
+timide	ADJ	timide
+et	KON	et
+se	PRO:PER	se
+cognant	VER:ppre	cogner
+la	DET:ART	le
+tête	NOM	tête
+à	PRP	à
+des	PRP:det	du
+plafonds	NOM	plafond
+pourris	VER:pper	pourrir
+;	PUN	;
+quand	KON	quand
+la	DET:ART	le
+pluie	NOM	pluie
+étalant	VER:ppre	étaler
+ses	DET:POS	son
+immenses	ADJ	immense
+traînées	NOM	traînée
+d'	PRP	de
+une	DET:ART	un
+vaste	ADJ	vaste
+prison	NOM	prison
+imite	VER:pres	imiter
+les	DET:ART	le
+barreaux	NOM	barreau
+,	PUN	,
+et	KON	et
+qu'	KON	que
+un	DET:ART	un
+peuple	NOM	peuple
+muet	ADJ	muet
+d'	PRP	de
+infâmes	ADJ	infâme
+araignées	NOM	araignée
+vient	VER:pres	venir
+tendre	VER:infi	tendre
+ses	DET:POS	son
+filets	NOM	filet
+au	PRP:det	au
+fond	NOM	fond
+de	PRP	de
+nos	DET:POS	notre
+cerveaux	NOM	cerveau
+,	PUN	,
+des	PRP:det	du
+cloches	NOM	cloche
+tout	ADV	tout
+à	PRP	à
+coup	NOM	coup
+sautent	VER:pres	sauter
+avec	PRP	avec
+furie	NOM	furie
+et	KON	et
+lancent	VER:pres	lancer
+vers	PRP	vers
+le	DET:ART	le
+ciel	NOM	ciel
+un	DET:ART	un
+affreux	ADJ	affreux
+hurlement	NOM	hurlement
+,	PUN	,
+ainsi	KON	ainsi
+que	KON	que
+des	PRP:det	du
+esprits	NOM	esprit
+errants	ADJ	errant
+et	KON	et
+sans	PRP	sans
+patrie	NOM	patrie
+qui	PRO:REL	qui
+se	PRO:PER	se
+mettent	VER:pres	mettre
+à	PRP	à
+geindre	VER:infi	geindre
+opiniâtrément	NOM	opiniâtrément
+.	SENT	.
+et	KON	et
+de	PRP	de
+longs	ADJ	long
+corbillards	NOM	corbillard
+,	PUN	,
+sans	PRP	sans
+tambours	NOM	tambour
+ni	KON	ni
+musique	NOM	musique
+,	PUN	,
+défilent	VER:pres	défiler
+lentement	ADV	lentement
+dans	PRP	dans
+mon	DET:POS	mon
+âme	NOM	âme
+;	PUN	;
+l'	DET:ART	le
+espoir	NOM	espoir
+,	PUN	,
+vaincu	VER:pper	vaincre
+,	PUN	,
+pleure	NOM	pleure
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+angoisse	NOM	angoisse
+atroce	ADJ	atroce
+,	PUN	,
+despotique	ADJ	despotique
+,	PUN	,
+sur	PRP	sur
+mon	DET:POS	mon
+crâne	NOM	crâne
+incliné	ADJ	incliné
+plante	VER:pres	planter
+son	DET:POS	son
+drapeau	NOM	drapeau
+noir	ADJ	noir
+.	SENT	.

@@ -1,72 +1,72 @@
-est	VER:pres
-elle	PRO:PER
-almée	NOM
-?	SENT
-...	PUN
-aux	PRP:det
-premières	NUM
-heures	NOM
-bleues	ADJ
-se	PRO:PER
-détruira	VER:futu
-t	VER:pper
-elle	PRO:PER
-comme	ADV
-les	DET:ART
-fleurs	NOM
-feues	ADJ
-...	PUN
-devant	PRP
-la	DET:ART
-splendide	ADJ
-étendue	NOM
-où	PRO:REL
-l'	DET:ART
-on	PRO:PER
-sente	VER:subp
-souffler	VER:infi
-la	DET:ART
-ville	NOM
-énormément	ADV
-florissante	ADJ
-!	SENT
-c'	PRO:DEM
-est	VER:pres
-trop	ADV
-beau	ADJ
-!	SENT
-c'	PRO:DEM
-est	VER:pres
-trop	ADV
-beau	ADJ
-!	SENT
-mais	KON
-c'	PRO:DEM
-est	VER:pres
-nécessaire	ADJ
-pour	PRP
-la	DET:ART
-pêcheuse	NOM
-et	KON
-la	DET:ART
-chanson	NOM
-du	PRP:det
-corsaire	NOM
-,	PUN
-et	KON
-aussi	ADV
-puisque	KON
-les	DET:ART
-derniers	ADJ
-masques	NOM
-crurent	VER:simp
-encore	ADV
-aux	PRP:det
-fêtes	NOM
-de	PRP
-nuit	NOM
-sur	PRP
-la	DET:ART
-mer	NOM
-pure	ADJ
-!	SENT
+est	VER:pres	être
+elle	PRO:PER	elle
+almée	NOM	almée
+?	SENT	?
+...	PUN	...
+aux	PRP:det	au
+premières	NUM	premier
+heures	NOM	heure
+bleues	ADJ	bleu
+se	PRO:PER	se
+détruira	VER:futu	détruire
+t	VER:pper	t
+elle	PRO:PER	elle
+comme	ADV	comme
+les	DET:ART	le
+fleurs	NOM	fleur
+feues	ADJ	feu
+...	PUN	...
+devant	PRP	devant
+la	DET:ART	le
+splendide	ADJ	splendide
+étendue	NOM	étendue
+où	PRO:REL	où
+l'	DET:ART	le
+on	PRO:PER	on
+sente	VER:subp	sentir
+souffler	VER:infi	souffler
+la	DET:ART	le
+ville	NOM	ville
+énormément	ADV	énormément
+florissante	ADJ	florissant
+!	SENT	!
+c'	PRO:DEM	ce
+est	VER:pres	être
+trop	ADV	trop
+beau	ADJ	beau
+!	SENT	!
+c'	PRO:DEM	ce
+est	VER:pres	être
+trop	ADV	trop
+beau	ADJ	beau
+!	SENT	!
+mais	KON	mais
+c'	PRO:DEM	ce
+est	VER:pres	être
+nécessaire	ADJ	nécessaire
+pour	PRP	pour
+la	DET:ART	le
+pêcheuse	NOM	pêcheur
+et	KON	et
+la	DET:ART	le
+chanson	NOM	chanson
+du	PRP:det	du
+corsaire	NOM	corsaire
+,	PUN	,
+et	KON	et
+aussi	ADV	aussi
+puisque	KON	puisque
+les	DET:ART	le
+derniers	ADJ	dernier
+masques	NOM	masque
+crurent	VER:simp	croire
+encore	ADV	encore
+aux	PRP:det	au
+fêtes	NOM	fête
+de	PRP	de
+nuit	NOM	nuit
+sur	PRP	sur
+la	DET:ART	le
+mer	NOM	mer
+pure	ADJ	pur
+!	SENT	!

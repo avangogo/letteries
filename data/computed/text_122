@@ -1,210 +1,210 @@
-des	PRP:det
-avalanches	NOM
-d'	PRP
-or	NOM
-du	PRP:det
-vieil	ADJ
-azur	NOM
-,	PUN
-au	PRP:det
-jour	NOM
-premier	NUM
-et	KON
-de	PRP
-la	DET:ART
-neige	NOM
-éternelle	ADJ
-des	PRP:det
-astres	NOM
-jadis	ADV
-tu	PRO:PER
-détachas	VER:simp
-les	DET:ART
-grands	ADJ
-calices	NOM
-pour	PRP
-la	DET:ART
-terre	NOM
-jeune	ADJ
-encore	ADV
-et	KON
-vierge	ADJ
-de	PRP
-désastres	NOM
-,	PUN
-le	DET:ART
-glaïeul	NOM
-fauve	ADJ
-,	PUN
-avec	PRP
-les	DET:ART
-cygnes	NOM
-au	PRP:det
-col	NOM
-fin	ADJ
-,	PUN
-et	KON
-ce	PRO:DEM
-divin	ADJ
-laurier	NOM
-des	PRP:det
-âmes	NOM
-exilées	VER:pper
-vermeil	ADJ
-comme	KON
-le	DET:ART
-pur	ADJ
-orteil	NOM
-du	PRP:det
-séraphin	NOM
-que	PRO:REL
-rougit	VER:pres
-la	DET:ART
-pudeur	NOM
-des	PRP:det
-aurores	NOM
-foulées	ADJ
-,	PUN
-l'	DET:ART
-hyacinthe	NOM
-,	PUN
-le	DET:ART
-myrte	NOM
-à	PRP
-l'	DET:ART
-adorable	ADJ
-éclair	NOM
-et	KON
-,	PUN
-pareille	NOM
-à	PRP
-la	DET:ART
-chair	NOM
-de	PRP
-la	DET:ART
-femme	NOM
-,	PUN
-la	DET:ART
-rose	ADJ
-cruelle	NOM
-,	PUN
-hérodiade	NOM
-en	PRP
-fleur	NOM
-du	PRP:det
-jardin	NOM
-clair	ADJ
-,	PUN
-celle	PRO:DEM
-qu'	PRO:REL
-un	DET:ART
-sang	NOM
-farouche	ADJ
-et	KON
-radieux	ADJ
-arrose	VER:pres
-!	SENT
-et	KON
-tu	PRO:PER
-fis	VER:simp
-la	DET:ART
-blancheur	NOM
-sanglotante	ADJ
-des	PRP:det
-lys	NOM
-qui	PRO:REL
-roulant	VER:ppre
-sur	PRP
-des	PRP:det
-mers	NOM
-de	PRP
-soupirs	NOM
-qu'	PRO:REL
-elle	PRO:PER
-effleure	VER:pres
-à	PRP
-travers	NOM
-l'	DET:ART
-encens	NOM
-bleu	ADJ
-des	PRP:det
-horizons	NOM
-pâlis	VER:pper
-monte	VER:pres
-rêveusement	ADV
-vers	PRP
-la	DET:ART
-lune	NOM
-qui	PRO:REL
-pleure	VER:pres
-!	SENT
-hosannah	NOM
-sur	PRP
-le	DET:ART
-cistre	NOM
-et	KON
-dans	PRP
-les	DET:ART
-encensoirs	NOM
-,	PUN
-notre	DET:POS
-dame	NOM
-,	PUN
-hosannah	NOM
-du	PRP:det
-jardin	NOM
-de	PRP
-nos	DET:POS
-limbes	NOM
-!	SENT
-et	KON
-finisse	VER:subp
-l'	DET:ART
-écho	NOM
-par	PRP
-les	DET:ART
-célestes	ADJ
-soirs	NOM
-,	PUN
-extase	NOM
-des	PRP:det
-regards	NOM
-,	PUN
-scintillement	NOM
-des	PRP:det
-nimbes	NOM
-!	SENT
-ô	INT
-mère	NOM
-,	PUN
-qui	PRO:REL
-créas	VER:simp
-en	PRP
-ton	DET:POS
-sein	NOM
-juste	ADJ
-et	KON
-fort	ADJ
-,	PUN
-calices	NOM
-balançant	VER:ppre
-la	DET:ART
-future	ADJ
-fiole	NOM
-,	PUN
-de	PRP
-grandes	ADJ
-fleurs	NOM
-avec	PRP
-la	DET:ART
-balsamique	ADJ
-mort	NOM
-pour	PRP
-le	DET:ART
-poëte	NOM
-las	ADJ
-que	KON
-la	DET:ART
-vie	NOM
-étiole	VER:pres
-.	SENT
+des	PRP:det	du
+avalanches	NOM	avalanche
+d'	PRP	de
+or	NOM	or
+du	PRP:det	du
+vieil	ADJ	vieux
+azur	NOM	azur
+,	PUN	,
+au	PRP:det	au
+jour	NOM	jour
+premier	NUM	premier
+et	KON	et
+de	PRP	de
+la	DET:ART	le
+neige	NOM	neige
+éternelle	ADJ	éternel
+des	PRP:det	du
+astres	NOM	astre
+jadis	ADV	jadis
+tu	PRO:PER	tu
+détachas	VER:simp	détacher
+les	DET:ART	le
+grands	ADJ	grand
+calices	NOM	calice
+pour	PRP	pour
+la	DET:ART	le
+terre	NOM	terre
+jeune	ADJ	jeune
+encore	ADV	encore
+et	KON	et
+vierge	ADJ	vierge
+de	PRP	de
+désastres	NOM	désastre
+,	PUN	,
+le	DET:ART	le
+glaïeul	NOM	glaïeul
+fauve	ADJ	fauve
+,	PUN	,
+avec	PRP	avec
+les	DET:ART	le
+cygnes	NOM	cygne
+au	PRP:det	au
+col	NOM	col
+fin	ADJ	fin
+,	PUN	,
+et	KON	et
+ce	PRO:DEM	ce
+divin	ADJ	divin
+laurier	NOM	laurier
+des	PRP:det	du
+âmes	NOM	âme
+exilées	VER:pper	exiler
+vermeil	ADJ	vermeil
+comme	KON	comme
+le	DET:ART	le
+pur	ADJ	pur
+orteil	NOM	orteil
+du	PRP:det	du
+séraphin	NOM	séraphin
+que	PRO:REL	que
+rougit	VER:pres	rougir
+la	DET:ART	le
+pudeur	NOM	pudeur
+des	PRP:det	du
+aurores	NOM	aurore
+foulées	ADJ	foulé
+,	PUN	,
+l'	DET:ART	le
+hyacinthe	NOM	hyacinthe
+,	PUN	,
+le	DET:ART	le
+myrte	NOM	myrte
+à	PRP	à
+l'	DET:ART	le
+adorable	ADJ	adorable
+éclair	NOM	éclair
+et	KON	et
+,	PUN	,
+pareille	NOM	pareil
+à	PRP	à
+la	DET:ART	le
+chair	NOM	chair
+de	PRP	de
+la	DET:ART	le
+femme	NOM	femme
+,	PUN	,
+la	DET:ART	le
+rose	ADJ	rose
+cruelle	NOM	cruel
+,	PUN	,
+hérodiade	NOM	hérodiade
+en	PRP	en
+fleur	NOM	fleur
+du	PRP:det	du
+jardin	NOM	jardin
+clair	ADJ	clair
+,	PUN	,
+celle	PRO:DEM	celui
+qu'	PRO:REL	que
+un	DET:ART	un
+sang	NOM	sang
+farouche	ADJ	farouche
+et	KON	et
+radieux	ADJ	radieux
+arrose	VER:pres	arroser
+!	SENT	!
+et	KON	et
+tu	PRO:PER	tu
+fis	VER:simp	faire
+la	DET:ART	le
+blancheur	NOM	blancheur
+sanglotante	ADJ	sanglotant
+des	PRP:det	du
+lys	NOM	lys
+qui	PRO:REL	qui
+roulant	VER:ppre	rouler
+sur	PRP	sur
+des	PRP:det	du
+mers	NOM	mer
+de	PRP	de
+soupirs	NOM	soupir
+qu'	PRO:REL	que
+elle	PRO:PER	elle
+effleure	VER:pres	effleurer
+à	PRP	à
+travers	NOM	travers
+l'	DET:ART	le
+encens	NOM	encens
+bleu	ADJ	bleu
+des	PRP:det	du
+horizons	NOM	horizon
+pâlis	VER:pper	pâlir
+monte	VER:pres	monter
+rêveusement	ADV	rêveusement
+vers	PRP	vers
+la	DET:ART	le
+lune	NOM	lune
+qui	PRO:REL	qui
+pleure	VER:pres	pleurer
+!	SENT	!
+hosannah	NOM	hosannah
+sur	PRP	sur
+le	DET:ART	le
+cistre	NOM	cistre
+et	KON	et
+dans	PRP	dans
+les	DET:ART	le
+encensoirs	NOM	encensoir
+,	PUN	,
+notre	DET:POS	notre
+dame	NOM	dame
+,	PUN	,
+hosannah	NOM	hosannah
+du	PRP:det	du
+jardin	NOM	jardin
+de	PRP	de
+nos	DET:POS	notre
+limbes	NOM	limbe|limbes
+!	SENT	!
+et	KON	et
+finisse	VER:subp	finir
+l'	DET:ART	le
+écho	NOM	écho
+par	PRP	par
+les	DET:ART	le
+célestes	ADJ	céleste
+soirs	NOM	soir
+,	PUN	,
+extase	NOM	extase
+des	PRP:det	du
+regards	NOM	regard
+,	PUN	,
+scintillement	NOM	scintillement
+des	PRP:det	du
+nimbes	NOM	nimbe
+!	SENT	!
+ô	INT	ô
+mère	NOM	mère
+,	PUN	,
+qui	PRO:REL	qui
+créas	VER:simp	créer
+en	PRP	en
+ton	DET:POS	ton
+sein	NOM	sein
+juste	ADJ	juste
+et	KON	et
+fort	ADJ	fort
+,	PUN	,
+calices	NOM	calice
+balançant	VER:ppre	balancer
+la	DET:ART	le
+future	ADJ	futur
+fiole	NOM	fiole
+,	PUN	,
+de	PRP	de
+grandes	ADJ	grand
+fleurs	NOM	fleur
+avec	PRP	avec
+la	DET:ART	le
+balsamique	ADJ	balsamique
+mort	NOM	mort
+pour	PRP	pour
+le	DET:ART	le
+poëte	NOM	poëte
+las	ADJ	las
+que	KON	que
+la	DET:ART	le
+vie	NOM	vie
+étiole	VER:pres	étioler
+.	SENT	.

@@ -1,136 +1,136 @@
-tisonnant	VER:ppre
-,	PUN
-tisonnant	VER:ppre
-son	DET:POS
-coeur	NOM
-amoureux	ADJ
-sous	PRP
-sa	DET:POS
-chaste	ADJ
-robe	NOM
-noire	ADJ
-,	PUN
-heureux	ADJ
-,	PUN
-la	DET:ART
-main	NOM
-gantée	VER:pper
-,	PUN
-un	DET:ART
-jour	NOM
-qu'	PRO:REL
-il	PRO:PER
-s'	PRO:PER
-en	PRO:PER
-allait	VER:impf
-,	PUN
-effroyablement	ADV
-doux	ADJ
-,	PUN
-jaune	ADJ
-,	PUN
-bavant	VER:ppre
-la	DET:ART
-foi	NOM
-de	PRP
-sa	DET:POS
-bouche	NOM
-édentée	VER:pper
-,	PUN
-un	DET:ART
-jour	NOM
-qu'	PRO:REL
-il	PRO:PER
-s'	PRO:PER
-en	PRO:PER
-allait	VER:impf
-,	PUN
-oremus	NOM
-,	PUN
-un	DET:ART
-méchant	NOM
-le	PRO:PER
-prit	VER:simp
-rudement	ADV
-par	PRP
-son	DET:POS
-oreille	NOM
-benoite	ADJ
-et	KON
-lui	PRO:PER
-jeta	VER:simp
-des	PRP:det
-mots	NOM
-affreux	ADJ
-,	PUN
-en	PRO:PER
-arrachant	VER:ppre
-sa	DET:POS
-chaste	ADJ
-robe	NOM
-noire	ADJ
-autour	ADV
-de	PRP
-sa	DET:POS
-peau	NOM
-moite	ADJ
-!	SENT
-châtiment	NOM
-!	SENT
-...	PUN
-ses	DET:POS
-habits	NOM
-étaient	VER:impf
-déboutonnés	VER:pper
-,	PUN
-et	KON
-le	DET:ART
-long	ADJ
-chapelet	NOM
-des	PRP:det
-péchés	NOM
-pardonnés	VER:pper
-s'	PRO:PER
-égrenant	VER:ppre
-dans	PRP
-son	DET:POS
-coeur	NOM
-,	PUN
-saint	ADJ
-tartufe	NOM
-était	VER:impf
-pâle	ADJ
-!	SENT
-...	PUN
-donc	ADV
-,	PUN
-il	PRO:PER
-se	PRO:PER
-confessait	VER:impf
-,	PUN
-priait	VER:impf
-,	PUN
-avec	PRP
-un	DET:ART
-râle	NOM
-!	SENT
-l'	DET:ART
-homme	NOM
-se	PRO:PER
-contenta	VER:simp
-d'	PRP
-emporter	VER:infi
-ses	DET:POS
-rabats	NOM
-...	PUN
-peuh	INT
-!	SENT
-tartufe	NOM
-était	VER:impf
-nu	NOM
-du	PRP:det
-haut	NOM
-jusques	KON
-en	PRP
-bas	NOM
-!	SENT
+tisonnant	VER:ppre	tisonner
+,	PUN	,
+tisonnant	VER:ppre	tisonner
+son	DET:POS	son
+coeur	NOM	cœur
+amoureux	ADJ	amoureux
+sous	PRP	sous
+sa	DET:POS	son
+chaste	ADJ	chaste
+robe	NOM	robe
+noire	ADJ	noir
+,	PUN	,
+heureux	ADJ	heureux
+,	PUN	,
+la	DET:ART	le
+main	NOM	main
+gantée	VER:pper	ganter
+,	PUN	,
+un	DET:ART	un
+jour	NOM	jour
+qu'	PRO:REL	que
+il	PRO:PER	il
+s'	PRO:PER	se
+en	PRO:PER	en
+allait	VER:impf	aller
+,	PUN	,
+effroyablement	ADV	effroyablement
+doux	ADJ	doux
+,	PUN	,
+jaune	ADJ	jaune
+,	PUN	,
+bavant	VER:ppre	baver
+la	DET:ART	le
+foi	NOM	foi
+de	PRP	de
+sa	DET:POS	son
+bouche	NOM	bouche
+édentée	VER:pper	édenter
+,	PUN	,
+un	DET:ART	un
+jour	NOM	jour
+qu'	PRO:REL	que
+il	PRO:PER	il
+s'	PRO:PER	se
+en	PRO:PER	en
+allait	VER:impf	aller
+,	PUN	,
+oremus	NOM	oremus
+,	PUN	,
+un	DET:ART	un
+méchant	NOM	méchant
+le	PRO:PER	le
+prit	VER:simp	prendre
+rudement	ADV	rudement
+par	PRP	par
+son	DET:POS	son
+oreille	NOM	oreille
+benoite	ADJ	benoite
+et	KON	et
+lui	PRO:PER	lui
+jeta	VER:simp	jeter
+des	PRP:det	du
+mots	NOM	mot
+affreux	ADJ	affreux
+,	PUN	,
+en	PRO:PER	en
+arrachant	VER:ppre	arracher
+sa	DET:POS	son
+chaste	ADJ	chaste
+robe	NOM	robe
+noire	ADJ	noir
+autour	ADV	autour
+de	PRP	de
+sa	DET:POS	son
+peau	NOM	peau
+moite	ADJ	moite
+!	SENT	!
+châtiment	NOM	châtiment
+!	SENT	!
+...	PUN	...
+ses	DET:POS	son
+habits	NOM	habit
+étaient	VER:impf	être
+déboutonnés	VER:pper	déboutonner
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+long	ADJ	long
+chapelet	NOM	chapelet
+des	PRP:det	du
+péchés	NOM	péché
+pardonnés	VER:pper	pardonner
+s'	PRO:PER	se
+égrenant	VER:ppre	égrener
+dans	PRP	dans
+son	DET:POS	son
+coeur	NOM	cœur
+,	PUN	,
+saint	ADJ	saint
+tartufe	NOM	tartufe
+était	VER:impf	être
+pâle	ADJ	pâle
+!	SENT	!
+...	PUN	...
+donc	ADV	donc
+,	PUN	,
+il	PRO:PER	il
+se	PRO:PER	se
+confessait	VER:impf	confesser
+,	PUN	,
+priait	VER:impf	prier
+,	PUN	,
+avec	PRP	avec
+un	DET:ART	un
+râle	NOM	râle
+!	SENT	!
+l'	DET:ART	le
+homme	NOM	homme
+se	PRO:PER	se
+contenta	VER:simp	contenter
+d'	PRP	de
+emporter	VER:infi	emporter
+ses	DET:POS	son
+rabats	NOM	rabat
+...	PUN	...
+peuh	INT	peuh
+!	SENT	!
+tartufe	NOM	tartufe
+était	VER:impf	être
+nu	NOM	nu
+du	PRP:det	du
+haut	NOM	haut
+jusques	KON	jusques
+en	PRP	en
+bas	NOM	bas
+!	SENT	!

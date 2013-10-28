@@ -1,136 +1,136 @@
-princesse	NOM
-!	SENT
-à	PRP
-jalouser	VER:infi
-le	DET:ART
-destin	NOM
-d'	PRP
-une	DET:ART
-hébé	NOM
-qui	PRO:REL
-poind	VER:futu
-sur	PRP
-cette	PRO:DEM
-tasse	NOM
-au	PRP:det
-baiser	NOM
-de	PRP
-vos	DET:POS
-lèvres	NOM
-,	PUN
-j'	PRO:PER
-use	VER:pres
-mes	DET:POS
-feux	NOM
-mais	KON
-n'	ADV
-ai	VER:pres
-rang	NOM
-discret	ADJ
-que	KON
-d'	PRP
-abbé	NOM
-et	KON
-ne	ADV
-figurerai	VER:futu
-même	ADV
-nu	NOM
-sur	PRP
-le	DET:ART
-sèvres	NOM
-.	SENT
-comme	KON
-je	PRO:PER
-ne	ADV
-suis	VER:pres
-pas	ADV
-ton	DET:POS
-bichon	NOM
-embarbé	VER:pper
-,	PUN
-ni	KON
-la	DET:ART
-pastille	NOM
-ni	KON
-du	PRP:det
-rouge	ADJ
-,	PUN
-ni	KON
-jeux	NOM
-mièvres	ADJ
-et	KON
-que	KON
-sur	PRP
-moi	PRO:PER
-je	PRO:PER
-sais	VER:pres
-ton	DET:POS
-regard	NOM
-clos	VER:pres
-tombé	VER:pper
-,	PUN
-blonde	ADJ
-dont	PRO:REL
-les	DET:ART
-coiffeurs	NOM
-divins	ADJ
-sont	VER:pres
-des	PRP:det
-orfèvres	NOM
-!	SENT
-nommez	VER:pres
-nous	PRO:PER
-...	PUN
-toi	PRO:PER
-de	PRP
-qui	PRO:REL
-tant	ADV
-de	PRP
-ris	NOM
-framboisés	ADJ
-se	PRO:PER
-joignent	VER:pres
-en	PRP
-troupeau	NOM
-d'	PRP
-agneaux	NOM
-apprivoisés	VER:pper
-chez	PRP
-tous	PRO:IND
-broutant	VER:ppre
-les	DET:ART
-voeux	NOM
-et	KON
-bêlant	VER:ppre
-aux	PRP:det
-délires	NOM
-,	PUN
-nommez	VER:pres
-nous	PRO:PER
-...	PUN
-pour	KON
-qu'	KON
-amour	NOM
-ailé	VER:pper
-d'	PRP
-un	DET:ART
-éventail	NOM
-m'	PRO:PER
-y	PRO:PER
-peigne	VER:pres
-flûte	NOM
-aux	PRP:det
-doigts	NOM
-endormant	VER:ppre
-ce	PRO:DEM
-bercail	NOM
-,	PUN
-princesse	NOM
-,	PUN
-nommez	VER:pres
-nous	PRO:PER
-berger	NOM
-de	PRP
-vos	DET:POS
-sourires	NOM
-.	SENT
+princesse	NOM	princesse
+!	SENT	!
+à	PRP	à
+jalouser	VER:infi	jalouser
+le	DET:ART	le
+destin	NOM	destin
+d'	PRP	de
+une	DET:ART	un
+hébé	NOM	hébé
+qui	PRO:REL	qui
+poind	VER:futu	poind
+sur	PRP	sur
+cette	PRO:DEM	ce
+tasse	NOM	tasse
+au	PRP:det	au
+baiser	NOM	baiser
+de	PRP	de
+vos	DET:POS	votre
+lèvres	NOM	lèvre
+,	PUN	,
+j'	PRO:PER	je
+use	VER:pres	user
+mes	DET:POS	mon
+feux	NOM	feu
+mais	KON	mais
+n'	ADV	ne
+ai	VER:pres	avoir
+rang	NOM	rang
+discret	ADJ	discret
+que	KON	que
+d'	PRP	de
+abbé	NOM	abbé
+et	KON	et
+ne	ADV	ne
+figurerai	VER:futu	figurer
+même	ADV	même
+nu	NOM	nu
+sur	PRP	sur
+le	DET:ART	le
+sèvres	NOM	sèvres
+.	SENT	.
+comme	KON	comme
+je	PRO:PER	je
+ne	ADV	ne
+suis	VER:pres	suivre|être
+pas	ADV	pas
+ton	DET:POS	ton
+bichon	NOM	bichon
+embarbé	VER:pper	embarbé
+,	PUN	,
+ni	KON	ni
+la	DET:ART	le
+pastille	NOM	pastille
+ni	KON	ni
+du	PRP:det	du
+rouge	ADJ	rouge
+,	PUN	,
+ni	KON	ni
+jeux	NOM	jeu
+mièvres	ADJ	mièvre
+et	KON	et
+que	KON	que
+sur	PRP	sur
+moi	PRO:PER	moi
+je	PRO:PER	je
+sais	VER:pres	savoir
+ton	DET:POS	ton
+regard	NOM	regard
+clos	VER:pres	clore
+tombé	VER:pper	tomber
+,	PUN	,
+blonde	ADJ	blond
+dont	PRO:REL	dont
+les	DET:ART	le
+coiffeurs	NOM	coiffeur
+divins	ADJ	divin
+sont	VER:pres	être
+des	PRP:det	du
+orfèvres	NOM	orfèvre
+!	SENT	!
+nommez	VER:pres	nommer
+nous	PRO:PER	nous
+...	PUN	...
+toi	PRO:PER	toi
+de	PRP	de
+qui	PRO:REL	qui
+tant	ADV	tant
+de	PRP	de
+ris	NOM	ris
+framboisés	ADJ	framboisé
+se	PRO:PER	se
+joignent	VER:pres	joindre
+en	PRP	en
+troupeau	NOM	troupeau
+d'	PRP	de
+agneaux	NOM	agneau
+apprivoisés	VER:pper	apprivoiser
+chez	PRP	chez
+tous	PRO:IND	tout
+broutant	VER:ppre	brouter
+les	DET:ART	le
+voeux	NOM	vœu
+et	KON	et
+bêlant	VER:ppre	bêler
+aux	PRP:det	au
+délires	NOM	délire
+,	PUN	,
+nommez	VER:pres	nommer
+nous	PRO:PER	nous
+...	PUN	...
+pour	KON	pour
+qu'	KON	que
+amour	NOM	amour
+ailé	VER:pper	ailer
+d'	PRP	de
+un	DET:ART	un
+éventail	NOM	éventail
+m'	PRO:PER	me
+y	PRO:PER	y
+peigne	VER:pres	peigner
+flûte	NOM	flûte
+aux	PRP:det	au
+doigts	NOM	doigt
+endormant	VER:ppre	endormir
+ce	PRO:DEM	ce
+bercail	NOM	bercail
+,	PUN	,
+princesse	NOM	princesse
+,	PUN	,
+nommez	VER:pres	nommer
+nous	PRO:PER	nous
+berger	NOM	berger
+de	PRP	de
+vos	DET:POS	votre
+sourires	NOM	sourire
+.	SENT	.

@@ -1,79 +1,79 @@
-m'	PRO:PER
-introduire	VER:infi
-dans	PRP
-ton	DET:POS
-histoire	NOM
-c'	PRO:DEM
-est	VER:pres
-en	PRP
-héros	NOM
-effarouché	VER:pper
-s'	PRO:PER
-il	PRO:PER
-a	VER:pres
-du	PRP:det
-talon	NOM
-nu	NOM
-touché	VER:pper
-quelque	PRO:IND
-gazon	NOM
-de	PRP
-territoire	NOM
-à	PRP
-des	PRP:det
-glaciers	NOM
-attentatoire	ADJ
-je	PRO:PER
-ne	ADV
-sais	VER:pres
-le	DET:ART
-naïf	ADJ
-péché	NOM
-que	KON
-tu	PRO:PER
-n'	ADV
-auras	VER:futu
-pas	ADV
-empêché	VER:pper
-de	PRP
-rire	VER:infi
-très	ADV
-haut	ADV
-sa	DET:POS
-victoire	NOM
-dis	VER:pres
-si	KON
-je	PRO:PER
-ne	ADV
-suis	VER:pres
-pas	ADV
-joyeux	ADJ
-tonnerre	NOM
-et	KON
-rubis	NOM
-aux	PRP:det
-moyeux	NOM
-de	PRP
-voir	VER:infi
-en	PRP
-l'	DET:ART
-air	NOM
-que	PRO:REL
-ce	PRO:DEM
-feu	NOM
-troue	VER:pres
-avec	PRP
-des	PRP:det
-royaumes	NOM
-épars	ADJ
-comme	KON
-mourir	VER:infi
-pourpre	VER:pres
-la	DET:ART
-roue	NOM
-du	PRP:det
-seul	NOM
-vespéral	ADJ
-de	PRP
-mes	DET:POS
-chars	NOM
+m'	PRO:PER	me
+introduire	VER:infi	introduire
+dans	PRP	dans
+ton	DET:POS	ton
+histoire	NOM	histoire
+c'	PRO:DEM	ce
+est	VER:pres	être
+en	PRP	en
+héros	NOM	héro|héros
+effarouché	VER:pper	effaroucher
+s'	PRO:PER	se
+il	PRO:PER	il
+a	VER:pres	avoir
+du	PRP:det	du
+talon	NOM	talon
+nu	NOM	nu
+touché	VER:pper	toucher
+quelque	PRO:IND	quelque
+gazon	NOM	gazon
+de	PRP	de
+territoire	NOM	territoire
+à	PRP	à
+des	PRP:det	du
+glaciers	NOM	glacier
+attentatoire	ADJ	attentatoire
+je	PRO:PER	je
+ne	ADV	ne
+sais	VER:pres	savoir
+le	DET:ART	le
+naïf	ADJ	naïf
+péché	NOM	péché
+que	KON	que
+tu	PRO:PER	tu
+n'	ADV	ne
+auras	VER:futu	avoir
+pas	ADV	pas
+empêché	VER:pper	empêcher
+de	PRP	de
+rire	VER:infi	rire
+très	ADV	très
+haut	ADV	haut
+sa	DET:POS	son
+victoire	NOM	victoire
+dis	VER:pres	dire
+si	KON	si
+je	PRO:PER	je
+ne	ADV	ne
+suis	VER:pres	suivre|être
+pas	ADV	pas
+joyeux	ADJ	joyeux
+tonnerre	NOM	tonnerre
+et	KON	et
+rubis	NOM	rubis
+aux	PRP:det	au
+moyeux	NOM	moyeu
+de	PRP	de
+voir	VER:infi	voir
+en	PRP	en
+l'	DET:ART	le
+air	NOM	air
+que	PRO:REL	que
+ce	PRO:DEM	ce
+feu	NOM	feu
+troue	VER:pres	trouer
+avec	PRP	avec
+des	PRP:det	du
+royaumes	NOM	royaume
+épars	ADJ	épars
+comme	KON	comme
+mourir	VER:infi	mourir
+pourpre	VER:pres	pourprer
+la	DET:ART	le
+roue	NOM	roue
+du	PRP:det	du
+seul	NOM	seul
+vespéral	ADJ	vespéral
+de	PRP	de
+mes	DET:POS	mon
+chars	NOM	char

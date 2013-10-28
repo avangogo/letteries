@@ -1,98 +1,98 @@
-le	DET:ART
-temple	NOM
-enseveli	VER:pper
-divulgue	VER:pres
-par	PRP
-la	DET:ART
-bouche	NOM
-sépulcrale	ADJ
-d'	PRP
-égout	NOM
-bavant	VER:ppre
-boue	NOM
-et	KON
-rubis	NOM
-abominablement	ADV
-quelque	PRO:IND
-idole	NOM
-anubis	VER:simp
-tout	ADV
-le	DET:ART
-museau	NOM
-flambé	VER:pper
-comme	KON
-un	DET:ART
-aboi	NOM
-farouche	ADJ
-ou	KON
-que	KON
-le	DET:ART
-gaz	NOM
-récent	ADJ
-torde	VER:subp
-la	DET:ART
-mèche	NOM
-louche	ADJ
-essuyeuse	NOM
-on	PRO:PER
-le	PRO:PER
-sait	VER:pres
-des	PRP:det
-opprobres	NOM
-subis	VER:pper
-il	PRO:PER
-allume	VER:pres
-hagard	ADJ
-un	DET:ART
-immortel	ADJ
-pubis	NOM
-dont	PRO:REL
-le	DET:ART
-vol	NOM
-selon	PRP
-le	DET:ART
-réverbère	NOM
-découche	VER:pres
-quel	PRO:REL
-feuillage	NOM
-séché	VER:pper
-dans	PRP
-les	DET:ART
-cités	NOM
-sans	PRP
-soir	NOM
-votif	ADJ
-pourra	VER:futu
-bénir	VER:infi
-comme	KON
-elle	PRO:PER
-se	PRO:PER
-rasseoir	VER:infi
-contre	PRP
-le	DET:ART
-marbre	NOM
-vainement	ADV
-de	PRP
-baudelaire	NOM
-au	PRP:det
-voile	NOM
-qui	PRO:REL
-la	PRO:PER
-ceint	VER:pres
-absente	ADJ
-avec	PRP
-frissons	NOM
-celle	PRO:DEM
-son	NOM
-ombre	VER:pres
-même	ADV
-un	DET:ART
-poison	NOM
-tutélaire	ADJ
-toujours	ADV
-à	PRP
-respirer	VER:infi
-si	KON
-nous	PRO:PER
-en	PRO:PER
-périssons	VER:pres
+le	DET:ART	le
+temple	NOM	temple
+enseveli	VER:pper	ensevelir
+divulgue	VER:pres	divulguer
+par	PRP	par
+la	DET:ART	le
+bouche	NOM	bouche
+sépulcrale	ADJ	sépulcral
+d'	PRP	de
+égout	NOM	égout
+bavant	VER:ppre	baver
+boue	NOM	boue
+et	KON	et
+rubis	NOM	rubis
+abominablement	ADV	abominablement
+quelque	PRO:IND	quelque
+idole	NOM	idole
+anubis	VER:simp	anubis
+tout	ADV	tout
+le	DET:ART	le
+museau	NOM	museau
+flambé	VER:pper	flamber
+comme	KON	comme
+un	DET:ART	un
+aboi	NOM	aboi
+farouche	ADJ	farouche
+ou	KON	ou
+que	KON	que
+le	DET:ART	le
+gaz	NOM	gaz
+récent	ADJ	récent
+torde	VER:subp	tordre
+la	DET:ART	le
+mèche	NOM	mèche
+louche	ADJ	louche
+essuyeuse	NOM	essuyeur
+on	PRO:PER	on
+le	PRO:PER	le
+sait	VER:pres	savoir
+des	PRP:det	du
+opprobres	NOM	opprobre
+subis	VER:pper	subir
+il	PRO:PER	il
+allume	VER:pres	allumer
+hagard	ADJ	hagard
+un	DET:ART	un
+immortel	ADJ	immortel
+pubis	NOM	pubis
+dont	PRO:REL	dont
+le	DET:ART	le
+vol	NOM	vol
+selon	PRP	selon
+le	DET:ART	le
+réverbère	NOM	réverbère
+découche	VER:pres	découcher
+quel	PRO:REL	quel
+feuillage	NOM	feuillage
+séché	VER:pper	sécher
+dans	PRP	dans
+les	DET:ART	le
+cités	NOM	cité
+sans	PRP	sans
+soir	NOM	soir
+votif	ADJ	votif
+pourra	VER:futu	pouvoir
+bénir	VER:infi	bénir
+comme	KON	comme
+elle	PRO:PER	elle
+se	PRO:PER	se
+rasseoir	VER:infi	rasseoir
+contre	PRP	contre
+le	DET:ART	le
+marbre	NOM	marbre
+vainement	ADV	vainement
+de	PRP	de
+baudelaire	NOM	baudelaire
+au	PRP:det	au
+voile	NOM	voile
+qui	PRO:REL	qui
+la	PRO:PER	la
+ceint	VER:pres	ceindre
+absente	ADJ	absent
+avec	PRP	avec
+frissons	NOM	frisson
+celle	PRO:DEM	celui
+son	NOM	son
+ombre	VER:pres	ombrer
+même	ADV	même
+un	DET:ART	un
+poison	NOM	poison
+tutélaire	ADJ	tutélaire
+toujours	ADV	toujours
+à	PRP	à
+respirer	VER:infi	respirer
+si	KON	si
+nous	PRO:PER	nous
+en	PRO:PER	en
+périssons	VER:pres	périr

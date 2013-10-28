@@ -1,93 +1,93 @@
-on	PRO:PER
-dit	VER:pres
-:	PUN
-soyez	VER:subp
-prudents	ADJ
-.	SENT
-puis	ADV
-vient	VER:pres
-ce	PRO:DEM
-dithyrambe	NOM
-:	PUN
-...	PUN
-qui	PRO:REL
-veut	VER:pres
-frapper	VER:infi
-néron	NOM
-rampe	NOM
-,	PUN
-et	KON
-ne	ADV
-se	PRO:PER
-fait	VER:pres
-pas	ADV
-précéder	VER:infi
-d'	PRP
-un	DET:ART
-ïambe	NOM
-soufflant	VER:ppre
-dans	PRP
-un	DET:ART
-clairon	NOM
-.	SENT
-souviens	VER:pres
-toi	PRO:PER
-d'	PRP
-ettenheim	NOM
-et	KON
-des	PRP:det
-pièges	NOM
-célèbres	ADJ
-;	PUN
-attends	VER:pres
-le	DET:ART
-jour	NOM
-marqué	VER:pper
-.	SENT
-sois	VER:impe
-comme	ADV
-chéréas	VER:pper
-qui	PRO:REL
-vient	VER:pres
-dans	PRP
-les	DET:ART
-ténèbres	NOM
-,	PUN
-seul	ADJ
-,	PUN
-muet	ADJ
-et	KON
-masqué	VER:pper
-.	SENT
-la	DET:ART
-prudence	NOM
-conduit	VER:pres
-au	PRP:det
-but	NOM
-qui	PRO:REL
-sait	VER:pres
-la	PRO:PER
-suivre	VER:infi
-.	SENT
-marche	NOM
-,	PUN
-d'	PRP
-ombre	NOM
-vêtu	VER:pper
-...	PUN
-c'	PRO:DEM
-est	VER:pres
-bien	ADV
-;	PUN
-je	PRO:PER
-laisse	VER:pres
-à	PRP
-ceux	PRO:DEM
-qui	PRO:REL
-veulent	VER:pres
-longtemps	ADV
-vivre	VER:infi
-cette	PRO:DEM
-lâche	ADJ
-vertu	NOM
-.	SENT
+on	PRO:PER	on
+dit	VER:pres	dire
+:	PUN	:
+soyez	VER:subp	être
+prudents	ADJ	prudent
+.	SENT	.
+puis	ADV	puis
+vient	VER:pres	venir
+ce	PRO:DEM	ce
+dithyrambe	NOM	dithyrambe
+:	PUN	:
+...	PUN	...
+qui	PRO:REL	qui
+veut	VER:pres	vouloir
+frapper	VER:infi	frapper
+néron	NOM	néron
+rampe	NOM	rampe
+,	PUN	,
+et	KON	et
+ne	ADV	ne
+se	PRO:PER	se
+fait	VER:pres	faire
+pas	ADV	pas
+précéder	VER:infi	précéder
+d'	PRP	de
+un	DET:ART	un
+ïambe	NOM	ïambe
+soufflant	VER:ppre	souffler
+dans	PRP	dans
+un	DET:ART	un
+clairon	NOM	clairon
+.	SENT	.
+souviens	VER:pres	souvenir
+toi	PRO:PER	toi
+d'	PRP	de
+ettenheim	NOM	ettenheim
+et	KON	et
+des	PRP:det	du
+pièges	NOM	piège
+célèbres	ADJ	célèbre
+;	PUN	;
+attends	VER:pres	attendre
+le	DET:ART	le
+jour	NOM	jour
+marqué	VER:pper	marquer
+.	SENT	.
+sois	VER:impe	être
+comme	ADV	comme
+chéréas	VER:pper	chéréas
+qui	PRO:REL	qui
+vient	VER:pres	venir
+dans	PRP	dans
+les	DET:ART	le
+ténèbres	NOM	ténèbre
+,	PUN	,
+seul	ADJ	seul
+,	PUN	,
+muet	ADJ	muet
+et	KON	et
+masqué	VER:pper	masquer
+.	SENT	.
+la	DET:ART	le
+prudence	NOM	prudence
+conduit	VER:pres	conduire
+au	PRP:det	au
+but	NOM	but
+qui	PRO:REL	qui
+sait	VER:pres	savoir
+la	PRO:PER	la
+suivre	VER:infi	suivre
+.	SENT	.
+marche	NOM	marche
+,	PUN	,
+d'	PRP	de
+ombre	NOM	ombre
+vêtu	VER:pper	vêtir
+...	PUN	...
+c'	PRO:DEM	ce
+est	VER:pres	être
+bien	ADV	bien
+;	PUN	;
+je	PRO:PER	je
+laisse	VER:pres	laisser
+à	PRP	à
+ceux	PRO:DEM	celui
+qui	PRO:REL	qui
+veulent	VER:pres	vouloir
+longtemps	ADV	longtemps
+vivre	VER:infi	vivre
+cette	PRO:DEM	ce
+lâche	ADJ	lâche
+vertu	NOM	vertu
+.	SENT	.

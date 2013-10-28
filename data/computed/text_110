@@ -1,73 +1,73 @@
-ta	DET:POS
-paille	NOM
-azur	NOM
-de	PRP
-lavandes	NOM
-,	PUN
-ne	ADV
-crois	VER:pres
-pas	ADV
-avec	PRP
-ce	PRO:DEM
-cil	NOM
-osé	VER:pper
-que	KON
-tu	PRO:PER
-me	PRO:PER
-la	PRO:PER
-vendes	VER:subp
-comme	ADV
-à	PRP
-l'	DET:ART
-hypocrite	NOM
-s'	KON
-il	PRO:PER
-en	PRO:PER
-tapisse	VER:pres
-la	DET:ART
-muraille	NOM
-de	PRP
-lieux	NOM
-les	DET:ART
-absolus	ADJ
-lieux	NOM
-pour	PRP
-le	DET:ART
-ventre	NOM
-qui	PRO:REL
-se	PRO:PER
-raille	VER:pres
-renaître	VER:infi
-aux	PRP:det
-sentiments	NOM
-bleus	ADJ
-.	SENT
-mieux	ADV
-entre	PRP
-une	DET:ART
-envahissante	ADJ
-chevelure	NOM
-ici	ADV
-mets	VER:pres
-la	PRO:PER
-que	PRO:REL
-le	DET:ART
-brin	NOM
-salubre	ADJ
-y	PRO:PER
-sente	VER:subp
-,	PUN
-zéphirine	ADJ
-,	PUN
-paméla	VER:simp
-ou	KON
-conduise	VER:subp
-vers	PRP
-l'	DET:ART
-époux	NOM
-les	DET:ART
-prémices	NOM
-de	PRP
-tes	DET:POS
-poux	NOM
-.	SENT
+ta	DET:POS	ton
+paille	NOM	paille
+azur	NOM	azur
+de	PRP	de
+lavandes	NOM	lavande
+,	PUN	,
+ne	ADV	ne
+crois	VER:pres	croire
+pas	ADV	pas
+avec	PRP	avec
+ce	PRO:DEM	ce
+cil	NOM	cil
+osé	VER:pper	oser
+que	KON	que
+tu	PRO:PER	tu
+me	PRO:PER	me
+la	PRO:PER	la
+vendes	VER:subp	vendre
+comme	ADV	comme
+à	PRP	à
+l'	DET:ART	le
+hypocrite	NOM	hypocrite
+s'	KON	si
+il	PRO:PER	il
+en	PRO:PER	en
+tapisse	VER:pres	tapisser
+la	DET:ART	le
+muraille	NOM	muraille
+de	PRP	de
+lieux	NOM	lieu
+les	DET:ART	le
+absolus	ADJ	absolu
+lieux	NOM	lieu
+pour	PRP	pour
+le	DET:ART	le
+ventre	NOM	ventre
+qui	PRO:REL	qui
+se	PRO:PER	se
+raille	VER:pres	railler
+renaître	VER:infi	renaître
+aux	PRP:det	au
+sentiments	NOM	sentiment
+bleus	ADJ	bleu
+.	SENT	.
+mieux	ADV	mieux
+entre	PRP	entre
+une	DET:ART	un
+envahissante	ADJ	envahissant
+chevelure	NOM	chevelure
+ici	ADV	ici
+mets	VER:pres	mettre
+la	PRO:PER	la
+que	PRO:REL	que
+le	DET:ART	le
+brin	NOM	brin
+salubre	ADJ	salubre
+y	PRO:PER	y
+sente	VER:subp	sentir
+,	PUN	,
+zéphirine	ADJ	zéphirine
+,	PUN	,
+paméla	VER:simp	paméla
+ou	KON	ou
+conduise	VER:subp	conduire
+vers	PRP	vers
+l'	DET:ART	le
+époux	NOM	époux
+les	DET:ART	le
+prémices	NOM	prémices
+de	PRP	de
+tes	DET:POS	ton
+poux	NOM	pou
+.	SENT	.

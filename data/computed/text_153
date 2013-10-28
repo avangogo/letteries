@@ -1,65 +1,65 @@
-toute	PRO:IND
-l'	DET:ART
-âme	NOM
-résumée	VER:pper
-quand	KON
-lente	ADJ
-nous	PRO:PER
-l'	PRO:PER
-expirons	VER:pres
-dans	PRP
-plusieurs	PRO:IND
-ronds	NOM
-de	PRP
-fumée	NOM
-abolis	VER:pper
-en	PRP
-autres	ADJ
-ronds	NOM
-atteste	VER:pres
-quelque	PRO:IND
-cigare	NOM
-brûlant	VER:ppre
-savamment	ADV
-pour	PRP
-peu	ADV
-que	KON
-la	DET:ART
-cendre	NOM
-se	PRO:PER
-sépare	VER:pres
-de	PRP
-son	DET:POS
-clair	ADJ
-baiser	NOM
-de	PRP
-feu	NOM
-ainsi	KON
-le	DET:ART
-choeur	NOM
-des	PRP:det
-romances	NOM
-a	VER:pres
-la	DET:ART
-lèvre	NOM
-vole	VER:pres
-t	VER:pper
-il	PRO:PER
-exclus	VER:pper
-en	PRP
-si	KON
-tu	PRO:PER
-commences	VER:pres
-le	DET:ART
-réel	NOM
-parce	KON
-que	KON
-vil	ADJ
-le	DET:ART
-sens	NOM
-trop	ADV
-précis	ADJ
-rature	VER:pres
-ta	DET:POS
-vague	ADJ
-littérature	NOM
+toute	PRO:IND	tout
+l'	DET:ART	le
+âme	NOM	âme
+résumée	VER:pper	résumer
+quand	KON	quand
+lente	ADJ	lent
+nous	PRO:PER	nous
+l'	PRO:PER	la|le
+expirons	VER:pres	expirer
+dans	PRP	dans
+plusieurs	PRO:IND	plusieurs
+ronds	NOM	rond
+de	PRP	de
+fumée	NOM	fumée
+abolis	VER:pper	abolir
+en	PRP	en
+autres	ADJ	autre
+ronds	NOM	rond
+atteste	VER:pres	attester
+quelque	PRO:IND	quelque
+cigare	NOM	cigare
+brûlant	VER:ppre	brûler
+savamment	ADV	savamment
+pour	PRP	pour
+peu	ADV	peu
+que	KON	que
+la	DET:ART	le
+cendre	NOM	cendre
+se	PRO:PER	se
+sépare	VER:pres	séparer
+de	PRP	de
+son	DET:POS	son
+clair	ADJ	clair
+baiser	NOM	baiser
+de	PRP	de
+feu	NOM	feu
+ainsi	KON	ainsi
+le	DET:ART	le
+choeur	NOM	chœur
+des	PRP:det	du
+romances	NOM	romance
+a	VER:pres	avoir
+la	DET:ART	le
+lèvre	NOM	lèvre
+vole	VER:pres	voler
+t	VER:pper	t
+il	PRO:PER	il
+exclus	VER:pper	exclure
+en	PRP	en
+si	KON	si
+tu	PRO:PER	tu
+commences	VER:pres	commencer
+le	DET:ART	le
+réel	NOM	réel
+parce	KON	parce
+que	KON	que
+vil	ADJ	vil
+le	DET:ART	le
+sens	NOM	sen|sens
+trop	ADV	trop
+précis	ADJ	précis
+rature	VER:pres	raturer
+ta	DET:POS	ton
+vague	ADJ	vague
+littérature	NOM	littérature

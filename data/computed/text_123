@@ -1,70 +1,70 @@
-ce	PRO:DEM
-me	PRO:PER
-va	VER:pres
-hormis	PRP
-l'	DET:ART
-y	PRO:PER
-taire	VER:infi
-que	KON
-je	PRO:PER
-sente	VER:subp
-du	PRP:det
-foyer	NOM
-un	DET:ART
-pantalon	NOM
-militaire	ADJ
-a	VER:pres
-ma	DET:POS
-jambe	NOM
-rougeoyer	VER:infi
-l'	DET:ART
-invasion	NOM
-je	PRO:PER
-la	PRO:PER
-guette	VER:pres
-avec	PRP
-le	DET:ART
-vierge	ADJ
-courroux	NOM
-tous	PRO:IND
-juste	NOM
-de	PRP
-la	DET:ART
-baguette	NOM
-au	PRP:det
-gant	NOM
-blanc	ADJ
-des	PRP:det
-tourlourous	NOM
-nue	NOM
-ou	KON
-d'	PRP
-écorce	NOM
-tenace	ADJ
-pas	ADV
-pour	PRP
-battre	VER:infi
-le	DET:ART
-teuton	NOM
-mais	KON
-comme	KON
-une	DET:ART
-autre	ADJ
-menace	NOM
-a	VER:pres
-la	DET:ART
-fin	NOM
-que	PRO:REL
-me	PRO:PER
-veut	VER:pres
-on	PRO:PER
-de	PRP
-trancher	VER:infi
-ras	ADJ
-cette	PRO:DEM
-ortie	NOM
-folle	ADJ
-de	PRP
-la	DET:ART
-sympathie	NOM
-.	SENT
+ce	PRO:DEM	ce
+me	PRO:PER	me
+va	VER:pres	aller
+hormis	PRP	hormis
+l'	DET:ART	le
+y	PRO:PER	y
+taire	VER:infi	taire
+que	KON	que
+je	PRO:PER	je
+sente	VER:subp	sentir
+du	PRP:det	du
+foyer	NOM	foyer
+un	DET:ART	un
+pantalon	NOM	pantalon
+militaire	ADJ	militaire
+a	VER:pres	avoir
+ma	DET:POS	mon
+jambe	NOM	jambe
+rougeoyer	VER:infi	rougeoyer
+l'	DET:ART	le
+invasion	NOM	invasion
+je	PRO:PER	je
+la	PRO:PER	la
+guette	VER:pres	guetter
+avec	PRP	avec
+le	DET:ART	le
+vierge	ADJ	vierge
+courroux	NOM	courroux
+tous	PRO:IND	tout
+juste	NOM	juste
+de	PRP	de
+la	DET:ART	le
+baguette	NOM	baguette
+au	PRP:det	au
+gant	NOM	gant
+blanc	ADJ	blanc
+des	PRP:det	du
+tourlourous	NOM	tourlourou
+nue	NOM	nue
+ou	KON	ou
+d'	PRP	de
+écorce	NOM	écorce
+tenace	ADJ	tenace
+pas	ADV	pas
+pour	PRP	pour
+battre	VER:infi	battre
+le	DET:ART	le
+teuton	NOM	teuton
+mais	KON	mais
+comme	KON	comme
+une	DET:ART	un
+autre	ADJ	autre
+menace	NOM	menace
+a	VER:pres	avoir
+la	DET:ART	le
+fin	NOM	fin
+que	PRO:REL	que
+me	PRO:PER	me
+veut	VER:pres	vouloir
+on	PRO:PER	on
+de	PRP	de
+trancher	VER:infi	trancher
+ras	ADJ	ras
+cette	PRO:DEM	ce
+ortie	NOM	ortie
+folle	ADJ	folle|fou
+de	PRP	de
+la	DET:ART	le
+sympathie	NOM	sympathie
+.	SENT	.

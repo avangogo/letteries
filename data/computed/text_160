@@ -1,97 +1,97 @@
-l'	DET:ART
-un	NOM
-t'	PRO:PER
-éclaire	VER:pres
-avec	PRP
-son	DET:POS
-ardeur	NOM
-,	PUN
-l'	DET:ART
-autre	ADJ
-en	PRP
-toi	PRO:PER
-met	VER:pres
-son	DET:POS
-deuil	NOM
-,	PUN
-nature	NOM
-!	SENT
-ce	PRO:DEM
-qui	PRO:REL
-dit	VER:pres
-à	PRP
-l'	DET:ART
-un	NOM
-:	PUN
-sépulture	NOM
-!	SENT
-dit	VER:pper
-à	PRP
-l'	DET:ART
-autre	ADJ
-:	PUN
-vie	NOM
-et	KON
-splendeur	NOM
-!	SENT
-hermès	NOM
-inconnu	ADJ
-qui	PRO:REL
-m'	PRO:PER
-assistes	VER:pres
-et	KON
-qui	PRO:REL
-toujours	ADV
-m'	PRO:PER
-intimidas	VER:simp
-,	PUN
-tu	PRO:PER
-me	PRO:PER
-rends	VER:pres
-l'	DET:ART
-égal	ADJ
-de	PRP
-midas	NOM
-,	PUN
-le	DET:ART
-plus	ADV
-triste	ADJ
-des	PRP:det
-alchimistes	NOM
-;	PUN
-par	PRP
-toi	PRO:PER
-je	PRO:PER
-change	VER:pres
-l'	DET:ART
-or	NOM
-en	PRP
-fer	NOM
-et	KON
-le	DET:ART
-paradis	NOM
-en	PRP
-enfer	NOM
-;	PUN
-dans	PRP
-le	DET:ART
-suaire	NOM
-des	PRP:det
-nuages	NOM
-je	PRO:PER
-découvre	VER:pres
-un	DET:ART
-cadavre	NOM
-cher	ADJ
-,	PUN
-et	KON
-sur	PRP
-les	DET:ART
-célestes	ADJ
-rivages	NOM
-je	PRO:PER
-bâtis	VER:simp
-de	PRP
-grands	ADJ
-sarcophages	NOM
-.	SENT
+l'	DET:ART	le
+un	NOM	un
+t'	PRO:PER	te
+éclaire	VER:pres	éclairer
+avec	PRP	avec
+son	DET:POS	son
+ardeur	NOM	ardeur
+,	PUN	,
+l'	DET:ART	le
+autre	ADJ	autre
+en	PRP	en
+toi	PRO:PER	toi
+met	VER:pres	mettre
+son	DET:POS	son
+deuil	NOM	deuil
+,	PUN	,
+nature	NOM	nature
+!	SENT	!
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+dit	VER:pres	dire
+à	PRP	à
+l'	DET:ART	le
+un	NOM	un
+:	PUN	:
+sépulture	NOM	sépulture
+!	SENT	!
+dit	VER:pper	dire
+à	PRP	à
+l'	DET:ART	le
+autre	ADJ	autre
+:	PUN	:
+vie	NOM	vie
+et	KON	et
+splendeur	NOM	splendeur
+!	SENT	!
+hermès	NOM	hermès
+inconnu	ADJ	inconnu
+qui	PRO:REL	qui
+m'	PRO:PER	me
+assistes	VER:pres	assister
+et	KON	et
+qui	PRO:REL	qui
+toujours	ADV	toujours
+m'	PRO:PER	me
+intimidas	VER:simp	intimider
+,	PUN	,
+tu	PRO:PER	tu
+me	PRO:PER	me
+rends	VER:pres	rendre
+l'	DET:ART	le
+égal	ADJ	égal
+de	PRP	de
+midas	NOM	midas
+,	PUN	,
+le	DET:ART	le
+plus	ADV	plus
+triste	ADJ	triste
+des	PRP:det	du
+alchimistes	NOM	alchimiste
+;	PUN	;
+par	PRP	par
+toi	PRO:PER	toi
+je	PRO:PER	je
+change	VER:pres	changer
+l'	DET:ART	le
+or	NOM	or
+en	PRP	en
+fer	NOM	fer
+et	KON	et
+le	DET:ART	le
+paradis	NOM	paradis
+en	PRP	en
+enfer	NOM	enfer
+;	PUN	;
+dans	PRP	dans
+le	DET:ART	le
+suaire	NOM	suaire
+des	PRP:det	du
+nuages	NOM	nuage
+je	PRO:PER	je
+découvre	VER:pres	découvrir
+un	DET:ART	un
+cadavre	NOM	cadavre
+cher	ADJ	cher
+,	PUN	,
+et	KON	et
+sur	PRP	sur
+les	DET:ART	le
+célestes	ADJ	céleste
+rivages	NOM	rivage
+je	PRO:PER	je
+bâtis	VER:simp	bâtir
+de	PRP	de
+grands	ADJ	grand
+sarcophages	NOM	sarcophage
+.	SENT	.

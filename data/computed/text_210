@@ -1,156 +1,156 @@
-toi	PRO:PER
-qui	PRO:REL
-,	PUN
-comme	ADV
-un	DET:ART
-coup	NOM
-de	PRP
-couteau	NOM
-,	PUN
-dans	PRP
-mon	DET:POS
-coeur	NOM
-plaintif	ADJ
-est	VER:pres
-entrée	VER:pper
-;	PUN
-toi	PRO:PER
-qui	PRO:REL
-,	PUN
-forte	ADJ
-comme	KON
-un	DET:ART
-troupeau	NOM
-de	PRP
-démons	NOM
-,	PUN
-vins	NOM
-,	PUN
-folle	ADJ
-et	KON
-parée	ADJ
-,	PUN
-de	PRP
-mon	DET:POS
-esprit	NOM
-humilié	ADJ
-faire	VER:infi
-ton	DET:POS
-lit	NOM
-et	KON
-ton	DET:POS
-domaine	NOM
-;	PUN
-infâme	ADJ
-à	PRP
-qui	PRO:REL
-je	PRO:PER
-suis	VER:pres
-lié	VER:pper
-comme	ADV
-le	DET:ART
-forçat	NOM
-à	PRP
-la	DET:ART
-chaîne	NOM
-,	PUN
-comme	ADV
-au	PRP:det
-jeu	NOM
-le	DET:ART
-joueur	NOM
-têtu	ADJ
-,	PUN
-comme	ADV
-à	PRP
-la	DET:ART
-bouteille	NOM
-l'	PRO:PER
-ivrogne	VER:pres
-,	PUN
-comme	ADV
-aux	PRP:det
-vermines	NOM
-la	DET:ART
-charogne	NOM
-,	PUN
-maudite	VER:pper
-,	PUN
-maudite	NOM
-sois	VER:subp
-tu	VER:pper
-!	SENT
-j'	PRO:PER
-ai	VER:pres
-prié	VER:pper
-le	DET:ART
-glaive	NOM
-rapide	ADJ
-de	PRP
-conquérir	VER:infi
-ma	DET:POS
-liberté	NOM
-,	PUN
-et	KON
-j'	PRO:PER
-ai	VER:pres
-dit	VER:pper
-au	PRP:det
-poison	NOM
-perfide	ADJ
-de	PRP
-secourir	VER:infi
-ma	DET:POS
-lâcheté	NOM
-.	SENT
-hélas	INT
-!	SENT
-le	DET:ART
-poison	NOM
-et	KON
-le	DET:ART
-glaive	NOM
-m'	PRO:PER
-ont	VER:pres
-pris	VER:pper
-en	PRP
-dédain	NOM
-et	KON
-m'	PRO:PER
-ont	VER:pres
-dit	VER:pper
-:	PUN
-tu	PRO:PER
-n'	ADV
-es	VER:pres
-pas	ADV
-digne	ADJ
-qu'	KON
-on	PRO:PER
-t'	PRO:PER
-enlève	VER:pres
-à	PRP
-ton	DET:POS
-esclavage	NOM
-maudit	VER:pres
-,	PUN
-imbécile	ADJ
-!	SENT
-de	PRP
-son	DET:POS
-empire	NOM
-si	KON
-nos	DET:POS
-efforts	NOM
-te	PRO:PER
-délivraient	VER:impf
-,	PUN
-tes	DET:POS
-baisers	NOM
-ressusciteraient	VER:cond
-le	DET:ART
-cadavre	NOM
-de	PRP
-ton	DET:POS
-vampire	NOM
-!	SENT
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+,	PUN	,
+comme	ADV	comme
+un	DET:ART	un
+coup	NOM	coup
+de	PRP	de
+couteau	NOM	couteau
+,	PUN	,
+dans	PRP	dans
+mon	DET:POS	mon
+coeur	NOM	cœur
+plaintif	ADJ	plaintif
+est	VER:pres	être
+entrée	VER:pper	entrer
+;	PUN	;
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+,	PUN	,
+forte	ADJ	fort
+comme	KON	comme
+un	DET:ART	un
+troupeau	NOM	troupeau
+de	PRP	de
+démons	NOM	démon
+,	PUN	,
+vins	NOM	vin
+,	PUN	,
+folle	ADJ	folle|fou
+et	KON	et
+parée	ADJ	paré
+,	PUN	,
+de	PRP	de
+mon	DET:POS	mon
+esprit	NOM	esprit
+humilié	ADJ	humilié
+faire	VER:infi	faire
+ton	DET:POS	ton
+lit	NOM	lit
+et	KON	et
+ton	DET:POS	ton
+domaine	NOM	domaine
+;	PUN	;
+infâme	ADJ	infâme
+à	PRP	à
+qui	PRO:REL	qui
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+lié	VER:pper	lier
+comme	ADV	comme
+le	DET:ART	le
+forçat	NOM	forçat
+à	PRP	à
+la	DET:ART	le
+chaîne	NOM	chaîne
+,	PUN	,
+comme	ADV	comme
+au	PRP:det	au
+jeu	NOM	jeu
+le	DET:ART	le
+joueur	NOM	joueur
+têtu	ADJ	têtu
+,	PUN	,
+comme	ADV	comme
+à	PRP	à
+la	DET:ART	le
+bouteille	NOM	bouteille
+l'	PRO:PER	la|le
+ivrogne	VER:pres	ivrogner
+,	PUN	,
+comme	ADV	comme
+aux	PRP:det	au
+vermines	NOM	vermine
+la	DET:ART	le
+charogne	NOM	charogne
+,	PUN	,
+maudite	VER:pper	maudire
+,	PUN	,
+maudite	NOM	maudit
+sois	VER:subp	être
+tu	VER:pper	taire
+!	SENT	!
+j'	PRO:PER	je
+ai	VER:pres	avoir
+prié	VER:pper	prier
+le	DET:ART	le
+glaive	NOM	glaive
+rapide	ADJ	rapide
+de	PRP	de
+conquérir	VER:infi	conquérir
+ma	DET:POS	mon
+liberté	NOM	liberté
+,	PUN	,
+et	KON	et
+j'	PRO:PER	je
+ai	VER:pres	avoir
+dit	VER:pper	dire
+au	PRP:det	au
+poison	NOM	poison
+perfide	ADJ	perfide
+de	PRP	de
+secourir	VER:infi	secourir
+ma	DET:POS	mon
+lâcheté	NOM	lâcheté
+.	SENT	.
+hélas	INT	hélas
+!	SENT	!
+le	DET:ART	le
+poison	NOM	poison
+et	KON	et
+le	DET:ART	le
+glaive	NOM	glaive
+m'	PRO:PER	me
+ont	VER:pres	avoir
+pris	VER:pper	prendre
+en	PRP	en
+dédain	NOM	dédain
+et	KON	et
+m'	PRO:PER	me
+ont	VER:pres	avoir
+dit	VER:pper	dire
+:	PUN	:
+tu	PRO:PER	tu
+n'	ADV	ne
+es	VER:pres	être
+pas	ADV	pas
+digne	ADJ	digne
+qu'	KON	que
+on	PRO:PER	on
+t'	PRO:PER	te
+enlève	VER:pres	enlever
+à	PRP	à
+ton	DET:POS	ton
+esclavage	NOM	esclavage
+maudit	VER:pres	maudire
+,	PUN	,
+imbécile	ADJ	imbécile
+!	SENT	!
+de	PRP	de
+son	DET:POS	son
+empire	NOM	empire
+si	KON	si
+nos	DET:POS	notre
+efforts	NOM	effort
+te	PRO:PER	te
+délivraient	VER:impf	délivrer
+,	PUN	,
+tes	DET:POS	ton
+baisers	NOM	baiser
+ressusciteraient	VER:cond	ressusciter
+le	DET:ART	le
+cadavre	NOM	cadavre
+de	PRP	de
+ton	DET:POS	ton
+vampire	NOM	vampire
+!	SENT	!

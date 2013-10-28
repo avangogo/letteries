@@ -1,526 +1,526 @@
-oh	INT
-!	SENT
-je	PRO:PER
-sais	VER:pres
-qu'	KON
-ils	PRO:PER
-feront	VER:futu
-des	PRP:det
-mensonges	NOM
-sans	PRP
-nombre	NOM
-pour	PRP
-s'	PRO:PER
-évader	VER:infi
-des	PRP:det
-mains	NOM
-de	PRP
-la	DET:ART
-vérité	NOM
-sombre	ADJ
-,	PUN
-qu'	PRO:REL
-ils	PRO:PER
-nieront	VER:futu
-,	PUN
-qu'	PRO:REL
-ils	PRO:PER
-diront	VER:futu
-:	PUN
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-pas	ADV
-moi	PRO:PER
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-lui	PRO:PER
-.	SENT
-mais	KON
-,	PUN
-n'	ADV
-est	VER:pres
-il	PRO:PER
-pas	ADV
-vrai	ADJ
-,	PUN
-dante	ADJ
-,	PUN
-eschyle	VER:pres
-,	PUN
-et	KON
-vous	PRO:PER
-,	PUN
-prophètes	NOM
-?	SENT
-jamais	ADV
-,	PUN
-du	PRP:det
-poignet	NOM
-des	PRP:det
-poëtes	NOM
-,	PUN
-jamais	ADV
-,	PUN
-pris	VER:pper
-en	PRP
-collet	NOM
-,	PUN
-les	DET:ART
-malfaiteurs	NOM
-n'	ADV
-ont	VER:pres
-fui	VER:pper
-.	SENT
-j'	PRO:PER
-ai	VER:pres
-fermé	VER:pper
-sur	PRP
-ceux	PRO:DEM
-ci	ADV
-mon	DET:POS
-livre	NOM
-expiatoire	ADJ
-;	PUN
-j'	PRO:PER
-ai	VER:pres
-mis	VER:pper
-des	PRP:det
-verrous	NOM
-à	PRP
-l'	DET:ART
-histoire	NOM
-;	PUN
-l'	DET:ART
-histoire	NOM
-est	VER:pres
-un	DET:ART
-bagne	NOM
-aujourd'hui	ADV
-.	SENT
-le	DET:ART
-poëte	NOM
-n'	ADV
-est	VER:pres
-plus	ADV
-l'	DET:ART
-esprit	NOM
-qui	PRO:REL
-rêve	NOM
-et	KON
-prie	VER:pres
-;	PUN
-il	PRO:PER
-a	VER:pres
-la	DET:ART
-grosse	ADJ
-clef	NOM
-de	PRP
-la	DET:ART
-conciergerie	NOM
-.	SENT
-quand	KON
-ils	PRO:PER
-entrent	VER:pres
-au	PRP:det
-greffe	NOM
-,	PUN
-où	PRO:REL
-pend	VER:pres
-leur	DET:POS
-chaîne	NOM
-au	PRP:det
-clou	NOM
-,	PUN
-on	PRO:PER
-regarde	VER:pres
-le	DET:ART
-prince	NOM
-aux	PRP:det
-poches	NOM
-,	PUN
-comme	KON
-un	DET:ART
-drôle	ADJ
-,	PUN
-et	KON
-les	DET:ART
-empereurs	NOM
-à	PRP
-l'	DET:ART
-épaule	NOM
-;	PUN
-macbeth	VER:simp
-est	VER:pres
-un	DET:ART
-escroc	NOM
-,	PUN
-césar	NOM
-est	VER:pres
-un	DET:ART
-filou	NOM
-.	SENT
-vous	PRO:PER
-gardes	VER:pres
-des	PRP:det
-forçats	NOM
-,	PUN
-ô	INT
-mes	DET:POS
-strophes	NOM
-ailées	ADJ
-!	SENT
-les	DET:ART
-calliopes	NOM
-étoilées	ADJ
-tiennent	VER:pres
-des	PRP:det
-registres	NOM
-d'	PRP
-écrou	NOM
-.	SENT
-ô	INT
-peuples	NOM
-douloureux	ADJ
-,	PUN
-il	PRO:PER
-faut	VER:pres
-bien	ADV
-qu'	KON
-on	PRO:PER
-vous	PRO:PER
-venge	VER:pres
-!	SENT
-les	DET:ART
-rhéteurs	NOM
-froids	ADJ
-m'	PRO:PER
-ont	VER:pres
-dit	VER:pper
-:	PUN
-le	DET:ART
-poëte	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-ange	NOM
-,	PUN
-il	PRO:PER
-plane	VER:pres
-,	PUN
-ignorant	VER:ppre
-fould	NOM
-,	PUN
-magnan	NOM
-,	PUN
-morny	NAM
-,	PUN
-maupas	ADJ
-;	PUN
-il	PRO:PER
-contemple	VER:pres
-la	DET:ART
-nuit	NOM
-sereine	ADJ
-avec	PRP
-délices	NOM
-...	PUN
-non	ADV
-,	PUN
-tant	ADV
-que	KON
-vous	PRO:PER
-serez	VER:futu
-complices	ADJ
-de	PRP
-ces	PRO:DEM
-crimes	NOM
-hideux	ADJ
-que	PRO:REL
-je	PRO:PER
-suis	VER:pres
-pas	ADV
-à	PRP
-pas	ADV
-,	PUN
-tant	ADV
-que	KON
-vous	PRO:PER
-couvrirez	VER:futu
-ces	PRO:DEM
-brigands	NOM
-de	PRP
-vos	DET:POS
-voiles	NOM
-,	PUN
-cieux	NOM
-azurés	ADJ
-,	PUN
-soleils	NOM
-,	PUN
-étoiles	NOM
-,	PUN
-je	PRO:PER
-ne	ADV
-vous	PRO:PER
-regarderai	VER:futu
-pas	ADV
-!	SENT
-tant	ADV
-qu'	KON
-un	DET:ART
-gueux	NOM
-forcera	VER:futu
-les	DET:ART
-bouches	NOM
-à	PRP
-se	PRO:PER
-taire	VER:infi
-,	PUN
-tant	ADV
-que	KON
-la	DET:ART
-liberté	NOM
-sera	VER:futu
-couchée	VER:pper
-à	PRP
-terre	NOM
-comme	KON
-une	DET:ART
-femme	NOM
-morte	VER:pper
-et	KON
-qu'	PRO:REL
-on	PRO:PER
-vient	VER:pres
-de	PRP
-noyer	VER:infi
-,	PUN
-tant	ADV
-que	KON
-dans	PRP
-les	DET:ART
-pontons	NOM
-on	PRO:PER
-entendra	VER:futu
-des	PRP:det
-râles	NOM
-,	PUN
-j'	PRO:PER
-aurai	VER:futu
-des	PRP:det
-clartés	NOM
-sépulcrales	ADJ
-pour	PRP
-tous	PRO:IND
-ces	PRO:DEM
-fronts	NOM
-abjects	ADJ
-qu'	PRO:REL
-un	DET:ART
-bandit	NOM
-fait	VER:pres
-ployer	VER:infi
-;	PUN
-je	PRO:PER
-crierai	VER:futu
-:	PUN
-lève	VER:pres
-toi	PRO:PER
-,	PUN
-peuple	NOM
-!	SENT
-ciel	NOM
-,	PUN
-tonne	NOM
-et	KON
-gronde	NOM
-!	SENT
-la	DET:ART
-france	NOM
-,	PUN
-dans	PRP
-sa	DET:POS
-nuit	NOM
-profonde	ADJ
-,	PUN
-verra	VER:futu
-ma	DET:POS
-torche	NOM
-flamboyer	VER:infi
-!	SENT
-ces	PRO:DEM
-coquins	NOM
-vils	ADJ
-qui	PRO:REL
-font	VER:pres
-de	PRP
-la	DET:ART
-france	NOM
-une	DET:ART
-chine	NOM
-,	PUN
-on	PRO:PER
-entendra	VER:futu
-mon	DET:POS
-fouet	NOM
-claquer	VER:infi
-sur	PRP
-leur	DET:POS
-échine	NOM
-.	SENT
-ils	PRO:PER
-chantent	VER:pres
-:	PUN
-te	PRO:PER
-deum	NOM
-,	PUN
-je	PRO:PER
-crierai	VER:futu
-:	PUN
-memento	NOM
-!	SENT
-je	PRO:PER
-fouaillerai	VER:futu
-les	DET:ART
-gens	NOM
-,	PUN
-les	DET:ART
-faits	NOM
-,	PUN
-les	DET:ART
-noms	NOM
-,	PUN
-les	DET:ART
-titres	NOM
-,	PUN
-porte	ADJ
-sabres	NOM
-et	KON
-porte	VER:pres
-mitres	NOM
-;	PUN
-je	PRO:PER
-les	PRO:PER
-tiens	VER:pres
-dans	PRP
-mon	DET:POS
-vers	NOM
-comme	KON
-dans	PRP
-un	DET:ART
-étau	NOM
-.	SENT
-on	PRO:PER
-verra	VER:futu
-choir	VER:infi
-surplis	NOM
-,	PUN
-épaulettes	NOM
-,	PUN
-bréviaires	NOM
-,	PUN
-et	KON
-césar	NOM
-,	PUN
-sous	PRP
-mes	DET:POS
-étrivières	NOM
-,	PUN
-se	PRO:PER
-sauver	VER:infi
-,	PUN
-troussant	VER:ppre
-son	DET:POS
-manteau	NOM
-!	SENT
-et	KON
-les	DET:ART
-champs	NOM
-,	PUN
-et	KON
-les	DET:ART
-prés	NOM
-,	PUN
-le	DET:ART
-lac	NOM
-,	PUN
-la	DET:ART
-fleur	NOM
-,	PUN
-la	DET:ART
-plaine	NOM
-,	PUN
-les	DET:ART
-nuages	NOM
-,	PUN
-pareils	ADJ
-à	PRP
-des	PRP:det
-flocons	NOM
-de	PRP
-laine	NOM
-,	PUN
-l'	DET:ART
-eau	NOM
-qui	PRO:REL
-fait	VER:pres
-frissonner	VER:infi
-l'	DET:ART
-algue	NOM
-et	KON
-les	DET:ART
-goëmons	NOM
-,	PUN
-et	KON
-l'	DET:ART
-énorme	ADJ
-océan	NOM
-,	PUN
-hydre	NOM
-aux	PRP:det
-écailles	NOM
-vertes	ADJ
-,	PUN
-les	DET:ART
-forêts	NOM
-de	PRP
-rumeurs	NOM
-couvertes	VER:pper
-,	PUN
-le	DET:ART
-phare	NOM
-sur	PRP
-les	DET:ART
-flots	NOM
-,	PUN
-l'	DET:ART
-étoile	NOM
-sur	PRP
-les	DET:ART
-monts	NOM
-,	PUN
-me	PRO:PER
-reconnaîtront	VER:futu
-bien	ADV
-et	KON
-diront	VER:futu
-à	PRP
-voix	NOM
-basse	ADJ
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-esprit	NOM
-vengeur	ADJ
-qui	PRO:REL
-passe	VER:pres
-,	PUN
-chassant	VER:ppre
-devant	PRP
-lui	PRO:PER
-les	DET:ART
-démons	NOM
-!	SENT
+oh	INT	oh
+!	SENT	!
+je	PRO:PER	je
+sais	VER:pres	savoir
+qu'	KON	que
+ils	PRO:PER	il
+feront	VER:futu	faire
+des	PRP:det	du
+mensonges	NOM	mensonge
+sans	PRP	sans
+nombre	NOM	nombre
+pour	PRP	pour
+s'	PRO:PER	se
+évader	VER:infi	évader
+des	PRP:det	du
+mains	NOM	main
+de	PRP	de
+la	DET:ART	le
+vérité	NOM	vérité
+sombre	ADJ	sombre
+,	PUN	,
+qu'	PRO:REL	que
+ils	PRO:PER	il
+nieront	VER:futu	nier
+,	PUN	,
+qu'	PRO:REL	que
+ils	PRO:PER	il
+diront	VER:futu	dire
+:	PUN	:
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+moi	PRO:PER	moi
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+lui	PRO:PER	lui
+.	SENT	.
+mais	KON	mais
+,	PUN	,
+n'	ADV	ne
+est	VER:pres	être
+il	PRO:PER	il
+pas	ADV	pas
+vrai	ADJ	vrai
+,	PUN	,
+dante	ADJ	dante
+,	PUN	,
+eschyle	VER:pres	eschyle
+,	PUN	,
+et	KON	et
+vous	PRO:PER	vous
+,	PUN	,
+prophètes	NOM	prophète
+?	SENT	?
+jamais	ADV	jamais
+,	PUN	,
+du	PRP:det	du
+poignet	NOM	poignet
+des	PRP:det	du
+poëtes	NOM	poëtes
+,	PUN	,
+jamais	ADV	jamais
+,	PUN	,
+pris	VER:pper	prendre
+en	PRP	en
+collet	NOM	collet
+,	PUN	,
+les	DET:ART	le
+malfaiteurs	NOM	malfaiteur
+n'	ADV	ne
+ont	VER:pres	avoir
+fui	VER:pper	fuir
+.	SENT	.
+j'	PRO:PER	je
+ai	VER:pres	avoir
+fermé	VER:pper	fermer
+sur	PRP	sur
+ceux	PRO:DEM	celui
+ci	ADV	ci
+mon	DET:POS	mon
+livre	NOM	livre
+expiatoire	ADJ	expiatoire
+;	PUN	;
+j'	PRO:PER	je
+ai	VER:pres	avoir
+mis	VER:pper	mettre
+des	PRP:det	du
+verrous	NOM	verrou
+à	PRP	à
+l'	DET:ART	le
+histoire	NOM	histoire
+;	PUN	;
+l'	DET:ART	le
+histoire	NOM	histoire
+est	VER:pres	être
+un	DET:ART	un
+bagne	NOM	bagne
+aujourd'hui	ADV	aujourd'hui
+.	SENT	.
+le	DET:ART	le
+poëte	NOM	poëte
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+l'	DET:ART	le
+esprit	NOM	esprit
+qui	PRO:REL	qui
+rêve	NOM	rêve
+et	KON	et
+prie	VER:pres	prier
+;	PUN	;
+il	PRO:PER	il
+a	VER:pres	avoir
+la	DET:ART	le
+grosse	ADJ	gros
+clef	NOM	clef
+de	PRP	de
+la	DET:ART	le
+conciergerie	NOM	conciergerie
+.	SENT	.
+quand	KON	quand
+ils	PRO:PER	il
+entrent	VER:pres	entrer
+au	PRP:det	au
+greffe	NOM	greffe
+,	PUN	,
+où	PRO:REL	où
+pend	VER:pres	pendre
+leur	DET:POS	leur
+chaîne	NOM	chaîne
+au	PRP:det	au
+clou	NOM	clou
+,	PUN	,
+on	PRO:PER	on
+regarde	VER:pres	regarder
+le	DET:ART	le
+prince	NOM	prince
+aux	PRP:det	au
+poches	NOM	poche
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+drôle	ADJ	drôle
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+empereurs	NOM	empereur
+à	PRP	à
+l'	DET:ART	le
+épaule	NOM	épaule
+;	PUN	;
+macbeth	VER:simp	macbeth
+est	VER:pres	être
+un	DET:ART	un
+escroc	NOM	escroc
+,	PUN	,
+césar	NOM	césar
+est	VER:pres	être
+un	DET:ART	un
+filou	NOM	filou
+.	SENT	.
+vous	PRO:PER	vous
+gardes	VER:pres	garder
+des	PRP:det	du
+forçats	NOM	forçat
+,	PUN	,
+ô	INT	ô
+mes	DET:POS	mon
+strophes	NOM	strophe
+ailées	ADJ	ailé
+!	SENT	!
+les	DET:ART	le
+calliopes	NOM	calliopes
+étoilées	ADJ	étoilé
+tiennent	VER:pres	tenir
+des	PRP:det	du
+registres	NOM	registre
+d'	PRP	de
+écrou	NOM	écrou
+.	SENT	.
+ô	INT	ô
+peuples	NOM	peuple
+douloureux	ADJ	douloureux
+,	PUN	,
+il	PRO:PER	il
+faut	VER:pres	falloir
+bien	ADV	bien
+qu'	KON	que
+on	PRO:PER	on
+vous	PRO:PER	vous
+venge	VER:pres	venger
+!	SENT	!
+les	DET:ART	le
+rhéteurs	NOM	rhéteur
+froids	ADJ	froid
+m'	PRO:PER	me
+ont	VER:pres	avoir
+dit	VER:pper	dire
+:	PUN	:
+le	DET:ART	le
+poëte	NOM	poëte
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+ange	NOM	ange
+,	PUN	,
+il	PRO:PER	il
+plane	VER:pres	planer
+,	PUN	,
+ignorant	VER:ppre	ignorer
+fould	NOM	fould
+,	PUN	,
+magnan	NOM	magnan
+,	PUN	,
+morny	NAM	morny
+,	PUN	,
+maupas	ADJ	maupas
+;	PUN	;
+il	PRO:PER	il
+contemple	VER:pres	contempler
+la	DET:ART	le
+nuit	NOM	nuit
+sereine	ADJ	serein
+avec	PRP	avec
+délices	NOM	délice
+...	PUN	...
+non	ADV	non
+,	PUN	,
+tant	ADV	tant
+que	KON	que
+vous	PRO:PER	vous
+serez	VER:futu	être
+complices	ADJ	complice
+de	PRP	de
+ces	PRO:DEM	ce
+crimes	NOM	crime
+hideux	ADJ	hideux
+que	PRO:REL	que
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+pas	ADV	pas
+à	PRP	à
+pas	ADV	pas
+,	PUN	,
+tant	ADV	tant
+que	KON	que
+vous	PRO:PER	vous
+couvrirez	VER:futu	couvrir
+ces	PRO:DEM	ce
+brigands	NOM	brigand
+de	PRP	de
+vos	DET:POS	votre
+voiles	NOM	voile
+,	PUN	,
+cieux	NOM	cieux
+azurés	ADJ	azuré
+,	PUN	,
+soleils	NOM	soleil
+,	PUN	,
+étoiles	NOM	étoile
+,	PUN	,
+je	PRO:PER	je
+ne	ADV	ne
+vous	PRO:PER	vous
+regarderai	VER:futu	regarder
+pas	ADV	pas
+!	SENT	!
+tant	ADV	tant
+qu'	KON	que
+un	DET:ART	un
+gueux	NOM	gueux
+forcera	VER:futu	forcer
+les	DET:ART	le
+bouches	NOM	bouche
+à	PRP	à
+se	PRO:PER	se
+taire	VER:infi	taire
+,	PUN	,
+tant	ADV	tant
+que	KON	que
+la	DET:ART	le
+liberté	NOM	liberté
+sera	VER:futu	être
+couchée	VER:pper	coucher
+à	PRP	à
+terre	NOM	terre
+comme	KON	comme
+une	DET:ART	un
+femme	NOM	femme
+morte	VER:pper	mourir
+et	KON	et
+qu'	PRO:REL	que
+on	PRO:PER	on
+vient	VER:pres	venir
+de	PRP	de
+noyer	VER:infi	noyer
+,	PUN	,
+tant	ADV	tant
+que	KON	que
+dans	PRP	dans
+les	DET:ART	le
+pontons	NOM	ponton
+on	PRO:PER	on
+entendra	VER:futu	entendre
+des	PRP:det	du
+râles	NOM	râle
+,	PUN	,
+j'	PRO:PER	je
+aurai	VER:futu	avoir
+des	PRP:det	du
+clartés	NOM	clarté
+sépulcrales	ADJ	sépulcral
+pour	PRP	pour
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+fronts	NOM	front
+abjects	ADJ	abject
+qu'	PRO:REL	que
+un	DET:ART	un
+bandit	NOM	bandit
+fait	VER:pres	faire
+ployer	VER:infi	ployer
+;	PUN	;
+je	PRO:PER	je
+crierai	VER:futu	crier
+:	PUN	:
+lève	VER:pres	lever
+toi	PRO:PER	toi
+,	PUN	,
+peuple	NOM	peuple
+!	SENT	!
+ciel	NOM	ciel
+,	PUN	,
+tonne	NOM	tonne
+et	KON	et
+gronde	NOM	gronde
+!	SENT	!
+la	DET:ART	le
+france	NOM	france
+,	PUN	,
+dans	PRP	dans
+sa	DET:POS	son
+nuit	NOM	nuit
+profonde	ADJ	profond
+,	PUN	,
+verra	VER:futu	voir
+ma	DET:POS	mon
+torche	NOM	torche
+flamboyer	VER:infi	flamboyer
+!	SENT	!
+ces	PRO:DEM	ce
+coquins	NOM	coquin
+vils	ADJ	vil
+qui	PRO:REL	qui
+font	VER:pres	faire
+de	PRP	de
+la	DET:ART	le
+france	NOM	france
+une	DET:ART	un
+chine	NOM	chine
+,	PUN	,
+on	PRO:PER	on
+entendra	VER:futu	entendre
+mon	DET:POS	mon
+fouet	NOM	fouet
+claquer	VER:infi	claquer
+sur	PRP	sur
+leur	DET:POS	leur
+échine	NOM	échine
+.	SENT	.
+ils	PRO:PER	il
+chantent	VER:pres	chanter
+:	PUN	:
+te	PRO:PER	te
+deum	NOM	deum
+,	PUN	,
+je	PRO:PER	je
+crierai	VER:futu	crier
+:	PUN	:
+memento	NOM	memento
+!	SENT	!
+je	PRO:PER	je
+fouaillerai	VER:futu	fouailler
+les	DET:ART	le
+gens	NOM	gens
+,	PUN	,
+les	DET:ART	le
+faits	NOM	fait
+,	PUN	,
+les	DET:ART	le
+noms	NOM	nom
+,	PUN	,
+les	DET:ART	le
+titres	NOM	titre
+,	PUN	,
+porte	ADJ	porte
+sabres	NOM	sabre
+et	KON	et
+porte	VER:pres	porter
+mitres	NOM	mitre
+;	PUN	;
+je	PRO:PER	je
+les	PRO:PER	la|le
+tiens	VER:pres	tenir
+dans	PRP	dans
+mon	DET:POS	mon
+vers	NOM	ver|vers
+comme	KON	comme
+dans	PRP	dans
+un	DET:ART	un
+étau	NOM	étau
+.	SENT	.
+on	PRO:PER	on
+verra	VER:futu	voir
+choir	VER:infi	choir
+surplis	NOM	surplis
+,	PUN	,
+épaulettes	NOM	épaulette
+,	PUN	,
+bréviaires	NOM	bréviaire
+,	PUN	,
+et	KON	et
+césar	NOM	césar
+,	PUN	,
+sous	PRP	sous
+mes	DET:POS	mon
+étrivières	NOM	étrivière
+,	PUN	,
+se	PRO:PER	se
+sauver	VER:infi	sauver
+,	PUN	,
+troussant	VER:ppre	trousser
+son	DET:POS	son
+manteau	NOM	manteau
+!	SENT	!
+et	KON	et
+les	DET:ART	le
+champs	NOM	champ
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+prés	NOM	pré
+,	PUN	,
+le	DET:ART	le
+lac	NOM	lac
+,	PUN	,
+la	DET:ART	le
+fleur	NOM	fleur
+,	PUN	,
+la	DET:ART	le
+plaine	NOM	plaine
+,	PUN	,
+les	DET:ART	le
+nuages	NOM	nuage
+,	PUN	,
+pareils	ADJ	pareil
+à	PRP	à
+des	PRP:det	du
+flocons	NOM	flocon
+de	PRP	de
+laine	NOM	laine
+,	PUN	,
+l'	DET:ART	le
+eau	NOM	eau
+qui	PRO:REL	qui
+fait	VER:pres	faire
+frissonner	VER:infi	frissonner
+l'	DET:ART	le
+algue	NOM	algue
+et	KON	et
+les	DET:ART	le
+goëmons	NOM	goëmons
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+énorme	ADJ	énorme
+océan	NOM	océan
+,	PUN	,
+hydre	NOM	hydre
+aux	PRP:det	au
+écailles	NOM	écaille
+vertes	ADJ	vert
+,	PUN	,
+les	DET:ART	le
+forêts	NOM	forêt
+de	PRP	de
+rumeurs	NOM	rumeur
+couvertes	VER:pper	couvrir
+,	PUN	,
+le	DET:ART	le
+phare	NOM	phare
+sur	PRP	sur
+les	DET:ART	le
+flots	NOM	flot
+,	PUN	,
+l'	DET:ART	le
+étoile	NOM	étoile
+sur	PRP	sur
+les	DET:ART	le
+monts	NOM	mont
+,	PUN	,
+me	PRO:PER	me
+reconnaîtront	VER:futu	reconnaître
+bien	ADV	bien
+et	KON	et
+diront	VER:futu	dire
+à	PRP	à
+voix	NOM	voix
+basse	ADJ	bas
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+esprit	NOM	esprit
+vengeur	ADJ	vengeur
+qui	PRO:REL	qui
+passe	VER:pres	passer
+,	PUN	,
+chassant	VER:ppre	chasser
+devant	PRP	devant
+lui	PRO:PER	lui
+les	DET:ART	le
+démons	NOM	démon
+!	SENT	!

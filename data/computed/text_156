@@ -1,122 +1,122 @@
-victorieusement	ADV
-fui	VER:pper
-le	DET:ART
-suicide	NOM
-beau	ADJ
-tison	NOM
-de	PRP
-gloire	NOM
-,	PUN
-sang	NOM
-par	PRP
-écume	NOM
-,	PUN
-or	NOM
-,	PUN
-tempête	NOM
-!	SENT
-ô	INT
-rire	VER:infi
-si	KON
-là	ADV
-bas	ADV
-une	DET:ART
-pourpre	NOM
-s'	PRO:PER
-apprête	VER:pres
-à	PRP
-ne	ADV
-tendre	ADJ
-royal	ADJ
-que	KON
-mon	DET:POS
-absent	ADJ
-tombeau	NOM
-.	SENT
-quoi	PRO
-!	SENT
-de	PRP
-tout	ADV
-cet	PRO:DEM
-éclat	NOM
-pas	ADV
-même	ADV
-le	DET:ART
-lambeau	NOM
-s'	PRO:PER
-attarde	VER:pres
-,	PUN
-il	PRO:PER
-est	VER:pres
-minuit	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-ombre	NOM
-qui	PRO:REL
-nous	PRO:PER
-fête	VER:pres
-excepté	VER:pper
-qu'	KON
-un	DET:ART
-trésor	NOM
-présomptueux	ADJ
-de	PRP
-tête	NOM
-verse	ADJ
-son	NOM
-caressé	VER:pper
-nonchaloir	NOM
-sans	PRP
-flambeau	NOM
-,	PUN
-la	PRO:PER
-tienne	VER:subp
-si	ADV
-toujours	ADV
-le	DET:ART
-délice	NOM
-!	SENT
-la	PRO:PER
-tienne	VER:subp
-oui	INT
-seule	ADJ
-qui	PRO:REL
-du	PRP:det
-ciel	NOM
-évanoui	ADJ
-retienne	VER:subp
-un	DET:ART
-peu	ADV
-de	PRP
-puéril	ADJ
-triomphe	NOM
-en	PRP
-t'	PRO:PER
-en	PRP
-coiffant	VER:ppre
-avec	PRP
-clarté	NOM
-quand	KON
-sur	PRP
-les	DET:ART
-coussins	NOM
-tu	PRO:PER
-la	DET:ART
-poses	NOM
-comme	KON
-un	DET:ART
-casque	NOM
-guerrier	ADJ
-d'	PRP
-impératrice	NOM
-enfant	NOM
-dont	PRO:REL
-pour	PRP
-te	PRO:PER
-figurer	VER:infi
-il	PRO:PER
-tomberait	VER:cond
-des	PRP:det
-roses	NOM
-.	SENT
+victorieusement	ADV	victorieusement
+fui	VER:pper	fuir
+le	DET:ART	le
+suicide	NOM	suicide
+beau	ADJ	beau
+tison	NOM	tison
+de	PRP	de
+gloire	NOM	gloire
+,	PUN	,
+sang	NOM	sang
+par	PRP	par
+écume	NOM	écume
+,	PUN	,
+or	NOM	or
+,	PUN	,
+tempête	NOM	tempête
+!	SENT	!
+ô	INT	ô
+rire	VER:infi	rire
+si	KON	si
+là	ADV	là
+bas	ADV	bas
+une	DET:ART	un
+pourpre	NOM	pourpre
+s'	PRO:PER	se
+apprête	VER:pres	apprêter
+à	PRP	à
+ne	ADV	ne
+tendre	ADJ	tendre
+royal	ADJ	royal
+que	KON	que
+mon	DET:POS	mon
+absent	ADJ	absent
+tombeau	NOM	tombeau
+.	SENT	.
+quoi	PRO	quoi
+!	SENT	!
+de	PRP	de
+tout	ADV	tout
+cet	PRO:DEM	ce
+éclat	NOM	éclat
+pas	ADV	pas
+même	ADV	même
+le	DET:ART	le
+lambeau	NOM	lambeau
+s'	PRO:PER	se
+attarde	VER:pres	attarder
+,	PUN	,
+il	PRO:PER	il
+est	VER:pres	être
+minuit	NOM	minuit
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+ombre	NOM	ombre
+qui	PRO:REL	qui
+nous	PRO:PER	nous
+fête	VER:pres	fêter
+excepté	VER:pper	excepter
+qu'	KON	que
+un	DET:ART	un
+trésor	NOM	trésor
+présomptueux	ADJ	présomptueux
+de	PRP	de
+tête	NOM	tête
+verse	ADJ	verse
+son	NOM	son
+caressé	VER:pper	caresser
+nonchaloir	NOM	nonchaloir
+sans	PRP	sans
+flambeau	NOM	flambeau
+,	PUN	,
+la	PRO:PER	la
+tienne	VER:subp	tenir
+si	ADV	si
+toujours	ADV	toujours
+le	DET:ART	le
+délice	NOM	délice
+!	SENT	!
+la	PRO:PER	la
+tienne	VER:subp	tenir
+oui	INT	oui
+seule	ADJ	seul
+qui	PRO:REL	qui
+du	PRP:det	du
+ciel	NOM	ciel
+évanoui	ADJ	évanoui
+retienne	VER:subp	retenir
+un	DET:ART	un
+peu	ADV	peu
+de	PRP	de
+puéril	ADJ	puéril
+triomphe	NOM	triomphe
+en	PRP	en
+t'	PRO:PER	te
+en	PRP	en
+coiffant	VER:ppre	coiffer
+avec	PRP	avec
+clarté	NOM	clarté
+quand	KON	quand
+sur	PRP	sur
+les	DET:ART	le
+coussins	NOM	coussin
+tu	PRO:PER	tu
+la	DET:ART	le
+poses	NOM	pose
+comme	KON	comme
+un	DET:ART	un
+casque	NOM	casque
+guerrier	ADJ	guerrier
+d'	PRP	de
+impératrice	NOM	impératrice
+enfant	NOM	enfant
+dont	PRO:REL	dont
+pour	PRP	pour
+te	PRO:PER	te
+figurer	VER:infi	figurer
+il	PRO:PER	il
+tomberait	VER:cond	tomber
+des	PRP:det	du
+roses	NOM	rose
+.	SENT	.

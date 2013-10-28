@@ -1,221 +1,221 @@
-sa	DET:POS
-grandeur	NOM
-éblouit	VER:pres
-l'	DET:ART
-histoire	NOM
-.	SENT
-quinze	NUM
-ans	NOM
-,	PUN
-il	PRO:PER
-fut	VER:simp
-le	DET:ART
-dieu	NOM
-que	PRO:REL
-traînait	VER:impf
-la	DET:ART
-victoire	NOM
-sur	PRP
-un	DET:ART
-affût	NOM
-;	PUN
-l'	DET:ART
-europe	NOM
-sous	PRP
-la	DET:ART
-loi	NOM
-guerrière	ADJ
-se	PRO:PER
-débattit	VER:simp
-.	SENT
-toi	PRO:PER
-,	PUN
-son	DET:POS
-singe	NOM
-,	PUN
-marche	NOM
-derrière	ADV
-,	PUN
-petit	ADJ
-,	PUN
-petit	ADJ
-.	SENT
-napoléon	NOM
-dans	PRP
-la	DET:ART
-bataille	NOM
-,	PUN
-grave	ADJ
-et	KON
-serein	ADJ
-,	PUN
-guidait	VER:impf
-à	PRP
-travers	NOM
-la	DET:ART
-mitraille	NOM
-l'	DET:ART
-aigle	NOM
-d'	PRP
-airain	NOM
-.	SENT
-il	PRO:PER
-entra	VER:simp
-sur	PRP
-le	DET:ART
-pont	NOM
-d'	PRP
-arcole	NOM
-,	PUN
-il	PRO:PER
-en	PRO:PER
-sortit	VER:simp
-.	SENT
-voici	ADV
-de	PRP
-l'	DET:ART
-or	NOM
-,	PUN
-viens	VER:pres
-,	PUN
-pille	VER:pres
-et	KON
-vole	NOM
-,	PUN
-petit	ADJ
-,	PUN
-petit	ADJ
-.	SENT
-berlin	NOM
-,	PUN
-vienne	VER:subp
-,	PUN
-étaient	VER:impf
-ses	DET:POS
-maîtresses	NOM
-;	PUN
-il	PRO:PER
-les	PRO:PER
-forçait	VER:impf
-,	PUN
-leste	ADJ
-,	PUN
-et	KON
-prenant	VER:ppre
-les	DET:ART
-forteresses	NOM
-par	PRP
-le	DET:ART
-corset	NOM
-.	SENT
-il	PRO:PER
-triompha	VER:simp
-de	PRP
-cent	NUM
-bastilles	NOM
-qu'	PRO:REL
-il	PRO:PER
-investit	VER:pres
-.	SENT
-voici	ADV
-pour	KON
-toi	PRO:PER
-,	PUN
-voici	ADV
-des	PRP:det
-filles	NOM
-,	PUN
-petit	ADJ
-,	PUN
-petit	ADJ
-.	SENT
-il	PRO:PER
-passait	VER:impf
-les	DET:ART
-monts	NOM
-et	KON
-les	DET:ART
-plaines	NOM
-,	PUN
-tenant	VER:ppre
-en	PRP
-main	NOM
-la	DET:ART
-palme	NOM
-,	PUN
-la	DET:ART
-foudre	NOM
-,	PUN
-et	KON
-les	DET:ART
-rênes	NOM
-du	PRP:det
-genre	NOM
-humain	ADJ
-;	PUN
-il	PRO:PER
-était	VER:impf
-ivre	ADJ
-de	PRP
-sa	DET:POS
-gloire	NOM
-qui	PRO:REL
-retentit	VER:pres
-.	SENT
-voici	ADV
-du	PRP:det
-sang	NOM
-,	PUN
-accours	VER:pres
-,	PUN
-viens	VER:pres
-boire	VER:infi
-,	PUN
-petit	ADJ
-,	PUN
-petit	ADJ
-.	SENT
-quand	KON
-il	PRO:PER
-tomba	VER:simp
-,	PUN
-lâchant	VER:ppre
-le	DET:ART
-monde	NOM
-,	PUN
-l'	DET:ART
-immense	ADJ
-mer	NOM
-ouvrit	VER:simp
-à	PRP
-sa	DET:POS
-chute	NOM
-profonde	ADJ
-son	DET:POS
-gouffre	NOM
-amer	ADJ
-;	PUN
-il	PRO:PER
-y	PRO:PER
-plongea	VER:simp
-,	PUN
-sinistre	ADJ
-archange	NOM
-,	PUN
-et	KON
-s'	PRO:PER
-engloutit	VER:pres
-.	SENT
-toi	PRO:PER
-,	PUN
-tu	PRO:PER
-te	PRO:PER
-noieras	VER:futu
-dans	PRP
-la	DET:ART
-fange	NOM
-,	PUN
-petit	ADJ
-,	PUN
-petit	ADJ
-.	SENT
+sa	DET:POS	son
+grandeur	NOM	grandeur
+éblouit	VER:pres	éblouir
+l'	DET:ART	le
+histoire	NOM	histoire
+.	SENT	.
+quinze	NUM	quinze
+ans	NOM	an
+,	PUN	,
+il	PRO:PER	il
+fut	VER:simp	être
+le	DET:ART	le
+dieu	NOM	dieu
+que	PRO:REL	que
+traînait	VER:impf	traîner
+la	DET:ART	le
+victoire	NOM	victoire
+sur	PRP	sur
+un	DET:ART	un
+affût	NOM	affût
+;	PUN	;
+l'	DET:ART	le
+europe	NOM	europe
+sous	PRP	sous
+la	DET:ART	le
+loi	NOM	loi
+guerrière	ADJ	guerrier
+se	PRO:PER	se
+débattit	VER:simp	débattre
+.	SENT	.
+toi	PRO:PER	toi
+,	PUN	,
+son	DET:POS	son
+singe	NOM	singe
+,	PUN	,
+marche	NOM	marche
+derrière	ADV	derrière
+,	PUN	,
+petit	ADJ	petit
+,	PUN	,
+petit	ADJ	petit
+.	SENT	.
+napoléon	NOM	napoléon
+dans	PRP	dans
+la	DET:ART	le
+bataille	NOM	bataille
+,	PUN	,
+grave	ADJ	grave
+et	KON	et
+serein	ADJ	serein
+,	PUN	,
+guidait	VER:impf	guider
+à	PRP	à
+travers	NOM	travers
+la	DET:ART	le
+mitraille	NOM	mitraille
+l'	DET:ART	le
+aigle	NOM	aigle
+d'	PRP	de
+airain	NOM	airain
+.	SENT	.
+il	PRO:PER	il
+entra	VER:simp	entrer
+sur	PRP	sur
+le	DET:ART	le
+pont	NOM	pont
+d'	PRP	de
+arcole	NOM	arcole
+,	PUN	,
+il	PRO:PER	il
+en	PRO:PER	en
+sortit	VER:simp	sortir
+.	SENT	.
+voici	ADV	voici
+de	PRP	de
+l'	DET:ART	le
+or	NOM	or
+,	PUN	,
+viens	VER:pres	venir
+,	PUN	,
+pille	VER:pres	piller
+et	KON	et
+vole	NOM	vole
+,	PUN	,
+petit	ADJ	petit
+,	PUN	,
+petit	ADJ	petit
+.	SENT	.
+berlin	NOM	berlin
+,	PUN	,
+vienne	VER:subp	venir
+,	PUN	,
+étaient	VER:impf	être
+ses	DET:POS	son
+maîtresses	NOM	maître|maîtresse
+;	PUN	;
+il	PRO:PER	il
+les	PRO:PER	la|le
+forçait	VER:impf	forcer
+,	PUN	,
+leste	ADJ	leste
+,	PUN	,
+et	KON	et
+prenant	VER:ppre	prendre
+les	DET:ART	le
+forteresses	NOM	forteresse
+par	PRP	par
+le	DET:ART	le
+corset	NOM	corset
+.	SENT	.
+il	PRO:PER	il
+triompha	VER:simp	triompher
+de	PRP	de
+cent	NUM	cent
+bastilles	NOM	bastille
+qu'	PRO:REL	que
+il	PRO:PER	il
+investit	VER:pres	investir
+.	SENT	.
+voici	ADV	voici
+pour	KON	pour
+toi	PRO:PER	toi
+,	PUN	,
+voici	ADV	voici
+des	PRP:det	du
+filles	NOM	fille
+,	PUN	,
+petit	ADJ	petit
+,	PUN	,
+petit	ADJ	petit
+.	SENT	.
+il	PRO:PER	il
+passait	VER:impf	passer
+les	DET:ART	le
+monts	NOM	mont
+et	KON	et
+les	DET:ART	le
+plaines	NOM	plaine
+,	PUN	,
+tenant	VER:ppre	tenir
+en	PRP	en
+main	NOM	main
+la	DET:ART	le
+palme	NOM	palme
+,	PUN	,
+la	DET:ART	le
+foudre	NOM	foudre
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+rênes	NOM	rêne
+du	PRP:det	du
+genre	NOM	genre
+humain	ADJ	humain
+;	PUN	;
+il	PRO:PER	il
+était	VER:impf	être
+ivre	ADJ	ivre
+de	PRP	de
+sa	DET:POS	son
+gloire	NOM	gloire
+qui	PRO:REL	qui
+retentit	VER:pres	retentir
+.	SENT	.
+voici	ADV	voici
+du	PRP:det	du
+sang	NOM	sang
+,	PUN	,
+accours	VER:pres	accourir
+,	PUN	,
+viens	VER:pres	venir
+boire	VER:infi	boire
+,	PUN	,
+petit	ADJ	petit
+,	PUN	,
+petit	ADJ	petit
+.	SENT	.
+quand	KON	quand
+il	PRO:PER	il
+tomba	VER:simp	tomber
+,	PUN	,
+lâchant	VER:ppre	lâcher
+le	DET:ART	le
+monde	NOM	monde
+,	PUN	,
+l'	DET:ART	le
+immense	ADJ	immense
+mer	NOM	mer
+ouvrit	VER:simp	ouvrir
+à	PRP	à
+sa	DET:POS	son
+chute	NOM	chute
+profonde	ADJ	profond
+son	DET:POS	son
+gouffre	NOM	gouffre
+amer	ADJ	amer
+;	PUN	;
+il	PRO:PER	il
+y	PRO:PER	y
+plongea	VER:simp	plonger
+,	PUN	,
+sinistre	ADJ	sinistre
+archange	NOM	archange
+,	PUN	,
+et	KON	et
+s'	PRO:PER	se
+engloutit	VER:pres	engloutir
+.	SENT	.
+toi	PRO:PER	toi
+,	PUN	,
+tu	PRO:PER	tu
+te	PRO:PER	te
+noieras	VER:futu	noyer
+dans	PRP	dans
+la	DET:ART	le
+fange	NOM	fange
+,	PUN	,
+petit	ADJ	petit
+,	PUN	,
+petit	ADJ	petit
+.	SENT	.

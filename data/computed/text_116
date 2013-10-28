@@ -1,78 +1,78 @@
-hors	PRP
-de	PRP
-la	DET:ART
-poix	NOM
-rien	ADV
-à	PRP
-faire	VER:infi
-,	PUN
-le	DET:ART
-lys	NOM
-naît	VER:pres
-blanc	ADJ
-,	PUN
-comme	ADV
-odeur	NOM
-simplement	ADV
-je	PRO:PER
-le	PRO:PER
-préfère	VER:pres
-à	PRP
-ce	PRO:DEM
-bon	ADJ
-raccommodeur	NOM
-.	SENT
-il	PRO:PER
-va	VER:pres
-de	PRP
-cuir	NOM
-à	PRP
-ma	DET:POS
-paire	NOM
-adjoindre	VER:infi
-plus	ADV
-que	KON
-je	PRO:PER
-n'	ADV
-eus	VER:pper
-jamais	ADV
-,	PUN
-cela	PRO:DEM
-désespère	VER:pres
-un	DET:ART
-besoin	NOM
-de	PRP
-talons	NOM
-nus	NOM
-.	SENT
-son	DET:POS
-marteau	NOM
-qui	PRO:REL
-ne	ADV
-dévie	VER:pres
-fixe	ADJ
-de	PRP
-clous	NOM
-gouailleurs	ADJ
-sur	PRP
-la	DET:ART
-semelle	NOM
-l'	DET:ART
-envie	NOM
-toujours	ADV
-conduisant	VER:ppre
-ailleurs	ADV
-.	SENT
-il	PRO:PER
-recréerait	VER:cond
-des	PRP:det
-souliers	NOM
-,	PUN
-ô	INT
-pieds	NOM
-,	PUN
-si	KON
-vous	PRO:PER
-le	PRO:PER
-vouliez	VER:impf
-!	SENT
+hors	PRP	hors
+de	PRP	de
+la	DET:ART	le
+poix	NOM	poix
+rien	ADV	rien
+à	PRP	à
+faire	VER:infi	faire
+,	PUN	,
+le	DET:ART	le
+lys	NOM	lys
+naît	VER:pres	naître
+blanc	ADJ	blanc
+,	PUN	,
+comme	ADV	comme
+odeur	NOM	odeur
+simplement	ADV	simplement
+je	PRO:PER	je
+le	PRO:PER	le
+préfère	VER:pres	préférer
+à	PRP	à
+ce	PRO:DEM	ce
+bon	ADJ	bon
+raccommodeur	NOM	raccommodeur
+.	SENT	.
+il	PRO:PER	il
+va	VER:pres	aller
+de	PRP	de
+cuir	NOM	cuir
+à	PRP	à
+ma	DET:POS	mon
+paire	NOM	paire
+adjoindre	VER:infi	adjoindre
+plus	ADV	plus
+que	KON	que
+je	PRO:PER	je
+n'	ADV	ne
+eus	VER:pper	avoir
+jamais	ADV	jamais
+,	PUN	,
+cela	PRO:DEM	cela
+désespère	VER:pres	désespérer
+un	DET:ART	un
+besoin	NOM	besoin
+de	PRP	de
+talons	NOM	talon
+nus	NOM	nu
+.	SENT	.
+son	DET:POS	son
+marteau	NOM	marteau
+qui	PRO:REL	qui
+ne	ADV	ne
+dévie	VER:pres	dévier
+fixe	ADJ	fixe
+de	PRP	de
+clous	NOM	clou
+gouailleurs	ADJ	gouailleur
+sur	PRP	sur
+la	DET:ART	le
+semelle	NOM	semelle
+l'	DET:ART	le
+envie	NOM	envie
+toujours	ADV	toujours
+conduisant	VER:ppre	conduire
+ailleurs	ADV	ailleurs
+.	SENT	.
+il	PRO:PER	il
+recréerait	VER:cond	recréer
+des	PRP:det	du
+souliers	NOM	soulier
+,	PUN	,
+ô	INT	ô
+pieds	NOM	pied
+,	PUN	,
+si	KON	si
+vous	PRO:PER	vous
+le	PRO:PER	le
+vouliez	VER:impf	vouloir
+!	SENT	!

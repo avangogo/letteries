@@ -1,131 +1,131 @@
-en	PRP
-quelque	PRO:IND
-lieu	NOM
-qu'	PRO:REL
-il	PRO:PER
-aille	VER:pres
-,	PUN
-ou	KON
-sur	PRP
-mer	NOM
-ou	KON
-sur	PRP
-terre	NOM
-,	PUN
-sous	PRP
-un	DET:ART
-climat	NOM
-de	PRP
-flamme	NOM
-ou	KON
-sous	PRP
-un	DET:ART
-soleil	NOM
-blanc	ADJ
-,	PUN
-serviteur	NOM
-de	PRP
-jésus	NOM
-,	PUN
-courtisan	ADJ
-de	PRP
-cythère	NOM
-,	PUN
-mendiant	VER:ppre
-ténébreux	ADJ
-ou	KON
-crésus	NOM
-rutilant	ADJ
-,	PUN
-citadin	ADJ
-,	PUN
-campagnard	ADJ
-,	PUN
-vagabond	ADJ
-,	PUN
-sédentaire	ADJ
-,	PUN
-que	KON
-son	DET:POS
-petit	ADJ
-cerveau	NOM
-soit	VER:subp
-actif	ADJ
-ou	KON
-soit	ADV
-lent	ADJ
-,	PUN
-partout	ADV
-l'	DET:ART
-homme	NOM
-subit	ADJ
-la	DET:ART
-terreur	NOM
-du	PRP:det
-mystère	NOM
-,	PUN
-et	KON
-ne	ADV
-regarde	VER:pres
-en	PRP
-haut	ADV
-qu'	KON
-avec	PRP
-un	DET:ART
-oeil	NOM
-tremblant	ADJ
-.	SENT
-en	PRP
-haut	ADV
-,	PUN
-le	DET:ART
-ciel	NOM
-!	SENT
-ce	PRO:DEM
-mur	NOM
-de	PRP
-caveau	NOM
-qui	PRO:REL
-l'	PRO:PER
-étouffe	VER:pres
-,	PUN
-plafond	NOM
-illuminé	VER:pper
-pour	PRP
-un	DET:ART
-opéra	NOM
-bouffe	ADJ
-où	PRO:REL
-chaque	PRO:IND
-histrion	NOM
-foule	VER:pres
-un	DET:ART
-sol	NOM
-ensanglanté	VER:pper
-;	PUN
-terreur	NOM
-du	PRP:det
-libertin	NOM
-,	PUN
-espoir	NOM
-du	PRP:det
-fol	ADJ
-ermite	NOM
-;	PUN
-le	DET:ART
-ciel	NOM
-!	SENT
-couvercle	NOM
-noir	ADJ
-de	PRP
-la	DET:ART
-grande	ADJ
-marmite	NOM
-où	PRO:REL
-bout	VER:pres
-l'	DET:ART
-imperceptible	ADJ
-et	KON
-vaste	ADJ
-humanité	NOM
-.	SENT
+en	PRP	en
+quelque	PRO:IND	quelque
+lieu	NOM	lieu
+qu'	PRO:REL	que
+il	PRO:PER	il
+aille	VER:pres	ailler
+,	PUN	,
+ou	KON	ou
+sur	PRP	sur
+mer	NOM	mer
+ou	KON	ou
+sur	PRP	sur
+terre	NOM	terre
+,	PUN	,
+sous	PRP	sous
+un	DET:ART	un
+climat	NOM	climat
+de	PRP	de
+flamme	NOM	flamme
+ou	KON	ou
+sous	PRP	sous
+un	DET:ART	un
+soleil	NOM	soleil
+blanc	ADJ	blanc
+,	PUN	,
+serviteur	NOM	serviteur
+de	PRP	de
+jésus	NOM	jésus
+,	PUN	,
+courtisan	ADJ	courtisan
+de	PRP	de
+cythère	NOM	cythère
+,	PUN	,
+mendiant	VER:ppre	mendier
+ténébreux	ADJ	ténébreux
+ou	KON	ou
+crésus	NOM	crésus
+rutilant	ADJ	rutilant
+,	PUN	,
+citadin	ADJ	citadin
+,	PUN	,
+campagnard	ADJ	campagnard
+,	PUN	,
+vagabond	ADJ	vagabond
+,	PUN	,
+sédentaire	ADJ	sédentaire
+,	PUN	,
+que	KON	que
+son	DET:POS	son
+petit	ADJ	petit
+cerveau	NOM	cerveau
+soit	VER:subp	être
+actif	ADJ	actif
+ou	KON	ou
+soit	ADV	soit
+lent	ADJ	lent
+,	PUN	,
+partout	ADV	partout
+l'	DET:ART	le
+homme	NOM	homme
+subit	ADJ	subit
+la	DET:ART	le
+terreur	NOM	terreur
+du	PRP:det	du
+mystère	NOM	mystère
+,	PUN	,
+et	KON	et
+ne	ADV	ne
+regarde	VER:pres	regarder
+en	PRP	en
+haut	ADV	haut
+qu'	KON	que
+avec	PRP	avec
+un	DET:ART	un
+oeil	NOM	œil
+tremblant	ADJ	tremblant
+.	SENT	.
+en	PRP	en
+haut	ADV	haut
+,	PUN	,
+le	DET:ART	le
+ciel	NOM	ciel
+!	SENT	!
+ce	PRO:DEM	ce
+mur	NOM	mur
+de	PRP	de
+caveau	NOM	caveau
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+étouffe	VER:pres	étouffer
+,	PUN	,
+plafond	NOM	plafond
+illuminé	VER:pper	illuminer
+pour	PRP	pour
+un	DET:ART	un
+opéra	NOM	opéra
+bouffe	ADJ	bouffe
+où	PRO:REL	où
+chaque	PRO:IND	chaque
+histrion	NOM	histrion
+foule	VER:pres	fouler
+un	DET:ART	un
+sol	NOM	sol
+ensanglanté	VER:pper	ensanglanter
+;	PUN	;
+terreur	NOM	terreur
+du	PRP:det	du
+libertin	NOM	libertin
+,	PUN	,
+espoir	NOM	espoir
+du	PRP:det	du
+fol	ADJ	fou
+ermite	NOM	ermite
+;	PUN	;
+le	DET:ART	le
+ciel	NOM	ciel
+!	SENT	!
+couvercle	NOM	couvercle
+noir	ADJ	noir
+de	PRP	de
+la	DET:ART	le
+grande	ADJ	grand
+marmite	NOM	marmite
+où	PRO:REL	où
+bout	VER:pres	bouillir
+l'	DET:ART	le
+imperceptible	ADJ	imperceptible
+et	KON	et
+vaste	ADJ	vaste
+humanité	NOM	humanité
+.	SENT	.

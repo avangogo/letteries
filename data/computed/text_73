@@ -1,187 +1,187 @@
-france	NOM
-!	SENT
-à	PRP
-l'	DET:ART
-heure	NOM
-où	PRO:REL
-tu	PRO:PER
-te	PRO:PER
-prosternes	VER:pres
-,	PUN
-le	DET:ART
-pied	NOM
-d'	PRP
-un	DET:ART
-tyran	NOM
-sur	PRP
-ton	DET:POS
-front	NOM
-,	PUN
-la	DET:ART
-voix	NOM
-sortira	VER:futu
-des	PRP:det
-cavernes	NOM
-;	PUN
-les	DET:ART
-enchaînés	ADJ
-tressailleront	VER:futu
-.	SENT
-le	DET:ART
-banni	NOM
-,	PUN
-debout	ADV
-sur	PRP
-la	DET:ART
-grève	NOM
-,	PUN
-contemplant	VER:ppre
-l'	DET:ART
-étoile	NOM
-et	KON
-le	DET:ART
-flot	NOM
-,	PUN
-comme	KON
-ceux	PRO:DEM
-qu'	PRO:REL
-on	PRO:PER
-entend	VER:pres
-en	PRP
-rêve	NOM
-,	PUN
-parlera	VER:futu
-dans	PRP
-l'	DET:ART
-ombre	NOM
-tout	ADV
-haut	ADJ
-;	PUN
-et	KON
-ses	DET:POS
-paroles	NOM
-qui	PRO:REL
-menacent	VER:pres
-,	PUN
-ses	DET:POS
-paroles	NOM
-dont	PRO:REL
-l'	DET:ART
-éclair	NOM
-luit	VER:pres
-,	PUN
-seront	VER:futu
-comme	ADV
-des	PRP:det
-mains	NOM
-qui	PRO:REL
-passent	VER:pres
-tenant	ADJ
-des	PRP:det
-glaives	NOM
-dans	PRP
-la	DET:ART
-nuit	NOM
-.	SENT
-elles	PRO:PER
-feront	VER:futu
-frémir	VER:infi
-les	DET:ART
-marbres	NOM
-et	KON
-les	DET:ART
-monts	NOM
-que	PRO:REL
-brunit	VER:pres
-le	DET:ART
-soir	NOM
-,	PUN
-et	KON
-les	DET:ART
-chevelures	NOM
-des	PRP:det
-arbres	NOM
-frissonneront	VER:futu
-sous	PRP
-le	DET:ART
-ciel	NOM
-noir	ADJ
-;	PUN
-elles	PRO:PER
-seront	VER:futu
-l'	DET:ART
-airain	NOM
-qui	PRO:REL
-sonne	VER:pres
-,	PUN
-le	DET:ART
-cri	NOM
-qui	PRO:REL
-chasse	VER:pres
-les	DET:ART
-corbeaux	NOM
-,	PUN
-le	DET:ART
-souffle	NOM
-inconnu	ADJ
-dont	PRO:REL
-frissonne	VER:pres
-le	DET:ART
-brin	NOM
-d'	PRP
-herbe	NOM
-sur	PRP
-les	DET:ART
-tombeaux	NOM
-;	PUN
-elles	PRO:PER
-crieront	VER:futu
-:	PUN
-honte	NOM
-aux	PRP:det
-infâmes	ADJ
-,	PUN
-aux	PRP:det
-oppresseurs	NOM
-,	PUN
-aux	PRP:det
-meurtriers	NOM
-!	SENT
-elles	PRO:PER
-appelleront	VER:futu
-les	DET:ART
-âmes	NOM
-comme	KON
-on	PRO:PER
-appelle	VER:pres
-des	PRP:det
-guerriers	NOM
-!	SENT
-sur	PRP
-les	DET:ART
-races	NOM
-qui	PRO:REL
-se	PRO:PER
-transforment	VER:pres
-,	PUN
-sombre	ADJ
-orage	NOM
-,	PUN
-elles	PRO:PER
-planeront	VER:futu
-;	PUN
-et	KON
-si	KON
-ceux	PRO:DEM
-qui	PRO:REL
-vivent	VER:pres
-s'	PRO:PER
-endorment	VER:pres
-,	PUN
-ceux	PRO:DEM
-qui	PRO:REL
-sont	VER:pres
-morts	VER:pper
-s'	PRO:PER
-éveilleront	VER:futu
-.	SENT
+france	NOM	france
+!	SENT	!
+à	PRP	à
+l'	DET:ART	le
+heure	NOM	heure
+où	PRO:REL	où
+tu	PRO:PER	tu
+te	PRO:PER	te
+prosternes	VER:pres	prosterner
+,	PUN	,
+le	DET:ART	le
+pied	NOM	pied
+d'	PRP	de
+un	DET:ART	un
+tyran	NOM	tyran
+sur	PRP	sur
+ton	DET:POS	ton
+front	NOM	front
+,	PUN	,
+la	DET:ART	le
+voix	NOM	voix
+sortira	VER:futu	sortir
+des	PRP:det	du
+cavernes	NOM	caverne
+;	PUN	;
+les	DET:ART	le
+enchaînés	ADJ	enchaîné
+tressailleront	VER:futu	tressailleront
+.	SENT	.
+le	DET:ART	le
+banni	NOM	banni
+,	PUN	,
+debout	ADV	debout
+sur	PRP	sur
+la	DET:ART	le
+grève	NOM	grève
+,	PUN	,
+contemplant	VER:ppre	contempler
+l'	DET:ART	le
+étoile	NOM	étoile
+et	KON	et
+le	DET:ART	le
+flot	NOM	flot
+,	PUN	,
+comme	KON	comme
+ceux	PRO:DEM	celui
+qu'	PRO:REL	que
+on	PRO:PER	on
+entend	VER:pres	entendre
+en	PRP	en
+rêve	NOM	rêve
+,	PUN	,
+parlera	VER:futu	parler
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+tout	ADV	tout
+haut	ADJ	haut
+;	PUN	;
+et	KON	et
+ses	DET:POS	son
+paroles	NOM	parole
+qui	PRO:REL	qui
+menacent	VER:pres	menacer
+,	PUN	,
+ses	DET:POS	son
+paroles	NOM	parole
+dont	PRO:REL	dont
+l'	DET:ART	le
+éclair	NOM	éclair
+luit	VER:pres	luire
+,	PUN	,
+seront	VER:futu	être
+comme	ADV	comme
+des	PRP:det	du
+mains	NOM	main
+qui	PRO:REL	qui
+passent	VER:pres	passer
+tenant	ADJ	tenant
+des	PRP:det	du
+glaives	NOM	glaive
+dans	PRP	dans
+la	DET:ART	le
+nuit	NOM	nuit
+.	SENT	.
+elles	PRO:PER	elle
+feront	VER:futu	faire
+frémir	VER:infi	frémir
+les	DET:ART	le
+marbres	NOM	marbre
+et	KON	et
+les	DET:ART	le
+monts	NOM	mont
+que	PRO:REL	que
+brunit	VER:pres	brunir
+le	DET:ART	le
+soir	NOM	soir
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+chevelures	NOM	chevelure
+des	PRP:det	du
+arbres	NOM	arbre
+frissonneront	VER:futu	frissonner
+sous	PRP	sous
+le	DET:ART	le
+ciel	NOM	ciel
+noir	ADJ	noir
+;	PUN	;
+elles	PRO:PER	elle
+seront	VER:futu	être
+l'	DET:ART	le
+airain	NOM	airain
+qui	PRO:REL	qui
+sonne	VER:pres	sonner
+,	PUN	,
+le	DET:ART	le
+cri	NOM	cri
+qui	PRO:REL	qui
+chasse	VER:pres	chasser
+les	DET:ART	le
+corbeaux	NOM	corbeau
+,	PUN	,
+le	DET:ART	le
+souffle	NOM	souffle
+inconnu	ADJ	inconnu
+dont	PRO:REL	dont
+frissonne	VER:pres	frissonner
+le	DET:ART	le
+brin	NOM	brin
+d'	PRP	de
+herbe	NOM	herbe
+sur	PRP	sur
+les	DET:ART	le
+tombeaux	NOM	tombeau
+;	PUN	;
+elles	PRO:PER	elle
+crieront	VER:futu	crier
+:	PUN	:
+honte	NOM	honte
+aux	PRP:det	au
+infâmes	ADJ	infâme
+,	PUN	,
+aux	PRP:det	au
+oppresseurs	NOM	oppresseur
+,	PUN	,
+aux	PRP:det	au
+meurtriers	NOM	meurtrier
+!	SENT	!
+elles	PRO:PER	elle
+appelleront	VER:futu	appeler
+les	DET:ART	le
+âmes	NOM	âme
+comme	KON	comme
+on	PRO:PER	on
+appelle	VER:pres	appeler
+des	PRP:det	du
+guerriers	NOM	guerrier
+!	SENT	!
+sur	PRP	sur
+les	DET:ART	le
+races	NOM	race
+qui	PRO:REL	qui
+se	PRO:PER	se
+transforment	VER:pres	transformer
+,	PUN	,
+sombre	ADJ	sombre
+orage	NOM	orage
+,	PUN	,
+elles	PRO:PER	elle
+planeront	VER:futu	planer
+;	PUN	;
+et	KON	et
+si	KON	si
+ceux	PRO:DEM	celui
+qui	PRO:REL	qui
+vivent	VER:pres	vivre
+s'	PRO:PER	se
+endorment	VER:pres	endormir
+,	PUN	,
+ceux	PRO:DEM	celui
+qui	PRO:REL	qui
+sont	VER:pres	être
+morts	VER:pper	mourir
+s'	PRO:PER	se
+éveilleront	VER:futu	éveiller
+.	SENT	.

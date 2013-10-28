@@ -1,131 +1,131 @@
-à	PRP
-la	DET:ART
-très	ADV
-chère	ADJ
-,	PUN
-à	PRP
-la	DET:ART
-très	ADV
-belle	ADJ
-qui	PRO:REL
-remplit	VER:pres
-mon	DET:POS
-coeur	NOM
-de	PRP
-clarté	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-ange	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-idole	NOM
-immortelle	ADJ
-,	PUN
-salut	NOM
-en	PRP
-immortalité	NOM
-!	SENT
-elle	PRO:PER
-se	PRO:PER
-répand	VER:pres
-dans	PRP
-ma	DET:POS
-vie	NOM
-comme	KON
-un	DET:ART
-air	NOM
-imprégné	VER:pper
-de	PRP
-sel	NOM
-,	PUN
-et	KON
-dans	PRP
-mon	DET:POS
-âme	NOM
-inassouvie	ADJ
-verse	VER:pres
-le	DET:ART
-goût	NOM
-de	PRP
-l'	DET:ART
-éternel	NOM
-.	SENT
-sachet	NOM
-toujours	ADV
-frais	ADJ
-qui	PRO:REL
-parfume	VER:pres
-l'	DET:ART
-atmosphère	NOM
-d'	PRP
-un	DET:ART
-cher	ADV
-réduit	ADJ
-,	PUN
-encensoir	NOM
-oublié	VER:pper
-qui	PRO:REL
-fume	VER:pres
-en	PRP
-secret	NOM
-à	PRP
-travers	NOM
-la	DET:ART
-nuit	NOM
-,	PUN
-comment	ADV
-,	PUN
-amour	NOM
-incorruptible	ADJ
-,	PUN
-t'	PRO:PER
-exprimer	VER:infi
-avec	PRP
-vérité	NOM
-?	SENT
-grain	NOM
-de	PRP
-musc	NOM
-qui	PRO:REL
-gis	VER:pres
-,	PUN
-invisible	ADJ
-,	PUN
-au	PRP:det
-fond	NOM
-de	PRP
-mon	DET:POS
-éternité	NOM
-!	SENT
-à	PRP
-la	DET:ART
-très	ADV
-bonne	ADJ
-,	PUN
-à	PRP
-la	DET:ART
-très	ADV
-belle	ADJ
-qui	PRO:REL
-fait	VER:pres
-ma	DET:POS
-joie	NOM
-et	KON
-ma	DET:POS
-santé	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-ange	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-idole	NOM
-immortelle	ADJ
-,	PUN
-salut	NOM
-en	PRP
-immortalité	NOM
-!	SENT
+à	PRP	à
+la	DET:ART	le
+très	ADV	très
+chère	ADJ	cher
+,	PUN	,
+à	PRP	à
+la	DET:ART	le
+très	ADV	très
+belle	ADJ	beau
+qui	PRO:REL	qui
+remplit	VER:pres	remplir
+mon	DET:POS	mon
+coeur	NOM	cœur
+de	PRP	de
+clarté	NOM	clarté
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+ange	NOM	ange
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+idole	NOM	idole
+immortelle	ADJ	immortel
+,	PUN	,
+salut	NOM	salut
+en	PRP	en
+immortalité	NOM	immortalité
+!	SENT	!
+elle	PRO:PER	elle
+se	PRO:PER	se
+répand	VER:pres	répandre
+dans	PRP	dans
+ma	DET:POS	mon
+vie	NOM	vie
+comme	KON	comme
+un	DET:ART	un
+air	NOM	air
+imprégné	VER:pper	imprégner
+de	PRP	de
+sel	NOM	sel
+,	PUN	,
+et	KON	et
+dans	PRP	dans
+mon	DET:POS	mon
+âme	NOM	âme
+inassouvie	ADJ	inassouvi
+verse	VER:pres	verser
+le	DET:ART	le
+goût	NOM	goût
+de	PRP	de
+l'	DET:ART	le
+éternel	NOM	éternel
+.	SENT	.
+sachet	NOM	sachet
+toujours	ADV	toujours
+frais	ADJ	frais
+qui	PRO:REL	qui
+parfume	VER:pres	parfumer
+l'	DET:ART	le
+atmosphère	NOM	atmosphère
+d'	PRP	de
+un	DET:ART	un
+cher	ADV	cher
+réduit	ADJ	réduit
+,	PUN	,
+encensoir	NOM	encensoir
+oublié	VER:pper	oublier
+qui	PRO:REL	qui
+fume	VER:pres	fumer
+en	PRP	en
+secret	NOM	secret
+à	PRP	à
+travers	NOM	travers
+la	DET:ART	le
+nuit	NOM	nuit
+,	PUN	,
+comment	ADV	comment
+,	PUN	,
+amour	NOM	amour
+incorruptible	ADJ	incorruptible
+,	PUN	,
+t'	PRO:PER	te
+exprimer	VER:infi	exprimer
+avec	PRP	avec
+vérité	NOM	vérité
+?	SENT	?
+grain	NOM	grain
+de	PRP	de
+musc	NOM	musc
+qui	PRO:REL	qui
+gis	VER:pres	gésir
+,	PUN	,
+invisible	ADJ	invisible
+,	PUN	,
+au	PRP:det	au
+fond	NOM	fond
+de	PRP	de
+mon	DET:POS	mon
+éternité	NOM	éternité
+!	SENT	!
+à	PRP	à
+la	DET:ART	le
+très	ADV	très
+bonne	ADJ	bon
+,	PUN	,
+à	PRP	à
+la	DET:ART	le
+très	ADV	très
+belle	ADJ	beau
+qui	PRO:REL	qui
+fait	VER:pres	faire
+ma	DET:POS	mon
+joie	NOM	joie
+et	KON	et
+ma	DET:POS	mon
+santé	NOM	santé
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+ange	NOM	ange
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+idole	NOM	idole
+immortelle	ADJ	immortel
+,	PUN	,
+salut	NOM	salut
+en	PRP	en
+immortalité	NOM	immortalité
+!	SENT	!

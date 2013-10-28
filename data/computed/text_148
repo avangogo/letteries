@@ -1,72 +1,72 @@
-si	KON
-tu	PRO:PER
-veux	VER:pres
-nous	PRO:PER
-nous	PRO:PER
-aimerons	VER:futu
-avec	PRP
-tes	DET:POS
-lèvres	NOM
-sans	PRP
-le	PRO:PER
-dire	VER:infi
-cette	PRO:DEM
-rose	NOM
-ne	ADV
-l'	PRO:PER
-interromps	VER:pres
-qu'	KON
-à	PRP
-verser	VER:infi
-un	DET:ART
-silence	NOM
-pire	ADJ
-jamais	ADV
-de	PRP
-chants	NOM
-ne	ADV
-lancent	VER:pres
-prompts	ADJ
-le	DET:ART
-scintillement	NOM
-du	PRP:det
-sourire	NOM
-si	KON
-tu	PRO:PER
-veux	VER:pres
-nous	PRO:PER
-nous	PRO:PER
-aimerons	VER:futu
-avec	PRP
-tes	DET:POS
-lèvres	NOM
-sans	PRP
-le	DET:ART
-dire	NOM
-muet	ADJ
-muet	ADJ
-entre	PRP
-les	DET:ART
-ronds	ADJ
-sylphe	NOM
-dans	PRP
-la	DET:ART
-pourpre	NOM
-d'	PRP
-empire	NOM
-un	DET:ART
-baiser	NOM
-flambant	ADJ
-se	PRO:PER
-déchire	VER:pres
-jusqu'	PRP
-aux	PRP:det
-pointes	NOM
-des	PRP:det
-ailerons	NOM
-si	KON
-tu	PRO:PER
-veux	VER:pres
-nous	PRO:PER
-nous	PRO:PER
-aimerons	VER:futu
+si	KON	si
+tu	PRO:PER	tu
+veux	VER:pres	vouloir
+nous	PRO:PER	nous
+nous	PRO:PER	nous
+aimerons	VER:futu	aimer
+avec	PRP	avec
+tes	DET:POS	ton
+lèvres	NOM	lèvre
+sans	PRP	sans
+le	PRO:PER	le
+dire	VER:infi	dire
+cette	PRO:DEM	ce
+rose	NOM	rose
+ne	ADV	ne
+l'	PRO:PER	la|le
+interromps	VER:pres	interrompre
+qu'	KON	que
+à	PRP	à
+verser	VER:infi	verser
+un	DET:ART	un
+silence	NOM	silence
+pire	ADJ	pire
+jamais	ADV	jamais
+de	PRP	de
+chants	NOM	chant
+ne	ADV	ne
+lancent	VER:pres	lancer
+prompts	ADJ	prompt
+le	DET:ART	le
+scintillement	NOM	scintillement
+du	PRP:det	du
+sourire	NOM	sourire
+si	KON	si
+tu	PRO:PER	tu
+veux	VER:pres	vouloir
+nous	PRO:PER	nous
+nous	PRO:PER	nous
+aimerons	VER:futu	aimer
+avec	PRP	avec
+tes	DET:POS	ton
+lèvres	NOM	lèvre
+sans	PRP	sans
+le	DET:ART	le
+dire	NOM	dire
+muet	ADJ	muet
+muet	ADJ	muet
+entre	PRP	entre
+les	DET:ART	le
+ronds	ADJ	rond
+sylphe	NOM	sylphe
+dans	PRP	dans
+la	DET:ART	le
+pourpre	NOM	pourpre
+d'	PRP	de
+empire	NOM	empire
+un	DET:ART	un
+baiser	NOM	baiser
+flambant	ADJ	flambant
+se	PRO:PER	se
+déchire	VER:pres	déchirer
+jusqu'	PRP	jusque
+aux	PRP:det	au
+pointes	NOM	pointe
+des	PRP:det	du
+ailerons	NOM	aileron
+si	KON	si
+tu	PRO:PER	tu
+veux	VER:pres	vouloir
+nous	PRO:PER	nous
+nous	PRO:PER	nous
+aimerons	VER:futu	aimer

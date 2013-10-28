@@ -1,68 +1,68 @@
-avec	PRP
-comme	ADV
-pour	PRP
-langage	NOM
-rien	NOM
-qu'	KON
-un	DET:ART
-battement	NOM
-aux	PRP:det
-cieux	NOM
-le	DET:ART
-futur	ADJ
-vers	PRP
-se	PRO:PER
-dégage	VER:pres
-du	PRP:det
-logis	NOM
-très	ADV
-précieux	ADJ
-aile	VER:pres
-tout	ADV
-bas	ADV
-la	DET:ART
-courrière	NOM
-cet	PRO:DEM
-éventail	NOM
-si	KON
-c'	PRO:DEM
-est	VER:pres
-lui	PRO:PER
-le	DET:ART
-même	ADJ
-par	PRP
-qui	PRO:REL
-derrière	PRP
-toi	PRO:PER
-quelque	PRO:IND
-miroir	NOM
-a	VER:pres
-lui	PRO:PER
-limpide	ADJ
-où	PRO:REL
-va	VER:pres
-redescendre	VER:infi
-pourchassée	VER:pper
-en	PRP
-chaque	PRO:IND
-grain	NOM
-un	DET:ART
-peu	ADV
-d'	PRP
-invisible	ADJ
-cendre	NOM
-seule	ADJ
-à	PRP
-me	PRO:PER
-rendre	VER:infi
-chagrin	NOM
-toujours	ADV
-tel	PRO:DEM
-il	PRO:PER
-apparaisse	VER:subp
-entre	PRP
-tes	DET:POS
-mains	NOM
-sans	PRP
-paresse	NOM
-.	SENT
+avec	PRP	avec
+comme	ADV	comme
+pour	PRP	pour
+langage	NOM	langage
+rien	NOM	rien
+qu'	KON	que
+un	DET:ART	un
+battement	NOM	battement
+aux	PRP:det	au
+cieux	NOM	cieux
+le	DET:ART	le
+futur	ADJ	futur
+vers	PRP	vers
+se	PRO:PER	se
+dégage	VER:pres	dégager
+du	PRP:det	du
+logis	NOM	logis
+très	ADV	très
+précieux	ADJ	précieux
+aile	VER:pres	ailer
+tout	ADV	tout
+bas	ADV	bas
+la	DET:ART	le
+courrière	NOM	courrière
+cet	PRO:DEM	ce
+éventail	NOM	éventail
+si	KON	si
+c'	PRO:DEM	ce
+est	VER:pres	être
+lui	PRO:PER	lui
+le	DET:ART	le
+même	ADJ	même
+par	PRP	par
+qui	PRO:REL	qui
+derrière	PRP	derrière
+toi	PRO:PER	toi
+quelque	PRO:IND	quelque
+miroir	NOM	miroir
+a	VER:pres	avoir
+lui	PRO:PER	lui
+limpide	ADJ	limpide
+où	PRO:REL	où
+va	VER:pres	aller
+redescendre	VER:infi	redescendre
+pourchassée	VER:pper	pourchasser
+en	PRP	en
+chaque	PRO:IND	chaque
+grain	NOM	grain
+un	DET:ART	un
+peu	ADV	peu
+d'	PRP	de
+invisible	ADJ	invisible
+cendre	NOM	cendre
+seule	ADJ	seul
+à	PRP	à
+me	PRO:PER	me
+rendre	VER:infi	rendre
+chagrin	NOM	chagrin
+toujours	ADV	toujours
+tel	PRO:DEM	tel
+il	PRO:PER	il
+apparaisse	VER:subp	apparaître
+entre	PRP	entre
+tes	DET:POS	ton
+mains	NOM	main
+sans	PRP	sans
+paresse	NOM	paresse
+.	SENT	.

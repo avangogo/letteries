@@ -1,350 +1,350 @@
-toi	PRO:PER
-,	PUN
-marchand	ADJ
-,	PUN
-tu	PRO:PER
-pensais	VER:impf
-à	PRP
-ton	DET:POS
-navire	NOM
-en	PRP
-charge	NOM
-,	PUN
-aux	PRP:det
-écueils	NOM
-,	PUN
-aux	PRP:det
-hasards	NOM
-des	PRP:det
-mers	NOM
-,	PUN
-aux	PRP:det
-vents	NOM
-du	PRP:det
-large	ADJ
-;	PUN
-tu	PRO:PER
-dormais	VER:impf
-mal	ADV
-,	PUN
-souvent	ADV
-;	PUN
-vous	PRO:PER
-songiez	VER:impf
-,	PUN
-toi	PRO:PER
-,	PUN
-jeune	ADJ
-homme	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-avenir	NOM
-qui	PRO:REL
-presse	VER:pres
-,	PUN
-toi	PRO:PER
-,	PUN
-vieillard	NOM
-,	PUN
-au	PRP:det
-passé	NOM
-,	PUN
-toi	PRO:PER
-,	PUN
-riche	ADJ
-,	PUN
-à	PRP
-ta	DET:POS
-richesse	NOM
-,	PUN
-toi	PRO:PER
-,	PUN
-mère	NOM
-,	PUN
-à	PRP
-ton	DET:POS
-enfant	NOM
-.	SENT
-du	PRP:det
-jour	NOM
-de	PRP
-l'	DET:ART
-an	NOM
-à	PRP
-saint	NOM
-sylvestre	ADJ
-,	PUN
-chantons	VER:pres
-l'	DET:ART
-ordre	NOM
-et	KON
-son	DET:POS
-paladin	NOM
-!	SENT
-fanfare	NOM
-!	SENT
-honneur	NOM
-!	SENT
-statue	NOM
-équestre	ADJ
-!	SENT
-dressons	VER:pres
-un	DET:ART
-orchestre	NOM
-au	PRP:det
-jardin	NOM
-!	SENT
-dressons	VER:pres
-dans	PRP
-ta	DET:POS
-salle	NOM
-un	DET:ART
-orchestre	NOM
-!	SENT
-mabile	ADJ
-,	PUN
-prête	ADJ
-nous	PRO:PER
-tes	DET:POS
-beautés	NOM
-aux	PRP:det
-yeux	NOM
-d'	PRP
-ange	NOM
-,	PUN
-au	PRP:det
-coeur	NOM
-de	PRP
-goule	NOM
-,	PUN
-errant	VER:ppre
-dans	PRP
-ton	DET:POS
-jardin	NOM
-d'	PRP
-hiver	NOM
-;	PUN
-beaumarchais	NOM
-,	PUN
-donne	VER:pres
-nous	PRO:PER
-bégears	NOM
-,	PUN
-que	KON
-gulliver	NOM
-donne	VER:pres
-tout	PRO:IND
-lilliput	NOM
-dont	PRO:REL
-l'	DET:ART
-aigle	NOM
-est	VER:pres
-une	DET:ART
-mouche	NOM
-.	SENT
-et	KON
-scarron	NOM
-jodelet	NOM
-,	PUN
-et	KON
-callot	NOM
-scaramouche	NOM
-.	SENT
-on	PRO:PER
-croit	VER:pres
-voir	VER:infi
-de	PRP
-l'	DET:ART
-enfer	NOM
-le	DET:ART
-troisième	NUM
-dessous	NOM
-,	PUN
-maints	ADJ
-grimauds	NOM
-sur	PRP
-le	DET:ART
-seuil	NOM
-t'	PRO:PER
-offrent	VER:pres
-pour	PRP
-trente	NUM
-sous	PRP
-leur	DET:POS
-admiration	NOM
-laveuse	NOM
-de	PRP
-vaisselle	NOM
-,	PUN
-de	PRP
-la	DET:ART
-cave	NOM
-au	PRP:det
-grenier	NOM
-la	DET:ART
-gargote	NOM
-étincelle	VER:pres
-.	SENT
-reste	NOM
-!	SENT
-si	KON
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-antre	NOM
-où	PRO:REL
-ceux	PRO:DEM
-qui	PRO:REL
-font	VER:pres
-le	DET:ART
-mal	NOM
-,	PUN
-joyeux	ADJ
-,	PUN
-ôtent	VER:pres
-leur	DET:POS
-casque	NOM
-,	PUN
-n'	ADV
-as	VER:pres
-tu	PRO:PER
-pas	ADV
-un	DET:ART
-stylet	NOM
-comme	KON
-eux	PRO:PER
-?	SENT
-si	KON
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-bal	NOM
-,	PUN
-dis	VER:pres
-,	PUN
-n'	ADV
-es	VER:pres
-tu	PRO:PER
-pas	ADV
-un	DET:ART
-masque	NOM
-?	SENT
-quoi	PRO
-!	SENT
-tout	PRO:IND
-ce	PRO:DEM
-qu'	PRO:REL
-ils	PRO:PER
-ont	VER:pres
-fait	VER:pper
-,	PUN
-ne	ADV
-l'	DET:ART
-as	NOM
-tu	PRO:PER
-pas	ADV
-loué	VER:pper
-?	SENT
-disant	VER:ppre
-:	PUN
-c'	PRO:DEM
-est	VER:pres
-légitime	ADJ
-!	SENT
-reste	NOM
-!	SENT
-et	KON
-sois	VER:subp
-le	DET:ART
-poteau	NOM
-sinistre	ADJ
-où	PRO:REL
-pend	VER:pres
-,	PUN
-cloué	VER:pper
-,	PUN
-l'	DET:ART
-écriteau	NOM
-de	PRP
-leur	DET:POS
-crime	NOM
-!	SENT
-vous	PRO:PER
-êtes	VER:pres
-bien	ADV
-le	DET:ART
-sexe	NOM
-fier	ADJ
-et	KON
-doux	ADJ
-qui	PRO:REL
-suscite	VER:pres
-la	DET:ART
-juive	NOM
-et	KON
-les	DET:ART
-sept	NUM
-machabées	NOM
-,	PUN
-et	KON
-,	PUN
-quand	KON
-jeanne	NOM
-a	VER:pres
-saisi	VER:pper
-nos	DET:POS
-bannières	NOM
-tombées	ADJ
-,	PUN
-du	PRP:det
-sacre	NOM
-et	KON
-du	PRP:det
-bûcher	NOM
-lui	PRO:PER
-montre	VER:pres
-les	DET:ART
-chemins	NOM
-.	SENT
-ô	INT
-république	NOM
-universelle	ADJ
-,	PUN
-l'	DET:ART
-astre	NOM
-n'	ADV
-est	VER:pres
-encor	ADV
-qu'	KON
-étincelle	NOM
-;	PUN
-mais	KON
-,	PUN
-pareille	NOM
-au	PRP:det
-soleil	NOM
-joyeux	ADJ
-,	PUN
-couvrant	VER:ppre
-les	DET:ART
-paris	NOM
-et	KON
-les	DET:ART
-romes	NOM
-,	PUN
-tu	PRO:PER
-seras	VER:futu
-la	DET:ART
-clarté	NOM
-des	PRP:det
-hommes	NOM
-,	PUN
-comme	KON
-il	PRO:PER
-est	VER:pres
-la	DET:ART
-clarté	NOM
-des	PRP:det
-cieux	NOM
-.	SENT
+toi	PRO:PER	toi
+,	PUN	,
+marchand	ADJ	marchand
+,	PUN	,
+tu	PRO:PER	tu
+pensais	VER:impf	penser
+à	PRP	à
+ton	DET:POS	ton
+navire	NOM	navire
+en	PRP	en
+charge	NOM	charge
+,	PUN	,
+aux	PRP:det	au
+écueils	NOM	écueil
+,	PUN	,
+aux	PRP:det	au
+hasards	NOM	hasard
+des	PRP:det	du
+mers	NOM	mer
+,	PUN	,
+aux	PRP:det	au
+vents	NOM	vent
+du	PRP:det	du
+large	ADJ	large
+;	PUN	;
+tu	PRO:PER	tu
+dormais	VER:impf	dormir
+mal	ADV	mal
+,	PUN	,
+souvent	ADV	souvent
+;	PUN	;
+vous	PRO:PER	vous
+songiez	VER:impf	songer
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+jeune	ADJ	jeune
+homme	NOM	homme
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+avenir	NOM	avenir
+qui	PRO:REL	qui
+presse	VER:pres	presser
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+vieillard	NOM	vieillard
+,	PUN	,
+au	PRP:det	au
+passé	NOM	passé
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+riche	ADJ	riche
+,	PUN	,
+à	PRP	à
+ta	DET:POS	ton
+richesse	NOM	richesse
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+mère	NOM	mère
+,	PUN	,
+à	PRP	à
+ton	DET:POS	ton
+enfant	NOM	enfant
+.	SENT	.
+du	PRP:det	du
+jour	NOM	jour
+de	PRP	de
+l'	DET:ART	le
+an	NOM	an
+à	PRP	à
+saint	NOM	saint
+sylvestre	ADJ	sylvestre
+,	PUN	,
+chantons	VER:pres	chanter
+l'	DET:ART	le
+ordre	NOM	ordre
+et	KON	et
+son	DET:POS	son
+paladin	NOM	paladin
+!	SENT	!
+fanfare	NOM	fanfare
+!	SENT	!
+honneur	NOM	honneur
+!	SENT	!
+statue	NOM	statue
+équestre	ADJ	équestre
+!	SENT	!
+dressons	VER:pres	dresser
+un	DET:ART	un
+orchestre	NOM	orchestre
+au	PRP:det	au
+jardin	NOM	jardin
+!	SENT	!
+dressons	VER:pres	dresser
+dans	PRP	dans
+ta	DET:POS	ton
+salle	NOM	salle
+un	DET:ART	un
+orchestre	NOM	orchestre
+!	SENT	!
+mabile	ADJ	mabile
+,	PUN	,
+prête	ADJ	prêt
+nous	PRO:PER	nous
+tes	DET:POS	ton
+beautés	NOM	beauté
+aux	PRP:det	au
+yeux	NOM	œil
+d'	PRP	de
+ange	NOM	ange
+,	PUN	,
+au	PRP:det	au
+coeur	NOM	cœur
+de	PRP	de
+goule	NOM	goule
+,	PUN	,
+errant	VER:ppre	errer
+dans	PRP	dans
+ton	DET:POS	ton
+jardin	NOM	jardin
+d'	PRP	de
+hiver	NOM	hiver
+;	PUN	;
+beaumarchais	NOM	beaumarchais
+,	PUN	,
+donne	VER:pres	donner
+nous	PRO:PER	nous
+bégears	NOM	bégears
+,	PUN	,
+que	KON	que
+gulliver	NOM	gulliver
+donne	VER:pres	donner
+tout	PRO:IND	tout
+lilliput	NOM	lilliput
+dont	PRO:REL	dont
+l'	DET:ART	le
+aigle	NOM	aigle
+est	VER:pres	être
+une	DET:ART	un
+mouche	NOM	mouche
+.	SENT	.
+et	KON	et
+scarron	NOM	scarron
+jodelet	NOM	jodelet
+,	PUN	,
+et	KON	et
+callot	NOM	callot
+scaramouche	NOM	scaramouche
+.	SENT	.
+on	PRO:PER	on
+croit	VER:pres	croire
+voir	VER:infi	voir
+de	PRP	de
+l'	DET:ART	le
+enfer	NOM	enfer
+le	DET:ART	le
+troisième	NUM	troisième
+dessous	NOM	dessous
+,	PUN	,
+maints	ADJ	maints
+grimauds	NOM	grimaud
+sur	PRP	sur
+le	DET:ART	le
+seuil	NOM	seuil
+t'	PRO:PER	te
+offrent	VER:pres	offrir
+pour	PRP	pour
+trente	NUM	trente
+sous	PRP	sous
+leur	DET:POS	leur
+admiration	NOM	admiration
+laveuse	NOM	laveur
+de	PRP	de
+vaisselle	NOM	vaisselle
+,	PUN	,
+de	PRP	de
+la	DET:ART	le
+cave	NOM	cave
+au	PRP:det	au
+grenier	NOM	grenier
+la	DET:ART	le
+gargote	NOM	gargote
+étincelle	VER:pres	étinceler
+.	SENT	.
+reste	NOM	reste
+!	SENT	!
+si	KON	si
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+antre	NOM	antre
+où	PRO:REL	où
+ceux	PRO:DEM	celui
+qui	PRO:REL	qui
+font	VER:pres	faire
+le	DET:ART	le
+mal	NOM	mal
+,	PUN	,
+joyeux	ADJ	joyeux
+,	PUN	,
+ôtent	VER:pres	ôter
+leur	DET:POS	leur
+casque	NOM	casque
+,	PUN	,
+n'	ADV	ne
+as	VER:pres	avoir
+tu	PRO:PER	tu
+pas	ADV	pas
+un	DET:ART	un
+stylet	NOM	stylet
+comme	KON	comme
+eux	PRO:PER	eux
+?	SENT	?
+si	KON	si
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+bal	NOM	bal
+,	PUN	,
+dis	VER:pres	dire
+,	PUN	,
+n'	ADV	ne
+es	VER:pres	être
+tu	PRO:PER	tu
+pas	ADV	pas
+un	DET:ART	un
+masque	NOM	masque
+?	SENT	?
+quoi	PRO	quoi
+!	SENT	!
+tout	PRO:IND	tout
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+ils	PRO:PER	il
+ont	VER:pres	avoir
+fait	VER:pper	faire
+,	PUN	,
+ne	ADV	ne
+l'	DET:ART	le
+as	NOM	as
+tu	PRO:PER	tu
+pas	ADV	pas
+loué	VER:pper	louer
+?	SENT	?
+disant	VER:ppre	dire
+:	PUN	:
+c'	PRO:DEM	ce
+est	VER:pres	être
+légitime	ADJ	légitime
+!	SENT	!
+reste	NOM	reste
+!	SENT	!
+et	KON	et
+sois	VER:subp	être
+le	DET:ART	le
+poteau	NOM	poteau
+sinistre	ADJ	sinistre
+où	PRO:REL	où
+pend	VER:pres	pendre
+,	PUN	,
+cloué	VER:pper	clouer
+,	PUN	,
+l'	DET:ART	le
+écriteau	NOM	écriteau
+de	PRP	de
+leur	DET:POS	leur
+crime	NOM	crime
+!	SENT	!
+vous	PRO:PER	vous
+êtes	VER:pres	être
+bien	ADV	bien
+le	DET:ART	le
+sexe	NOM	sexe
+fier	ADJ	fier
+et	KON	et
+doux	ADJ	doux
+qui	PRO:REL	qui
+suscite	VER:pres	susciter
+la	DET:ART	le
+juive	NOM	juif
+et	KON	et
+les	DET:ART	le
+sept	NUM	sept
+machabées	NOM	machabées
+,	PUN	,
+et	KON	et
+,	PUN	,
+quand	KON	quand
+jeanne	NOM	jeanne
+a	VER:pres	avoir
+saisi	VER:pper	saisir
+nos	DET:POS	notre
+bannières	NOM	bannière
+tombées	ADJ	tombé
+,	PUN	,
+du	PRP:det	du
+sacre	NOM	sacre
+et	KON	et
+du	PRP:det	du
+bûcher	NOM	bûcher
+lui	PRO:PER	lui
+montre	VER:pres	montrer
+les	DET:ART	le
+chemins	NOM	chemin
+.	SENT	.
+ô	INT	ô
+république	NOM	république
+universelle	ADJ	universel
+,	PUN	,
+l'	DET:ART	le
+astre	NOM	astre
+n'	ADV	ne
+est	VER:pres	être
+encor	ADV	encor
+qu'	KON	que
+étincelle	NOM	étincelle
+;	PUN	;
+mais	KON	mais
+,	PUN	,
+pareille	NOM	pareil
+au	PRP:det	au
+soleil	NOM	soleil
+joyeux	ADJ	joyeux
+,	PUN	,
+couvrant	VER:ppre	couvrir
+les	DET:ART	le
+paris	NOM	pari
+et	KON	et
+les	DET:ART	le
+romes	NOM	romes
+,	PUN	,
+tu	PRO:PER	tu
+seras	VER:futu	être
+la	DET:ART	le
+clarté	NOM	clarté
+des	PRP:det	du
+hommes	NOM	homme
+,	PUN	,
+comme	KON	comme
+il	PRO:PER	il
+est	VER:pres	être
+la	DET:ART	le
+clarté	NOM	clarté
+des	PRP:det	du
+cieux	NOM	cieux
+.	SENT	.

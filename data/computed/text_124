@@ -1,62 +1,62 @@
-quelconque	ADJ
-une	DET:ART
-solitude	NOM
-sans	PRP
-le	DET:ART
-cygne	NOM
-ni	KON
-le	DET:ART
-quai	NOM
-mire	VER:pres
-sa	DET:POS
-désuétude	NOM
-au	PRP:det
-regard	NOM
-que	PRO:REL
-j'	PRO:PER
-abdiquai	VER:simp
-ici	ADV
-de	PRP
-la	DET:ART
-gloriole	NOM
-haute	ADJ
-à	PRP
-ne	ADV
-la	DET:ART
-pas	ADV
-toucher	NOM
-dont	PRO:REL
-maint	PRO:IND
-ciel	NOM
-se	PRO:PER
-bariole	VER:pres
-avec	PRP
-les	DET:ART
-ors	NOM
-de	PRP
-coucher	VER:infi
-mais	KON
-langoureusement	ADV
-longe	VER:pres
-comme	ADV
-de	PRP
-blanc	ADJ
-linge	NOM
-ôté	PRP
-tel	PRO:DEM
-fugace	ADJ
-oiseau	NOM
-si	KON
-plonge	NOM
-exultatrice	ADJ
-à	PRP
-côté	NOM
-dans	PRP
-l'	DET:ART
-onde	NOM
-toi	PRO:PER
-devenue	VER:pper
-ta	DET:POS
-jubilation	NOM
-nue	VER:pres
-.	SENT
+quelconque	ADJ	quelconque
+une	DET:ART	un
+solitude	NOM	solitude
+sans	PRP	sans
+le	DET:ART	le
+cygne	NOM	cygne
+ni	KON	ni
+le	DET:ART	le
+quai	NOM	quai
+mire	VER:pres	mirer
+sa	DET:POS	son
+désuétude	NOM	désuétude
+au	PRP:det	au
+regard	NOM	regard
+que	PRO:REL	que
+j'	PRO:PER	je
+abdiquai	VER:simp	abdiquer
+ici	ADV	ici
+de	PRP	de
+la	DET:ART	le
+gloriole	NOM	gloriole
+haute	ADJ	haut
+à	PRP	à
+ne	ADV	ne
+la	DET:ART	le
+pas	ADV	pas
+toucher	NOM	toucher
+dont	PRO:REL	dont
+maint	PRO:IND	maint
+ciel	NOM	ciel
+se	PRO:PER	se
+bariole	VER:pres	barioler
+avec	PRP	avec
+les	DET:ART	le
+ors	NOM	or
+de	PRP	de
+coucher	VER:infi	coucher
+mais	KON	mais
+langoureusement	ADV	langoureusement
+longe	VER:pres	longer
+comme	ADV	comme
+de	PRP	de
+blanc	ADJ	blanc
+linge	NOM	linge
+ôté	PRP	ôté
+tel	PRO:DEM	tel
+fugace	ADJ	fugace
+oiseau	NOM	oiseau
+si	KON	si
+plonge	NOM	plonge
+exultatrice	ADJ	exultatrice
+à	PRP	à
+côté	NOM	côté
+dans	PRP	dans
+l'	DET:ART	le
+onde	NOM	onde
+toi	PRO:PER	toi
+devenue	VER:pper	devenir
+ta	DET:POS	ton
+jubilation	NOM	jubilation
+nue	VER:pres	nuer
+.	SENT	.

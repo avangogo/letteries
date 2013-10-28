@@ -1,368 +1,368 @@
-prêtre	NOM
-,	PUN
-ta	DET:POS
-messe	NOM
-,	PUN
-écho	NOM
-des	PRP:det
-feux	NOM
-de	PRP
-peloton	NOM
-,	PUN
-est	VER:pres
-une	DET:ART
-chose	NOM
-impie	ADJ
-.	SENT
-derrière	PRP
-toi	PRO:PER
-,	PUN
-le	DET:ART
-bras	NOM
-ployé	VER:pper
-sous	PRP
-le	DET:ART
-menton	NOM
-,	PUN
-rit	VER:pres
-la	DET:ART
-mort	NOM
-accroupie	VER:pper
-.	SENT
-prêtre	NOM
-,	PUN
-on	PRO:PER
-voit	VER:pres
-frissonner	VER:infi
-,	PUN
-aux	PRP:det
-cieux	NOM
-d'	PRP
-où	PRO:REL
-nous	PRO:PER
-venons	VER:pres
-les	DET:ART
-anges	NOM
-et	KON
-les	DET:ART
-vierges	ADJ
-,	PUN
-quand	KON
-un	DET:ART
-évêque	NOM
-prend	VER:pres
-la	DET:ART
-mèche	NOM
-des	PRP:det
-canons	NOM
-pour	PRP
-allumer	VER:infi
-les	DET:ART
-cierges	NOM
-.	SENT
-tu	PRO:PER
-veux	VER:pres
-être	VER:infi
-au	PRP:det
-sénat	NOM
-,	PUN
-voir	VER:infi
-ton	DET:POS
-siège	NOM
-élevé	VER:pper
-et	KON
-ta	DET:POS
-fortune	NOM
-accrue	VER:pper
-.	SENT
-soit	KON
-;	PUN
-mais	KON
-pour	PRP
-bénir	VER:infi
-l'	DET:ART
-homme	NOM
-,	PUN
-attends	VER:pres
-qu'	KON
-on	PRO:PER
-ait	VER:subp
-lavé	VER:pper
-le	DET:ART
-pavé	NOM
-de	PRP
-la	DET:ART
-rue	NOM
-.	SENT
-peuples	NOM
-,	PUN
-gloire	NOM
-à	PRP
-gessler	NOM
-!	SENT
-meure	VER:subp
-guillaume	NOM
-tell	NOM
-!	SENT
-un	DET:ART
-râle	NOM
-sort	VER:pres
-de	PRP
-l'	DET:ART
-orgue	NOM
-.	SENT
-archevêque	NOM
-,	PUN
-on	PRO:PER
-a	VER:pres
-pris	VER:pper
-pour	PRP
-bâtir	VER:infi
-ton	DET:POS
-autel	NOM
-les	DET:ART
-dalles	NOM
-de	PRP
-la	DET:ART
-morgue	NOM
-.	SENT
-quand	KON
-tu	PRO:PER
-dis	VER:pres
-:	PUN
-te	PRO:PER
-deum	NOM
-!	SENT
-nous	PRO:PER
-vous	PRO:PER
-louons	VER:pres
-,	PUN
-dieu	NOM
-fort	ADJ
-!	SENT
-sabaoth	NOM
-des	PRP:det
-armées	NOM
-!	SENT
-il	PRO:PER
-se	PRO:PER
-mêle	VER:pres
-à	PRP
-l'	DET:ART
-encens	NOM
-une	DET:ART
-vapeur	NOM
-qui	PRO:REL
-sort	VER:pres
-des	PRP:det
-fosses	NOM
-mal	ADV
-fermées	VER:pper
-.	SENT
-on	PRO:PER
-a	VER:pres
-tué	VER:pper
-,	PUN
-la	DET:ART
-nuit	NOM
-,	PUN
-on	PRO:PER
-a	VER:pres
-tué	VER:pper
-,	PUN
-le	DET:ART
-jour	NOM
-,	PUN
-l'	DET:ART
-homme	NOM
-,	PUN
-l'	DET:ART
-enfant	NOM
-,	PUN
-la	DET:ART
-femme	NOM
-!	SENT
-crime	NOM
-et	KON
-deuil	NOM
-!	SENT
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-plus	ADV
-l'	DET:ART
-aigle	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-vautour	NOM
-qui	PRO:REL
-vole	VER:pres
-à	PRP
-notre	DET:POS
-dame	NOM
-.	SENT
-va	VER:pres
-,	PUN
-prodigue	ADJ
-au	PRP:det
-bandit	NOM
-les	DET:ART
-adorations	NOM
-martyrs	NOM
-,	PUN
-vous	PRO:PER
-l'	PRO:PER
-entendîtes	VER:simp
-!	SENT
-dieu	NOM
-te	PRO:PER
-voit	VER:pres
-,	PUN
-et	KON
-là	ADV
-haut	ADV
-tes	DET:POS
-bénédictions	NOM
-,	PUN
-ô	INT
-prêtre	NOM
-,	PUN
-sont	VER:pres
-maudites	VER:pper
-!	SENT
-les	PRO:PER
-proscrits	VER:pper
-sont	VER:pres
-partis	VER:pper
-,	PUN
-aux	PRP:det
-flancs	NOM
-du	PRP:det
-ponton	NOM
-noir	ADJ
-,	PUN
-pour	PRP
-alger	NOM
-,	PUN
-pour	PRP
-cayenne	NOM
-;	PUN
-ils	PRO:PER
-ont	VER:pres
-vu	VER:pper
-bonaparte	NOM
-à	PRP
-paris	NOM
-,	PUN
-ils	PRO:PER
-vont	VER:pres
-voir	VER:infi
-en	PRP
-afrique	ADJ
-l'	DET:ART
-hyène	NOM
-.	SENT
-ouvriers	NOM
-,	PUN
-paysans	NOM
-qu'	PRO:REL
-on	PRO:PER
-arrache	VER:pres
-au	PRP:det
-labour	NOM
-,	PUN
-le	DET:ART
-sombre	ADJ
-exil	NOM
-vous	PRO:PER
-fauche	VER:pres
-!	SENT
-bien	ADV
-,	PUN
-regarde	VER:pres
-à	PRP
-ta	DET:POS
-droite	NOM
-,	PUN
-archevêque	NOM
-sibour	NOM
-,	PUN
-et	KON
-regarde	VER:pres
-à	PRP
-ta	DET:POS
-gauche	NOM
-:	PUN
-ton	DET:POS
-diacre	NOM
-est	VER:pres
-trahison	NOM
-et	KON
-ton	NOM
-sous	PRP
-diacre	NOM
-est	VER:pres
-vol	NOM
-vends	VER:pres
-ton	DET:POS
-dieu	NOM
-,	PUN
-vends	VER:pres
-ton	DET:POS
-âme	NOM
-.	SENT
-allons	INT
-,	PUN
-coiffe	VER:pres
-ta	DET:POS
-mitre	NOM
-,	PUN
-allons	VER:pres
-,	PUN
-mets	VER:pres
-ton	DET:POS
-licol	NOM
-,	PUN
-chante	VER:pres
-,	PUN
-vieux	ADJ
-prêtre	NOM
-infâme	ADJ
-!	SENT
-le	DET:ART
-meurtre	NOM
-à	PRP
-tes	DET:POS
-côtés	NOM
-suit	VER:pres
-l'	DET:ART
-office	NOM
-divin	ADJ
-,	PUN
-criant	ADJ
-:	PUN
-feu	NOM
-sur	PRP
-qui	PRO:REL
-bouge	VER:pres
-!	SENT
-satan	NOM
-tient	VER:pres
-la	DET:ART
-burette	NOM
-,	PUN
-et	KON
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-pas	ADV
-de	PRP
-vin	NOM
-que	KON
-ton	DET:POS
-ciboire	NOM
-est	VER:pres
-rouge	ADJ
-.	SENT
+prêtre	NOM	prêtre
+,	PUN	,
+ta	DET:POS	ton
+messe	NOM	messe
+,	PUN	,
+écho	NOM	écho
+des	PRP:det	du
+feux	NOM	feu
+de	PRP	de
+peloton	NOM	peloton
+,	PUN	,
+est	VER:pres	être
+une	DET:ART	un
+chose	NOM	chose
+impie	ADJ	impie
+.	SENT	.
+derrière	PRP	derrière
+toi	PRO:PER	toi
+,	PUN	,
+le	DET:ART	le
+bras	NOM	bras
+ployé	VER:pper	ployer
+sous	PRP	sous
+le	DET:ART	le
+menton	NOM	menton
+,	PUN	,
+rit	VER:pres	rire
+la	DET:ART	le
+mort	NOM	mort
+accroupie	VER:pper	accroupir
+.	SENT	.
+prêtre	NOM	prêtre
+,	PUN	,
+on	PRO:PER	on
+voit	VER:pres	voir
+frissonner	VER:infi	frissonner
+,	PUN	,
+aux	PRP:det	au
+cieux	NOM	cieux
+d'	PRP	de
+où	PRO:REL	où
+nous	PRO:PER	nous
+venons	VER:pres	venir
+les	DET:ART	le
+anges	NOM	ange
+et	KON	et
+les	DET:ART	le
+vierges	ADJ	vierge
+,	PUN	,
+quand	KON	quand
+un	DET:ART	un
+évêque	NOM	évêque
+prend	VER:pres	prendre
+la	DET:ART	le
+mèche	NOM	mèche
+des	PRP:det	du
+canons	NOM	canon
+pour	PRP	pour
+allumer	VER:infi	allumer
+les	DET:ART	le
+cierges	NOM	cierge
+.	SENT	.
+tu	PRO:PER	tu
+veux	VER:pres	vouloir
+être	VER:infi	être
+au	PRP:det	au
+sénat	NOM	sénat
+,	PUN	,
+voir	VER:infi	voir
+ton	DET:POS	ton
+siège	NOM	siège
+élevé	VER:pper	élever
+et	KON	et
+ta	DET:POS	ton
+fortune	NOM	fortune
+accrue	VER:pper	accroire|accroître
+.	SENT	.
+soit	KON	soit
+;	PUN	;
+mais	KON	mais
+pour	PRP	pour
+bénir	VER:infi	bénir
+l'	DET:ART	le
+homme	NOM	homme
+,	PUN	,
+attends	VER:pres	attendre
+qu'	KON	que
+on	PRO:PER	on
+ait	VER:subp	avoir
+lavé	VER:pper	laver
+le	DET:ART	le
+pavé	NOM	pavé
+de	PRP	de
+la	DET:ART	le
+rue	NOM	rue
+.	SENT	.
+peuples	NOM	peuple
+,	PUN	,
+gloire	NOM	gloire
+à	PRP	à
+gessler	NOM	gessler
+!	SENT	!
+meure	VER:subp	mourir
+guillaume	NOM	guillaume
+tell	NOM	tell
+!	SENT	!
+un	DET:ART	un
+râle	NOM	râle
+sort	VER:pres	sortir
+de	PRP	de
+l'	DET:ART	le
+orgue	NOM	orgue
+.	SENT	.
+archevêque	NOM	archevêque
+,	PUN	,
+on	PRO:PER	on
+a	VER:pres	avoir
+pris	VER:pper	prendre
+pour	PRP	pour
+bâtir	VER:infi	bâtir
+ton	DET:POS	ton
+autel	NOM	autel
+les	DET:ART	le
+dalles	NOM	dalle
+de	PRP	de
+la	DET:ART	le
+morgue	NOM	morgue
+.	SENT	.
+quand	KON	quand
+tu	PRO:PER	tu
+dis	VER:pres	dire
+:	PUN	:
+te	PRO:PER	te
+deum	NOM	deum
+!	SENT	!
+nous	PRO:PER	nous
+vous	PRO:PER	vous
+louons	VER:pres	louer
+,	PUN	,
+dieu	NOM	dieu
+fort	ADJ	fort
+!	SENT	!
+sabaoth	NOM	sabaoth
+des	PRP:det	du
+armées	NOM	armée
+!	SENT	!
+il	PRO:PER	il
+se	PRO:PER	se
+mêle	VER:pres	mêler
+à	PRP	à
+l'	DET:ART	le
+encens	NOM	encens
+une	DET:ART	un
+vapeur	NOM	vapeur
+qui	PRO:REL	qui
+sort	VER:pres	sortir
+des	PRP:det	du
+fosses	NOM	fosse
+mal	ADV	mal
+fermées	VER:pper	fermer
+.	SENT	.
+on	PRO:PER	on
+a	VER:pres	avoir
+tué	VER:pper	tuer
+,	PUN	,
+la	DET:ART	le
+nuit	NOM	nuit
+,	PUN	,
+on	PRO:PER	on
+a	VER:pres	avoir
+tué	VER:pper	tuer
+,	PUN	,
+le	DET:ART	le
+jour	NOM	jour
+,	PUN	,
+l'	DET:ART	le
+homme	NOM	homme
+,	PUN	,
+l'	DET:ART	le
+enfant	NOM	enfant
+,	PUN	,
+la	DET:ART	le
+femme	NOM	femme
+!	SENT	!
+crime	NOM	crime
+et	KON	et
+deuil	NOM	deuil
+!	SENT	!
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+l'	DET:ART	le
+aigle	NOM	aigle
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+vautour	NOM	vautour
+qui	PRO:REL	qui
+vole	VER:pres	voler
+à	PRP	à
+notre	DET:POS	notre
+dame	NOM	dame
+.	SENT	.
+va	VER:pres	aller
+,	PUN	,
+prodigue	ADJ	prodigue
+au	PRP:det	au
+bandit	NOM	bandit
+les	DET:ART	le
+adorations	NOM	adoration
+martyrs	NOM	martyr
+,	PUN	,
+vous	PRO:PER	vous
+l'	PRO:PER	la|le
+entendîtes	VER:simp	entendre
+!	SENT	!
+dieu	NOM	dieu
+te	PRO:PER	te
+voit	VER:pres	voir
+,	PUN	,
+et	KON	et
+là	ADV	là
+haut	ADV	haut
+tes	DET:POS	ton
+bénédictions	NOM	bénédiction
+,	PUN	,
+ô	INT	ô
+prêtre	NOM	prêtre
+,	PUN	,
+sont	VER:pres	être
+maudites	VER:pper	maudire
+!	SENT	!
+les	PRO:PER	la|le
+proscrits	VER:pper	proscrire
+sont	VER:pres	être
+partis	VER:pper	partir
+,	PUN	,
+aux	PRP:det	au
+flancs	NOM	flanc
+du	PRP:det	du
+ponton	NOM	ponton
+noir	ADJ	noir
+,	PUN	,
+pour	PRP	pour
+alger	NOM	alger
+,	PUN	,
+pour	PRP	pour
+cayenne	NOM	cayenne
+;	PUN	;
+ils	PRO:PER	il
+ont	VER:pres	avoir
+vu	VER:pper	voir
+bonaparte	NOM	bonaparte
+à	PRP	à
+paris	NOM	pari
+,	PUN	,
+ils	PRO:PER	il
+vont	VER:pres	aller
+voir	VER:infi	voir
+en	PRP	en
+afrique	ADJ	afrique
+l'	DET:ART	le
+hyène	NOM	hyène
+.	SENT	.
+ouvriers	NOM	ouvrier
+,	PUN	,
+paysans	NOM	paysan
+qu'	PRO:REL	que
+on	PRO:PER	on
+arrache	VER:pres	arracher
+au	PRP:det	au
+labour	NOM	labour
+,	PUN	,
+le	DET:ART	le
+sombre	ADJ	sombre
+exil	NOM	exil
+vous	PRO:PER	vous
+fauche	VER:pres	faucher
+!	SENT	!
+bien	ADV	bien
+,	PUN	,
+regarde	VER:pres	regarder
+à	PRP	à
+ta	DET:POS	ton
+droite	NOM	droit|droite
+,	PUN	,
+archevêque	NOM	archevêque
+sibour	NOM	sibour
+,	PUN	,
+et	KON	et
+regarde	VER:pres	regarder
+à	PRP	à
+ta	DET:POS	ton
+gauche	NOM	gauche
+:	PUN	:
+ton	DET:POS	ton
+diacre	NOM	diacre
+est	VER:pres	être
+trahison	NOM	trahison
+et	KON	et
+ton	NOM	ton
+sous	PRP	sous
+diacre	NOM	diacre
+est	VER:pres	être
+vol	NOM	vol
+vends	VER:pres	vendre
+ton	DET:POS	ton
+dieu	NOM	dieu
+,	PUN	,
+vends	VER:pres	vendre
+ton	DET:POS	ton
+âme	NOM	âme
+.	SENT	.
+allons	INT	allons
+,	PUN	,
+coiffe	VER:pres	coiffer
+ta	DET:POS	ton
+mitre	NOM	mitre
+,	PUN	,
+allons	VER:pres	aller
+,	PUN	,
+mets	VER:pres	mettre
+ton	DET:POS	ton
+licol	NOM	licol
+,	PUN	,
+chante	VER:pres	chanter
+,	PUN	,
+vieux	ADJ	vieux
+prêtre	NOM	prêtre
+infâme	ADJ	infâme
+!	SENT	!
+le	DET:ART	le
+meurtre	NOM	meurtre
+à	PRP	à
+tes	DET:POS	ton
+côtés	NOM	côté
+suit	VER:pres	suivre
+l'	DET:ART	le
+office	NOM	office
+divin	ADJ	divin
+,	PUN	,
+criant	ADJ	criant
+:	PUN	:
+feu	NOM	feu
+sur	PRP	sur
+qui	PRO:REL	qui
+bouge	VER:pres	bouger
+!	SENT	!
+satan	NOM	satan
+tient	VER:pres	tenir
+la	DET:ART	le
+burette	NOM	burette
+,	PUN	,
+et	KON	et
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+de	PRP	de
+vin	NOM	vin
+que	KON	que
+ton	DET:POS	ton
+ciboire	NOM	ciboire
+est	VER:pres	être
+rouge	ADJ	rouge
+.	SENT	.

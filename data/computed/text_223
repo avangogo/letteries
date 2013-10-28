@@ -1,230 +1,230 @@
-j'	PRO:PER
-ai	VER:pres
-plus	ADV
-de	PRP
-souvenirs	NOM
-que	KON
-si	KON
-j'	PRO:PER
-avais	VER:impf
-mille	NUM
-ans	NOM
-.	SENT
-un	DET:ART
-gros	ADJ
-meuble	NOM
-à	PRP
-tiroirs	NOM
-encombré	VER:pper
-de	PRP
-bilans	NOM
-,	PUN
-de	PRP
-vers	PRP
-,	PUN
-de	PRP
-billets	NOM
-doux	ADJ
-,	PUN
-de	PRP
-procès	NOM
-,	PUN
-de	PRP
-romances	NOM
-,	PUN
-avec	PRP
-de	PRP
-lourds	ADJ
-cheveux	NOM
-roulés	VER:pper
-dans	PRP
-des	PRP:det
-quittances	NOM
-,	PUN
-cache	VER:pres
-moins	ADV
-de	PRP
-secrets	NOM
-que	KON
-mon	DET:POS
-triste	ADJ
-cerveau	NOM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-une	DET:ART
-pyramide	NOM
-,	PUN
-un	DET:ART
-immense	ADJ
-caveau	NOM
-,	PUN
-qui	PRO:REL
-contient	VER:pres
-plus	ADV
-de	PRP
-morts	NOM
-que	KON
-la	DET:ART
-fosse	NOM
-commune	ADJ
-.	SENT
-je	PRO:PER
-suis	VER:pres
-un	DET:ART
-cimetière	NOM
-abhorré	VER:pper
-de	PRP
-la	DET:ART
-lune	NOM
-,	PUN
-où	PRO:REL
-,	PUN
-comme	ADV
-des	PRP:det
-remords	NOM
-,	PUN
-se	PRO:PER
-traînent	VER:pres
-de	PRP
-longs	NOM
-vers	PRP
-qui	PRO:REL
-s'	PRO:PER
-acharnent	VER:pres
-toujours	ADV
-sur	PRP
-mes	DET:POS
-morts	NOM
-les	DET:ART
-plus	ADV
-chers	ADJ
-.	SENT
-je	PRO:PER
-suis	VER:pres
-un	DET:ART
-vieux	ADJ
-boudoir	NOM
-plein	ADJ
-de	PRP
-roses	NOM
-fanées	VER:pper
-,	PUN
-où	PRO:REL
-gît	VER:pres
-tout	ADV
-un	DET:ART
-fouillis	NOM
-de	PRP
-modes	NOM
-surannées	ADJ
-,	PUN
-où	PRO:REL
-les	DET:ART
-pastels	NOM
-plaintifs	ADJ
-et	KON
-les	DET:ART
-pâles	ADJ
-boucher	ADJ
-,	PUN
-seuls	ADJ
-,	PUN
-respirent	VER:pres
-l'	DET:ART
-odeur	NOM
-d'	PRP
-un	DET:ART
-flacon	NOM
-débouché	VER:pper
-.	SENT
-rien	NOM
-n'	ADV
-égale	ADJ
-en	PRP
-longueur	NOM
-les	DET:ART
-boiteuses	ADJ
-journées	NOM
-,	PUN
-quand	KON
-sous	PRP
-les	DET:ART
-lourds	ADJ
-flocons	NOM
-des	PRP:det
-neigeuses	ADJ
-années	NOM
-l'	DET:ART
-ennui	NOM
-,	PUN
-fruit	NOM
-de	PRP
-la	DET:ART
-morne	ADJ
-incuriosité	NOM
-,	PUN
-prend	VER:pres
-les	DET:ART
-proportions	NOM
-de	PRP
-l'	DET:ART
-immortalité	NOM
-.	SENT
-désormais	ADV
-tu	PRO:PER
-n'	ADV
-es	VER:pres
-plus	ADV
-,	PUN
-ô	INT
-matière	NOM
-vivante	ADJ
-!	SENT
-qu'	KON
-un	DET:ART
-granit	NOM
-entouré	VER:pper
-d'	PRP
-une	DET:ART
-vague	ADJ
-épouvante	NOM
-,	PUN
-assoupi	VER:pper
-dans	PRP
-le	DET:ART
-fond	NOM
-d'	PRP
-un	DET:ART
-saharah	NOM
-brumeux	ADJ
-!	SENT
-un	DET:ART
-vieux	ADJ
-sphinx	NOM
-ignoré	VER:pper
-du	PRP:det
-monde	NOM
-insoucieux	ADJ
-,	PUN
-oublié	VER:pper
-sur	PRP
-la	DET:ART
-carte	NOM
-,	PUN
-et	KON
-dont	PRO:REL
-l'	DET:ART
-humeur	NOM
-farouche	ADJ
-ne	ADV
-chante	VER:pres
-qu'	ADV
-aux	PRP:det
-rayons	NOM
-du	PRP:det
-soleil	NOM
-qui	PRO:REL
-se	PRO:PER
-couche	VER:pres
-!	SENT
+j'	PRO:PER	je
+ai	VER:pres	avoir
+plus	ADV	plus
+de	PRP	de
+souvenirs	NOM	souvenir
+que	KON	que
+si	KON	si
+j'	PRO:PER	je
+avais	VER:impf	avoir
+mille	NUM	mille
+ans	NOM	an
+.	SENT	.
+un	DET:ART	un
+gros	ADJ	gros
+meuble	NOM	meuble
+à	PRP	à
+tiroirs	NOM	tiroir
+encombré	VER:pper	encombrer
+de	PRP	de
+bilans	NOM	bilan
+,	PUN	,
+de	PRP	de
+vers	PRP	vers
+,	PUN	,
+de	PRP	de
+billets	NOM	billet
+doux	ADJ	doux
+,	PUN	,
+de	PRP	de
+procès	NOM	procès
+,	PUN	,
+de	PRP	de
+romances	NOM	romance
+,	PUN	,
+avec	PRP	avec
+de	PRP	de
+lourds	ADJ	lourd
+cheveux	NOM	cheveu
+roulés	VER:pper	rouler
+dans	PRP	dans
+des	PRP:det	du
+quittances	NOM	quittance
+,	PUN	,
+cache	VER:pres	cacher
+moins	ADV	moins
+de	PRP	de
+secrets	NOM	secret
+que	KON	que
+mon	DET:POS	mon
+triste	ADJ	triste
+cerveau	NOM	cerveau
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+une	DET:ART	un
+pyramide	NOM	pyramide
+,	PUN	,
+un	DET:ART	un
+immense	ADJ	immense
+caveau	NOM	caveau
+,	PUN	,
+qui	PRO:REL	qui
+contient	VER:pres	contenir
+plus	ADV	plus
+de	PRP	de
+morts	NOM	mort
+que	KON	que
+la	DET:ART	le
+fosse	NOM	fosse
+commune	ADJ	commun
+.	SENT	.
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+un	DET:ART	un
+cimetière	NOM	cimetière
+abhorré	VER:pper	abhorrer
+de	PRP	de
+la	DET:ART	le
+lune	NOM	lune
+,	PUN	,
+où	PRO:REL	où
+,	PUN	,
+comme	ADV	comme
+des	PRP:det	du
+remords	NOM	remords
+,	PUN	,
+se	PRO:PER	se
+traînent	VER:pres	traîner
+de	PRP	de
+longs	NOM	long
+vers	PRP	vers
+qui	PRO:REL	qui
+s'	PRO:PER	se
+acharnent	VER:pres	acharner
+toujours	ADV	toujours
+sur	PRP	sur
+mes	DET:POS	mon
+morts	NOM	mort
+les	DET:ART	le
+plus	ADV	plus
+chers	ADJ	cher
+.	SENT	.
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+un	DET:ART	un
+vieux	ADJ	vieux
+boudoir	NOM	boudoir
+plein	ADJ	plein
+de	PRP	de
+roses	NOM	rose
+fanées	VER:pper	faner
+,	PUN	,
+où	PRO:REL	où
+gît	VER:pres	gésir|gésir
+tout	ADV	tout
+un	DET:ART	un
+fouillis	NOM	fouillis
+de	PRP	de
+modes	NOM	mode
+surannées	ADJ	suranné
+,	PUN	,
+où	PRO:REL	où
+les	DET:ART	le
+pastels	NOM	pastel
+plaintifs	ADJ	plaintif
+et	KON	et
+les	DET:ART	le
+pâles	ADJ	pâle
+boucher	ADJ	boucher
+,	PUN	,
+seuls	ADJ	seul
+,	PUN	,
+respirent	VER:pres	respirer
+l'	DET:ART	le
+odeur	NOM	odeur
+d'	PRP	de
+un	DET:ART	un
+flacon	NOM	flacon
+débouché	VER:pper	déboucher
+.	SENT	.
+rien	NOM	rien
+n'	ADV	ne
+égale	ADJ	égal
+en	PRP	en
+longueur	NOM	longueur
+les	DET:ART	le
+boiteuses	ADJ	boiteux
+journées	NOM	journée
+,	PUN	,
+quand	KON	quand
+sous	PRP	sous
+les	DET:ART	le
+lourds	ADJ	lourd
+flocons	NOM	flocon
+des	PRP:det	du
+neigeuses	ADJ	neigeux
+années	NOM	année
+l'	DET:ART	le
+ennui	NOM	ennui
+,	PUN	,
+fruit	NOM	fruit
+de	PRP	de
+la	DET:ART	le
+morne	ADJ	morne
+incuriosité	NOM	incuriosité
+,	PUN	,
+prend	VER:pres	prendre
+les	DET:ART	le
+proportions	NOM	proportion
+de	PRP	de
+l'	DET:ART	le
+immortalité	NOM	immortalité
+.	SENT	.
+désormais	ADV	désormais
+tu	PRO:PER	tu
+n'	ADV	ne
+es	VER:pres	être
+plus	ADV	plus
+,	PUN	,
+ô	INT	ô
+matière	NOM	matière
+vivante	ADJ	vivant
+!	SENT	!
+qu'	KON	que
+un	DET:ART	un
+granit	NOM	granit
+entouré	VER:pper	entourer
+d'	PRP	de
+une	DET:ART	un
+vague	ADJ	vague
+épouvante	NOM	épouvante
+,	PUN	,
+assoupi	VER:pper	assoupir
+dans	PRP	dans
+le	DET:ART	le
+fond	NOM	fond
+d'	PRP	de
+un	DET:ART	un
+saharah	NOM	saharah
+brumeux	ADJ	brumeux
+!	SENT	!
+un	DET:ART	un
+vieux	ADJ	vieux
+sphinx	NOM	sphinx
+ignoré	VER:pper	ignorer
+du	PRP:det	du
+monde	NOM	monde
+insoucieux	ADJ	insoucieux
+,	PUN	,
+oublié	VER:pper	oublier
+sur	PRP	sur
+la	DET:ART	le
+carte	NOM	carte
+,	PUN	,
+et	KON	et
+dont	PRO:REL	dont
+l'	DET:ART	le
+humeur	NOM	humeur
+farouche	ADJ	farouche
+ne	ADV	ne
+chante	VER:pres	chanter
+qu'	ADV	qu'
+aux	PRP:det	au
+rayons	NOM	rayon
+du	PRP:det	du
+soleil	NOM	soleil
+qui	PRO:REL	qui
+se	PRO:PER	se
+couche	VER:pres	coucher
+!	SENT	!

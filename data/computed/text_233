@@ -1,117 +1,117 @@
-celui	PRO:DEM
-dont	PRO:REL
-nous	PRO:PER
-t'	PRO:PER
-offrons	VER:pres
-l'	DET:ART
-image	NOM
-,	PUN
-et	KON
-dont	PRO:REL
-l'	DET:ART
-art	NOM
-,	PUN
-subtil	ADJ
-entre	PRP
-tous	PRO:IND
-,	PUN
-nous	PRO:PER
-enseigne	VER:pres
-à	PRP
-rire	VER:infi
-de	PRP
-nous	PRO:PER
-,	PUN
-celui	PRO:DEM
-là	ADV
-,	PUN
-lecteur	NOM
-,	PUN
-est	VER:pres
-un	DET:ART
-sage	NOM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-satirique	ADJ
-,	PUN
-un	DET:ART
-moqueur	NOM
-;	PUN
-mais	KON
-l'	DET:ART
-énergie	NOM
-avec	PRP
-laquelle	PRO:REL
-il	PRO:PER
-peint	VER:pres
-le	DET:ART
-mal	NOM
-et	KON
-sa	DET:POS
-séquelle	NOM
-prouve	VER:pres
-la	DET:ART
-beauté	NOM
-de	PRP
-son	DET:POS
-coeur	NOM
-.	SENT
-son	DET:POS
-rire	NOM
-n'	ADV
-est	VER:pres
-pas	ADV
-la	DET:ART
-grimace	NOM
-de	PRP
-melmoth	NOM
-ou	KON
-de	PRP
-méphisto	NOM
-sous	PRP
-la	DET:ART
-torche	NOM
-de	PRP
-l'	DET:ART
-alecto	NOM
-qui	PRO:REL
-les	PRO:PER
-brûle	VER:pres
-,	PUN
-mais	KON
-qui	PRO:REL
-nous	PRO:PER
-glace	VER:pres
-.	SENT
-leur	DET:POS
-rire	NOM
-,	PUN
-hélas	INT
-!	SENT
-de	PRP
-la	DET:ART
-gaîté	NOM
-n'	ADV
-est	VER:pres
-que	KON
-la	DET:ART
-douloureuse	ADJ
-charge	NOM
-;	PUN
-le	DET:ART
-sien	PRO:POS
-rayonne	NOM
-,	PUN
-franc	ADJ
-et	KON
-large	ADJ
-,	PUN
-comme	KON
-un	DET:ART
-signe	NOM
-de	PRP
-sa	DET:POS
-bonté	NOM
-!	SENT
+celui	PRO:DEM	celui
+dont	PRO:REL	dont
+nous	PRO:PER	nous
+t'	PRO:PER	te
+offrons	VER:pres	offrir
+l'	DET:ART	le
+image	NOM	image
+,	PUN	,
+et	KON	et
+dont	PRO:REL	dont
+l'	DET:ART	le
+art	NOM	art
+,	PUN	,
+subtil	ADJ	subtil
+entre	PRP	entre
+tous	PRO:IND	tout
+,	PUN	,
+nous	PRO:PER	nous
+enseigne	VER:pres	enseigner
+à	PRP	à
+rire	VER:infi	rire
+de	PRP	de
+nous	PRO:PER	nous
+,	PUN	,
+celui	PRO:DEM	celui
+là	ADV	là
+,	PUN	,
+lecteur	NOM	lecteur
+,	PUN	,
+est	VER:pres	être
+un	DET:ART	un
+sage	NOM	sage
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+satirique	ADJ	satirique
+,	PUN	,
+un	DET:ART	un
+moqueur	NOM	moqueur
+;	PUN	;
+mais	KON	mais
+l'	DET:ART	le
+énergie	NOM	énergie
+avec	PRP	avec
+laquelle	PRO:REL	lequel
+il	PRO:PER	il
+peint	VER:pres	peindre
+le	DET:ART	le
+mal	NOM	mal
+et	KON	et
+sa	DET:POS	son
+séquelle	NOM	séquelle
+prouve	VER:pres	prouver
+la	DET:ART	le
+beauté	NOM	beauté
+de	PRP	de
+son	DET:POS	son
+coeur	NOM	cœur
+.	SENT	.
+son	DET:POS	son
+rire	NOM	rire
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+la	DET:ART	le
+grimace	NOM	grimace
+de	PRP	de
+melmoth	NOM	melmoth
+ou	KON	ou
+de	PRP	de
+méphisto	NOM	méphisto
+sous	PRP	sous
+la	DET:ART	le
+torche	NOM	torche
+de	PRP	de
+l'	DET:ART	le
+alecto	NOM	alecto
+qui	PRO:REL	qui
+les	PRO:PER	la|le
+brûle	VER:pres	brûler
+,	PUN	,
+mais	KON	mais
+qui	PRO:REL	qui
+nous	PRO:PER	nous
+glace	VER:pres	glacer
+.	SENT	.
+leur	DET:POS	leur
+rire	NOM	rire
+,	PUN	,
+hélas	INT	hélas
+!	SENT	!
+de	PRP	de
+la	DET:ART	le
+gaîté	NOM	gaîté
+n'	ADV	ne
+est	VER:pres	être
+que	KON	que
+la	DET:ART	le
+douloureuse	ADJ	douloureux
+charge	NOM	charge
+;	PUN	;
+le	DET:ART	le
+sien	PRO:POS	sien
+rayonne	NOM	rayonne
+,	PUN	,
+franc	ADJ	franc
+et	KON	et
+large	ADJ	large
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+signe	NOM	signe
+de	PRP	de
+sa	DET:POS	son
+bonté	NOM	bonté
+!	SENT	!

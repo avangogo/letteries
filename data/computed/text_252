@@ -1,168 +1,168 @@
-ma	DET:POS
-faim	NOM
-,	PUN
-anne	VER:pper
-,	PUN
-anne	VER:pper
-,	PUN
-fuis	VER:pper
-sur	PRP
-ton	DET:POS
-âne	NOM
-.	SENT
-si	KON
-j'	PRO:PER
-ai	VER:pres
-du	PRP:det
-goût	NOM
-,	PUN
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-guères	ADV
-que	KON
-pour	PRP
-la	DET:ART
-terre	NOM
-et	KON
-les	DET:ART
-pierres	NOM
-.	SENT
-dinn	NOM
-!	SENT
-dinn	NOM
-!	SENT
-dinn	NOM
-!	SENT
-dinn	NOM
-!	SENT
-mangeons	VER:pres
-l'	DET:ART
-air	NOM
-,	PUN
-le	DET:ART
-roc	NOM
-,	PUN
-les	DET:ART
-terres	NOM
-,	PUN
-le	DET:ART
-fer	NOM
-,	PUN
-charbons	NOM
-.	SENT
-mes	DET:POS
-faims	NOM
-,	PUN
-tournez	VER:pres
-.	SENT
-paissez	VER:pres
-,	PUN
-faims	NOM
-,	PUN
-le	DET:ART
-pré	NOM
-des	PRP:det
-sons	NOM
-!	SENT
-attirez	VER:pres
-le	DET:ART
-gai	ADJ
-venin	NOM
-des	PRP:det
-liserons	NOM
-;	PUN
-mangez	VER:pres
-les	DET:ART
-cailloux	NOM
-qu'	KON
-un	DET:ART
-pauvre	ADJ
-brise	NOM
-,	PUN
-les	DET:ART
-vieilles	ADJ
-pierres	NOM
-d'	PRP
-églises	NOM
-,	PUN
-les	DET:ART
-galets	NOM
-,	PUN
-fils	NOM
-des	PRP:det
-déluges	NOM
-,	PUN
-pains	NOM
-couchés	VER:pper
-aux	PRP:det
-vallées	NOM
-grises	ADJ
-!	SENT
-des	PRP:det
-faims	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-les	DET:ART
-bouts	NOM
-d'	PRP
-air	NOM
-noir	ADJ
-;	PUN
-l'	DET:ART
-azur	NOM
-sonneur	NOM
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-estomac	NOM
-qui	PRO:REL
-me	PRO:PER
-tire	VER:pres
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-malheur	NOM
-.	SENT
-sur	PRP
-terre	NOM
-ont	VER:pres
-paru	VER:pper
-les	DET:ART
-feuilles	NOM
-:	PUN
-je	PRO:PER
-vais	VER:pres
-aux	PRP:det
-chairs	NOM
-de	PRP
-fruit	NOM
-blettes	ADJ
-.	SENT
-au	PRP:det
-sein	NOM
-du	PRP:det
-sillon	NOM
-je	PRO:PER
-cueille	VER:pres
-la	DET:ART
-doucette	NOM
-et	KON
-la	DET:ART
-violette	NOM
-.	SENT
-ma	DET:POS
-faim	NOM
-,	PUN
-anne	VER:pper
-,	PUN
-anne	VER:pper
-!	SENT
-fuis	VER:pper
-sur	PRP
-ton	DET:POS
-âne	NOM
-.	SENT
+ma	DET:POS	mon
+faim	NOM	faim
+,	PUN	,
+anne	VER:pper	anne
+,	PUN	,
+anne	VER:pper	anne
+,	PUN	,
+fuis	VER:pper	fuir
+sur	PRP	sur
+ton	DET:POS	ton
+âne	NOM	âne
+.	SENT	.
+si	KON	si
+j'	PRO:PER	je
+ai	VER:pres	avoir
+du	PRP:det	du
+goût	NOM	goût
+,	PUN	,
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+guères	ADV	guères
+que	KON	que
+pour	PRP	pour
+la	DET:ART	le
+terre	NOM	terre
+et	KON	et
+les	DET:ART	le
+pierres	NOM	pierre
+.	SENT	.
+dinn	NOM	dinn
+!	SENT	!
+dinn	NOM	dinn
+!	SENT	!
+dinn	NOM	dinn
+!	SENT	!
+dinn	NOM	dinn
+!	SENT	!
+mangeons	VER:pres	manger
+l'	DET:ART	le
+air	NOM	air
+,	PUN	,
+le	DET:ART	le
+roc	NOM	roc
+,	PUN	,
+les	DET:ART	le
+terres	NOM	terre
+,	PUN	,
+le	DET:ART	le
+fer	NOM	fer
+,	PUN	,
+charbons	NOM	charbon
+.	SENT	.
+mes	DET:POS	mon
+faims	NOM	faim
+,	PUN	,
+tournez	VER:pres	tourner
+.	SENT	.
+paissez	VER:pres	paître
+,	PUN	,
+faims	NOM	faim
+,	PUN	,
+le	DET:ART	le
+pré	NOM	pré
+des	PRP:det	du
+sons	NOM	son
+!	SENT	!
+attirez	VER:pres	attirer
+le	DET:ART	le
+gai	ADJ	gai
+venin	NOM	venin
+des	PRP:det	du
+liserons	NOM	liseron
+;	PUN	;
+mangez	VER:pres	manger
+les	DET:ART	le
+cailloux	NOM	caillou
+qu'	KON	que
+un	DET:ART	un
+pauvre	ADJ	pauvre
+brise	NOM	brise
+,	PUN	,
+les	DET:ART	le
+vieilles	ADJ	vieux
+pierres	NOM	pierre
+d'	PRP	de
+églises	NOM	église
+,	PUN	,
+les	DET:ART	le
+galets	NOM	galet
+,	PUN	,
+fils	NOM	fil|fils
+des	PRP:det	du
+déluges	NOM	déluge
+,	PUN	,
+pains	NOM	pain
+couchés	VER:pper	coucher
+aux	PRP:det	au
+vallées	NOM	vallée
+grises	ADJ	gris
+!	SENT	!
+des	PRP:det	du
+faims	NOM	faim
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+les	DET:ART	le
+bouts	NOM	bout
+d'	PRP	de
+air	NOM	air
+noir	ADJ	noir
+;	PUN	;
+l'	DET:ART	le
+azur	NOM	azur
+sonneur	NOM	sonneur
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+estomac	NOM	estomac
+qui	PRO:REL	qui
+me	PRO:PER	me
+tire	VER:pres	tirer
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+malheur	NOM	malheur
+.	SENT	.
+sur	PRP	sur
+terre	NOM	terre
+ont	VER:pres	avoir
+paru	VER:pper	paraître
+les	DET:ART	le
+feuilles	NOM	feuille
+:	PUN	:
+je	PRO:PER	je
+vais	VER:pres	aller
+aux	PRP:det	au
+chairs	NOM	chair
+de	PRP	de
+fruit	NOM	fruit
+blettes	ADJ	blet
+.	SENT	.
+au	PRP:det	au
+sein	NOM	sein
+du	PRP:det	du
+sillon	NOM	sillon
+je	PRO:PER	je
+cueille	VER:pres	cueillir
+la	DET:ART	le
+doucette	NOM	doucet|doucette
+et	KON	et
+la	DET:ART	le
+violette	NOM	violet|violette
+.	SENT	.
+ma	DET:POS	mon
+faim	NOM	faim
+,	PUN	,
+anne	VER:pper	anne
+,	PUN	,
+anne	VER:pper	anne
+!	SENT	!
+fuis	VER:pper	fuir
+sur	PRP	sur
+ton	DET:POS	ton
+âne	NOM	âne
+.	SENT	.

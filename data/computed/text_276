@@ -1,99 +1,99 @@
-des	PRP:det
-nuits	NOM
-du	PRP:det
-blond	NOM
-et	KON
-de	PRP
-la	DET:ART
-brune	NOM
-pas	ADV
-un	DET:ART
-souvenir	NOM
-n'	ADV
-est	VER:pres
-resté	VER:pper
-;	PUN
-pas	ADV
-une	DET:ART
-dentelle	NOM
-d'	PRP
-été	NOM
-,	PUN
-pas	ADV
-une	DET:ART
-cravate	NOM
-commune	ADJ
-.	SENT
-et	KON
-sur	PRP
-le	DET:ART
-balcon	NOM
-,	PUN
-où	PRO:REL
-le	DET:ART
-thé	NOM
-se	PRO:PER
-prend	VER:pres
-aux	PRP:det
-heures	NOM
-de	PRP
-la	DET:ART
-lune	NOM
-.	SENT
-il	PRO:PER
-n'	ADV
-est	VER:pres
-resté	VER:pper
-de	PRP
-trace	NOM
-aucune	PRO:IND
-,	PUN
-aucun	PRO:IND
-souvenir	NOM
-n'	ADV
-est	VER:pres
-resté	VER:pper
-,	PUN
-au	PRP:det
-bord	NOM
-d'	PRP
-un	DET:ART
-rideau	NOM
-bleu	ADJ
-piquée	VER:pper
-,	PUN
-luit	VER:pres
-une	DET:ART
-épingle	NOM
-à	PRP
-tête	NOM
-d'	PRP
-or	NOM
-comme	KON
-un	DET:ART
-gros	ADJ
-insecte	NOM
-qui	PRO:REL
-dort	VER:pres
-.	SENT
-pointe	NOM
-d'	PRP
-un	DET:ART
-fin	ADJ
-poison	NOM
-trempée	VER:pper
-,	PUN
-je	PRO:PER
-te	PRO:PER
-prends	VER:pres
-,	PUN
-sois	VER:subp
-moi	PRO:PER
-préparée	VER:pper
-aux	PRP:det
-heures	NOM
-des	PRP:det
-désirs	NOM
-de	PRP
-mort	NOM
-.	SENT
+des	PRP:det	du
+nuits	NOM	nuit
+du	PRP:det	du
+blond	NOM	blond
+et	KON	et
+de	PRP	de
+la	DET:ART	le
+brune	NOM	brun|brune
+pas	ADV	pas
+un	DET:ART	un
+souvenir	NOM	souvenir
+n'	ADV	ne
+est	VER:pres	être
+resté	VER:pper	rester
+;	PUN	;
+pas	ADV	pas
+une	DET:ART	un
+dentelle	NOM	dentelle
+d'	PRP	de
+été	NOM	été
+,	PUN	,
+pas	ADV	pas
+une	DET:ART	un
+cravate	NOM	cravate
+commune	ADJ	commun
+.	SENT	.
+et	KON	et
+sur	PRP	sur
+le	DET:ART	le
+balcon	NOM	balcon
+,	PUN	,
+où	PRO:REL	où
+le	DET:ART	le
+thé	NOM	thé
+se	PRO:PER	se
+prend	VER:pres	prendre
+aux	PRP:det	au
+heures	NOM	heure
+de	PRP	de
+la	DET:ART	le
+lune	NOM	lune
+.	SENT	.
+il	PRO:PER	il
+n'	ADV	ne
+est	VER:pres	être
+resté	VER:pper	rester
+de	PRP	de
+trace	NOM	trace
+aucune	PRO:IND	aucun
+,	PUN	,
+aucun	PRO:IND	aucun
+souvenir	NOM	souvenir
+n'	ADV	ne
+est	VER:pres	être
+resté	VER:pper	rester
+,	PUN	,
+au	PRP:det	au
+bord	NOM	bord
+d'	PRP	de
+un	DET:ART	un
+rideau	NOM	rideau
+bleu	ADJ	bleu
+piquée	VER:pper	piquer
+,	PUN	,
+luit	VER:pres	luire
+une	DET:ART	un
+épingle	NOM	épingle
+à	PRP	à
+tête	NOM	tête
+d'	PRP	de
+or	NOM	or
+comme	KON	comme
+un	DET:ART	un
+gros	ADJ	gros
+insecte	NOM	insecte
+qui	PRO:REL	qui
+dort	VER:pres	dormir
+.	SENT	.
+pointe	NOM	pointe
+d'	PRP	de
+un	DET:ART	un
+fin	ADJ	fin
+poison	NOM	poison
+trempée	VER:pper	tremper
+,	PUN	,
+je	PRO:PER	je
+te	PRO:PER	te
+prends	VER:pres	prendre
+,	PUN	,
+sois	VER:subp	être
+moi	PRO:PER	moi
+préparée	VER:pper	préparer
+aux	PRP:det	au
+heures	NOM	heure
+des	PRP:det	du
+désirs	NOM	désir
+de	PRP	de
+mort	NOM	mort
+.	SENT	.

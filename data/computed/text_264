@@ -1,179 +1,179 @@
-quand	KON
-le	DET:ART
-front	NOM
-de	PRP
-l'	DET:ART
-enfant	NOM
-,	PUN
-plein	ADJ
-de	PRP
-rouges	ADJ
-tourmentes	NOM
-,	PUN
-implore	VER:pres
-l'	DET:ART
-essaim	NOM
-blanc	ADJ
-des	PRP:det
-rêves	NOM
-indistincts	ADJ
-,	PUN
-il	PRO:PER
-vient	VER:pres
-près	ADV
-de	PRP
-son	DET:POS
-lit	NOM
-deux	NUM
-grandes	ADJ
-soeurs	NOM
-charmantes	ADJ
-avec	PRP
-de	PRP
-frêles	ADJ
-doigts	NOM
-aux	PRP:det
-ongles	NOM
-argentins	ADJ
-.	SENT
-elles	PRO:PER
-assoient	VER:pres
-l'	DET:ART
-enfant	NOM
-devant	PRP
-une	DET:ART
-croisée	NOM
-grande	ADJ
-ouverte	ADJ
-où	PRO:REL
-l'	DET:ART
-air	NOM
-bleu	ADJ
-baigne	VER:pres
-un	DET:ART
-fouillis	NOM
-de	PRP
-fleurs	NOM
-,	PUN
-et	KON
-dans	PRP
-ses	DET:POS
-lourds	ADJ
-cheveux	NOM
-où	PRO:REL
-tombe	VER:pres
-la	DET:ART
-rosée	NOM
-promènent	VER:pres
-leurs	DET:POS
-doigts	NOM
-fins	ADJ
-,	PUN
-terribles	ADJ
-et	KON
-charmeurs	ADJ
-.	SENT
-il	PRO:PER
-écoute	VER:pres
-chanter	VER:infi
-leurs	DET:POS
-haleines	NOM
-craintives	ADJ
-qui	PRO:REL
-fleurent	VER:pres
-de	PRP
-longs	ADJ
-miels	NOM
-végétaux	ADJ
-et	KON
-rosés	ADJ
-,	PUN
-et	KON
-qu'	PRO:REL
-interrompt	VER:pres
-parfois	ADV
-un	DET:ART
-sifflement	NOM
-,	PUN
-salives	NOM
-reprises	VER:pper
-sur	PRP
-la	DET:ART
-lèvre	NOM
-ou	KON
-désirs	NOM
-de	PRP
-baisers	NOM
-.	SENT
-il	PRO:PER
-entend	VER:pres
-leurs	DET:POS
-cils	NOM
-noirs	ADJ
-battant	VER:ppre
-sous	PRP
-les	DET:ART
-silences	NOM
-parfumés	VER:pper
-;	PUN
-et	KON
-leurs	DET:POS
-doigts	NOM
-électriques	ADJ
-et	KON
-doux	ADJ
-font	VER:pres
-crépiter	VER:infi
-parmi	PRP
-ses	DET:POS
-grises	ADJ
-indolences	NOM
-sous	PRP
-leurs	DET:POS
-ongles	NOM
-royaux	ADJ
-la	DET:ART
-mort	NOM
-des	PRP:det
-petits	ADJ
-poux	NOM
-.	SENT
-voilà	ADV
-que	KON
-monte	VER:subp
-en	PRP
-lui	PRO:PER
-le	DET:ART
-vin	NOM
-de	PRP
-la	DET:ART
-paresse	NOM
-,	PUN
-soupir	NOM
-d'	PRP
-harmonica	NOM
-qui	PRO:REL
-pourrait	VER:cond
-délirer	VER:infi
-;	PUN
-l'	DET:ART
-enfant	NOM
-se	PRO:PER
-sent	VER:pres
-,	PUN
-selon	PRP
-la	DET:ART
-lenteur	NOM
-des	PRP:det
-caresses	NOM
-,	PUN
-sourdre	NOM
-et	KON
-mourir	VER:infi
-sans	PRP
-cesse	NOM
-un	DET:ART
-désir	NOM
-de	PRP
-pleurer	VER:infi
-.	SENT
+quand	KON	quand
+le	DET:ART	le
+front	NOM	front
+de	PRP	de
+l'	DET:ART	le
+enfant	NOM	enfant
+,	PUN	,
+plein	ADJ	plein
+de	PRP	de
+rouges	ADJ	rouge
+tourmentes	NOM	tourmente
+,	PUN	,
+implore	VER:pres	implorer
+l'	DET:ART	le
+essaim	NOM	essaim
+blanc	ADJ	blanc
+des	PRP:det	du
+rêves	NOM	rêve
+indistincts	ADJ	indistinct
+,	PUN	,
+il	PRO:PER	il
+vient	VER:pres	venir
+près	ADV	près
+de	PRP	de
+son	DET:POS	son
+lit	NOM	lit
+deux	NUM	deux
+grandes	ADJ	grand
+soeurs	NOM	sœur
+charmantes	ADJ	charmant
+avec	PRP	avec
+de	PRP	de
+frêles	ADJ	frêle
+doigts	NOM	doigt
+aux	PRP:det	au
+ongles	NOM	ongle
+argentins	ADJ	argentin
+.	SENT	.
+elles	PRO:PER	elle
+assoient	VER:pres	asseoir
+l'	DET:ART	le
+enfant	NOM	enfant
+devant	PRP	devant
+une	DET:ART	un
+croisée	NOM	croisée
+grande	ADJ	grand
+ouverte	ADJ	ouvert
+où	PRO:REL	où
+l'	DET:ART	le
+air	NOM	air
+bleu	ADJ	bleu
+baigne	VER:pres	baigner
+un	DET:ART	un
+fouillis	NOM	fouillis
+de	PRP	de
+fleurs	NOM	fleur
+,	PUN	,
+et	KON	et
+dans	PRP	dans
+ses	DET:POS	son
+lourds	ADJ	lourd
+cheveux	NOM	cheveu
+où	PRO:REL	où
+tombe	VER:pres	tomber
+la	DET:ART	le
+rosée	NOM	rosée
+promènent	VER:pres	promener
+leurs	DET:POS	leur
+doigts	NOM	doigt
+fins	ADJ	fin
+,	PUN	,
+terribles	ADJ	terrible
+et	KON	et
+charmeurs	ADJ	charmeur
+.	SENT	.
+il	PRO:PER	il
+écoute	VER:pres	écouter
+chanter	VER:infi	chanter
+leurs	DET:POS	leur
+haleines	NOM	haleine
+craintives	ADJ	craintif
+qui	PRO:REL	qui
+fleurent	VER:pres	fleurer
+de	PRP	de
+longs	ADJ	long
+miels	NOM	miel
+végétaux	ADJ	végétal
+et	KON	et
+rosés	ADJ	rosé
+,	PUN	,
+et	KON	et
+qu'	PRO:REL	que
+interrompt	VER:pres	interrompre
+parfois	ADV	parfois
+un	DET:ART	un
+sifflement	NOM	sifflement
+,	PUN	,
+salives	NOM	salive
+reprises	VER:pper	reprendre
+sur	PRP	sur
+la	DET:ART	le
+lèvre	NOM	lèvre
+ou	KON	ou
+désirs	NOM	désir
+de	PRP	de
+baisers	NOM	baiser
+.	SENT	.
+il	PRO:PER	il
+entend	VER:pres	entendre
+leurs	DET:POS	leur
+cils	NOM	cil
+noirs	ADJ	noir
+battant	VER:ppre	battre
+sous	PRP	sous
+les	DET:ART	le
+silences	NOM	silence
+parfumés	VER:pper	parfumer
+;	PUN	;
+et	KON	et
+leurs	DET:POS	leur
+doigts	NOM	doigt
+électriques	ADJ	électrique
+et	KON	et
+doux	ADJ	doux
+font	VER:pres	faire
+crépiter	VER:infi	crépiter
+parmi	PRP	parmi
+ses	DET:POS	son
+grises	ADJ	gris
+indolences	NOM	indolence
+sous	PRP	sous
+leurs	DET:POS	leur
+ongles	NOM	ongle
+royaux	ADJ	royal
+la	DET:ART	le
+mort	NOM	mort
+des	PRP:det	du
+petits	ADJ	petit
+poux	NOM	pou
+.	SENT	.
+voilà	ADV	voilà
+que	KON	que
+monte	VER:subp	monter
+en	PRP	en
+lui	PRO:PER	lui
+le	DET:ART	le
+vin	NOM	vin
+de	PRP	de
+la	DET:ART	le
+paresse	NOM	paresse
+,	PUN	,
+soupir	NOM	soupir
+d'	PRP	de
+harmonica	NOM	harmonica
+qui	PRO:REL	qui
+pourrait	VER:cond	pouvoir
+délirer	VER:infi	délirer
+;	PUN	;
+l'	DET:ART	le
+enfant	NOM	enfant
+se	PRO:PER	se
+sent	VER:pres	sentir
+,	PUN	,
+selon	PRP	selon
+la	DET:ART	le
+lenteur	NOM	lenteur
+des	PRP:det	du
+caresses	NOM	caresse
+,	PUN	,
+sourdre	NOM	sourdre
+et	KON	et
+mourir	VER:infi	mourir
+sans	PRP	sans
+cesse	NOM	cesse
+un	DET:ART	un
+désir	NOM	désir
+de	PRP	de
+pleurer	VER:infi	pleurer
+.	SENT	.

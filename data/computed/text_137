@@ -1,123 +1,123 @@
-dame	NOM
-sans	PRP
-trop	ADV
-d'	PRP
-ardeur	NOM
-à	PRP
-la	DET:ART
-fois	NOM
-enflammant	VER:ppre
-la	DET:ART
-rose	NOM
-qui	PRO:REL
-cruelle	ADJ
-ou	KON
-déchirée	VER:pper
-,	PUN
-et	KON
-lasse	VER:pres
-même	ADV
-du	PRP:det
-blanc	ADJ
-habit	NOM
-de	PRP
-pourpre	NOM
-,	PUN
-le	PRO:PER
-délace	VER:pres
-pour	PRP
-ouïr	VER:infi
-dans	PRP
-sa	DET:POS
-chair	NOM
-pleurer	VER:infi
-le	DET:ART
-diamant	NOM
-oui	INT
-,	PUN
-sans	PRP
-ces	PRO:DEM
-crises	NOM
-de	PRP
-rosée	NOM
-et	KON
-gentiment	ADV
-ni	KON
-brise	VER:pres
-quoique	KON
-,	PUN
-avec	PRP
-,	PUN
-le	DET:ART
-ciel	NOM
-orageux	ADJ
-passe	VER:pres
-jalouse	ADJ
-d'	PRP
-apporter	VER:infi
-je	PRO:PER
-ne	ADV
-sais	VER:pres
-quel	PRO:REL
-espace	VER:pres
-au	PRP:det
-simple	ADJ
-jour	NOM
-le	DET:ART
-jour	NOM
-très	ADV
-vrai	ADJ
-du	PRP:det
-sentiment	NOM
-ne	ADV
-te	PRO:PER
-semble	VER:pres
-t	VER:pper
-il	PRO:PER
-pas	ADV
-,	PUN
-disons	VER:pres
-,	PUN
-que	KON
-chaque	PRO:IND
-année	NOM
-dont	PRO:REL
-sur	PRP
-ton	DET:POS
-front	NOM
-renaît	VER:pres
-la	DET:ART
-grâce	NOM
-spontanée	ADJ
-suffise	VER:subp
-selon	PRP
-quelque	PRO:IND
-apparence	NOM
-et	KON
-pour	PRP
-moi	PRO:PER
-comme	KON
-un	DET:ART
-éventail	NOM
-frais	ADJ
-dans	PRP
-la	DET:ART
-chambre	NOM
-s'	PRO:PER
-étonne	VER:pres
-a	VER:pres
-raviver	VER:infi
-du	PRP:det
-peu	ADV
-qu'	KON
-il	PRO:PER
-faut	VER:pres
-ici	ADV
-d'	PRP
-émoi	NOM
-toute	PRO:IND
-notre	DET:POS
-native	ADJ
-amitié	NOM
-monotone	ADJ
-.	SENT
+dame	NOM	dame
+sans	PRP	sans
+trop	ADV	trop
+d'	PRP	de
+ardeur	NOM	ardeur
+à	PRP	à
+la	DET:ART	le
+fois	NOM	foi|fois
+enflammant	VER:ppre	enflammer
+la	DET:ART	le
+rose	NOM	rose
+qui	PRO:REL	qui
+cruelle	ADJ	cruel
+ou	KON	ou
+déchirée	VER:pper	déchirer
+,	PUN	,
+et	KON	et
+lasse	VER:pres	lasser
+même	ADV	même
+du	PRP:det	du
+blanc	ADJ	blanc
+habit	NOM	habit
+de	PRP	de
+pourpre	NOM	pourpre
+,	PUN	,
+le	PRO:PER	le
+délace	VER:pres	délacer
+pour	PRP	pour
+ouïr	VER:infi	ouïr
+dans	PRP	dans
+sa	DET:POS	son
+chair	NOM	chair
+pleurer	VER:infi	pleurer
+le	DET:ART	le
+diamant	NOM	diamant
+oui	INT	oui
+,	PUN	,
+sans	PRP	sans
+ces	PRO:DEM	ce
+crises	NOM	crise
+de	PRP	de
+rosée	NOM	rosée
+et	KON	et
+gentiment	ADV	gentiment
+ni	KON	ni
+brise	VER:pres	briser
+quoique	KON	quoique
+,	PUN	,
+avec	PRP	avec
+,	PUN	,
+le	DET:ART	le
+ciel	NOM	ciel
+orageux	ADJ	orageux
+passe	VER:pres	passer
+jalouse	ADJ	jaloux
+d'	PRP	de
+apporter	VER:infi	apporter
+je	PRO:PER	je
+ne	ADV	ne
+sais	VER:pres	savoir
+quel	PRO:REL	quel
+espace	VER:pres	espacer
+au	PRP:det	au
+simple	ADJ	simple
+jour	NOM	jour
+le	DET:ART	le
+jour	NOM	jour
+très	ADV	très
+vrai	ADJ	vrai
+du	PRP:det	du
+sentiment	NOM	sentiment
+ne	ADV	ne
+te	PRO:PER	te
+semble	VER:pres	sembler
+t	VER:pper	t
+il	PRO:PER	il
+pas	ADV	pas
+,	PUN	,
+disons	VER:pres	dire
+,	PUN	,
+que	KON	que
+chaque	PRO:IND	chaque
+année	NOM	année
+dont	PRO:REL	dont
+sur	PRP	sur
+ton	DET:POS	ton
+front	NOM	front
+renaît	VER:pres	renaître
+la	DET:ART	le
+grâce	NOM	grâce
+spontanée	ADJ	spontané
+suffise	VER:subp	suffire
+selon	PRP	selon
+quelque	PRO:IND	quelque
+apparence	NOM	apparence
+et	KON	et
+pour	PRP	pour
+moi	PRO:PER	moi
+comme	KON	comme
+un	DET:ART	un
+éventail	NOM	éventail
+frais	ADJ	frais
+dans	PRP	dans
+la	DET:ART	le
+chambre	NOM	chambre
+s'	PRO:PER	se
+étonne	VER:pres	étonner
+a	VER:pres	avoir
+raviver	VER:infi	raviver
+du	PRP:det	du
+peu	ADV	peu
+qu'	KON	que
+il	PRO:PER	il
+faut	VER:pres	falloir
+ici	ADV	ici
+d'	PRP	de
+émoi	NOM	émoi
+toute	PRO:IND	tout
+notre	DET:POS	notre
+native	ADJ	natif
+amitié	NOM	amitié
+monotone	ADJ	monotone
+.	SENT	.

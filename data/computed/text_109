@@ -1,23 +1,23 @@
-le	DET:ART
-vif	ADJ
-oeil	NOM
-dont	PRO:REL
-tu	PRO:PER
-regardes	VER:pres
-jusques	PRP
-à	PRP
-leur	DET:POS
-contenu	NOM
-me	PRO:PER
-sépare	VER:pres
-de	PRP
-mes	DET:POS
-hardes	NOM
-et	KON
-comme	KON
-un	DET:ART
-dieu	NOM
-je	PRO:PER
-vais	VER:pres
-nu	NOM
-.	SENT
+le	DET:ART	le
+vif	ADJ	vif
+oeil	NOM	œil
+dont	PRO:REL	dont
+tu	PRO:PER	tu
+regardes	VER:pres	regarder
+jusques	PRP	jusques
+à	PRP	à
+leur	DET:POS	leur
+contenu	NOM	contenu
+me	PRO:PER	me
+sépare	VER:pres	séparer
+de	PRP	de
+mes	DET:POS	mon
+hardes	NOM	harde|hardes
+et	KON	et
+comme	KON	comme
+un	DET:ART	un
+dieu	NOM	dieu
+je	PRO:PER	je
+vais	VER:pres	aller
+nu	NOM	nu
+.	SENT	.

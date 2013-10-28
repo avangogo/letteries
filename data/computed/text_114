@@ -1,25 +1,25 @@
-l'	DET:ART
-ennui	NOM
-d'	PRP
-aller	VER:infi
-en	PRP
-visite	NOM
-avec	PRP
-l'	DET:ART
-ail	NOM
-nous	PRO:PER
-l'	PRO:PER
-éloignons	VER:pres
-.	SENT
-l'	DET:ART
-élégie	NOM
-au	PRP:det
-pleur	NOM
-hésite	VER:pres
-peu	ADV
-si	KON
-je	PRO:PER
-fends	VER:pres
-des	PRP:det
-oignons	NOM
-.	SENT
+l'	DET:ART	le
+ennui	NOM	ennui
+d'	PRP	de
+aller	VER:infi	aller
+en	PRP	en
+visite	NOM	visite
+avec	PRP	avec
+l'	DET:ART	le
+ail	NOM	ail
+nous	PRO:PER	nous
+l'	PRO:PER	la|le
+éloignons	VER:pres	éloigner
+.	SENT	.
+l'	DET:ART	le
+élégie	NOM	élégie
+au	PRP:det	au
+pleur	NOM	pleur
+hésite	VER:pres	hésiter
+peu	ADV	peu
+si	KON	si
+je	PRO:PER	je
+fends	VER:pres	fendre
+des	PRP:det	du
+oignons	NOM	oignon
+.	SENT	.

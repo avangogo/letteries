@@ -1,309 +1,309 @@
-dis	VER:pres
-moi	PRO:PER
-,	PUN
-ton	DET:POS
-coeur	NOM
-,	PUN
-parfois	ADV
-,	PUN
-s'	PRO:PER
-envole	VER:pres
-t	VER:pper
-il	PRO:PER
-,	PUN
-agathe	NOM
-,	PUN
-loin	ADV
-du	PRP:det
-noir	ADJ
-océan	NOM
-de	PRP
-l'	DET:ART
-immonde	ADJ
-cité	NOM
-,	PUN
-vers	PRP
-un	DET:ART
-autre	ADJ
-océan	NOM
-où	PRO:REL
-la	DET:ART
-splendeur	NOM
-éclate	VER:pres
-,	PUN
-bleu	ADJ
-,	PUN
-clair	ADJ
-,	PUN
-profond	ADJ
-,	PUN
-ainsi	KON
-que	KON
-la	DET:ART
-virginité	NOM
-?	SENT
-dis	VER:pres
-moi	PRO:PER
-,	PUN
-ton	DET:POS
-coeur	NOM
-,	PUN
-parfois	ADV
-,	PUN
-s'	PRO:PER
-envole	VER:pres
-t	VER:pper
-il	PRO:PER
-,	PUN
-agathe	NOM
-?	SENT
-la	DET:ART
-mer	NOM
-,	PUN
-la	DET:ART
-vaste	ADJ
-mer	NOM
-,	PUN
-console	VER:pres
-nos	DET:POS
-labeurs	NOM
-!	SENT
-quel	PRO:REL
-démon	NOM
-a	VER:pres
-doté	VER:pper
-la	DET:ART
-mer	NOM
-,	PUN
-rauque	ADJ
-chanteuse	NOM
-qu'	PRO:REL
-accompagne	VER:pres
-l'	DET:ART
-immense	ADJ
-orgue	NOM
-des	PRP:det
-vents	NOM
-grondeurs	ADJ
-,	PUN
-de	PRP
-cette	PRO:DEM
-fonction	NOM
-sublime	ADJ
-de	PRP
-berceuse	NOM
-?	SENT
-la	DET:ART
-mer	NOM
-,	PUN
-la	DET:ART
-vaste	ADJ
-mer	NOM
-,	PUN
-console	VER:pres
-nos	DET:POS
-labeurs	NOM
-!	SENT
-emporte	VER:pres
-moi	PRO:PER
-,	PUN
-wagon	NOM
-!	SENT
-enlève	VER:pres
-moi	PRO:PER
-,	PUN
-frégate	NOM
-!	SENT
-loin	ADV
-!	SENT
-loin	ADV
-!	SENT
-ici	ADV
-la	DET:ART
-boue	NOM
-est	VER:pres
-faite	VER:pper
-de	PRP
-nos	DET:POS
-pleurs	NOM
-!	SENT
-est	VER:pres
-il	PRO:PER
-vrai	ADJ
-que	KON
-parfois	ADV
-le	DET:ART
-triste	ADJ
-coeur	NOM
-d'	PRP
-agathe	NOM
-dise	VER:subp
-:	PUN
-loin	ADV
-des	PRP:det
-remords	NOM
-,	PUN
-des	PRP:det
-crimes	NOM
-,	PUN
-des	PRP:det
-douleurs	NOM
-,	PUN
-emporte	VER:pres
-moi	PRO:PER
-,	PUN
-wagon	NOM
-,	PUN
-enlève	VER:pres
-moi	PRO:PER
-,	PUN
-frégate	NOM
-?	SENT
-comme	KON
-vous	PRO:PER
-êtes	VER:pres
-loin	ADV
-,	PUN
-paradis	NOM
-parfumé	VER:pper
-,	PUN
-où	PRO:REL
-sous	PRP
-un	DET:ART
-clair	ADJ
-azur	NOM
-tout	ADV
-n'	ADV
-est	VER:pres
-qu'	KON
-amour	NOM
-et	KON
-joie	NOM
-,	PUN
-où	PRO:REL
-tout	PRO:IND
-ce	PRO:DEM
-que	PRO:REL
-l'	DET:ART
-on	PRO:PER
-aime	VER:pres
-est	VER:pres
-digne	ADJ
-d'	PRP
-être	VER:infi
-aimé	VER:pper
-!	SENT
-où	PRO:REL
-dans	PRP
-la	DET:ART
-volupté	NOM
-pure	ADJ
-le	DET:ART
-coeur	NOM
-se	PRO:PER
-noie	VER:pres
-!	SENT
-comme	KON
-vous	PRO:PER
-êtes	VER:pres
-loin	ADV
-,	PUN
-paradis	NOM
-parfumé	VER:pper
-!	SENT
-mais	KON
-le	DET:ART
-vert	ADJ
-paradis	NOM
-des	PRP:det
-amours	NOM
-enfantines	ADJ
-,	PUN
-les	DET:ART
-courses	NOM
-,	PUN
-les	DET:ART
-chansons	NOM
-,	PUN
-les	DET:ART
-baisers	NOM
-,	PUN
-les	DET:ART
-bouquets	NOM
-,	PUN
-les	DET:ART
-violons	NOM
-vibrant	VER:ppre
-derrière	PRP
-les	DET:ART
-collines	NOM
-,	PUN
-avec	PRP
-les	DET:ART
-brocs	NOM
-de	PRP
-vin	NOM
-,	PUN
-le	DET:ART
-soir	NOM
-,	PUN
-dans	PRP
-les	DET:ART
-bosquets	NOM
-,	PUN
-mais	KON
-le	DET:ART
-vert	ADJ
-paradis	NOM
-des	PRP:det
-amours	NOM
-enfantines	ADJ
-,	PUN
-l'	DET:ART
-innocent	ADJ
-paradis	NOM
-,	PUN
-plein	ADJ
-de	PRP
-plaisirs	NOM
-furtifs	ADJ
-,	PUN
-est	VER:pres
-il	PRO:PER
-déjà	ADV
-plus	ADV
-loin	ADV
-que	KON
-l'	DET:ART
-inde	NOM
-ou	KON
-que	KON
-la	DET:ART
-chine	NOM
-?	SENT
-peut	VER:pres
-on	PRO:PER
-le	PRO:PER
-rappeler	VER:infi
-avec	PRP
-des	PRP:det
-cris	NOM
-plaintifs	ADJ
-,	PUN
-et	KON
-l'	PRO:PER
-animer	VER:infi
-encor	ADV
-d'	PRP
-une	DET:ART
-voix	NOM
-argentine	ADJ
-,	PUN
-l'	DET:ART
-innocent	ADJ
-paradis	NOM
-plein	ADJ
-de	PRP
-plaisirs	NOM
-furtifs	ADJ
-?	SENT
+dis	VER:pres	dire
+moi	PRO:PER	moi
+,	PUN	,
+ton	DET:POS	ton
+coeur	NOM	cœur
+,	PUN	,
+parfois	ADV	parfois
+,	PUN	,
+s'	PRO:PER	se
+envole	VER:pres	envoler
+t	VER:pper	t
+il	PRO:PER	il
+,	PUN	,
+agathe	NOM	agathe
+,	PUN	,
+loin	ADV	loin
+du	PRP:det	du
+noir	ADJ	noir
+océan	NOM	océan
+de	PRP	de
+l'	DET:ART	le
+immonde	ADJ	immonde
+cité	NOM	cité
+,	PUN	,
+vers	PRP	vers
+un	DET:ART	un
+autre	ADJ	autre
+océan	NOM	océan
+où	PRO:REL	où
+la	DET:ART	le
+splendeur	NOM	splendeur
+éclate	VER:pres	éclater
+,	PUN	,
+bleu	ADJ	bleu
+,	PUN	,
+clair	ADJ	clair
+,	PUN	,
+profond	ADJ	profond
+,	PUN	,
+ainsi	KON	ainsi
+que	KON	que
+la	DET:ART	le
+virginité	NOM	virginité
+?	SENT	?
+dis	VER:pres	dire
+moi	PRO:PER	moi
+,	PUN	,
+ton	DET:POS	ton
+coeur	NOM	cœur
+,	PUN	,
+parfois	ADV	parfois
+,	PUN	,
+s'	PRO:PER	se
+envole	VER:pres	envoler
+t	VER:pper	t
+il	PRO:PER	il
+,	PUN	,
+agathe	NOM	agathe
+?	SENT	?
+la	DET:ART	le
+mer	NOM	mer
+,	PUN	,
+la	DET:ART	le
+vaste	ADJ	vaste
+mer	NOM	mer
+,	PUN	,
+console	VER:pres	consoler
+nos	DET:POS	notre
+labeurs	NOM	labeur
+!	SENT	!
+quel	PRO:REL	quel
+démon	NOM	démon
+a	VER:pres	avoir
+doté	VER:pper	doter
+la	DET:ART	le
+mer	NOM	mer
+,	PUN	,
+rauque	ADJ	rauque
+chanteuse	NOM	chanteur
+qu'	PRO:REL	que
+accompagne	VER:pres	accompagner
+l'	DET:ART	le
+immense	ADJ	immense
+orgue	NOM	orgue
+des	PRP:det	du
+vents	NOM	vent
+grondeurs	ADJ	grondeur
+,	PUN	,
+de	PRP	de
+cette	PRO:DEM	ce
+fonction	NOM	fonction
+sublime	ADJ	sublime
+de	PRP	de
+berceuse	NOM	berceuse
+?	SENT	?
+la	DET:ART	le
+mer	NOM	mer
+,	PUN	,
+la	DET:ART	le
+vaste	ADJ	vaste
+mer	NOM	mer
+,	PUN	,
+console	VER:pres	consoler
+nos	DET:POS	notre
+labeurs	NOM	labeur
+!	SENT	!
+emporte	VER:pres	emporter
+moi	PRO:PER	moi
+,	PUN	,
+wagon	NOM	wagon
+!	SENT	!
+enlève	VER:pres	enlever
+moi	PRO:PER	moi
+,	PUN	,
+frégate	NOM	frégate
+!	SENT	!
+loin	ADV	loin
+!	SENT	!
+loin	ADV	loin
+!	SENT	!
+ici	ADV	ici
+la	DET:ART	le
+boue	NOM	boue
+est	VER:pres	être
+faite	VER:pper	faire
+de	PRP	de
+nos	DET:POS	notre
+pleurs	NOM	pleur|pleurs
+!	SENT	!
+est	VER:pres	être
+il	PRO:PER	il
+vrai	ADJ	vrai
+que	KON	que
+parfois	ADV	parfois
+le	DET:ART	le
+triste	ADJ	triste
+coeur	NOM	cœur
+d'	PRP	de
+agathe	NOM	agathe
+dise	VER:subp	dire
+:	PUN	:
+loin	ADV	loin
+des	PRP:det	du
+remords	NOM	remords
+,	PUN	,
+des	PRP:det	du
+crimes	NOM	crime
+,	PUN	,
+des	PRP:det	du
+douleurs	NOM	douleur
+,	PUN	,
+emporte	VER:pres	emporter
+moi	PRO:PER	moi
+,	PUN	,
+wagon	NOM	wagon
+,	PUN	,
+enlève	VER:pres	enlever
+moi	PRO:PER	moi
+,	PUN	,
+frégate	NOM	frégate
+?	SENT	?
+comme	KON	comme
+vous	PRO:PER	vous
+êtes	VER:pres	être
+loin	ADV	loin
+,	PUN	,
+paradis	NOM	paradis
+parfumé	VER:pper	parfumer
+,	PUN	,
+où	PRO:REL	où
+sous	PRP	sous
+un	DET:ART	un
+clair	ADJ	clair
+azur	NOM	azur
+tout	ADV	tout
+n'	ADV	ne
+est	VER:pres	être
+qu'	KON	que
+amour	NOM	amour
+et	KON	et
+joie	NOM	joie
+,	PUN	,
+où	PRO:REL	où
+tout	PRO:IND	tout
+ce	PRO:DEM	ce
+que	PRO:REL	que
+l'	DET:ART	le
+on	PRO:PER	on
+aime	VER:pres	aimer
+est	VER:pres	être
+digne	ADJ	digne
+d'	PRP	de
+être	VER:infi	être
+aimé	VER:pper	aimer
+!	SENT	!
+où	PRO:REL	où
+dans	PRP	dans
+la	DET:ART	le
+volupté	NOM	volupté
+pure	ADJ	pur
+le	DET:ART	le
+coeur	NOM	cœur
+se	PRO:PER	se
+noie	VER:pres	noyer
+!	SENT	!
+comme	KON	comme
+vous	PRO:PER	vous
+êtes	VER:pres	être
+loin	ADV	loin
+,	PUN	,
+paradis	NOM	paradis
+parfumé	VER:pper	parfumer
+!	SENT	!
+mais	KON	mais
+le	DET:ART	le
+vert	ADJ	vert
+paradis	NOM	paradis
+des	PRP:det	du
+amours	NOM	amour
+enfantines	ADJ	enfantin
+,	PUN	,
+les	DET:ART	le
+courses	NOM	course
+,	PUN	,
+les	DET:ART	le
+chansons	NOM	chanson
+,	PUN	,
+les	DET:ART	le
+baisers	NOM	baiser
+,	PUN	,
+les	DET:ART	le
+bouquets	NOM	bouquet
+,	PUN	,
+les	DET:ART	le
+violons	NOM	violon
+vibrant	VER:ppre	vibrer
+derrière	PRP	derrière
+les	DET:ART	le
+collines	NOM	colline
+,	PUN	,
+avec	PRP	avec
+les	DET:ART	le
+brocs	NOM	broc
+de	PRP	de
+vin	NOM	vin
+,	PUN	,
+le	DET:ART	le
+soir	NOM	soir
+,	PUN	,
+dans	PRP	dans
+les	DET:ART	le
+bosquets	NOM	bosquet
+,	PUN	,
+mais	KON	mais
+le	DET:ART	le
+vert	ADJ	vert
+paradis	NOM	paradis
+des	PRP:det	du
+amours	NOM	amour
+enfantines	ADJ	enfantin
+,	PUN	,
+l'	DET:ART	le
+innocent	ADJ	innocent
+paradis	NOM	paradis
+,	PUN	,
+plein	ADJ	plein
+de	PRP	de
+plaisirs	NOM	plaisir
+furtifs	ADJ	furtif
+,	PUN	,
+est	VER:pres	être
+il	PRO:PER	il
+déjà	ADV	déjà
+plus	ADV	plus
+loin	ADV	loin
+que	KON	que
+l'	DET:ART	le
+inde	NOM	inde
+ou	KON	ou
+que	KON	que
+la	DET:ART	le
+chine	NOM	chine
+?	SENT	?
+peut	VER:pres	pouvoir
+on	PRO:PER	on
+le	PRO:PER	le
+rappeler	VER:infi	rappeler
+avec	PRP	avec
+des	PRP:det	du
+cris	NOM	cri
+plaintifs	ADJ	plaintif
+,	PUN	,
+et	KON	et
+l'	PRO:PER	la|le
+animer	VER:infi	animer
+encor	ADV	encor
+d'	PRP	de
+une	DET:ART	un
+voix	NOM	voix
+argentine	ADJ	argentin
+,	PUN	,
+l'	DET:ART	le
+innocent	ADJ	innocent
+paradis	NOM	paradis
+plein	ADJ	plein
+de	PRP	de
+plaisirs	NOM	plaisir
+furtifs	ADJ	furtif
+?	SENT	?

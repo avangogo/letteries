@@ -1,237 +1,237 @@
-l'	DET:ART
-art	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-gloire	NOM
-et	KON
-la	DET:ART
-joie	NOM
-.	SENT
-dans	PRP
-la	DET:ART
-tempête	NOM
-il	PRO:PER
-flamboie	VER:pres
-;	PUN
-il	PRO:PER
-éclaire	VER:pres
-le	DET:ART
-ciel	NOM
-bleu	ADJ
-.	SENT
-l'	DET:ART
-art	NOM
-,	PUN
-splendeur	NOM
-universelle	ADJ
-,	PUN
-au	PRP:det
-front	NOM
-du	PRP:det
-peuple	NOM
-étincelle	NOM
-,	PUN
-comme	KON
-l'	DET:ART
-astre	NOM
-au	PRP:det
-front	NOM
-de	PRP
-dieu	NOM
-.	SENT
-l'	DET:ART
-art	NOM
-est	VER:pres
-un	DET:ART
-champ	NOM
-magnifique	ADJ
-qui	PRO:REL
-plaît	VER:pres
-au	PRP:det
-coeur	NOM
-pacifique	ADJ
-,	PUN
-que	KON
-la	DET:ART
-cité	NOM
-dit	VER:pres
-aux	PRP:det
-bois	NOM
-,	PUN
-que	KON
-l'	DET:ART
-homme	NOM
-dit	VER:pres
-à	PRP
-la	DET:ART
-femme	NOM
-,	PUN
-que	KON
-toutes	PRO:IND
-les	DET:ART
-voix	NOM
-de	PRP
-l'	DET:ART
-âme	NOM
-chantent	VER:pres
-en	PRP
-choeur	NOM
-à	PRP
-la	DET:ART
-fois	NOM
-!	SENT
-l'	DET:ART
-art	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-pensée	NOM
-humaine	ADJ
-qui	PRO:REL
-va	VER:pres
-brisant	VER:ppre
-toute	PRO:IND
-chaîne	NOM
-!	SENT
-l'	DET:ART
-art	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-doux	ADJ
-conquérant	NOM
-!	SENT
-a	VER:pres
-lui	PRO:PER
-le	DET:ART
-rhin	NOM
-et	KON
-le	DET:ART
-tibre	NOM
-!	SENT
-peuple	NOM
-esclave	NOM
-,	PUN
-il	PRO:PER
-te	PRO:PER
-fait	VER:pres
-libre	ADJ
-;	PUN
-peuple	NOM
-libre	ADJ
-,	PUN
-il	PRO:PER
-te	PRO:PER
-fait	VER:pres
-grand	ADJ
-!	SENT
-o	VER:cond
-bonne	ADJ
-france	NOM
-invincible	ADJ
-,	PUN
-chante	VER:pres
-ta	DET:POS
-chanson	NOM
-paisible	ADJ
-!	SENT
-chante	VER:pres
-,	PUN
-et	KON
-regarde	VER:pres
-le	DET:ART
-ciel	NOM
-!	SENT
-ta	DET:POS
-voix	NOM
-joyeuse	ADJ
-et	KON
-profonde	ADJ
-est	VER:pres
-l'	DET:ART
-espérance	NOM
-du	PRP:det
-monde	NOM
-,	PUN
-o	VER:simp
-grand	ADJ
-peuple	NOM
-fraternel	ADJ
-!	SENT
-bon	ADJ
-peuple	NOM
-,	PUN
-chante	VER:pres
-à	PRP
-l'	DET:ART
-aurore	NOM
-,	PUN
-quand	KON
-le	DET:ART
-soir	NOM
-vient	VER:pres
-,	PUN
-chante	VER:pres
-encore	ADV
-!	SENT
-le	DET:ART
-travail	NOM
-fait	VER:pres
-la	DET:ART
-gaîté	NOM
-.	SENT
-ris	NOM
-du	PRP:det
-vieux	ADJ
-siècle	NOM
-qui	PRO:REL
-passe	VER:pres
-!	SENT
-chante	VER:pres
-l'	DET:ART
-amour	NOM
-à	PRP
-voix	NOM
-basse	ADJ
-,	PUN
-et	KON
-tout	ADV
-haut	ADV
-la	DET:ART
-liberté	NOM
-!	SENT
-chante	VER:pres
-la	DET:ART
-sainte	ADJ
-italie	NOM
-,	PUN
-la	DET:ART
-pologne	NOM
-ensevelie	VER:pper
-,	PUN
-naples	NOM
-qu'	KON
-un	DET:ART
-sang	NOM
-pur	ADJ
-rougit	VER:pres
-,	PUN
-la	DET:ART
-hongrie	ADJ
-agonisante	NOM
-...	PUN
-o	VER:simp
-tyrans	NOM
-!	SENT
-le	DET:ART
-peuple	NOM
-chante	VER:pres
-comme	ADV
-le	DET:ART
-lion	NOM
-rugit	VER:pres
-!	SENT
+l'	DET:ART	le
+art	NOM	art
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+gloire	NOM	gloire
+et	KON	et
+la	DET:ART	le
+joie	NOM	joie
+.	SENT	.
+dans	PRP	dans
+la	DET:ART	le
+tempête	NOM	tempête
+il	PRO:PER	il
+flamboie	VER:pres	flamboyer
+;	PUN	;
+il	PRO:PER	il
+éclaire	VER:pres	éclairer
+le	DET:ART	le
+ciel	NOM	ciel
+bleu	ADJ	bleu
+.	SENT	.
+l'	DET:ART	le
+art	NOM	art
+,	PUN	,
+splendeur	NOM	splendeur
+universelle	ADJ	universel
+,	PUN	,
+au	PRP:det	au
+front	NOM	front
+du	PRP:det	du
+peuple	NOM	peuple
+étincelle	NOM	étincelle
+,	PUN	,
+comme	KON	comme
+l'	DET:ART	le
+astre	NOM	astre
+au	PRP:det	au
+front	NOM	front
+de	PRP	de
+dieu	NOM	dieu
+.	SENT	.
+l'	DET:ART	le
+art	NOM	art
+est	VER:pres	être
+un	DET:ART	un
+champ	NOM	champ
+magnifique	ADJ	magnifique
+qui	PRO:REL	qui
+plaît	VER:pres	plaire
+au	PRP:det	au
+coeur	NOM	cœur
+pacifique	ADJ	pacifique
+,	PUN	,
+que	KON	que
+la	DET:ART	le
+cité	NOM	cité
+dit	VER:pres	dire
+aux	PRP:det	au
+bois	NOM	bois
+,	PUN	,
+que	KON	que
+l'	DET:ART	le
+homme	NOM	homme
+dit	VER:pres	dire
+à	PRP	à
+la	DET:ART	le
+femme	NOM	femme
+,	PUN	,
+que	KON	que
+toutes	PRO:IND	tout
+les	DET:ART	le
+voix	NOM	voix
+de	PRP	de
+l'	DET:ART	le
+âme	NOM	âme
+chantent	VER:pres	chanter
+en	PRP	en
+choeur	NOM	chœur
+à	PRP	à
+la	DET:ART	le
+fois	NOM	foi|fois
+!	SENT	!
+l'	DET:ART	le
+art	NOM	art
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+pensée	NOM	pensée
+humaine	ADJ	humain
+qui	PRO:REL	qui
+va	VER:pres	aller
+brisant	VER:ppre	briser
+toute	PRO:IND	tout
+chaîne	NOM	chaîne
+!	SENT	!
+l'	DET:ART	le
+art	NOM	art
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+doux	ADJ	doux
+conquérant	NOM	conquérant
+!	SENT	!
+a	VER:pres	avoir
+lui	PRO:PER	lui
+le	DET:ART	le
+rhin	NOM	rhin
+et	KON	et
+le	DET:ART	le
+tibre	NOM	tibre
+!	SENT	!
+peuple	NOM	peuple
+esclave	NOM	esclave
+,	PUN	,
+il	PRO:PER	il
+te	PRO:PER	te
+fait	VER:pres	faire
+libre	ADJ	libre
+;	PUN	;
+peuple	NOM	peuple
+libre	ADJ	libre
+,	PUN	,
+il	PRO:PER	il
+te	PRO:PER	te
+fait	VER:pres	faire
+grand	ADJ	grand
+!	SENT	!
+o	VER:cond	o
+bonne	ADJ	bon
+france	NOM	france
+invincible	ADJ	invincible
+,	PUN	,
+chante	VER:pres	chanter
+ta	DET:POS	ton
+chanson	NOM	chanson
+paisible	ADJ	paisible
+!	SENT	!
+chante	VER:pres	chanter
+,	PUN	,
+et	KON	et
+regarde	VER:pres	regarder
+le	DET:ART	le
+ciel	NOM	ciel
+!	SENT	!
+ta	DET:POS	ton
+voix	NOM	voix
+joyeuse	ADJ	joyeux
+et	KON	et
+profonde	ADJ	profond
+est	VER:pres	être
+l'	DET:ART	le
+espérance	NOM	espérance
+du	PRP:det	du
+monde	NOM	monde
+,	PUN	,
+o	VER:simp	o
+grand	ADJ	grand
+peuple	NOM	peuple
+fraternel	ADJ	fraternel
+!	SENT	!
+bon	ADJ	bon
+peuple	NOM	peuple
+,	PUN	,
+chante	VER:pres	chanter
+à	PRP	à
+l'	DET:ART	le
+aurore	NOM	aurore
+,	PUN	,
+quand	KON	quand
+le	DET:ART	le
+soir	NOM	soir
+vient	VER:pres	venir
+,	PUN	,
+chante	VER:pres	chanter
+encore	ADV	encore
+!	SENT	!
+le	DET:ART	le
+travail	NOM	travail
+fait	VER:pres	faire
+la	DET:ART	le
+gaîté	NOM	gaîté
+.	SENT	.
+ris	NOM	ris
+du	PRP:det	du
+vieux	ADJ	vieux
+siècle	NOM	siècle
+qui	PRO:REL	qui
+passe	VER:pres	passer
+!	SENT	!
+chante	VER:pres	chanter
+l'	DET:ART	le
+amour	NOM	amour
+à	PRP	à
+voix	NOM	voix
+basse	ADJ	bas
+,	PUN	,
+et	KON	et
+tout	ADV	tout
+haut	ADV	haut
+la	DET:ART	le
+liberté	NOM	liberté
+!	SENT	!
+chante	VER:pres	chanter
+la	DET:ART	le
+sainte	ADJ	saint
+italie	NOM	italie
+,	PUN	,
+la	DET:ART	le
+pologne	NOM	pologne
+ensevelie	VER:pper	ensevelir
+,	PUN	,
+naples	NOM	naples
+qu'	KON	que
+un	DET:ART	un
+sang	NOM	sang
+pur	ADJ	pur
+rougit	VER:pres	rougir
+,	PUN	,
+la	DET:ART	le
+hongrie	ADJ	hongrie
+agonisante	NOM	agonisant
+...	PUN	...
+o	VER:simp	o
+tyrans	NOM	tyran
+!	SENT	!
+le	DET:ART	le
+peuple	NOM	peuple
+chante	VER:pres	chanter
+comme	ADV	comme
+le	DET:ART	le
+lion	NOM	lion
+rugit	VER:pres	rugir
+!	SENT	!

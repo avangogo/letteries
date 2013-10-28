@@ -1,134 +1,134 @@
-sur	PRP
-les	DET:ART
-bois	NOM
-oubliés	VER:pper
-quand	KON
-passe	VER:pres
-l'	DET:ART
-hiver	NOM
-sombre	ADJ
-,	PUN
-tu	PRO:PER
-te	PRO:PER
-plains	VER:pres
-,	PUN
-ô	INT
-captif	NOM
-solitaire	ADJ
-du	PRP:det
-seuil	NOM
-,	PUN
-que	KON
-ce	PRO:DEM
-sépulcre	NOM
-à	PRP
-deux	NOM
-qui	PRO:REL
-fera	VER:futu
-notre	DET:POS
-orgueil	NOM
-hélas	INT
-!	SENT
-du	PRP:det
-manque	NOM
-seul	ADJ
-des	PRP:det
-lourds	ADJ
-bouquets	NOM
-s'	PRO:PER
-encombre	VER:pres
-.	SENT
-sans	PRP
-écouter	VER:infi
-minuit	NOM
-qui	PRO:REL
-jeta	VER:simp
-son	DET:POS
-vain	ADJ
-nombre	NOM
-,	PUN
-une	DET:ART
-veille	NOM
-t'	PRO:PER
-exalte	VER:pres
-à	PRP
-ne	ADV
-pas	ADV
-fermer	VER:infi
-l'	DET:ART
-oeil	NOM
-avant	PRP
-que	PRO:REL
-dans	PRP
-les	DET:ART
-bras	NOM
-de	PRP
-l'	DET:ART
-ancien	ADJ
-fauteuil	NOM
-le	DET:ART
-suprême	ADJ
-tison	NOM
-n'	ADV
-ait	VER:subp
-éclairé	VER:pper
-mon	DET:POS
-ombre	NOM
-.	SENT
-qui	PRO
-veut	VER:pres
-souvent	ADV
-avoir	VER:infi
-la	DET:ART
-visite	NOM
-ne	ADV
-doit	VER:pres
-par	PRP
-trop	ADV
-de	PRP
-fleurs	NOM
-charger	VER:infi
-la	DET:ART
-pierre	NOM
-que	KON
-mon	DET:POS
-doigt	NOM
-soulève	VER:pres
-avec	PRP
-l'	DET:ART
-ennui	NOM
-d'	PRP
-une	DET:ART
-force	NOM
-défunte	ADJ
-.	SENT
-âme	NOM
-au	PRP:det
-si	ADV
-clair	ADJ
-foyer	NOM
-tremblante	ADJ
-de	PRP
-m'	PRO:PER
-asseoir	VER:infi
-,	PUN
-pour	PRP
-revivre	VER:infi
-il	PRO:PER
-suffit	VER:pres
-qu'	KON
-à	PRP
-tes	DET:POS
-lèvres	NOM
-j'	PRO:PER
-emprunte	VER:pres
-le	DET:ART
-souffle	NOM
-de	PRP
-mon	DET:POS
-nom	NOM
-murmuré	VER:pper
-tout	ADV
-un	DET:ART
-soir	NOM
-.	SENT
+sur	PRP	sur
+les	DET:ART	le
+bois	NOM	bois
+oubliés	VER:pper	oublier
+quand	KON	quand
+passe	VER:pres	passer
+l'	DET:ART	le
+hiver	NOM	hiver
+sombre	ADJ	sombre
+,	PUN	,
+tu	PRO:PER	tu
+te	PRO:PER	te
+plains	VER:pres	plaindre
+,	PUN	,
+ô	INT	ô
+captif	NOM	captif
+solitaire	ADJ	solitaire
+du	PRP:det	du
+seuil	NOM	seuil
+,	PUN	,
+que	KON	que
+ce	PRO:DEM	ce
+sépulcre	NOM	sépulcre
+à	PRP	à
+deux	NOM	deux
+qui	PRO:REL	qui
+fera	VER:futu	faire
+notre	DET:POS	notre
+orgueil	NOM	orgueil
+hélas	INT	hélas
+!	SENT	!
+du	PRP:det	du
+manque	NOM	manque
+seul	ADJ	seul
+des	PRP:det	du
+lourds	ADJ	lourd
+bouquets	NOM	bouquet
+s'	PRO:PER	se
+encombre	VER:pres	encombrer
+.	SENT	.
+sans	PRP	sans
+écouter	VER:infi	écouter
+minuit	NOM	minuit
+qui	PRO:REL	qui
+jeta	VER:simp	jeter
+son	DET:POS	son
+vain	ADJ	vain
+nombre	NOM	nombre
+,	PUN	,
+une	DET:ART	un
+veille	NOM	veille
+t'	PRO:PER	te
+exalte	VER:pres	exalter
+à	PRP	à
+ne	ADV	ne
+pas	ADV	pas
+fermer	VER:infi	fermer
+l'	DET:ART	le
+oeil	NOM	œil
+avant	PRP	avant
+que	PRO:REL	que
+dans	PRP	dans
+les	DET:ART	le
+bras	NOM	bras
+de	PRP	de
+l'	DET:ART	le
+ancien	ADJ	ancien
+fauteuil	NOM	fauteuil
+le	DET:ART	le
+suprême	ADJ	suprême
+tison	NOM	tison
+n'	ADV	ne
+ait	VER:subp	avoir
+éclairé	VER:pper	éclairer
+mon	DET:POS	mon
+ombre	NOM	ombre
+.	SENT	.
+qui	PRO	qui
+veut	VER:pres	vouloir
+souvent	ADV	souvent
+avoir	VER:infi	avoir
+la	DET:ART	le
+visite	NOM	visite
+ne	ADV	ne
+doit	VER:pres	devoir
+par	PRP	par
+trop	ADV	trop
+de	PRP	de
+fleurs	NOM	fleur
+charger	VER:infi	charger
+la	DET:ART	le
+pierre	NOM	pierre
+que	KON	que
+mon	DET:POS	mon
+doigt	NOM	doigt
+soulève	VER:pres	soulever
+avec	PRP	avec
+l'	DET:ART	le
+ennui	NOM	ennui
+d'	PRP	de
+une	DET:ART	un
+force	NOM	force
+défunte	ADJ	défunt
+.	SENT	.
+âme	NOM	âme
+au	PRP:det	au
+si	ADV	si
+clair	ADJ	clair
+foyer	NOM	foyer
+tremblante	ADJ	tremblant
+de	PRP	de
+m'	PRO:PER	me
+asseoir	VER:infi	asseoir
+,	PUN	,
+pour	PRP	pour
+revivre	VER:infi	revivre
+il	PRO:PER	il
+suffit	VER:pres	suffire
+qu'	KON	que
+à	PRP	à
+tes	DET:POS	ton
+lèvres	NOM	lèvre
+j'	PRO:PER	je
+emprunte	VER:pres	emprunter
+le	DET:ART	le
+souffle	NOM	souffle
+de	PRP	de
+mon	DET:POS	mon
+nom	NOM	nom
+murmuré	VER:pper	murmurer
+tout	ADV	tout
+un	DET:ART	un
+soir	NOM	soir
+.	SENT	.

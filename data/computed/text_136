@@ -1,70 +1,70 @@
-au	PRP:det
-seul	ADJ
-souci	NOM
-de	PRP
-voyager	VER:infi
-outre	PRP
-une	DET:ART
-inde	NOM
-splendide	ADJ
-et	KON
-trouble	ADJ
-ce	PRO:DEM
-salut	NOM
-soit	VER:subp
-le	DET:ART
-messager	NOM
-du	PRP:det
-temps	NOM
-,	PUN
-cap	NOM
-que	KON
-ta	DET:POS
-poupe	NOM
-double	VER:pres
-comme	ADV
-sur	PRP
-quelque	PRO:IND
-vergue	NOM
-bas	ADV
-plongeante	ADJ
-avec	PRP
-la	DET:ART
-caravelle	NOM
-ecumait	VER:impf
-toujours	ADV
-en	PRP
-ébats	NOM
-un	DET:ART
-oiseau	NOM
-d'	PRP
-annonce	NOM
-nouvelle	ADJ
-qui	PRO:REL
-criait	VER:impf
-monotonement	ADV
-sans	PRP
-que	KON
-la	DET:ART
-barre	NOM
-ne	ADV
-varie	VER:pres
-un	DET:ART
-inutile	ADJ
-gisement	NOM
-nuit	NOM
-,	PUN
-désespoir	NOM
-et	KON
-pierrerie	NOM
-par	PRP
-son	DET:POS
-chant	NOM
-reflété	VER:pper
-jusqu'	PRP
-au	PRP:det
-sourire	NOM
-du	PRP:det
-pâle	ADJ
-vasco	NOM
-.	SENT
+au	PRP:det	au
+seul	ADJ	seul
+souci	NOM	souci
+de	PRP	de
+voyager	VER:infi	voyager
+outre	PRP	outre
+une	DET:ART	un
+inde	NOM	inde
+splendide	ADJ	splendide
+et	KON	et
+trouble	ADJ	trouble
+ce	PRO:DEM	ce
+salut	NOM	salut
+soit	VER:subp	être
+le	DET:ART	le
+messager	NOM	messager
+du	PRP:det	du
+temps	NOM	temps
+,	PUN	,
+cap	NOM	cap
+que	KON	que
+ta	DET:POS	ton
+poupe	NOM	poupe
+double	VER:pres	doubler
+comme	ADV	comme
+sur	PRP	sur
+quelque	PRO:IND	quelque
+vergue	NOM	vergue
+bas	ADV	bas
+plongeante	ADJ	plongeant
+avec	PRP	avec
+la	DET:ART	le
+caravelle	NOM	caravelle
+ecumait	VER:impf	ecumait
+toujours	ADV	toujours
+en	PRP	en
+ébats	NOM	ébat
+un	DET:ART	un
+oiseau	NOM	oiseau
+d'	PRP	de
+annonce	NOM	annonce
+nouvelle	ADJ	nouveau
+qui	PRO:REL	qui
+criait	VER:impf	crier
+monotonement	ADV	monotonement
+sans	PRP	sans
+que	KON	que
+la	DET:ART	le
+barre	NOM	barre
+ne	ADV	ne
+varie	VER:pres	varier
+un	DET:ART	un
+inutile	ADJ	inutile
+gisement	NOM	gisement
+nuit	NOM	nuit
+,	PUN	,
+désespoir	NOM	désespoir
+et	KON	et
+pierrerie	NOM	pierrerie
+par	PRP	par
+son	DET:POS	son
+chant	NOM	chant
+reflété	VER:pper	refléter
+jusqu'	PRP	jusque
+au	PRP:det	au
+sourire	NOM	sourire
+du	PRP:det	du
+pâle	ADJ	pâle
+vasco	NOM	vasco
+.	SENT	.

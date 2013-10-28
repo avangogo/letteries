@@ -1,137 +1,137 @@
-le	DET:ART
-plus	ADV
-haut	ADJ
-attentat	NOM
-que	ADV
-puisse	VER:subp
-faire	VER:infi
-un	DET:ART
-homme	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-de	PRP
-lier	VER:infi
-la	DET:ART
-france	NOM
-ou	KON
-de	PRP
-garrotter	VER:infi
-rome	NOM
-c'	PRO:DEM
-est	VER:pres
-,	PUN
-quel	PRO:REL
-que	KON
-soit	KON
-le	DET:ART
-lieu	NOM
-,	PUN
-le	DET:ART
-pays	NOM
-,	PUN
-la	DET:ART
-cité	NOM
-,	PUN
-d'	PRP
-ôter	VER:infi
-l'	DET:ART
-âme	NOM
-à	PRP
-chacun	PRO:IND
-,	PUN
-à	PRP
-tous	PRO:IND
-la	DET:ART
-liberté	NOM
-.	SENT
-dans	PRP
-la	DET:ART
-curie	NOM
-auguste	ADJ
-entrer	VER:infi
-avec	PRP
-l'	DET:ART
-épée	NOM
-,	PUN
-assassiner	VER:infi
-la	DET:ART
-loi	NOM
-dans	PRP
-son	DET:POS
-temple	NOM
-frappée	ADJ
-,	PUN
-mettre	VER:infi
-aux	PRP:det
-fers	NOM
-tout	ADV
-un	DET:ART
-peuple	NOM
-,	PUN
-est	VER:pres
-un	DET:ART
-crime	NOM
-odieux	ADJ
-que	KON
-dieu	NOM
-,	PUN
-calme	ADJ
-et	KON
-rêveur	ADJ
-,	PUN
-ne	ADV
-quitte	VER:pres
-pas	ADV
-des	PRP:det
-yeux	NOM
-.	SENT
-dès	PRP
-que	KON
-ce	PRO:DEM
-grand	ADJ
-forfait	NOM
-est	VER:pres
-commis	VER:pper
-,	PUN
-point	NOM
-de	PRP
-grâce	NOM
-la	DET:ART
-peine	NOM
-au	PRP:det
-fond	NOM
-des	PRP:det
-cieux	NOM
-,	PUN
-lente	ADJ
-,	PUN
-mais	KON
-jamais	ADV
-lasse	ADJ
-,	PUN
-se	PRO:PER
-met	VER:pres
-en	PRP
-marche	NOM
-,	PUN
-et	KON
-vient	VER:pres
-;	PUN
-son	DET:POS
-regard	NOM
-est	VER:pres
-serein	ADJ
-.	SENT
-elle	PRO:PER
-tient	VER:pres
-sous	PRP
-son	DET:POS
-bras	NOM
-son	DET:POS
-fouet	NOM
-aux	PRP:det
-clous	NOM
-d'	PRP
-airain	NOM
-.	SENT
+le	DET:ART	le
+plus	ADV	plus
+haut	ADJ	haut
+attentat	NOM	attentat
+que	ADV	que
+puisse	VER:subp	pouvoir
+faire	VER:infi	faire
+un	DET:ART	un
+homme	NOM	homme
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+de	PRP	de
+lier	VER:infi	lier
+la	DET:ART	le
+france	NOM	france
+ou	KON	ou
+de	PRP	de
+garrotter	VER:infi	garrotter
+rome	NOM	rome
+c'	PRO:DEM	ce
+est	VER:pres	être
+,	PUN	,
+quel	PRO:REL	quel
+que	KON	que
+soit	KON	soit
+le	DET:ART	le
+lieu	NOM	lieu
+,	PUN	,
+le	DET:ART	le
+pays	NOM	pays
+,	PUN	,
+la	DET:ART	le
+cité	NOM	cité
+,	PUN	,
+d'	PRP	de
+ôter	VER:infi	ôter
+l'	DET:ART	le
+âme	NOM	âme
+à	PRP	à
+chacun	PRO:IND	chacun
+,	PUN	,
+à	PRP	à
+tous	PRO:IND	tout
+la	DET:ART	le
+liberté	NOM	liberté
+.	SENT	.
+dans	PRP	dans
+la	DET:ART	le
+curie	NOM	curie
+auguste	ADJ	auguste
+entrer	VER:infi	entrer
+avec	PRP	avec
+l'	DET:ART	le
+épée	NOM	épée
+,	PUN	,
+assassiner	VER:infi	assassiner
+la	DET:ART	le
+loi	NOM	loi
+dans	PRP	dans
+son	DET:POS	son
+temple	NOM	temple
+frappée	ADJ	frappé
+,	PUN	,
+mettre	VER:infi	mettre
+aux	PRP:det	au
+fers	NOM	fer
+tout	ADV	tout
+un	DET:ART	un
+peuple	NOM	peuple
+,	PUN	,
+est	VER:pres	être
+un	DET:ART	un
+crime	NOM	crime
+odieux	ADJ	odieux
+que	KON	que
+dieu	NOM	dieu
+,	PUN	,
+calme	ADJ	calme
+et	KON	et
+rêveur	ADJ	rêveur
+,	PUN	,
+ne	ADV	ne
+quitte	VER:pres	quitter
+pas	ADV	pas
+des	PRP:det	du
+yeux	NOM	œil
+.	SENT	.
+dès	PRP	dès
+que	KON	que
+ce	PRO:DEM	ce
+grand	ADJ	grand
+forfait	NOM	forfait
+est	VER:pres	être
+commis	VER:pper	commettre
+,	PUN	,
+point	NOM	point
+de	PRP	de
+grâce	NOM	grâce
+la	DET:ART	le
+peine	NOM	peine
+au	PRP:det	au
+fond	NOM	fond
+des	PRP:det	du
+cieux	NOM	cieux
+,	PUN	,
+lente	ADJ	lent
+,	PUN	,
+mais	KON	mais
+jamais	ADV	jamais
+lasse	ADJ	las
+,	PUN	,
+se	PRO:PER	se
+met	VER:pres	mettre
+en	PRP	en
+marche	NOM	marche
+,	PUN	,
+et	KON	et
+vient	VER:pres	venir
+;	PUN	;
+son	DET:POS	son
+regard	NOM	regard
+est	VER:pres	être
+serein	ADJ	serein
+.	SENT	.
+elle	PRO:PER	elle
+tient	VER:pres	tenir
+sous	PRP	sous
+son	DET:POS	son
+bras	NOM	bras
+son	DET:POS	son
+fouet	NOM	fouet
+aux	PRP:det	au
+clous	NOM	clou
+d'	PRP	de
+airain	NOM	airain
+.	SENT	.

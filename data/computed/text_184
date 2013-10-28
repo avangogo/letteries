@@ -1,142 +1,142 @@
-il	PRO:PER
-est	VER:pres
-amer	ADJ
-et	KON
-doux	ADJ
-,	PUN
-pendant	PRP
-les	DET:ART
-nuits	NOM
-d'	PRP
-hiver	NOM
-,	PUN
-d'	PRP
-écouter	VER:infi
-,	PUN
-près	ADV
-du	PRP:det
-feu	NOM
-qui	PRO:REL
-palpite	VER:pres
-et	KON
-qui	PRO:REL
-fume	VER:pres
-,	PUN
-les	DET:ART
-souvenirs	NOM
-lointains	ADJ
-lentement	ADV
-s'	PRO:PER
-élever	VER:infi
-au	PRP:det
-bruit	NOM
-des	PRP:det
-carillons	NOM
-qui	PRO:REL
-chantent	VER:pres
-dans	PRP
-la	DET:ART
-brume	NOM
-.	SENT
-bienheureuse	NOM
-la	DET:ART
-cloche	NOM
-au	PRP:det
-gosier	NOM
-vigoureux	ADJ
-qui	PRO:REL
-,	PUN
-malgré	PRP
-sa	DET:POS
-vieillesse	NOM
-,	PUN
-alerte	NOM
-et	KON
-bien	ADV
-portante	ADJ
-,	PUN
-jette	VER:pres
-fidèlement	ADV
-son	DET:POS
-cri	NOM
-religieux	ADJ
-,	PUN
-ainsi	KON
-qu'	KON
-un	DET:ART
-vieux	ADJ
-soldat	NOM
-qui	PRO:REL
-veille	VER:pres
-sous	PRP
-la	DET:ART
-tente	NOM
-!	SENT
-moi	PRO:PER
-,	PUN
-mon	DET:POS
-âme	NOM
-est	VER:pres
-fêlée	VER:pper
-,	PUN
-et	KON
-lorsqu'	KON
-en	PRP
-ses	DET:POS
-ennuis	NOM
-elle	PRO:PER
-veut	VER:pres
-de	PRP
-ses	DET:POS
-chants	NOM
-peupler	VER:infi
-l'	DET:ART
-air	NOM
-froid	ADJ
-des	PRP:det
-nuits	NOM
-,	PUN
-il	PRO:PER
-arrive	VER:pres
-souvent	ADV
-que	KON
-sa	DET:POS
-voix	NOM
-affaiblie	VER:pper
-semble	VER:pres
-le	DET:ART
-râle	NOM
-épais	ADJ
-d'	PRP
-un	DET:ART
-blessé	NOM
-qu'	PRO:REL
-on	PRO:PER
-oublie	VER:pres
-au	PRP:det
-bord	NOM
-d'	PRP
-un	DET:ART
-lac	NOM
-de	PRP
-sang	NOM
-,	PUN
-sous	PRP
-un	DET:ART
-grand	ADJ
-tas	NOM
-de	PRP
-morts	NOM
-,	PUN
-et	KON
-qui	PRO:REL
-meurt	VER:pres
-,	PUN
-sans	PRP
-bouger	VER:infi
-,	PUN
-dans	PRP
-d'	PRP
-immenses	ADJ
-efforts	NOM
-!	SENT
+il	PRO:PER	il
+est	VER:pres	être
+amer	ADJ	amer
+et	KON	et
+doux	ADJ	doux
+,	PUN	,
+pendant	PRP	pendant
+les	DET:ART	le
+nuits	NOM	nuit
+d'	PRP	de
+hiver	NOM	hiver
+,	PUN	,
+d'	PRP	de
+écouter	VER:infi	écouter
+,	PUN	,
+près	ADV	près
+du	PRP:det	du
+feu	NOM	feu
+qui	PRO:REL	qui
+palpite	VER:pres	palpiter
+et	KON	et
+qui	PRO:REL	qui
+fume	VER:pres	fumer
+,	PUN	,
+les	DET:ART	le
+souvenirs	NOM	souvenir
+lointains	ADJ	lointain
+lentement	ADV	lentement
+s'	PRO:PER	se
+élever	VER:infi	élever
+au	PRP:det	au
+bruit	NOM	bruit
+des	PRP:det	du
+carillons	NOM	carillon
+qui	PRO:REL	qui
+chantent	VER:pres	chanter
+dans	PRP	dans
+la	DET:ART	le
+brume	NOM	brume
+.	SENT	.
+bienheureuse	NOM	bienheureux
+la	DET:ART	le
+cloche	NOM	cloche
+au	PRP:det	au
+gosier	NOM	gosier
+vigoureux	ADJ	vigoureux
+qui	PRO:REL	qui
+,	PUN	,
+malgré	PRP	malgré
+sa	DET:POS	son
+vieillesse	NOM	vieillesse
+,	PUN	,
+alerte	NOM	alerte
+et	KON	et
+bien	ADV	bien
+portante	ADJ	portant
+,	PUN	,
+jette	VER:pres	jeter
+fidèlement	ADV	fidèlement
+son	DET:POS	son
+cri	NOM	cri
+religieux	ADJ	religieux
+,	PUN	,
+ainsi	KON	ainsi
+qu'	KON	que
+un	DET:ART	un
+vieux	ADJ	vieux
+soldat	NOM	soldat
+qui	PRO:REL	qui
+veille	VER:pres	veiller
+sous	PRP	sous
+la	DET:ART	le
+tente	NOM	tente
+!	SENT	!
+moi	PRO:PER	moi
+,	PUN	,
+mon	DET:POS	mon
+âme	NOM	âme
+est	VER:pres	être
+fêlée	VER:pper	fêler
+,	PUN	,
+et	KON	et
+lorsqu'	KON	lorsque
+en	PRP	en
+ses	DET:POS	son
+ennuis	NOM	ennui
+elle	PRO:PER	elle
+veut	VER:pres	vouloir
+de	PRP	de
+ses	DET:POS	son
+chants	NOM	chant
+peupler	VER:infi	peupler
+l'	DET:ART	le
+air	NOM	air
+froid	ADJ	froid
+des	PRP:det	du
+nuits	NOM	nuit
+,	PUN	,
+il	PRO:PER	il
+arrive	VER:pres	arriver
+souvent	ADV	souvent
+que	KON	que
+sa	DET:POS	son
+voix	NOM	voix
+affaiblie	VER:pper	affaiblir
+semble	VER:pres	sembler
+le	DET:ART	le
+râle	NOM	râle
+épais	ADJ	épais
+d'	PRP	de
+un	DET:ART	un
+blessé	NOM	blessé
+qu'	PRO:REL	que
+on	PRO:PER	on
+oublie	VER:pres	oublier
+au	PRP:det	au
+bord	NOM	bord
+d'	PRP	de
+un	DET:ART	un
+lac	NOM	lac
+de	PRP	de
+sang	NOM	sang
+,	PUN	,
+sous	PRP	sous
+un	DET:ART	un
+grand	ADJ	grand
+tas	NOM	tas
+de	PRP	de
+morts	NOM	mort
+,	PUN	,
+et	KON	et
+qui	PRO:REL	qui
+meurt	VER:pres	mourir
+,	PUN	,
+sans	PRP	sans
+bouger	VER:infi	bouger
+,	PUN	,
+dans	PRP	dans
+d'	PRP	de
+immenses	ADJ	immense
+efforts	NOM	effort
+!	SENT	!

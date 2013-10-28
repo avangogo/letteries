@@ -1,95 +1,95 @@
-comme	ADV
-les	DET:ART
-anges	NOM
-à	PRP
-l'	DET:ART
-oeil	NOM
-fauve	ADJ
-,	PUN
-je	PRO:PER
-reviendrai	VER:futu
-dans	PRP
-ton	DET:POS
-alcôve	NOM
-et	KON
-vers	PRP
-toi	PRO:PER
-glisserai	VER:futu
-sans	PRP
-bruit	NOM
-avec	PRP
-les	DET:ART
-ombres	NOM
-de	PRP
-la	DET:ART
-nuit	NOM
-;	PUN
-et	KON
-je	PRO:PER
-te	PRO:PER
-donnerai	VER:futu
-,	PUN
-ma	DET:POS
-brune	NOM
-,	PUN
-des	PRP:det
-baisers	NOM
-froids	ADJ
-comme	KON
-la	DET:ART
-lune	NOM
-et	KON
-des	PRP:det
-caresses	NOM
-de	PRP
-serpent	NOM
-autour	ADV
-d'	PRP
-une	DET:ART
-fosse	NOM
-rampant	ADJ
-.	SENT
-quand	KON
-viendra	VER:futu
-le	DET:ART
-matin	NOM
-livide	ADJ
-,	PUN
-tu	PRO:PER
-trouveras	VER:futu
-ma	DET:POS
-place	NOM
-vide	ADJ
-,	PUN
-où	PRO:REL
-jusqu'	PRP
-au	PRP:det
-soir	NOM
-il	PRO:PER
-fera	VER:futu
-froid	ADJ
-.	SENT
-comme	KON
-d'	PRP
-autres	ADJ
-par	PRP
-la	DET:ART
-tendresse	NOM
-,	PUN
-sur	PRP
-ta	DET:POS
-vie	NOM
-et	KON
-sur	PRP
-ta	DET:POS
-jeunesse	NOM
-,	PUN
-moi	PRO:PER
-,	PUN
-je	PRO:PER
-veux	VER:pres
-régner	VER:infi
-par	PRP
-l'	DET:ART
-effroi	NOM
-!	SENT
+comme	ADV	comme
+les	DET:ART	le
+anges	NOM	ange
+à	PRP	à
+l'	DET:ART	le
+oeil	NOM	œil
+fauve	ADJ	fauve
+,	PUN	,
+je	PRO:PER	je
+reviendrai	VER:futu	revenir
+dans	PRP	dans
+ton	DET:POS	ton
+alcôve	NOM	alcôve
+et	KON	et
+vers	PRP	vers
+toi	PRO:PER	toi
+glisserai	VER:futu	glisser
+sans	PRP	sans
+bruit	NOM	bruit
+avec	PRP	avec
+les	DET:ART	le
+ombres	NOM	ombre
+de	PRP	de
+la	DET:ART	le
+nuit	NOM	nuit
+;	PUN	;
+et	KON	et
+je	PRO:PER	je
+te	PRO:PER	te
+donnerai	VER:futu	donner
+,	PUN	,
+ma	DET:POS	mon
+brune	NOM	brun|brune
+,	PUN	,
+des	PRP:det	du
+baisers	NOM	baiser
+froids	ADJ	froid
+comme	KON	comme
+la	DET:ART	le
+lune	NOM	lune
+et	KON	et
+des	PRP:det	du
+caresses	NOM	caresse
+de	PRP	de
+serpent	NOM	serpent
+autour	ADV	autour
+d'	PRP	de
+une	DET:ART	un
+fosse	NOM	fosse
+rampant	ADJ	rampant
+.	SENT	.
+quand	KON	quand
+viendra	VER:futu	venir
+le	DET:ART	le
+matin	NOM	matin
+livide	ADJ	livide
+,	PUN	,
+tu	PRO:PER	tu
+trouveras	VER:futu	trouver
+ma	DET:POS	mon
+place	NOM	place
+vide	ADJ	vide
+,	PUN	,
+où	PRO:REL	où
+jusqu'	PRP	jusque
+au	PRP:det	au
+soir	NOM	soir
+il	PRO:PER	il
+fera	VER:futu	faire
+froid	ADJ	froid
+.	SENT	.
+comme	KON	comme
+d'	PRP	de
+autres	ADJ	autre
+par	PRP	par
+la	DET:ART	le
+tendresse	NOM	tendresse
+,	PUN	,
+sur	PRP	sur
+ta	DET:POS	ton
+vie	NOM	vie
+et	KON	et
+sur	PRP	sur
+ta	DET:POS	ton
+jeunesse	NOM	jeunesse
+,	PUN	,
+moi	PRO:PER	moi
+,	PUN	,
+je	PRO:PER	je
+veux	VER:pres	vouloir
+régner	VER:infi	régner
+par	PRP	par
+l'	DET:ART	le
+effroi	NOM	effroi
+!	SENT	!

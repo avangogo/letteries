@@ -1,454 +1,454 @@
-sur	PRP
-l'	DET:ART
-air	NOM
-de	PRP
-malbrouck	NOM
-dans	PRP
-l'	DET:ART
-affreux	ADJ
-cimetière	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-dans	PRP
-l'	DET:ART
-affreux	ADJ
-cimetière	NOM
-frémit	VER:pres
-le	DET:ART
-nénuphar	NOM
-.	SENT
-castaing	NOM
-lève	VER:pres
-sa	DET:POS
-pierre	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-castaing	NOM
-lève	VER:pres
-sa	DET:POS
-pierre	NOM
-dans	PRP
-l'	DET:ART
-herbe	NOM
-de	PRP
-clamar	NOM
-,	PUN
-et	KON
-crie	VER:pres
-et	KON
-vocifère	VER:pres
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-et	KON
-crie	VER:pres
-et	KON
-vocifère	VER:pres
-:	PUN
-je	PRO:PER
-veux	VER:pres
-être	VER:infi
-césar	NOM
-!	SENT
-cartouche	NOM
-en	PRP
-son	DET:POS
-suaire	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-cartouche	NOM
-en	PRP
-son	DET:POS
-suaire	NOM
-s'	PRO:PER
-écrie	VER:pres
-ensanglanté	VER:pper
-je	PRO:PER
-veux	VER:pres
-aller	VER:infi
-sur	PRP
-terre	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-je	PRO:PER
-veux	VER:pres
-aller	VER:infi
-sur	PRP
-terre	NOM
-pour	PRP
-être	VER:infi
-majesté	NOM
-!	SENT
-mingrat	NOM
-monte	VER:pres
-à	PRP
-sa	DET:POS
-chaire	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-mingrat	NOM
-monte	VER:pres
-à	PRP
-sa	DET:POS
-chaire	NOM
-,	PUN
-et	KON
-dit	VER:pper
-,	PUN
-sonnant	VER:ppre
-le	DET:ART
-glas	NOM
-:	PUN
-je	PRO:PER
-veux	VER:pres
-,	PUN
-dans	PRP
-l'	DET:ART
-ombre	NOM
-où	PRO:REL
-j'	PRO:PER
-erre	VER:pres
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-je	PRO:PER
-veux	VER:pres
-,	PUN
-dans	PRP
-l'	DET:ART
-ombre	NOM
-où	PRO:REL
-j'	PRO:PER
-erre	VER:pres
-avec	PRP
-mon	DET:POS
-coutelas	NOM
-,	PUN
-etre	NOM
-appelé	VER:pper
-:	PUN
-mon	DET:POS
-frère	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-etre	NOM
-appelé	VER:pper
-:	PUN
-mon	DET:POS
-frère	NOM
-,	PUN
-par	PRP
-le	DET:ART
-czar	NOM
-nicolas	VER:simp
-!	SENT
-poulmann	NOM
-,	PUN
-dans	PRP
-l'	DET:ART
-ossuaire	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-poulmann	NOM
-dans	PRP
-l'	DET:ART
-ossuaire	NOM
-s'	PRO:PER
-éveillant	VER:ppre
-en	PRP
-fureur	NOM
-,	PUN
-dit	VER:pper
-à	PRP
-mandrin	NOM
-:	PUN
-compère	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-dit	VER:pper
-à	PRP
-mandrin	NOM
-:	PUN
-compère	NOM
-,	PUN
-je	PRO:PER
-veux	VER:pres
-être	VER:infi
-empereur	NOM
-!	SENT
-je	PRO:PER
-veux	VER:pres
-,	PUN
-dit	VER:pres
-lacenaire	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-je	PRO:PER
-veux	VER:pres
-,	PUN
-dit	VER:pres
-lacenaire	NOM
-,	PUN
-etre	ADJ
-empereur	NOM
-et	KON
-roi	NOM
-!	SENT
-et	KON
-soufflard	NOM
-déblatère	VER:pres
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-et	KON
-soufflard	NOM
-déblatère	VER:pres
-,	PUN
-hurlant	VER:ppre
-comme	ADV
-un	DET:ART
-beffroi	NOM
-:	PUN
-au	PRP:det
-lieu	NOM
-de	PRP
-cette	PRO:DEM
-bière	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-au	PRP:det
-lieu	NOM
-de	PRP
-cette	PRO:DEM
-bière	NOM
-,	PUN
-je	PRO:PER
-veux	VER:pres
-le	DET:ART
-louvre	NOM
-,	PUN
-moi	PRO:PER
-ainsi	ADV
-,	PUN
-dans	PRP
-leur	DET:POS
-poussière	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-ainsi	ADV
-,	PUN
-dans	PRP
-leur	DET:POS
-poussière	NOM
-,	PUN
-parlent	VER:pres
-les	DET:ART
-chenapans	NOM
-.	SENT
-çà	ADV
-,	PUN
-dit	VER:pres
-robert	NOM
-macaire	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-çà	ADV
-,	PUN
-dit	VER:pres
-robert	NOM
-macaire	NOM
-,	PUN
-pourquoi	ADV
-ces	PRO:DEM
-cris	NOM
-de	PRP
-paons	NOM
-?	SENT
-pourquoi	ADV
-cette	PRO:DEM
-colère	NOM
-?	SENT
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-pourquoi	ADV
-cette	PRO:DEM
-colère	NOM
-?	SENT
-ne	ADV
-sommes	VER:pres
-nous	PRO:PER
-pas	ADV
-rois	NOM
-?	SENT
-regardez	VER:pres
-,	PUN
-le	DET:ART
-saint	ADJ
-père	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-ô	INT
-misère	NOM
-!	SENT
-regardez	VER:pres
-,	PUN
-le	DET:ART
-saint	ADJ
-père	NOM
-,	PUN
-portant	VER:ppre
-sa	DET:POS
-grande	ADJ
-croix	NOM
-,	PUN
-nous	PRO:PER
-sacre	VER:pres
-tous	PRO:IND
-ensemble	NOM
-,	PUN
-ô	INT
-misère	NOM
-,	PUN
-ô	INT
-douleur	NOM
-,	PUN
-paris	NOM
-tremble	NOM
-!	SENT
-nous	PRO:PER
-sacre	VER:pres
-tous	PRO:IND
-ensemble	NOM
-dans	PRP
-napoléon	NOM
-trois	NUM
-!	SENT
+sur	PRP	sur
+l'	DET:ART	le
+air	NOM	air
+de	PRP	de
+malbrouck	NOM	malbrouck
+dans	PRP	dans
+l'	DET:ART	le
+affreux	ADJ	affreux
+cimetière	NOM	cimetière
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+dans	PRP	dans
+l'	DET:ART	le
+affreux	ADJ	affreux
+cimetière	NOM	cimetière
+frémit	VER:pres	frémir
+le	DET:ART	le
+nénuphar	NOM	nénuphar
+.	SENT	.
+castaing	NOM	castaing
+lève	VER:pres	lever
+sa	DET:POS	son
+pierre	NOM	pierre
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+castaing	NOM	castaing
+lève	VER:pres	lever
+sa	DET:POS	son
+pierre	NOM	pierre
+dans	PRP	dans
+l'	DET:ART	le
+herbe	NOM	herbe
+de	PRP	de
+clamar	NOM	clamar
+,	PUN	,
+et	KON	et
+crie	VER:pres	crier
+et	KON	et
+vocifère	VER:pres	vociférer
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+et	KON	et
+crie	VER:pres	crier
+et	KON	et
+vocifère	VER:pres	vociférer
+:	PUN	:
+je	PRO:PER	je
+veux	VER:pres	vouloir
+être	VER:infi	être
+césar	NOM	césar
+!	SENT	!
+cartouche	NOM	cartouche
+en	PRP	en
+son	DET:POS	son
+suaire	NOM	suaire
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+cartouche	NOM	cartouche
+en	PRP	en
+son	DET:POS	son
+suaire	NOM	suaire
+s'	PRO:PER	se
+écrie	VER:pres	écrier
+ensanglanté	VER:pper	ensanglanter
+je	PRO:PER	je
+veux	VER:pres	vouloir
+aller	VER:infi	aller
+sur	PRP	sur
+terre	NOM	terre
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+aller	VER:infi	aller
+sur	PRP	sur
+terre	NOM	terre
+pour	PRP	pour
+être	VER:infi	être
+majesté	NOM	majesté
+!	SENT	!
+mingrat	NOM	mingrat
+monte	VER:pres	monter
+à	PRP	à
+sa	DET:POS	son
+chaire	NOM	chaire
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+mingrat	NOM	mingrat
+monte	VER:pres	monter
+à	PRP	à
+sa	DET:POS	son
+chaire	NOM	chaire
+,	PUN	,
+et	KON	et
+dit	VER:pper	dire
+,	PUN	,
+sonnant	VER:ppre	sonner
+le	DET:ART	le
+glas	NOM	glas
+:	PUN	:
+je	PRO:PER	je
+veux	VER:pres	vouloir
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+où	PRO:REL	où
+j'	PRO:PER	je
+erre	VER:pres	errer
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+où	PRO:REL	où
+j'	PRO:PER	je
+erre	VER:pres	errer
+avec	PRP	avec
+mon	DET:POS	mon
+coutelas	NOM	coutelas
+,	PUN	,
+etre	NOM	etre
+appelé	VER:pper	appeler
+:	PUN	:
+mon	DET:POS	mon
+frère	NOM	frère
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+etre	NOM	etre
+appelé	VER:pper	appeler
+:	PUN	:
+mon	DET:POS	mon
+frère	NOM	frère
+,	PUN	,
+par	PRP	par
+le	DET:ART	le
+czar	NOM	czar
+nicolas	VER:simp	nicolas
+!	SENT	!
+poulmann	NOM	poulmann
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+ossuaire	NOM	ossuaire
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+poulmann	NOM	poulmann
+dans	PRP	dans
+l'	DET:ART	le
+ossuaire	NOM	ossuaire
+s'	PRO:PER	se
+éveillant	VER:ppre	éveiller
+en	PRP	en
+fureur	NOM	fureur
+,	PUN	,
+dit	VER:pper	dire
+à	PRP	à
+mandrin	NOM	mandrin
+:	PUN	:
+compère	NOM	compère
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+dit	VER:pper	dire
+à	PRP	à
+mandrin	NOM	mandrin
+:	PUN	:
+compère	NOM	compère
+,	PUN	,
+je	PRO:PER	je
+veux	VER:pres	vouloir
+être	VER:infi	être
+empereur	NOM	empereur
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+,	PUN	,
+dit	VER:pres	dire
+lacenaire	NOM	lacenaire
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+,	PUN	,
+dit	VER:pres	dire
+lacenaire	NOM	lacenaire
+,	PUN	,
+etre	ADJ	etre
+empereur	NOM	empereur
+et	KON	et
+roi	NOM	roi
+!	SENT	!
+et	KON	et
+soufflard	NOM	soufflard
+déblatère	VER:pres	déblatérer
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+et	KON	et
+soufflard	NOM	soufflard
+déblatère	VER:pres	déblatérer
+,	PUN	,
+hurlant	VER:ppre	hurler
+comme	ADV	comme
+un	DET:ART	un
+beffroi	NOM	beffroi
+:	PUN	:
+au	PRP:det	au
+lieu	NOM	lieu
+de	PRP	de
+cette	PRO:DEM	ce
+bière	NOM	bière
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+au	PRP:det	au
+lieu	NOM	lieu
+de	PRP	de
+cette	PRO:DEM	ce
+bière	NOM	bière
+,	PUN	,
+je	PRO:PER	je
+veux	VER:pres	vouloir
+le	DET:ART	le
+louvre	NOM	louvre
+,	PUN	,
+moi	PRO:PER	moi
+ainsi	ADV	ainsi
+,	PUN	,
+dans	PRP	dans
+leur	DET:POS	leur
+poussière	NOM	poussière
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+ainsi	ADV	ainsi
+,	PUN	,
+dans	PRP	dans
+leur	DET:POS	leur
+poussière	NOM	poussière
+,	PUN	,
+parlent	VER:pres	parler
+les	DET:ART	le
+chenapans	NOM	chenapan
+.	SENT	.
+çà	ADV	çà
+,	PUN	,
+dit	VER:pres	dire
+robert	NOM	robert
+macaire	NOM	macaire
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+çà	ADV	çà
+,	PUN	,
+dit	VER:pres	dire
+robert	NOM	robert
+macaire	NOM	macaire
+,	PUN	,
+pourquoi	ADV	pourquoi
+ces	PRO:DEM	ce
+cris	NOM	cri
+de	PRP	de
+paons	NOM	paon
+?	SENT	?
+pourquoi	ADV	pourquoi
+cette	PRO:DEM	ce
+colère	NOM	colère
+?	SENT	?
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+pourquoi	ADV	pourquoi
+cette	PRO:DEM	ce
+colère	NOM	colère
+?	SENT	?
+ne	ADV	ne
+sommes	VER:pres	sommer|être
+nous	PRO:PER	nous
+pas	ADV	pas
+rois	NOM	roi
+?	SENT	?
+regardez	VER:pres	regarder
+,	PUN	,
+le	DET:ART	le
+saint	ADJ	saint
+père	NOM	père
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+!	SENT	!
+regardez	VER:pres	regarder
+,	PUN	,
+le	DET:ART	le
+saint	ADJ	saint
+père	NOM	père
+,	PUN	,
+portant	VER:ppre	porter
+sa	DET:POS	son
+grande	ADJ	grand
+croix	NOM	croix
+,	PUN	,
+nous	PRO:PER	nous
+sacre	VER:pres	sacrer
+tous	PRO:IND	tout
+ensemble	NOM	ensemble
+,	PUN	,
+ô	INT	ô
+misère	NOM	misère
+,	PUN	,
+ô	INT	ô
+douleur	NOM	douleur
+,	PUN	,
+paris	NOM	pari
+tremble	NOM	tremble
+!	SENT	!
+nous	PRO:PER	nous
+sacre	VER:pres	sacrer
+tous	PRO:IND	tout
+ensemble	NOM	ensemble
+dans	PRP	dans
+napoléon	NOM	napoléon
+trois	NUM	trois
+!	SENT	!

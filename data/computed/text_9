@@ -1,622 +1,622 @@
-des	PRP:det
-sabres	NOM
-sont	VER:pres
-partout	ADV
-posés	VER:pper
-sur	PRP
-les	DET:ART
-provinces	NOM
-.	SENT
-l'	DET:ART
-autel	NOM
-ment	VER:pres
-.	SENT
-on	PRO:PER
-entend	VER:pres
-ceux	PRO:DEM
-qu'	PRO:REL
-on	PRO:PER
-nomme	VER:pres
-les	DET:ART
-princes	NOM
-jurer	VER:infi
-,	PUN
-d'	PRP
-un	DET:ART
-front	NOM
-tranquille	ADJ
-et	KON
-sans	PRP
-baisser	VER:infi
-les	DET:ART
-yeux	NOM
-,	PUN
-de	PRP
-faux	ADJ
-serpents	NOM
-qui	PRO:REL
-font	VER:pres
-,	PUN
-tant	ADV
-ils	PRO:PER
-navrent	VER:pres
-les	DET:ART
-âmes	NOM
-,	PUN
-tant	ADV
-ils	PRO:PER
-sont	VER:pres
-monstrueux	ADJ
-,	PUN
-effroyables	ADJ
-,	PUN
-infâmes	ADJ
-,	PUN
-remuer	VER:infi
-le	DET:ART
-tonnerre	NOM
-endormi	VER:pper
-dans	PRP
-les	DET:ART
-cieux	NOM
-.	SENT
-les	DET:ART
-soldats	NOM
-ont	VER:pres
-fouetté	VER:pper
-des	PRP:det
-femmes	NOM
-dans	PRP
-les	DET:ART
-rues	NOM
-.	SENT
-où	PRO:REL
-sont	VER:pres
-la	DET:ART
-liberté	NOM
-,	PUN
-la	DET:ART
-vertu	NOM
-?	SENT
-disparues	VER:pper
-!	SENT
-dans	PRP
-l'	DET:ART
-exil	NOM
-!	SENT
-dans	PRP
-l'	DET:ART
-horreur	NOM
-des	PRP:det
-pontons	NOM
-étouffants	ADJ
-!	SENT
-ô	INT
-nations	NOM
-!	SENT
-où	PRO:REL
-sont	VER:pres
-vos	DET:POS
-âmes	NOM
-les	DET:ART
-plus	ADV
-belles	ADJ
-?	SENT
-le	DET:ART
-boulet	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-trop	ADV
-peu	ADV
-contre	PRP
-de	PRP
-tels	PRO:DEM
-rebelles	ADJ
-haynau	NOM
-dans	PRP
-les	DET:ART
-canons	NOM
-met	VER:pres
-des	PRP:det
-têtes	NOM
-d'	PRP
-enfants	NOM
-.	SENT
-peuple	NOM
-russe	ADJ
-,	PUN
-tremblant	VER:ppre
-et	KON
-morne	ADJ
-,	PUN
-tu	PRO:PER
-chemines	VER:pres
-,	PUN
-serf	ADJ
-à	PRP
-saint	ADJ
-pétersbourg	NOM
-,	PUN
-ou	KON
-forçat	NOM
-dans	PRP
-les	DET:ART
-mines	NOM
-.	SENT
-le	DET:ART
-pôle	NOM
-est	VER:pres
-pour	PRP
-ton	DET:POS
-maître	NOM
-un	DET:ART
-cachot	NOM
-vaste	ADJ
-et	KON
-noir	ADJ
-;	PUN
-russie	ADJ
-et	KON
-sibérie	ADJ
-,	PUN
-ô	INT
-czar	NOM
-!	SENT
-tyran	NOM
-!	SENT
-vampire	NOM
-!	SENT
-ce	PRO:DEM
-sont	VER:pres
-les	DET:ART
-deux	NUM
-moitiés	NOM
-de	PRP
-ton	DET:POS
-funèbre	ADJ
-empire	NOM
-;	PUN
-l'	DET:ART
-une	NUM
-est	VER:pres
-l'	DET:ART
-oppression	NOM
-,	PUN
-l'	DET:ART
-autre	ADJ
-est	VER:pres
-le	DET:ART
-désespoir	NOM
-.	SENT
-les	DET:ART
-supplices	NOM
-d'	PRP
-ancône	NOM
-emplissent	VER:pres
-les	DET:ART
-murailles	NOM
-.	SENT
-le	DET:ART
-pape	NOM
-mastaï	NOM
-fusille	VER:pres
-ses	DET:POS
-ouailles	NOM
-;	PUN
-il	PRO:PER
-pose	VER:pres
-là	ADV
-l'	DET:ART
-hostie	NOM
-et	KON
-commande	VER:pres
-le	DET:ART
-feu	NOM
-.	SENT
-simoncelli	NOM
-périt	VER:pres
-le	DET:ART
-premier	NOM
-;	PUN
-tous	PRO:IND
-les	DET:ART
-autres	ADJ
-le	PRO:PER
-suivent	VER:pres
-sans	PRP
-pâlir	VER:infi
-,	PUN
-tribuns	NOM
-,	PUN
-soldats	NOM
-,	PUN
-apôtres	NOM
-;	PUN
-ils	PRO:PER
-meurent	VER:pres
-,	PUN
-et	KON
-s'	PRO:PER
-en	PRO:PER
-vont	VER:pres
-parler	VER:infi
-du	PRP:det
-prêtre	NOM
-à	PRP
-dieu	NOM
-.	SENT
-saint	ADJ
-père	NOM
-,	PUN
-sur	PRP
-tes	DET:POS
-mains	NOM
-laisse	VER:pres
-tomber	VER:infi
-tes	DET:POS
-manches	NOM
-!	SENT
-saint	ADJ
-père	NOM
-,	PUN
-on	PRO:PER
-voit	VER:pres
-du	PRP:det
-sang	NOM
-à	PRP
-tes	DET:POS
-sandales	NOM
-blanches	ADJ
-!	SENT
-borgia	NOM
-te	PRO:PER
-sourit	VER:pres
-,	PUN
-le	DET:ART
-pape	NOM
-empoisonneur	ADJ
-.	SENT
-combien	ADV
-sont	VER:pres
-morts	VER:pper
-?	SENT
-combien	ADV
-mourront	VER:futu
-?	SENT
-qui	PRO:REL
-sait	VER:pres
-le	DET:ART
-nombre	NOM
-?	SENT
-ce	PRO:DEM
-qui	PRO:REL
-mène	VER:pres
-aujourd'hui	ADV
-votre	DET:POS
-troupeau	NOM
-dans	PRP
-l'	DET:ART
-ombre	NOM
-,	PUN
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-pas	ADV
-le	DET:ART
-berger	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-boucher	ADJ
-,	PUN
-seigneur	NOM
-!	SENT
-italie	NOM
-!	SENT
-allemagne	NOM
-!	SENT
-ô	INT
-sicile	NOM
-!	SENT
-ô	INT
-hongrie	VER:pper
-!	SENT
-europe	NOM
-,	PUN
-aïeule	NOM
-en	PRP
-pleurs	NOM
-,	PUN
-de	PRP
-misère	NOM
-amaigrie	VER:pper
-,	PUN
-vos	DET:POS
-meilleurs	ADJ
-fils	NOM
-sont	VER:pres
-morts	VER:pper
-;	PUN
-l'	DET:ART
-honneur	NOM
-sombre	ADJ
-est	VER:pres
-absent	ADJ
-.	SENT
-au	PRP:det
-midi	NOM
-l'	DET:ART
-échafaud	NOM
-,	PUN
-au	PRP:det
-nord	NOM
-un	DET:ART
-ossuaire	NOM
-.	SENT
-la	DET:ART
-lune	NOM
-chaque	PRO:IND
-nuit	NOM
-se	PRO:PER
-lève	VER:pres
-en	PRP
-un	DET:ART
-suaire	NOM
-,	PUN
-le	DET:ART
-soleil	NOM
-chaque	PRO:IND
-soir	NOM
-se	PRO:PER
-couche	VER:pres
-dans	PRP
-du	PRP:det
-sang	NOM
-.	SENT
-sur	PRP
-les	DET:ART
-français	ADJ
-vaincus	VER:pper
-un	DET:ART
-saint	ADJ
-office	NOM
-pèse	NOM
-.	SENT
-un	DET:ART
-brigand	NOM
-les	PRO:PER
-égorge	VER:pres
-,	PUN
-et	KON
-dit	VER:pper
-:	PUN
-je	PRO:PER
-les	PRO:PER
-apaise	VER:pres
-.	SENT
-paris	NOM
-lave	NOM
-à	PRP
-genoux	NOM
-le	DET:ART
-sang	NOM
-qui	PRO:REL
-l'	PRO:PER
-inonda	VER:simp
-;	PUN
-la	DET:ART
-france	NOM
-garrottée	VER:pper
-assiste	VER:pres
-à	PRP
-l'	DET:ART
-hécatombe	NOM
-.	SENT
-par	PRP
-les	DET:ART
-pleurs	NOM
-,	PUN
-par	PRP
-les	DET:ART
-cris	NOM
-,	PUN
-réveillés	VER:pper
-dans	PRP
-la	DET:ART
-tombe	NOM
-,	PUN
-bien	ADV
-!	SENT
-dit	VER:pres
-laubardemont	VER:futu
-;	PUN
-va	VER:pres
-!	SENT
-dit	VER:pres
-torquemada	NOM
-.	SENT
-batthyani	NOM
-,	PUN
-sandor	NOM
-,	PUN
-poërio	NOM
-,	PUN
-victimes	NOM
-!	SENT
-pour	PRP
-le	DET:ART
-peuple	NOM
-et	KON
-le	DET:ART
-droit	NOM
-en	PRP
-vain	ADJ
-nous	PRO:PER
-combattîmes	VER:simp
-.	SENT
-baudin	ADJ
-tombe	NOM
-,	PUN
-agitant	VER:ppre
-son	DET:POS
-écharpe	NOM
-en	PRP
-lambeau	NOM
-.	SENT
-pleurez	VER:pres
-dans	PRP
-les	DET:ART
-forêts	NOM
-,	PUN
-pleurez	VER:pres
-sur	PRP
-les	DET:ART
-montagnes	NOM
-!	SENT
-où	ADV
-dieu	NOM
-mit	VER:simp
-des	PRP:det
-édens	NOM
-les	DET:ART
-rois	NOM
-mettent	VER:pres
-des	PRP:det
-bagnes	NOM
-venise	NOM
-est	VER:pres
-une	DET:ART
-chiourme	NOM
-et	KON
-naple	NOM
-est	VER:pres
-un	DET:ART
-tombeau	NOM
-.	SENT
-le	DET:ART
-gibet	NOM
-sur	PRP
-arad	NOM
-!	SENT
-le	DET:ART
-gibet	NOM
-sur	PRP
-palerme	NOM
-!	SENT
-la	DET:ART
-corde	NOM
-à	PRP
-ces	PRO:DEM
-héros	NOM
-qui	PRO:REL
-levaient	VER:impf
-d'	PRP
-un	DET:ART
-bras	NOM
-ferme	VER:subp
-leur	DET:POS
-drapeau	NOM
-libre	ADJ
-et	KON
-fier	VER:infi
-devant	PRP
-les	DET:ART
-rois	NOM
-tremblants	ADJ
-!	SENT
-tandis	KON
-qu'	PRO:REL
-on	PRO:PER
-va	VER:pres
-sacrer	VER:infi
-l'	DET:ART
-empereur	NOM
-schinderhannes	NOM
-,	PUN
-martyrs	NOM
-,	PUN
-la	DET:ART
-pluie	NOM
-à	PRP
-flots	NOM
-ruisselle	VER:pres
-sur	PRP
-vos	DET:POS
-crânes	NOM
-,	PUN
-et	KON
-le	DET:ART
-bec	NOM
-des	PRP:det
-corbeaux	NOM
-fouillé	VER:pper
-vos	DET:POS
-yeux	NOM
-sanglants	ADJ
-.	SENT
-avenir	NOM
-!	SENT
-avenir	NOM
-!	SENT
-voici	ADV
-que	KON
-tout	ADV
-s'	PRO:PER
-écroule	VER:pres
-!	SENT
-les	DET:ART
-pâles	ADJ
-rois	NOM
-ont	VER:pres
-fui	VER:pper
-,	PUN
-la	DET:ART
-mer	NOM
-vient	VER:pres
-,	PUN
-le	DET:ART
-flot	NOM
-roule	VER:pres
-,	PUN
-peuples	NOM
-!	SENT
-le	DET:ART
-clairon	NOM
-sonne	VER:pres
-aux	PRP:det
-quatre	NUM
-coins	NOM
-du	PRP:det
-ciel	NOM
-;	PUN
-quelle	PRO:REL
-fuite	VER:pres
-effrayante	ADJ
-et	KON
-sombre	ADJ
-!	SENT
-les	DET:ART
-armées	NOM
-s'	PRO:PER
-en	PRO:PER
-vont	VER:pres
-dans	PRP
-la	DET:ART
-tempête	NOM
-en	PRP
-cendres	NOM
-enflammées	VER:pper
-,	PUN
-l'	DET:ART
-épouvante	NOM
-se	PRO:PER
-lève	VER:pres
-.	SENT
-allons	INT
-,	PUN
-dit	VER:pres
-l'	DET:ART
-eternel	NOM
-!	SENT
+des	PRP:det	du
+sabres	NOM	sabre
+sont	VER:pres	être
+partout	ADV	partout
+posés	VER:pper	poser
+sur	PRP	sur
+les	DET:ART	le
+provinces	NOM	province
+.	SENT	.
+l'	DET:ART	le
+autel	NOM	autel
+ment	VER:pres	mentir
+.	SENT	.
+on	PRO:PER	on
+entend	VER:pres	entendre
+ceux	PRO:DEM	celui
+qu'	PRO:REL	que
+on	PRO:PER	on
+nomme	VER:pres	nommer
+les	DET:ART	le
+princes	NOM	prince
+jurer	VER:infi	jurer
+,	PUN	,
+d'	PRP	de
+un	DET:ART	un
+front	NOM	front
+tranquille	ADJ	tranquille
+et	KON	et
+sans	PRP	sans
+baisser	VER:infi	baisser
+les	DET:ART	le
+yeux	NOM	œil
+,	PUN	,
+de	PRP	de
+faux	ADJ	faux
+serpents	NOM	serpent
+qui	PRO:REL	qui
+font	VER:pres	faire
+,	PUN	,
+tant	ADV	tant
+ils	PRO:PER	il
+navrent	VER:pres	navrer
+les	DET:ART	le
+âmes	NOM	âme
+,	PUN	,
+tant	ADV	tant
+ils	PRO:PER	il
+sont	VER:pres	être
+monstrueux	ADJ	monstrueux
+,	PUN	,
+effroyables	ADJ	effroyable
+,	PUN	,
+infâmes	ADJ	infâme
+,	PUN	,
+remuer	VER:infi	remuer
+le	DET:ART	le
+tonnerre	NOM	tonnerre
+endormi	VER:pper	endormir
+dans	PRP	dans
+les	DET:ART	le
+cieux	NOM	cieux
+.	SENT	.
+les	DET:ART	le
+soldats	NOM	soldat
+ont	VER:pres	avoir
+fouetté	VER:pper	fouetter
+des	PRP:det	du
+femmes	NOM	femme
+dans	PRP	dans
+les	DET:ART	le
+rues	NOM	rue
+.	SENT	.
+où	PRO:REL	où
+sont	VER:pres	être
+la	DET:ART	le
+liberté	NOM	liberté
+,	PUN	,
+la	DET:ART	le
+vertu	NOM	vertu
+?	SENT	?
+disparues	VER:pper	disparaître
+!	SENT	!
+dans	PRP	dans
+l'	DET:ART	le
+exil	NOM	exil
+!	SENT	!
+dans	PRP	dans
+l'	DET:ART	le
+horreur	NOM	horreur
+des	PRP:det	du
+pontons	NOM	ponton
+étouffants	ADJ	étouffant
+!	SENT	!
+ô	INT	ô
+nations	NOM	nation
+!	SENT	!
+où	PRO:REL	où
+sont	VER:pres	être
+vos	DET:POS	votre
+âmes	NOM	âme
+les	DET:ART	le
+plus	ADV	plus
+belles	ADJ	beau
+?	SENT	?
+le	DET:ART	le
+boulet	NOM	boulet
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+trop	ADV	trop
+peu	ADV	peu
+contre	PRP	contre
+de	PRP	de
+tels	PRO:DEM	tel
+rebelles	ADJ	rebelle
+haynau	NOM	haynau
+dans	PRP	dans
+les	DET:ART	le
+canons	NOM	canon
+met	VER:pres	mettre
+des	PRP:det	du
+têtes	NOM	tête
+d'	PRP	de
+enfants	NOM	enfant
+.	SENT	.
+peuple	NOM	peuple
+russe	ADJ	russe
+,	PUN	,
+tremblant	VER:ppre	trembler
+et	KON	et
+morne	ADJ	morne
+,	PUN	,
+tu	PRO:PER	tu
+chemines	VER:pres	cheminer
+,	PUN	,
+serf	ADJ	serf
+à	PRP	à
+saint	ADJ	saint
+pétersbourg	NOM	pétersbourg
+,	PUN	,
+ou	KON	ou
+forçat	NOM	forçat
+dans	PRP	dans
+les	DET:ART	le
+mines	NOM	mine
+.	SENT	.
+le	DET:ART	le
+pôle	NOM	pôle
+est	VER:pres	être
+pour	PRP	pour
+ton	DET:POS	ton
+maître	NOM	maître
+un	DET:ART	un
+cachot	NOM	cachot
+vaste	ADJ	vaste
+et	KON	et
+noir	ADJ	noir
+;	PUN	;
+russie	ADJ	russie
+et	KON	et
+sibérie	ADJ	sibérie
+,	PUN	,
+ô	INT	ô
+czar	NOM	czar
+!	SENT	!
+tyran	NOM	tyran
+!	SENT	!
+vampire	NOM	vampire
+!	SENT	!
+ce	PRO:DEM	ce
+sont	VER:pres	être
+les	DET:ART	le
+deux	NUM	deux
+moitiés	NOM	moitié
+de	PRP	de
+ton	DET:POS	ton
+funèbre	ADJ	funèbre
+empire	NOM	empire
+;	PUN	;
+l'	DET:ART	le
+une	NUM	un
+est	VER:pres	être
+l'	DET:ART	le
+oppression	NOM	oppression
+,	PUN	,
+l'	DET:ART	le
+autre	ADJ	autre
+est	VER:pres	être
+le	DET:ART	le
+désespoir	NOM	désespoir
+.	SENT	.
+les	DET:ART	le
+supplices	NOM	supplice
+d'	PRP	de
+ancône	NOM	ancône
+emplissent	VER:pres	emplir
+les	DET:ART	le
+murailles	NOM	muraille
+.	SENT	.
+le	DET:ART	le
+pape	NOM	pape
+mastaï	NOM	mastaï
+fusille	VER:pres	fusiller
+ses	DET:POS	son
+ouailles	NOM	ouaille
+;	PUN	;
+il	PRO:PER	il
+pose	VER:pres	poser
+là	ADV	là
+l'	DET:ART	le
+hostie	NOM	hostie
+et	KON	et
+commande	VER:pres	commander
+le	DET:ART	le
+feu	NOM	feu
+.	SENT	.
+simoncelli	NOM	simoncelli
+périt	VER:pres	périr
+le	DET:ART	le
+premier	NOM	premier
+;	PUN	;
+tous	PRO:IND	tout
+les	DET:ART	le
+autres	ADJ	autre
+le	PRO:PER	le
+suivent	VER:pres	suivre
+sans	PRP	sans
+pâlir	VER:infi	pâlir
+,	PUN	,
+tribuns	NOM	tribun
+,	PUN	,
+soldats	NOM	soldat
+,	PUN	,
+apôtres	NOM	apôtre
+;	PUN	;
+ils	PRO:PER	il
+meurent	VER:pres	mourir
+,	PUN	,
+et	KON	et
+s'	PRO:PER	se
+en	PRO:PER	en
+vont	VER:pres	aller
+parler	VER:infi	parler
+du	PRP:det	du
+prêtre	NOM	prêtre
+à	PRP	à
+dieu	NOM	dieu
+.	SENT	.
+saint	ADJ	saint
+père	NOM	père
+,	PUN	,
+sur	PRP	sur
+tes	DET:POS	ton
+mains	NOM	main
+laisse	VER:pres	laisser
+tomber	VER:infi	tomber
+tes	DET:POS	ton
+manches	NOM	manche
+!	SENT	!
+saint	ADJ	saint
+père	NOM	père
+,	PUN	,
+on	PRO:PER	on
+voit	VER:pres	voir
+du	PRP:det	du
+sang	NOM	sang
+à	PRP	à
+tes	DET:POS	ton
+sandales	NOM	sandale
+blanches	ADJ	blanc
+!	SENT	!
+borgia	NOM	borgia
+te	PRO:PER	te
+sourit	VER:pres	sourire
+,	PUN	,
+le	DET:ART	le
+pape	NOM	pape
+empoisonneur	ADJ	empoisonneur
+.	SENT	.
+combien	ADV	combien
+sont	VER:pres	être
+morts	VER:pper	mourir
+?	SENT	?
+combien	ADV	combien
+mourront	VER:futu	mourir
+?	SENT	?
+qui	PRO:REL	qui
+sait	VER:pres	savoir
+le	DET:ART	le
+nombre	NOM	nombre
+?	SENT	?
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+mène	VER:pres	mener
+aujourd'hui	ADV	aujourd'hui
+votre	DET:POS	votre
+troupeau	NOM	troupeau
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+,	PUN	,
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+le	DET:ART	le
+berger	NOM	berger
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+boucher	ADJ	boucher
+,	PUN	,
+seigneur	NOM	seigneur
+!	SENT	!
+italie	NOM	italie
+!	SENT	!
+allemagne	NOM	allemagne
+!	SENT	!
+ô	INT	ô
+sicile	NOM	sicile
+!	SENT	!
+ô	INT	ô
+hongrie	VER:pper	hongrie
+!	SENT	!
+europe	NOM	europe
+,	PUN	,
+aïeule	NOM	aïeul
+en	PRP	en
+pleurs	NOM	pleur|pleurs
+,	PUN	,
+de	PRP	de
+misère	NOM	misère
+amaigrie	VER:pper	amaigrir
+,	PUN	,
+vos	DET:POS	votre
+meilleurs	ADJ	meilleur
+fils	NOM	fil|fils
+sont	VER:pres	être
+morts	VER:pper	mourir
+;	PUN	;
+l'	DET:ART	le
+honneur	NOM	honneur
+sombre	ADJ	sombre
+est	VER:pres	être
+absent	ADJ	absent
+.	SENT	.
+au	PRP:det	au
+midi	NOM	midi
+l'	DET:ART	le
+échafaud	NOM	échafaud
+,	PUN	,
+au	PRP:det	au
+nord	NOM	nord
+un	DET:ART	un
+ossuaire	NOM	ossuaire
+.	SENT	.
+la	DET:ART	le
+lune	NOM	lune
+chaque	PRO:IND	chaque
+nuit	NOM	nuit
+se	PRO:PER	se
+lève	VER:pres	lever
+en	PRP	en
+un	DET:ART	un
+suaire	NOM	suaire
+,	PUN	,
+le	DET:ART	le
+soleil	NOM	soleil
+chaque	PRO:IND	chaque
+soir	NOM	soir
+se	PRO:PER	se
+couche	VER:pres	coucher
+dans	PRP	dans
+du	PRP:det	du
+sang	NOM	sang
+.	SENT	.
+sur	PRP	sur
+les	DET:ART	le
+français	ADJ	français
+vaincus	VER:pper	vaincre
+un	DET:ART	un
+saint	ADJ	saint
+office	NOM	office
+pèse	NOM	pèse
+.	SENT	.
+un	DET:ART	un
+brigand	NOM	brigand
+les	PRO:PER	la|le
+égorge	VER:pres	égorger
+,	PUN	,
+et	KON	et
+dit	VER:pper	dire
+:	PUN	:
+je	PRO:PER	je
+les	PRO:PER	la|le
+apaise	VER:pres	apaiser
+.	SENT	.
+paris	NOM	pari
+lave	NOM	lave
+à	PRP	à
+genoux	NOM	genou
+le	DET:ART	le
+sang	NOM	sang
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+inonda	VER:simp	inonder
+;	PUN	;
+la	DET:ART	le
+france	NOM	france
+garrottée	VER:pper	garrotter
+assiste	VER:pres	assister
+à	PRP	à
+l'	DET:ART	le
+hécatombe	NOM	hécatombe
+.	SENT	.
+par	PRP	par
+les	DET:ART	le
+pleurs	NOM	pleur|pleurs
+,	PUN	,
+par	PRP	par
+les	DET:ART	le
+cris	NOM	cri
+,	PUN	,
+réveillés	VER:pper	réveiller
+dans	PRP	dans
+la	DET:ART	le
+tombe	NOM	tombe
+,	PUN	,
+bien	ADV	bien
+!	SENT	!
+dit	VER:pres	dire
+laubardemont	VER:futu	laubardemont
+;	PUN	;
+va	VER:pres	aller
+!	SENT	!
+dit	VER:pres	dire
+torquemada	NOM	torquemada
+.	SENT	.
+batthyani	NOM	batthyani
+,	PUN	,
+sandor	NOM	sandor
+,	PUN	,
+poërio	NOM	poërio
+,	PUN	,
+victimes	NOM	victime
+!	SENT	!
+pour	PRP	pour
+le	DET:ART	le
+peuple	NOM	peuple
+et	KON	et
+le	DET:ART	le
+droit	NOM	droit
+en	PRP	en
+vain	ADJ	vain
+nous	PRO:PER	nous
+combattîmes	VER:simp	combattre
+.	SENT	.
+baudin	ADJ	baudin
+tombe	NOM	tombe
+,	PUN	,
+agitant	VER:ppre	agiter
+son	DET:POS	son
+écharpe	NOM	écharpe
+en	PRP	en
+lambeau	NOM	lambeau
+.	SENT	.
+pleurez	VER:pres	pleurer
+dans	PRP	dans
+les	DET:ART	le
+forêts	NOM	forêt
+,	PUN	,
+pleurez	VER:pres	pleurer
+sur	PRP	sur
+les	DET:ART	le
+montagnes	NOM	montagne
+!	SENT	!
+où	ADV	où
+dieu	NOM	dieu
+mit	VER:simp	mettre
+des	PRP:det	du
+édens	NOM	éden
+les	DET:ART	le
+rois	NOM	roi
+mettent	VER:pres	mettre
+des	PRP:det	du
+bagnes	NOM	bagne
+venise	NOM	venise
+est	VER:pres	être
+une	DET:ART	un
+chiourme	NOM	chiourme
+et	KON	et
+naple	NOM	naple
+est	VER:pres	être
+un	DET:ART	un
+tombeau	NOM	tombeau
+.	SENT	.
+le	DET:ART	le
+gibet	NOM	gibet
+sur	PRP	sur
+arad	NOM	arad
+!	SENT	!
+le	DET:ART	le
+gibet	NOM	gibet
+sur	PRP	sur
+palerme	NOM	palerme
+!	SENT	!
+la	DET:ART	le
+corde	NOM	corde
+à	PRP	à
+ces	PRO:DEM	ce
+héros	NOM	héro|héros
+qui	PRO:REL	qui
+levaient	VER:impf	lever
+d'	PRP	de
+un	DET:ART	un
+bras	NOM	bras
+ferme	VER:subp	fermer
+leur	DET:POS	leur
+drapeau	NOM	drapeau
+libre	ADJ	libre
+et	KON	et
+fier	VER:infi	fier
+devant	PRP	devant
+les	DET:ART	le
+rois	NOM	roi
+tremblants	ADJ	tremblant
+!	SENT	!
+tandis	KON	tandis
+qu'	PRO:REL	que
+on	PRO:PER	on
+va	VER:pres	aller
+sacrer	VER:infi	sacrer
+l'	DET:ART	le
+empereur	NOM	empereur
+schinderhannes	NOM	schinderhannes
+,	PUN	,
+martyrs	NOM	martyr
+,	PUN	,
+la	DET:ART	le
+pluie	NOM	pluie
+à	PRP	à
+flots	NOM	flot
+ruisselle	VER:pres	ruisseler
+sur	PRP	sur
+vos	DET:POS	votre
+crânes	NOM	crâne
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+bec	NOM	bec
+des	PRP:det	du
+corbeaux	NOM	corbeau
+fouillé	VER:pper	fouiller
+vos	DET:POS	votre
+yeux	NOM	œil
+sanglants	ADJ	sanglant
+.	SENT	.
+avenir	NOM	avenir
+!	SENT	!
+avenir	NOM	avenir
+!	SENT	!
+voici	ADV	voici
+que	KON	que
+tout	ADV	tout
+s'	PRO:PER	se
+écroule	VER:pres	écrouler
+!	SENT	!
+les	DET:ART	le
+pâles	ADJ	pâle
+rois	NOM	roi
+ont	VER:pres	avoir
+fui	VER:pper	fuir
+,	PUN	,
+la	DET:ART	le
+mer	NOM	mer
+vient	VER:pres	venir
+,	PUN	,
+le	DET:ART	le
+flot	NOM	flot
+roule	VER:pres	rouler
+,	PUN	,
+peuples	NOM	peuple
+!	SENT	!
+le	DET:ART	le
+clairon	NOM	clairon
+sonne	VER:pres	sonner
+aux	PRP:det	au
+quatre	NUM	quatre
+coins	NOM	coin
+du	PRP:det	du
+ciel	NOM	ciel
+;	PUN	;
+quelle	PRO:REL	quel
+fuite	VER:pres	fuiter
+effrayante	ADJ	effrayant
+et	KON	et
+sombre	ADJ	sombre
+!	SENT	!
+les	DET:ART	le
+armées	NOM	armée
+s'	PRO:PER	se
+en	PRO:PER	en
+vont	VER:pres	aller
+dans	PRP	dans
+la	DET:ART	le
+tempête	NOM	tempête
+en	PRP	en
+cendres	NOM	cendre
+enflammées	VER:pper	enflammer
+,	PUN	,
+l'	DET:ART	le
+épouvante	NOM	épouvante
+se	PRO:PER	se
+lève	VER:pres	lever
+.	SENT	.
+allons	INT	allons
+,	PUN	,
+dit	VER:pres	dire
+l'	DET:ART	le
+eternel	NOM	eternel
+!	SENT	!

@@ -1,239 +1,239 @@
-l'	DET:ART
-histoire	NOM
-a	VER:pres
-pour	PRP
-égout	NOM
-des	PRP:det
-temps	NOM
-comme	KON
-les	PRO:PER
-nôtres	PRO:POS
-,	PUN
-et	KON
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-que	KON
-la	DET:ART
-table	NOM
-est	VER:pres
-mise	VER:pper
-pour	KON
-vous	PRO:PER
-autres	ADJ
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-,	PUN
-sur	PRP
-cette	PRO:DEM
-nappe	NOM
-où	PRO:REL
-joyeux	ADJ
-vous	PRO:PER
-mangez	VER:pres
-,	PUN
-qu'	PRO:REL
-on	PRO:PER
-voit	VER:pres
-,	PUN
-tandis	KON
-qu'	KON
-ailleurs	ADV
-,	PUN
-nus	NOM
-et	KON
-de	PRP
-fers	NOM
-chargés	VER:pper
-,	PUN
-agonisent	VER:pres
-,	PUN
-sereins	ADJ
-,	PUN
-calmes	ADJ
-,	PUN
-le	DET:ART
-front	NOM
-sévère	ADJ
-,	PUN
-socrate	NOM
-à	PRP
-l'	DET:ART
-agora	NOM
-,	PUN
-jésus	NOM
-christ	NOM
-au	PRP:det
-calvaire	NOM
-,	PUN
-colomb	NOM
-dans	PRP
-son	DET:POS
-cachot	NOM
-,	PUN
-jean	NOM
-huss	NOM
-sur	PRP
-son	DET:POS
-bûcher	NOM
-,	PUN
-et	KON
-que	KON
-l'	DET:ART
-humanité	NOM
-pleure	VER:pres
-et	KON
-n'	ADV
-ose	VER:pres
-approcher	VER:infi
-tous	PRO:IND
-ces	PRO:DEM
-gibets	NOM
-où	PRO:REL
-sont	VER:pres
-les	DET:ART
-justes	NOM
-et	KON
-les	DET:ART
-sages	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-qu'	KON
-on	PRO:PER
-voit	VER:pres
-trôner	VER:infi
-dans	PRP
-la	DET:ART
-longueur	NOM
-des	PRP:det
-âges	NOM
-,	PUN
-parmi	PRP
-les	DET:ART
-vins	NOM
-,	PUN
-les	DET:ART
-luths	NOM
-,	PUN
-les	DET:ART
-viandes	NOM
-,	PUN
-les	DET:ART
-flambeaux	NOM
-,	PUN
-sur	PRP
-des	PRP:det
-coussins	NOM
-de	PRP
-pourpre	NOM
-oubliant	VER:ppre
-les	DET:ART
-tombeaux	NOM
-,	PUN
-ouvrant	VER:ppre
-et	KON
-refermant	VER:ppre
-leurs	DET:POS
-féroces	ADJ
-mâchoires	NOM
-,	PUN
-ivres	ADJ
-,	PUN
-heureux	ADJ
-,	PUN
-affreux	ADJ
-,	PUN
-la	DET:ART
-tête	NOM
-dans	PRP
-des	PRP:det
-gloires	NOM
-,	PUN
-tout	PRO:IND
-le	DET:ART
-troupeau	NOM
-hideux	ADJ
-des	PRP:det
-satrapes	NOM
-dorés	ADJ
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-qu'	KON
-on	PRO:PER
-entend	VER:pres
-rire	VER:infi
-et	KON
-chanter	VER:infi
-,	PUN
-entourés	VER:pper
-de	PRP
-femmes	NOM
-couronnant	VER:ppre
-de	PRP
-fleurs	NOM
-leurs	DET:POS
-turpitudes	NOM
-,	PUN
-dans	PRP
-leur	DET:POS
-lasciveté	NOM
-prenant	VER:ppre
-mille	NUM
-attitudes	NOM
-,	PUN
-laissant	VER:ppre
-peuples	NOM
-et	KON
-chiens	NOM
-en	PRP
-bas	ADV
-ronger	VER:infi
-les	DET:ART
-os	NOM
-,	PUN
-tous	PRO:IND
-les	DET:ART
-hommes	NOM
-requins	NOM
-,	PUN
-tous	PRO:IND
-les	DET:ART
-hommes	NOM
-pourceaux	NOM
-,	PUN
-les	DET:ART
-princes	NOM
-de	PRP
-hasard	NOM
-plus	ADV
-fangeux	ADJ
-que	KON
-les	DET:ART
-rues	NOM
-,	PUN
-les	DET:ART
-goinfres	NOM
-courtisans	ADJ
-,	PUN
-les	DET:ART
-altesses	NOM
-ventrues	ADJ
-,	PUN
-toute	PRO:IND
-gloutonnerie	NOM
-et	KON
-toute	PRO:IND
-abjection	NOM
-,	PUN
-depuis	PRP
-cambacérès	NOM
-jusqu'	PRP
-à	PRP
-trimalcion	NOM
-.	SENT
+l'	DET:ART	le
+histoire	NOM	histoire
+a	VER:pres	avoir
+pour	PRP	pour
+égout	NOM	égout
+des	PRP:det	du
+temps	NOM	temps
+comme	KON	comme
+les	PRO:PER	la|le
+nôtres	PRO:POS	nôtre
+,	PUN	,
+et	KON	et
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+que	KON	que
+la	DET:ART	le
+table	NOM	table
+est	VER:pres	être
+mise	VER:pper	mettre
+pour	KON	pour
+vous	PRO:PER	vous
+autres	ADJ	autre
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+,	PUN	,
+sur	PRP	sur
+cette	PRO:DEM	ce
+nappe	NOM	nappe
+où	PRO:REL	où
+joyeux	ADJ	joyeux
+vous	PRO:PER	vous
+mangez	VER:pres	manger
+,	PUN	,
+qu'	PRO:REL	que
+on	PRO:PER	on
+voit	VER:pres	voir
+,	PUN	,
+tandis	KON	tandis
+qu'	KON	que
+ailleurs	ADV	ailleurs
+,	PUN	,
+nus	NOM	nu
+et	KON	et
+de	PRP	de
+fers	NOM	fer
+chargés	VER:pper	charger
+,	PUN	,
+agonisent	VER:pres	agoniser
+,	PUN	,
+sereins	ADJ	serein
+,	PUN	,
+calmes	ADJ	calme
+,	PUN	,
+le	DET:ART	le
+front	NOM	front
+sévère	ADJ	sévère
+,	PUN	,
+socrate	NOM	socrate
+à	PRP	à
+l'	DET:ART	le
+agora	NOM	agora
+,	PUN	,
+jésus	NOM	jésus
+christ	NOM	christ
+au	PRP:det	au
+calvaire	NOM	calvaire
+,	PUN	,
+colomb	NOM	colomb
+dans	PRP	dans
+son	DET:POS	son
+cachot	NOM	cachot
+,	PUN	,
+jean	NOM	jean
+huss	NOM	huss
+sur	PRP	sur
+son	DET:POS	son
+bûcher	NOM	bûcher
+,	PUN	,
+et	KON	et
+que	KON	que
+l'	DET:ART	le
+humanité	NOM	humanité
+pleure	VER:pres	pleurer
+et	KON	et
+n'	ADV	ne
+ose	VER:pres	oser
+approcher	VER:infi	approcher
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+gibets	NOM	gibet
+où	PRO:REL	où
+sont	VER:pres	être
+les	DET:ART	le
+justes	NOM	juste
+et	KON	et
+les	DET:ART	le
+sages	NOM	sage
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+qu'	KON	que
+on	PRO:PER	on
+voit	VER:pres	voir
+trôner	VER:infi	trôner
+dans	PRP	dans
+la	DET:ART	le
+longueur	NOM	longueur
+des	PRP:det	du
+âges	NOM	âge
+,	PUN	,
+parmi	PRP	parmi
+les	DET:ART	le
+vins	NOM	vin
+,	PUN	,
+les	DET:ART	le
+luths	NOM	luth
+,	PUN	,
+les	DET:ART	le
+viandes	NOM	viande
+,	PUN	,
+les	DET:ART	le
+flambeaux	NOM	flambeau
+,	PUN	,
+sur	PRP	sur
+des	PRP:det	du
+coussins	NOM	coussin
+de	PRP	de
+pourpre	NOM	pourpre
+oubliant	VER:ppre	oublier
+les	DET:ART	le
+tombeaux	NOM	tombeau
+,	PUN	,
+ouvrant	VER:ppre	ouvrer|ouvrir
+et	KON	et
+refermant	VER:ppre	refermer
+leurs	DET:POS	leur
+féroces	ADJ	féroce
+mâchoires	NOM	mâchoire
+,	PUN	,
+ivres	ADJ	ivre
+,	PUN	,
+heureux	ADJ	heureux
+,	PUN	,
+affreux	ADJ	affreux
+,	PUN	,
+la	DET:ART	le
+tête	NOM	tête
+dans	PRP	dans
+des	PRP:det	du
+gloires	NOM	gloire
+,	PUN	,
+tout	PRO:IND	tout
+le	DET:ART	le
+troupeau	NOM	troupeau
+hideux	ADJ	hideux
+des	PRP:det	du
+satrapes	NOM	satrape
+dorés	ADJ	doré
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+qu'	KON	que
+on	PRO:PER	on
+entend	VER:pres	entendre
+rire	VER:infi	rire
+et	KON	et
+chanter	VER:infi	chanter
+,	PUN	,
+entourés	VER:pper	entourer
+de	PRP	de
+femmes	NOM	femme
+couronnant	VER:ppre	couronner
+de	PRP	de
+fleurs	NOM	fleur
+leurs	DET:POS	leur
+turpitudes	NOM	turpitude
+,	PUN	,
+dans	PRP	dans
+leur	DET:POS	leur
+lasciveté	NOM	lasciveté
+prenant	VER:ppre	prendre
+mille	NUM	mille
+attitudes	NOM	attitude
+,	PUN	,
+laissant	VER:ppre	laisser
+peuples	NOM	peuple
+et	KON	et
+chiens	NOM	chien
+en	PRP	en
+bas	ADV	bas
+ronger	VER:infi	ronger
+les	DET:ART	le
+os	NOM	os
+,	PUN	,
+tous	PRO:IND	tout
+les	DET:ART	le
+hommes	NOM	homme
+requins	NOM	requin
+,	PUN	,
+tous	PRO:IND	tout
+les	DET:ART	le
+hommes	NOM	homme
+pourceaux	NOM	pourceau
+,	PUN	,
+les	DET:ART	le
+princes	NOM	prince
+de	PRP	de
+hasard	NOM	hasard
+plus	ADV	plus
+fangeux	ADJ	fangeux
+que	KON	que
+les	DET:ART	le
+rues	NOM	rue
+,	PUN	,
+les	DET:ART	le
+goinfres	NOM	goinfre
+courtisans	ADJ	courtisan
+,	PUN	,
+les	DET:ART	le
+altesses	NOM	altesse
+ventrues	ADJ	ventru
+,	PUN	,
+toute	PRO:IND	tout
+gloutonnerie	NOM	gloutonnerie
+et	KON	et
+toute	PRO:IND	tout
+abjection	NOM	abjection
+,	PUN	,
+depuis	PRP	depuis
+cambacérès	NOM	cambacérès
+jusqu'	PRP	jusque
+à	PRP	à
+trimalcion	NOM	trimalcion
+.	SENT	.

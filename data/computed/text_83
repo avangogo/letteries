@@ -1,129 +1,129 @@
-sentiers	NOM
-où	PRO:REL
-l'	DET:ART
-herbe	NOM
-se	PRO:PER
-balance	VER:pres
-,	PUN
-vallons	NOM
-,	PUN
-coteaux	NOM
-,	PUN
-bois	NOM
-chevelus	ADJ
-,	PUN
-pourquoi	ADV
-ce	PRO:DEM
-deuil	NOM
-et	KON
-ce	PRO:DEM
-silence	NOM
-?	SENT
-celui	PRO:DEM
-qui	PRO:REL
-venait	VER:impf
-ne	ADV
-vient	VER:pres
-plus	ADV
-.	SENT
-pourquoi	ADV
-personne	ADV
-à	PRP
-ta	DET:POS
-fenêtre	NOM
-,	PUN
-et	KON
-pourquoi	ADV
-ton	DET:POS
-jardin	NOM
-sans	PRP
-fleurs	NOM
-,	PUN
-.	SENT
-ô	INT
-maison	NOM
-?	SENT
-où	PRO:REL
-donc	ADV
-est	VER:pres
-ton	DET:POS
-maître	NOM
-?	SENT
-je	PRO:PER
-ne	ADV
-sais	VER:pres
-pas	ADV
-,	PUN
-il	PRO:PER
-est	VER:pres
-ailleurs	ADV
-.	SENT
-chien	NOM
-,	PUN
-veille	NOM
-au	PRP:det
-logis	NOM
-.	SENT
-pourquoi	ADV
-faire	VER:infi
-?	SENT
-la	DET:ART
-maison	NOM
-est	VER:pres
-vide	ADJ
-à	PRP
-présent	NOM
-.	SENT
-enfant	NOM
-,	PUN
-qui	PRO:REL
-pleures	VER:pres
-tu	PRO:PER
-?	SENT
-mon	DET:POS
-père	NOM
-.	SENT
-femme	NOM
-,	PUN
-qui	PRO:REL
-pleures	VER:pres
-tu	PRO:PER
-?	SENT
-l'	DET:ART
-absent	NOM
-.	SENT
-où	PRO:REL
-s'	PRO:PER
-en	PRO:PER
-est	VER:pres
-il	PRO:PER
-allé	VER:pper
-?	SENT
-dans	PRP
-l'	DET:ART
-ombre	NOM
-.	SENT
-flots	NOM
-qui	PRO:REL
-gémissez	VER:pres
-sur	PRP
-l'	DET:ART
-écueil	NOM
-,	PUN
-d'	PRP
-où	PRO:REL
-venez	VER:pres
-vous	PRO:PER
-?	SENT
-du	PRP:det
-bagne	NOM
-sombre	ADJ
-.	SENT
-et	KON
-qu'	PRO:REL
-apportez	VER:pres
-vous	PRO:PER
-?	SENT
-un	DET:ART
-cercueil	NOM
-.	SENT
+sentiers	NOM	sentier
+où	PRO:REL	où
+l'	DET:ART	le
+herbe	NOM	herbe
+se	PRO:PER	se
+balance	VER:pres	balancer
+,	PUN	,
+vallons	NOM	vallon
+,	PUN	,
+coteaux	NOM	coteau
+,	PUN	,
+bois	NOM	bois
+chevelus	ADJ	chevelu
+,	PUN	,
+pourquoi	ADV	pourquoi
+ce	PRO:DEM	ce
+deuil	NOM	deuil
+et	KON	et
+ce	PRO:DEM	ce
+silence	NOM	silence
+?	SENT	?
+celui	PRO:DEM	celui
+qui	PRO:REL	qui
+venait	VER:impf	venir
+ne	ADV	ne
+vient	VER:pres	venir
+plus	ADV	plus
+.	SENT	.
+pourquoi	ADV	pourquoi
+personne	ADV	personne
+à	PRP	à
+ta	DET:POS	ton
+fenêtre	NOM	fenêtre
+,	PUN	,
+et	KON	et
+pourquoi	ADV	pourquoi
+ton	DET:POS	ton
+jardin	NOM	jardin
+sans	PRP	sans
+fleurs	NOM	fleur
+,	PUN	,
+.	SENT	.
+ô	INT	ô
+maison	NOM	maison
+?	SENT	?
+où	PRO:REL	où
+donc	ADV	donc
+est	VER:pres	être
+ton	DET:POS	ton
+maître	NOM	maître
+?	SENT	?
+je	PRO:PER	je
+ne	ADV	ne
+sais	VER:pres	savoir
+pas	ADV	pas
+,	PUN	,
+il	PRO:PER	il
+est	VER:pres	être
+ailleurs	ADV	ailleurs
+.	SENT	.
+chien	NOM	chien
+,	PUN	,
+veille	NOM	veille
+au	PRP:det	au
+logis	NOM	logis
+.	SENT	.
+pourquoi	ADV	pourquoi
+faire	VER:infi	faire
+?	SENT	?
+la	DET:ART	le
+maison	NOM	maison
+est	VER:pres	être
+vide	ADJ	vide
+à	PRP	à
+présent	NOM	présent
+.	SENT	.
+enfant	NOM	enfant
+,	PUN	,
+qui	PRO:REL	qui
+pleures	VER:pres	pleurer
+tu	PRO:PER	tu
+?	SENT	?
+mon	DET:POS	mon
+père	NOM	père
+.	SENT	.
+femme	NOM	femme
+,	PUN	,
+qui	PRO:REL	qui
+pleures	VER:pres	pleurer
+tu	PRO:PER	tu
+?	SENT	?
+l'	DET:ART	le
+absent	NOM	absent
+.	SENT	.
+où	PRO:REL	où
+s'	PRO:PER	se
+en	PRO:PER	en
+est	VER:pres	être
+il	PRO:PER	il
+allé	VER:pper	aller
+?	SENT	?
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+.	SENT	.
+flots	NOM	flot
+qui	PRO:REL	qui
+gémissez	VER:pres	gémir
+sur	PRP	sur
+l'	DET:ART	le
+écueil	NOM	écueil
+,	PUN	,
+d'	PRP	de
+où	PRO:REL	où
+venez	VER:pres	venir
+vous	PRO:PER	vous
+?	SENT	?
+du	PRP:det	du
+bagne	NOM	bagne
+sombre	ADJ	sombre
+.	SENT	.
+et	KON	et
+qu'	PRO:REL	que
+apportez	VER:pres	apporter
+vous	PRO:PER	vous
+?	SENT	?
+un	DET:ART	un
+cercueil	NOM	cercueil
+.	SENT	.

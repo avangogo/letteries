@@ -1,118 +1,118 @@
-pluviôse	NOM
-,	PUN
-irrité	VER:pper
-contre	PRP
-la	DET:ART
-vie	NOM
-entière	ADJ
-,	PUN
-de	PRP
-son	DET:POS
-urne	NOM
-à	PRP
-grands	ADJ
-flots	NOM
-verse	VER:pres
-un	DET:ART
-froid	NOM
-ténébreux	ADJ
-aux	PRP:det
-pâles	ADJ
-habitants	NOM
-du	PRP:det
-voisin	ADJ
-cimetière	NOM
-et	KON
-la	DET:ART
-mortalité	NOM
-sur	PRP
-les	DET:ART
-faubourgs	NOM
-brumeux	ADJ
-.	SENT
-mon	DET:POS
-chat	NOM
-sur	PRP
-le	DET:ART
-carreau	NOM
-cherchant	VER:ppre
-une	DET:ART
-litière	NOM
-agite	VER:pres
-sans	PRP
-repos	NOM
-son	DET:POS
-corps	NOM
-maigre	ADJ
-et	KON
-galeux	ADJ
-;	PUN
-l'	DET:ART
-âme	NOM
-d'	PRP
-un	DET:ART
-vieux	ADJ
-poëte	NOM
-erre	VER:pres
-dans	PRP
-la	DET:ART
-gouttière	NOM
-avec	PRP
-la	DET:ART
-triste	ADJ
-voix	NOM
-d'	PRP
-un	DET:ART
-fantôme	NOM
-frileux	ADJ
-.	SENT
-le	DET:ART
-bourdon	NOM
-se	PRO:PER
-lamente	VER:pres
-,	PUN
-et	KON
-la	DET:ART
-bûche	NOM
-enfumée	VER:pper
-accompagne	VER:pres
-en	PRP
-fausset	NOM
-la	DET:ART
-pendule	NOM
-enrhumée	VER:pper
-,	PUN
-cependant	ADV
-qu'	KON
-en	PRP
-un	DET:ART
-jeu	NOM
-plein	ADJ
-de	PRP
-sales	ADJ
-parfums	NOM
-,	PUN
-héritage	NOM
-fatal	ADJ
-d'	PRP
-une	DET:ART
-vieille	ADJ
-hydropique	NOM
-,	PUN
-le	DET:ART
-beau	ADJ
-valet	NOM
-de	PRP
-coeur	NOM
-et	KON
-la	DET:ART
-dame	NOM
-de	PRP
-pique	NOM
-causent	VER:pres
-sinistrement	ADV
-de	PRP
-leurs	DET:POS
-amours	NOM
-défunts	ADJ
-.	SENT
+pluviôse	NOM	pluviôse
+,	PUN	,
+irrité	VER:pper	irriter
+contre	PRP	contre
+la	DET:ART	le
+vie	NOM	vie
+entière	ADJ	entier
+,	PUN	,
+de	PRP	de
+son	DET:POS	son
+urne	NOM	urne
+à	PRP	à
+grands	ADJ	grand
+flots	NOM	flot
+verse	VER:pres	verser
+un	DET:ART	un
+froid	NOM	froid
+ténébreux	ADJ	ténébreux
+aux	PRP:det	au
+pâles	ADJ	pâle
+habitants	NOM	habitant
+du	PRP:det	du
+voisin	ADJ	voisin
+cimetière	NOM	cimetière
+et	KON	et
+la	DET:ART	le
+mortalité	NOM	mortalité
+sur	PRP	sur
+les	DET:ART	le
+faubourgs	NOM	faubourg
+brumeux	ADJ	brumeux
+.	SENT	.
+mon	DET:POS	mon
+chat	NOM	chat
+sur	PRP	sur
+le	DET:ART	le
+carreau	NOM	carreau
+cherchant	VER:ppre	chercher
+une	DET:ART	un
+litière	NOM	litière
+agite	VER:pres	agiter
+sans	PRP	sans
+repos	NOM	repos
+son	DET:POS	son
+corps	NOM	corps
+maigre	ADJ	maigre
+et	KON	et
+galeux	ADJ	galeux
+;	PUN	;
+l'	DET:ART	le
+âme	NOM	âme
+d'	PRP	de
+un	DET:ART	un
+vieux	ADJ	vieux
+poëte	NOM	poëte
+erre	VER:pres	errer
+dans	PRP	dans
+la	DET:ART	le
+gouttière	NOM	gouttière
+avec	PRP	avec
+la	DET:ART	le
+triste	ADJ	triste
+voix	NOM	voix
+d'	PRP	de
+un	DET:ART	un
+fantôme	NOM	fantôme
+frileux	ADJ	frileux
+.	SENT	.
+le	DET:ART	le
+bourdon	NOM	bourdon
+se	PRO:PER	se
+lamente	VER:pres	lamenter
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+bûche	NOM	bûche
+enfumée	VER:pper	enfumer
+accompagne	VER:pres	accompagner
+en	PRP	en
+fausset	NOM	fausset
+la	DET:ART	le
+pendule	NOM	pendule
+enrhumée	VER:pper	enrhumer
+,	PUN	,
+cependant	ADV	cependant
+qu'	KON	que
+en	PRP	en
+un	DET:ART	un
+jeu	NOM	jeu
+plein	ADJ	plein
+de	PRP	de
+sales	ADJ	sale
+parfums	NOM	parfum
+,	PUN	,
+héritage	NOM	héritage
+fatal	ADJ	fatal
+d'	PRP	de
+une	DET:ART	un
+vieille	ADJ	vieux
+hydropique	NOM	hydropique
+,	PUN	,
+le	DET:ART	le
+beau	ADJ	beau
+valet	NOM	valet
+de	PRP	de
+coeur	NOM	cœur
+et	KON	et
+la	DET:ART	le
+dame	NOM	dame
+de	PRP	de
+pique	NOM	pique
+causent	VER:pres	causer
+sinistrement	ADV	sinistrement
+de	PRP	de
+leurs	DET:POS	leur
+amours	NOM	amour
+défunts	ADJ	défunt
+.	SENT	.

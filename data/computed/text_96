@@ -1,139 +1,139 @@
-je	PRO:PER
-ne	ADV
-viens	VER:pres
-pas	ADV
-ce	PRO:DEM
-soir	NOM
-vaincre	VER:infi
-ton	DET:POS
-corps	NOM
-,	PUN
-ô	INT
-bête	NOM
-en	PRP
-qui	PRO:REL
-vont	VER:pres
-les	DET:ART
-péchés	NOM
-d'	PRP
-un	DET:ART
-peuple	NOM
-,	PUN
-ni	KON
-creuser	VER:infi
-dans	PRP
-tes	DET:POS
-cheveux	NOM
-impurs	ADJ
-une	DET:ART
-triste	ADJ
-tempête	NOM
-sous	PRP
-l'	DET:ART
-incurable	ADJ
-ennui	NOM
-que	PRO:REL
-verse	VER:pres
-mon	DET:POS
-baiser	NOM
-:	PUN
-je	PRO:PER
-demande	VER:pres
-à	PRP
-ton	DET:POS
-lit	NOM
-le	DET:ART
-lourd	ADJ
-sommeil	NOM
-sans	PRP
-songes	NOM
-planant	VER:ppre
-sous	PRP
-les	DET:ART
-rideaux	NOM
-inconnus	ADJ
-du	PRP:det
-remords	NOM
-,	PUN
-et	KON
-que	PRO:REL
-tu	PRO:PER
-peux	VER:pres
-goûter	VER:infi
-après	PRP
-tes	DET:POS
-noirs	ADJ
-mensonges	NOM
-,	PUN
-toi	PRO:PER
-qui	PRO:REL
-sur	PRP
-le	DET:ART
-néant	NOM
-en	PRO:PER
-sais	VER:pres
-plus	ADV
-que	KON
-les	DET:ART
-morts	NOM
-:	PUN
-car	KON
-le	DET:ART
-vice	NOM
-,	PUN
-rongeant	VER:ppre
-ma	DET:POS
-native	ADJ
-noblesse	NOM
-,	PUN
-m'	PRO:PER
-a	VER:pres
-comme	ADV
-toi	PRO:PER
-marqué	VER:pper
-de	PRP
-sa	DET:POS
-stérilité	NOM
-,	PUN
-mais	KON
-tandis	KON
-que	KON
-ton	DET:POS
-sein	NOM
-de	PRP
-pierre	NOM
-est	VER:pres
-habité	VER:pper
-par	PRP
-un	DET:ART
-coeur	NOM
-que	KON
-la	DET:ART
-dent	NOM
-d'	PRP
-aucun	PRO:IND
-crime	NOM
-ne	ADV
-blesse	VER:pres
-,	PUN
-je	PRO:PER
-fuis	VER:pres
-,	PUN
-pâle	ADJ
-,	PUN
-défait	VER:pper
-,	PUN
-hanté	VER:pper
-par	PRP
-mon	DET:POS
-linceul	NOM
-,	PUN
-ayant	VER:ppre
-peur	NOM
-de	PRP
-mourir	VER:infi
-lorsque	KON
-je	PRO:PER
-couche	VER:pres
-seul	ADJ
-.	SENT
+je	PRO:PER	je
+ne	ADV	ne
+viens	VER:pres	venir
+pas	ADV	pas
+ce	PRO:DEM	ce
+soir	NOM	soir
+vaincre	VER:infi	vaincre
+ton	DET:POS	ton
+corps	NOM	corps
+,	PUN	,
+ô	INT	ô
+bête	NOM	bête
+en	PRP	en
+qui	PRO:REL	qui
+vont	VER:pres	aller
+les	DET:ART	le
+péchés	NOM	péché
+d'	PRP	de
+un	DET:ART	un
+peuple	NOM	peuple
+,	PUN	,
+ni	KON	ni
+creuser	VER:infi	creuser
+dans	PRP	dans
+tes	DET:POS	ton
+cheveux	NOM	cheveu
+impurs	ADJ	impur
+une	DET:ART	un
+triste	ADJ	triste
+tempête	NOM	tempête
+sous	PRP	sous
+l'	DET:ART	le
+incurable	ADJ	incurable
+ennui	NOM	ennui
+que	PRO:REL	que
+verse	VER:pres	verser
+mon	DET:POS	mon
+baiser	NOM	baiser
+:	PUN	:
+je	PRO:PER	je
+demande	VER:pres	demander
+à	PRP	à
+ton	DET:POS	ton
+lit	NOM	lit
+le	DET:ART	le
+lourd	ADJ	lourd
+sommeil	NOM	sommeil
+sans	PRP	sans
+songes	NOM	songe
+planant	VER:ppre	planer
+sous	PRP	sous
+les	DET:ART	le
+rideaux	NOM	rideau
+inconnus	ADJ	inconnu
+du	PRP:det	du
+remords	NOM	remords
+,	PUN	,
+et	KON	et
+que	PRO:REL	que
+tu	PRO:PER	tu
+peux	VER:pres	pouvoir
+goûter	VER:infi	goûter
+après	PRP	après
+tes	DET:POS	ton
+noirs	ADJ	noir
+mensonges	NOM	mensonge
+,	PUN	,
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+sur	PRP	sur
+le	DET:ART	le
+néant	NOM	néant
+en	PRO:PER	en
+sais	VER:pres	savoir
+plus	ADV	plus
+que	KON	que
+les	DET:ART	le
+morts	NOM	mort
+:	PUN	:
+car	KON	car
+le	DET:ART	le
+vice	NOM	vice
+,	PUN	,
+rongeant	VER:ppre	ronger
+ma	DET:POS	mon
+native	ADJ	natif
+noblesse	NOM	noblesse
+,	PUN	,
+m'	PRO:PER	me
+a	VER:pres	avoir
+comme	ADV	comme
+toi	PRO:PER	toi
+marqué	VER:pper	marquer
+de	PRP	de
+sa	DET:POS	son
+stérilité	NOM	stérilité
+,	PUN	,
+mais	KON	mais
+tandis	KON	tandis
+que	KON	que
+ton	DET:POS	ton
+sein	NOM	sein
+de	PRP	de
+pierre	NOM	pierre
+est	VER:pres	être
+habité	VER:pper	habiter
+par	PRP	par
+un	DET:ART	un
+coeur	NOM	cœur
+que	KON	que
+la	DET:ART	le
+dent	NOM	dent
+d'	PRP	de
+aucun	PRO:IND	aucun
+crime	NOM	crime
+ne	ADV	ne
+blesse	VER:pres	blesser
+,	PUN	,
+je	PRO:PER	je
+fuis	VER:pres	fuir
+,	PUN	,
+pâle	ADJ	pâle
+,	PUN	,
+défait	VER:pper	défaire
+,	PUN	,
+hanté	VER:pper	hanter
+par	PRP	par
+mon	DET:POS	mon
+linceul	NOM	linceul
+,	PUN	,
+ayant	VER:ppre	avoir
+peur	NOM	peur
+de	PRP	de
+mourir	VER:infi	mourir
+lorsque	KON	lorsque
+je	PRO:PER	je
+couche	VER:pres	coucher
+seul	ADJ	seul
+.	SENT	.

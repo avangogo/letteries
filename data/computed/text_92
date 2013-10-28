@@ -1,280 +1,280 @@
-après	PRP
-leur	DET:POS
-condamnation	NOM
-mes	DET:POS
-fils	NOM
-,	PUN
-soyez	VER:subp
-contents	ADJ
-;	PUN
-l'	DET:ART
-honneur	NOM
-est	VER:pres
-où	PRO:REL
-vous	PRO:PER
-êtes	VER:pres
-.	SENT
-et	KON
-vous	PRO:PER
-,	PUN
-mes	DET:POS
-deux	NUM
-amis	NOM
-,	PUN
-la	DET:ART
-gloire	NOM
-,	PUN
-ô	INT
-fiers	ADJ
-poëtes	NOM
-,	PUN
-couronne	NOM
-votre	DET:POS
-nom	NOM
-par	PRP
-l'	DET:ART
-affront	NOM
-désigné	VER:pper
-;	PUN
-offrez	VER:pres
-aux	PRP:det
-juges	NOM
-vils	ADJ
-,	PUN
-groupe	NOM
-abject	ADJ
-et	KON
-stupide	ADJ
-,	PUN
-toi	PRO:PER
-,	PUN
-ta	DET:POS
-douceur	NOM
-intrépide	ADJ
-,	PUN
-toi	PRO:PER
-,	PUN
-ton	DET:POS
-sourire	NOM
-indigné	ADJ
-.	SENT
-dans	PRP
-cette	PRO:DEM
-salle	NOM
-,	PUN
-où	PRO:REL
-dieu	NOM
-voit	VER:pres
-la	DET:ART
-laideur	NOM
-des	PRP:det
-âmes	NOM
-,	PUN
-devant	PRP
-ces	PRO:DEM
-froids	ADJ
-jurés	NOM
-,	PUN
-choisis	VER:pper
-pour	PRP
-être	VER:infi
-infâmes	ADJ
-,	PUN
-ces	PRO:DEM
-douze	NUM
-hommes	NOM
-,	PUN
-muets	ADJ
-,	PUN
-de	PRP
-leur	DET:POS
-honte	NOM
-chargés	VER:pper
-,	PUN
-ô	INT
-justice	NOM
-,	PUN
-j'	PRO:PER
-ai	VER:pres
-cru	VER:pper
-,	PUN
-justice	NOM
-auguste	ADJ
-et	KON
-sombre	ADJ
-,	PUN
-voir	VER:infi
-autour	ADV
-de	PRP
-toi	PRO:PER
-dans	PRP
-l'	DET:ART
-ombre	NOM
-douze	NUM
-sépulcres	NOM
-rangés	ADJ
-.	SENT
-ils	PRO:PER
-vous	PRO:PER
-ont	VER:pres
-condamnés	VER:pper
-,	PUN
-que	KON
-l'	DET:ART
-avenir	NOM
-les	DET:ART
-juge	NOM
-!	SENT
-toi	PRO:PER
-,	PUN
-pour	PRP
-avoir	VER:infi
-crié	VER:pper
-:	PUN
-la	DET:ART
-france	NOM
-est	VER:pres
-le	DET:ART
-refuge	NOM
-des	PRP:det
-vaincus	VER:pper
-,	PUN
-des	PRP:det
-proscrits	VER:pper
-!	SENT
-je	PRO:PER
-t'	PRO:PER
-approuve	VER:pres
-,	PUN
-mon	DET:POS
-fils	NOM
-!	SENT
-toi	PRO:PER
-,	PUN
-pour	PRP
-avoir	VER:infi
-,	PUN
-devant	PRP
-la	DET:ART
-hache	NOM
-qui	PRO:REL
-s'	PRO:PER
-obstine	VER:pres
-,	PUN
-insulté	VER:pper
-la	DET:ART
-guillotine	NOM
-,	PUN
-et	KON
-vengé	VER:pper
-le	DET:ART
-crucifix	NOM
-!	SENT
-les	DET:ART
-temps	NOM
-sont	VER:pres
-durs	ADJ
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-bien	ADV
-.	SENT
-le	DET:ART
-martyre	NOM
-console	VER:pres
-.	SENT
-j'	PRO:PER
-admire	VER:pres
-,	PUN
-ô	INT
-vérité	NOM
-,	PUN
-plus	ADV
-que	KON
-toute	PRO:IND
-auréole	NOM
-,	PUN
-plus	ADV
-que	KON
-le	DET:ART
-nimbe	NOM
-ardent	ADJ
-des	PRP:det
-saints	NOM
-en	PRP
-oraison	NOM
-,	PUN
-plus	ADV
-que	KON
-les	DET:ART
-trônes	NOM
-d'	PRP
-or	NOM
-devant	PRP
-qui	PRO:REL
-tout	ADV
-s'	PRO:PER
-efface	VER:pres
-,	PUN
-l'	DET:ART
-ombre	NOM
-que	PRO:REL
-font	VER:pres
-sur	PRP
-ta	DET:POS
-face	NOM
-les	DET:ART
-barreaux	NOM
-d'	PRP
-une	DET:ART
-prison	NOM
-!	SENT
-quoi	PRO
-que	KON
-le	DET:ART
-méchant	NOM
-fasse	VER:subp
-en	PRP
-sa	DET:POS
-bassesse	NOM
-noire	ADJ
-,	PUN
-l'	DET:ART
-outrage	NOM
-injuste	ADJ
-et	KON
-vil	ADJ
-là	ADV
-haut	ADV
-se	PRO:PER
-change	VER:pres
-en	PRP
-gloire	NOM
-.	SENT
-quand	KON
-jésus	NOM
-commençait	VER:impf
-sa	DET:POS
-longue	ADJ
-passion	NOM
-,	PUN
-le	DET:ART
-crachat	NOM
-qu'	KON
-un	DET:ART
-bourreau	NOM
-lança	VER:simp
-sur	PRP
-son	DET:POS
-front	NOM
-blême	ADJ
-fit	VER:simp
-au	PRP:det
-ciel	NOM
-à	PRP
-l'	DET:ART
-instant	NOM
-même	ADJ
-une	DET:ART
-constellation	NOM
-!	SENT
+après	PRP	après
+leur	DET:POS	leur
+condamnation	NOM	condamnation
+mes	DET:POS	mon
+fils	NOM	fil|fils
+,	PUN	,
+soyez	VER:subp	être
+contents	ADJ	content
+;	PUN	;
+l'	DET:ART	le
+honneur	NOM	honneur
+est	VER:pres	être
+où	PRO:REL	où
+vous	PRO:PER	vous
+êtes	VER:pres	être
+.	SENT	.
+et	KON	et
+vous	PRO:PER	vous
+,	PUN	,
+mes	DET:POS	mon
+deux	NUM	deux
+amis	NOM	ami
+,	PUN	,
+la	DET:ART	le
+gloire	NOM	gloire
+,	PUN	,
+ô	INT	ô
+fiers	ADJ	fier
+poëtes	NOM	poëtes
+,	PUN	,
+couronne	NOM	couronne
+votre	DET:POS	votre
+nom	NOM	nom
+par	PRP	par
+l'	DET:ART	le
+affront	NOM	affront
+désigné	VER:pper	désigner
+;	PUN	;
+offrez	VER:pres	offrir
+aux	PRP:det	au
+juges	NOM	juge
+vils	ADJ	vil
+,	PUN	,
+groupe	NOM	groupe
+abject	ADJ	abject
+et	KON	et
+stupide	ADJ	stupide
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+ta	DET:POS	ton
+douceur	NOM	douceur
+intrépide	ADJ	intrépide
+,	PUN	,
+toi	PRO:PER	toi
+,	PUN	,
+ton	DET:POS	ton
+sourire	NOM	sourire
+indigné	ADJ	indigné
+.	SENT	.
+dans	PRP	dans
+cette	PRO:DEM	ce
+salle	NOM	salle
+,	PUN	,
+où	PRO:REL	où
+dieu	NOM	dieu
+voit	VER:pres	voir
+la	DET:ART	le
+laideur	NOM	laideur
+des	PRP:det	du
+âmes	NOM	âme
+,	PUN	,
+devant	PRP	devant
+ces	PRO:DEM	ce
+froids	ADJ	froid
+jurés	NOM	juré
+,	PUN	,
+choisis	VER:pper	choisir
+pour	PRP	pour
+être	VER:infi	être
+infâmes	ADJ	infâme
+,	PUN	,
+ces	PRO:DEM	ce
+douze	NUM	douze
+hommes	NOM	homme
+,	PUN	,
+muets	ADJ	muet
+,	PUN	,
+de	PRP	de
+leur	DET:POS	leur
+honte	NOM	honte
+chargés	VER:pper	charger
+,	PUN	,
+ô	INT	ô
+justice	NOM	justice
+,	PUN	,
+j'	PRO:PER	je
+ai	VER:pres	avoir
+cru	VER:pper	croire
+,	PUN	,
+justice	NOM	justice
+auguste	ADJ	auguste
+et	KON	et
+sombre	ADJ	sombre
+,	PUN	,
+voir	VER:infi	voir
+autour	ADV	autour
+de	PRP	de
+toi	PRO:PER	toi
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+douze	NUM	douze
+sépulcres	NOM	sépulcre
+rangés	ADJ	rangé
+.	SENT	.
+ils	PRO:PER	il
+vous	PRO:PER	vous
+ont	VER:pres	avoir
+condamnés	VER:pper	condamner
+,	PUN	,
+que	KON	que
+l'	DET:ART	le
+avenir	NOM	avenir
+les	DET:ART	le
+juge	NOM	juge
+!	SENT	!
+toi	PRO:PER	toi
+,	PUN	,
+pour	PRP	pour
+avoir	VER:infi	avoir
+crié	VER:pper	crier
+:	PUN	:
+la	DET:ART	le
+france	NOM	france
+est	VER:pres	être
+le	DET:ART	le
+refuge	NOM	refuge
+des	PRP:det	du
+vaincus	VER:pper	vaincre
+,	PUN	,
+des	PRP:det	du
+proscrits	VER:pper	proscrire
+!	SENT	!
+je	PRO:PER	je
+t'	PRO:PER	te
+approuve	VER:pres	approuver
+,	PUN	,
+mon	DET:POS	mon
+fils	NOM	fil|fils
+!	SENT	!
+toi	PRO:PER	toi
+,	PUN	,
+pour	PRP	pour
+avoir	VER:infi	avoir
+,	PUN	,
+devant	PRP	devant
+la	DET:ART	le
+hache	NOM	hache
+qui	PRO:REL	qui
+s'	PRO:PER	se
+obstine	VER:pres	obstiner
+,	PUN	,
+insulté	VER:pper	insulter
+la	DET:ART	le
+guillotine	NOM	guillotine
+,	PUN	,
+et	KON	et
+vengé	VER:pper	venger
+le	DET:ART	le
+crucifix	NOM	crucifix
+!	SENT	!
+les	DET:ART	le
+temps	NOM	temps
+sont	VER:pres	être
+durs	ADJ	dur
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+bien	ADV	bien
+.	SENT	.
+le	DET:ART	le
+martyre	NOM	martyr|martyre
+console	VER:pres	consoler
+.	SENT	.
+j'	PRO:PER	je
+admire	VER:pres	admirer
+,	PUN	,
+ô	INT	ô
+vérité	NOM	vérité
+,	PUN	,
+plus	ADV	plus
+que	KON	que
+toute	PRO:IND	tout
+auréole	NOM	auréole
+,	PUN	,
+plus	ADV	plus
+que	KON	que
+le	DET:ART	le
+nimbe	NOM	nimbe
+ardent	ADJ	ardent
+des	PRP:det	du
+saints	NOM	saint
+en	PRP	en
+oraison	NOM	oraison
+,	PUN	,
+plus	ADV	plus
+que	KON	que
+les	DET:ART	le
+trônes	NOM	trône
+d'	PRP	de
+or	NOM	or
+devant	PRP	devant
+qui	PRO:REL	qui
+tout	ADV	tout
+s'	PRO:PER	se
+efface	VER:pres	effacer
+,	PUN	,
+l'	DET:ART	le
+ombre	NOM	ombre
+que	PRO:REL	que
+font	VER:pres	faire
+sur	PRP	sur
+ta	DET:POS	ton
+face	NOM	face
+les	DET:ART	le
+barreaux	NOM	barreau
+d'	PRP	de
+une	DET:ART	un
+prison	NOM	prison
+!	SENT	!
+quoi	PRO	quoi
+que	KON	que
+le	DET:ART	le
+méchant	NOM	méchant
+fasse	VER:subp	faire
+en	PRP	en
+sa	DET:POS	son
+bassesse	NOM	bassesse
+noire	ADJ	noir
+,	PUN	,
+l'	DET:ART	le
+outrage	NOM	outrage
+injuste	ADJ	injuste
+et	KON	et
+vil	ADJ	vil
+là	ADV	là
+haut	ADV	haut
+se	PRO:PER	se
+change	VER:pres	changer
+en	PRP	en
+gloire	NOM	gloire
+.	SENT	.
+quand	KON	quand
+jésus	NOM	jésus
+commençait	VER:impf	commencer
+sa	DET:POS	son
+longue	ADJ	longue
+passion	NOM	passion
+,	PUN	,
+le	DET:ART	le
+crachat	NOM	crachat
+qu'	KON	que
+un	DET:ART	un
+bourreau	NOM	bourreau
+lança	VER:simp	lancer
+sur	PRP	sur
+son	DET:POS	son
+front	NOM	front
+blême	ADJ	blême
+fit	VER:simp	faire
+au	PRP:det	au
+ciel	NOM	ciel
+à	PRP	à
+l'	DET:ART	le
+instant	NOM	instant
+même	ADJ	même
+une	DET:ART	un
+constellation	NOM	constellation
+!	SENT	!

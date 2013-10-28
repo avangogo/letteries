@@ -1,134 +1,134 @@
-dans	PRP
-une	DET:ART
-terre	NOM
-grasse	ADJ
-et	KON
-pleine	ADJ
-d'	PRP
-escargots	NOM
-je	PRO:PER
-veux	VER:pres
-creuser	VER:infi
-moi	PRO:PER
-même	ADV
-une	DET:ART
-fosse	NOM
-profonde	ADJ
-,	PUN
-où	PRO:REL
-je	PRO:PER
-puisse	VER:subp
-à	PRP
-loisir	NOM
-étaler	VER:infi
-mes	DET:POS
-vieux	ADJ
-os	NOM
-et	KON
-dormir	VER:infi
-dans	PRP
-l'	DET:ART
-oubli	NOM
-comme	KON
-un	DET:ART
-requin	NOM
-dans	PRP
-l'	DET:ART
-onde	NOM
-.	SENT
-je	PRO:PER
-hais	VER:pres
-les	DET:ART
-testaments	NOM
-et	KON
-je	PRO:PER
-hais	VER:pres
-les	DET:ART
-tombeaux	NOM
-;	PUN
-plutôt	ADV
-que	KON
-d'	PRP
-implorer	VER:infi
-une	DET:ART
-larme	NOM
-du	PRP:det
-monde	NOM
-,	PUN
-vivant	NOM
-,	PUN
-j'	PRO:PER
-aimerais	VER:cond
-mieux	ADV
-inviter	VER:infi
-les	DET:ART
-corbeaux	NOM
-à	PRP
-saigner	VER:infi
-tous	PRO:IND
-les	DET:ART
-bouts	NOM
-de	PRP
-ma	DET:POS
-carcasse	NOM
-immonde	ADJ
-.	SENT
-ô	INT
-vers	NOM
-!	SENT
-noirs	ADJ
-compagnons	NOM
-sans	PRP
-oreille	NOM
-et	KON
-sans	PRP
-yeux	NOM
-,	PUN
-voyez	VER:pres
-venir	VER:infi
-à	PRP
-vous	PRO:PER
-un	DET:ART
-mort	NOM
-libre	ADJ
-et	KON
-joyeux	ADJ
-!	SENT
-philosophes	ADJ
-viveurs	NOM
-,	PUN
-fils	NOM
-de	PRP
-la	DET:ART
-pourriture	NOM
-,	PUN
-à	PRP
-travers	NOM
-ma	DET:POS
-ruine	NOM
-allez	VER:pres
-donc	ADV
-sans	PRP
-remords	NOM
-,	PUN
-et	KON
-dites	VER:pres
-moi	PRO:PER
-s'	PRO:PER
-il	PRO:PER
-est	VER:pres
-encor	ADV
-quelque	PRO:IND
-torture	NOM
-pour	PRP
-ce	PRO:DEM
-vieux	ADJ
-corps	NOM
-sans	PRP
-âme	NOM
-et	KON
-mort	NOM
-parmi	PRP
-les	DET:ART
-morts	NOM
-!	SENT
+dans	PRP	dans
+une	DET:ART	un
+terre	NOM	terre
+grasse	ADJ	gras
+et	KON	et
+pleine	ADJ	plein
+d'	PRP	de
+escargots	NOM	escargot
+je	PRO:PER	je
+veux	VER:pres	vouloir
+creuser	VER:infi	creuser
+moi	PRO:PER	moi
+même	ADV	même
+une	DET:ART	un
+fosse	NOM	fosse
+profonde	ADJ	profond
+,	PUN	,
+où	PRO:REL	où
+je	PRO:PER	je
+puisse	VER:subp	pouvoir
+à	PRP	à
+loisir	NOM	loisir
+étaler	VER:infi	étaler
+mes	DET:POS	mon
+vieux	ADJ	vieux
+os	NOM	os
+et	KON	et
+dormir	VER:infi	dormir
+dans	PRP	dans
+l'	DET:ART	le
+oubli	NOM	oubli
+comme	KON	comme
+un	DET:ART	un
+requin	NOM	requin
+dans	PRP	dans
+l'	DET:ART	le
+onde	NOM	onde
+.	SENT	.
+je	PRO:PER	je
+hais	VER:pres	haïr
+les	DET:ART	le
+testaments	NOM	testament
+et	KON	et
+je	PRO:PER	je
+hais	VER:pres	haïr
+les	DET:ART	le
+tombeaux	NOM	tombeau
+;	PUN	;
+plutôt	ADV	plutôt
+que	KON	que
+d'	PRP	de
+implorer	VER:infi	implorer
+une	DET:ART	un
+larme	NOM	larme
+du	PRP:det	du
+monde	NOM	monde
+,	PUN	,
+vivant	NOM	vivant
+,	PUN	,
+j'	PRO:PER	je
+aimerais	VER:cond	aimer
+mieux	ADV	mieux
+inviter	VER:infi	inviter
+les	DET:ART	le
+corbeaux	NOM	corbeau
+à	PRP	à
+saigner	VER:infi	saigner
+tous	PRO:IND	tout
+les	DET:ART	le
+bouts	NOM	bout
+de	PRP	de
+ma	DET:POS	mon
+carcasse	NOM	carcasse
+immonde	ADJ	immonde
+.	SENT	.
+ô	INT	ô
+vers	NOM	ver|vers
+!	SENT	!
+noirs	ADJ	noir
+compagnons	NOM	compagnon
+sans	PRP	sans
+oreille	NOM	oreille
+et	KON	et
+sans	PRP	sans
+yeux	NOM	œil
+,	PUN	,
+voyez	VER:pres	voir
+venir	VER:infi	venir
+à	PRP	à
+vous	PRO:PER	vous
+un	DET:ART	un
+mort	NOM	mort
+libre	ADJ	libre
+et	KON	et
+joyeux	ADJ	joyeux
+!	SENT	!
+philosophes	ADJ	philosophe
+viveurs	NOM	viveurs
+,	PUN	,
+fils	NOM	fil|fils
+de	PRP	de
+la	DET:ART	le
+pourriture	NOM	pourriture
+,	PUN	,
+à	PRP	à
+travers	NOM	travers
+ma	DET:POS	mon
+ruine	NOM	ruine
+allez	VER:pres	aller
+donc	ADV	donc
+sans	PRP	sans
+remords	NOM	remords
+,	PUN	,
+et	KON	et
+dites	VER:pres	dire
+moi	PRO:PER	moi
+s'	PRO:PER	se
+il	PRO:PER	il
+est	VER:pres	être
+encor	ADV	encor
+quelque	PRO:IND	quelque
+torture	NOM	torture
+pour	PRP	pour
+ce	PRO:DEM	ce
+vieux	ADJ	vieux
+corps	NOM	corps
+sans	PRP	sans
+âme	NOM	âme
+et	KON	et
+mort	NOM	mort
+parmi	PRP	parmi
+les	DET:ART	le
+morts	NOM	mort
+!	SENT	!

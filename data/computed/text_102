@@ -1,98 +1,98 @@
-le	DET:ART
-soleil	NOM
-que	KON
-sa	DET:POS
-halte	NOM
-surnaturelle	ADJ
-exalte	VER:pres
-aussitôt	ADV
-redescend	VER:pres
-incandescent	ADJ
-je	PRO:PER
-sens	VER:pres
-comme	ADV
-aux	PRP:det
-vertèbres	NOM
-s'	PRO:PER
-éployer	VER:infi
-des	PRP:det
-ténèbres	NOM
-toutes	PRO:IND
-dans	PRP
-un	DET:ART
-frisson	NOM
-a	VER:pres
-l'	DET:ART
-unisson	NOM
-et	KON
-ma	DET:POS
-tête	NOM
-surgie	VER:pper
-solitaire	ADJ
-vigie	NOM
-dans	PRP
-les	DET:ART
-vols	NOM
-triomphaux	ADJ
-de	PRP
-cette	PRO:DEM
-faux	NOM
-comme	KON
-rupture	NOM
-franche	ADJ
-plutôt	ADV
-refoule	VER:pres
-ou	KON
-tranche	VER:pres
-les	DET:ART
-anciens	ADJ
-désaccords	NOM
-avec	PRP
-le	DET:ART
-corps	NOM
-qu'	PRO:REL
-elle	PRO:PER
-de	PRP
-jeûnes	NOM
-ivre	ADJ
-s'	PRO:PER
-opiniâtre	VER:pres
-à	PRP
-suivre	VER:infi
-en	PRP
-quelque	PRO:IND
-bond	NOM
-hagard	ADJ
-son	DET:POS
-pur	ADJ
-regard	NOM
-là	ADV
-haut	ADJ
-où	PRO:REL
-la	DET:ART
-froidure	NOM
-éternelle	ADJ
-n'	ADV
-endure	VER:pres
-que	KON
-vous	PRO:PER
-le	PRO:PER
-surpassiez	VER:impf
-tous	PRO:IND
-ô	INT
-glaciers	NOM
-mais	KON
-selon	PRP
-un	DET:ART
-baptême	NOM
-illuminée	VER:pper
-au	PRP:det
-même	ADJ
-principe	NOM
-qui	PRO:REL
-m'	PRO:PER
-élut	VER:simp
-penche	VER:pres
-un	DET:ART
-salut	NOM
-.	SENT
+le	DET:ART	le
+soleil	NOM	soleil
+que	KON	que
+sa	DET:POS	son
+halte	NOM	halte
+surnaturelle	ADJ	surnaturel
+exalte	VER:pres	exalter
+aussitôt	ADV	aussitôt
+redescend	VER:pres	redescendre
+incandescent	ADJ	incandescent
+je	PRO:PER	je
+sens	VER:pres	sentir
+comme	ADV	comme
+aux	PRP:det	au
+vertèbres	NOM	vertèbre
+s'	PRO:PER	se
+éployer	VER:infi	éployer
+des	PRP:det	du
+ténèbres	NOM	ténèbre
+toutes	PRO:IND	tout
+dans	PRP	dans
+un	DET:ART	un
+frisson	NOM	frisson
+a	VER:pres	avoir
+l'	DET:ART	le
+unisson	NOM	unisson
+et	KON	et
+ma	DET:POS	mon
+tête	NOM	tête
+surgie	VER:pper	surgir
+solitaire	ADJ	solitaire
+vigie	NOM	vigie
+dans	PRP	dans
+les	DET:ART	le
+vols	NOM	vol
+triomphaux	ADJ	triomphal
+de	PRP	de
+cette	PRO:DEM	ce
+faux	NOM	fau|faux
+comme	KON	comme
+rupture	NOM	rupture
+franche	ADJ	franc
+plutôt	ADV	plutôt
+refoule	VER:pres	refouler
+ou	KON	ou
+tranche	VER:pres	trancher
+les	DET:ART	le
+anciens	ADJ	ancien
+désaccords	NOM	désaccord
+avec	PRP	avec
+le	DET:ART	le
+corps	NOM	corps
+qu'	PRO:REL	que
+elle	PRO:PER	elle
+de	PRP	de
+jeûnes	NOM	jeûne
+ivre	ADJ	ivre
+s'	PRO:PER	se
+opiniâtre	VER:pres	opiniâtrer
+à	PRP	à
+suivre	VER:infi	suivre
+en	PRP	en
+quelque	PRO:IND	quelque
+bond	NOM	bond
+hagard	ADJ	hagard
+son	DET:POS	son
+pur	ADJ	pur
+regard	NOM	regard
+là	ADV	là
+haut	ADJ	haut
+où	PRO:REL	où
+la	DET:ART	le
+froidure	NOM	froidure
+éternelle	ADJ	éternel
+n'	ADV	ne
+endure	VER:pres	endurer
+que	KON	que
+vous	PRO:PER	vous
+le	PRO:PER	le
+surpassiez	VER:impf	surpasser
+tous	PRO:IND	tout
+ô	INT	ô
+glaciers	NOM	glacier
+mais	KON	mais
+selon	PRP	selon
+un	DET:ART	un
+baptême	NOM	baptême
+illuminée	VER:pper	illuminer
+au	PRP:det	au
+même	ADJ	même
+principe	NOM	principe
+qui	PRO:REL	qui
+m'	PRO:PER	me
+élut	VER:simp	élire
+penche	VER:pres	pencher
+un	DET:ART	un
+salut	NOM	salut
+.	SENT	.

@@ -1,108 +1,108 @@
-a	VER:pres
-des	PRP:det
-heures	NOM
-et	KON
-sans	PRP
-que	KON
-tel	PRO:DEM
-souffle	NOM
-l'	PRO:PER
-émeuve	VER:subp
-toute	PRO:IND
-la	DET:ART
-vétusté	NOM
-presque	ADV
-couleur	NOM
-encens	NOM
-comme	ADV
-furtive	ADJ
-d'	PRP
-elle	PRO:PER
-et	KON
-visible	ADJ
-je	PRO:PER
-sens	VER:pres
-que	KON
-se	PRO:PER
-dévêt	VER:pres
-pli	NOM
-selon	PRP
-pli	NOM
-la	DET:ART
-pierre	NOM
-veuve	ADJ
-flotte	VER:pres
-ou	KON
-semble	VER:pres
-par	PRP
-soi	PRO:PER
-n'	ADV
-apporter	VER:infi
-une	DET:ART
-preuve	NOM
-sinon	KON
-d'	PRP
-épandre	VER:infi
-pour	PRP
-baume	NOM
-antique	ADJ
-le	DET:ART
-temps	NOM
-nous	PRO:PER
-immémoriaux	ADJ
-quelques	PRO:IND
-uns	NOM
-si	ADV
-contents	ADJ
-sur	PRP
-la	DET:ART
-soudaineté	NOM
-de	PRP
-notre	DET:POS
-amitié	NOM
-neuve	ADJ
-o	VER:simp
-très	ADV
-chers	ADJ
-rencontrés	VER:pper
-en	PRP
-le	DET:ART
-jamais	ADV
-banal	ADJ
-bruges	NOM
-multipliant	VER:ppre
-l'	DET:ART
-aube	NOM
-au	PRP:det
-défunt	ADJ
-canal	NOM
-avec	PRP
-la	DET:ART
-promenade	NOM
-éparse	ADJ
-de	PRP
-maint	PRO:IND
-cygne	NOM
-quand	KON
-solennellement	ADV
-cette	PRO:DEM
-cité	NOM
-m'	PRO:PER
-apprit	VER:simp
-lesquels	PRO:REL
-entre	PRP
-ses	DET:POS
-fils	NOM
-un	DET:ART
-autre	ADJ
-vol	NOM
-désigne	VER:pres
-a	VER:pres
-prompte	ADJ
-irradier	VER:infi
-ainsi	KON
-qu'	PRO:REL
-aile	VER:pres
-l'	DET:ART
-esprit	NOM
-.	SENT
+a	VER:pres	avoir
+des	PRP:det	du
+heures	NOM	heure
+et	KON	et
+sans	PRP	sans
+que	KON	que
+tel	PRO:DEM	tel
+souffle	NOM	souffle
+l'	PRO:PER	la|le
+émeuve	VER:subp	émouvoir
+toute	PRO:IND	tout
+la	DET:ART	le
+vétusté	NOM	vétusté
+presque	ADV	presque
+couleur	NOM	couleur
+encens	NOM	encens
+comme	ADV	comme
+furtive	ADJ	furtif
+d'	PRP	de
+elle	PRO:PER	elle
+et	KON	et
+visible	ADJ	visible
+je	PRO:PER	je
+sens	VER:pres	sentir
+que	KON	que
+se	PRO:PER	se
+dévêt	VER:pres	dévêtir
+pli	NOM	pli
+selon	PRP	selon
+pli	NOM	pli
+la	DET:ART	le
+pierre	NOM	pierre
+veuve	ADJ	veuf|veuve
+flotte	VER:pres	flotter
+ou	KON	ou
+semble	VER:pres	sembler
+par	PRP	par
+soi	PRO:PER	soi
+n'	ADV	ne
+apporter	VER:infi	apporter
+une	DET:ART	un
+preuve	NOM	preuve
+sinon	KON	sinon
+d'	PRP	de
+épandre	VER:infi	épandre
+pour	PRP	pour
+baume	NOM	baume
+antique	ADJ	antique
+le	DET:ART	le
+temps	NOM	temps
+nous	PRO:PER	nous
+immémoriaux	ADJ	immémorial
+quelques	PRO:IND	quelque
+uns	NOM	un
+si	ADV	si
+contents	ADJ	content
+sur	PRP	sur
+la	DET:ART	le
+soudaineté	NOM	soudaineté
+de	PRP	de
+notre	DET:POS	notre
+amitié	NOM	amitié
+neuve	ADJ	neuf
+o	VER:simp	o
+très	ADV	très
+chers	ADJ	cher
+rencontrés	VER:pper	rencontrer
+en	PRP	en
+le	DET:ART	le
+jamais	ADV	jamais
+banal	ADJ	banal
+bruges	NOM	bruges
+multipliant	VER:ppre	multiplier
+l'	DET:ART	le
+aube	NOM	aube
+au	PRP:det	au
+défunt	ADJ	défunt
+canal	NOM	canal
+avec	PRP	avec
+la	DET:ART	le
+promenade	NOM	promenade
+éparse	ADJ	épars
+de	PRP	de
+maint	PRO:IND	maint
+cygne	NOM	cygne
+quand	KON	quand
+solennellement	ADV	solennellement
+cette	PRO:DEM	ce
+cité	NOM	cité
+m'	PRO:PER	me
+apprit	VER:simp	apprendre
+lesquels	PRO:REL	lequel
+entre	PRP	entre
+ses	DET:POS	son
+fils	NOM	fil|fils
+un	DET:ART	un
+autre	ADJ	autre
+vol	NOM	vol
+désigne	VER:pres	désigner
+a	VER:pres	avoir
+prompte	ADJ	prompt
+irradier	VER:infi	irradier
+ainsi	KON	ainsi
+qu'	PRO:REL	que
+aile	VER:pres	ailer
+l'	DET:ART	le
+esprit	NOM	esprit
+.	SENT	.

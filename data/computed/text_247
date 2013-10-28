@@ -1,647 +1,647 @@
-ta	DET:POS
-poitrine	NOM
-sur	PRP
-ma	DET:POS
-poitrine	NOM
-,	PUN
-hein	INT
-?	SENT
-nous	PRO:PER
-irions	VER:cond
-,	PUN
-ayant	VER:ppre
-de	PRP
-l'	DET:ART
-air	NOM
-plein	ADJ
-la	DET:ART
-narine	NOM
-,	PUN
-aux	PRP:det
-frais	ADJ
-rayons	NOM
-du	PRP:det
-bon	ADJ
-matin	NOM
-bleu	ADJ
-qui	PRO:REL
-vous	PRO:PER
-baigne	VER:pres
-du	PRP:det
-vin	NOM
-de	PRP
-jour	NOM
-?	SENT
-...	PUN
-quand	KON
-tout	PRO:IND
-le	DET:ART
-bois	NOM
-frissonnant	ADJ
-saigne	VER:pres
-muet	ADJ
-d'	PRP
-amour	NOM
-de	PRP
-chaque	PRO:IND
-branche	NOM
-,	PUN
-gouttes	NOM
-vertes	ADJ
-,	PUN
-des	PRP:det
-bourgeons	NOM
-clairs	ADJ
-,	PUN
-on	PRO:PER
-sent	VER:pres
-dans	PRP
-les	DET:ART
-choses	NOM
-ouvertes	ADJ
-frémir	VER:infi
-des	PRP:det
-chairs	NOM
-;	PUN
-tu	PRO:PER
-plongerais	VER:cond
-dans	PRP
-la	DET:ART
-luzerne	NOM
-ton	DET:POS
-long	ADJ
-peignoir	NOM
-,	PUN
-divine	ADJ
-avec	PRP
-ce	PRO:DEM
-bleu	NOM
-qui	PRO:REL
-cerne	VER:pres
-ton	DET:POS
-grand	ADJ
-oeil	NOM
-noir	ADJ
-,	PUN
-amoureuse	ADJ
-de	PRP
-la	DET:ART
-campagne	NOM
-,	PUN
-semant	VER:ppre
-partout	ADV
-,	PUN
-comme	KON
-une	DET:ART
-mousse	NOM
-de	PRP
-champagne	NOM
-,	PUN
-ton	DET:POS
-rire	NOM
-fou	ADJ
-!	SENT
-riant	VER:ppre
-à	PRP
-moi	PRO:PER
-,	PUN
-brutal	ADJ
-d'	PRP
-ivresse	NOM
-,	PUN
-qui	PRO:REL
-te	PRO:PER
-prendrais	VER:cond
-comme	KON
-cela	PRO:DEM
-,	PUN
-la	DET:ART
-belle	ADJ
-tresse	NOM
-,	PUN
-oh	INT
-!	SENT
-qui	PRO:REL
-boirais	VER:cond
-ton	DET:POS
-goût	NOM
-de	PRP
-framboise	NOM
-et	KON
-de	PRP
-fraise	NOM
-,	PUN
-o	VER:simp
-chair	NOM
-de	PRP
-fleur	NOM
-!	SENT
-riant	VER:ppre
-au	PRP:det
-vent	NOM
-vif	ADJ
-qui	PRO:REL
-te	PRO:PER
-baise	VER:pres
-comme	ADV
-un	DET:ART
-voleur	NOM
-!	SENT
-au	PRP:det
-rose	ADJ
-églantier	NOM
-qui	PRO:REL
-t'	PRO:PER
-embête	VER:pres
-aimablement	ADV
-...	PUN
-riant	VER:ppre
-surtout	ADV
-,	PUN
-ô	INT
-folle	ADJ
-tête	NOM
-,	PUN
-a	VER:pres
-ton	DET:POS
-amant	NOM
-!	SENT
-...	PUN
-dix	NUM
-sept	NUM
-ans	NOM
-!	SENT
-tu	PRO:PER
-seras	VER:futu
-heureuse	ADJ
-!	SENT
-oh	INT
-!	SENT
-les	DET:ART
-grands	ADJ
-prés	NOM
-,	PUN
-la	DET:ART
-grande	ADJ
-campagne	NOM
-amoureuse	ADJ
-!	SENT
-dis	VER:pres
-,	PUN
-viens	VER:pres
-plus	ADV
-près	ADV
-!	SENT
-...	PUN
-ta	DET:POS
-poitrine	NOM
-sur	PRP
-ma	DET:POS
-poitrine	NOM
-,	PUN
-mêlant	VER:ppre
-nos	DET:POS
-voix	NOM
-,	PUN
-lents	ADJ
-,	PUN
-nous	PRO:PER
-gagnerions	VER:cond
-la	DET:ART
-ravine	NOM
-,	PUN
-puis	ADV
-les	DET:ART
-grands	ADJ
-bois	NOM
-!	SENT
-...	PUN
-puis	ADV
-,	PUN
-comme	KON
-une	DET:ART
-petite	ADJ
-morte	NOM
-,	PUN
-le	DET:ART
-coeur	NOM
-pâmé	VER:pper
-,	PUN
-tu	PRO:PER
-me	PRO:PER
-dirais	VER:cond
-que	KON
-je	PRO:PER
-te	PRO:PER
-porte	VER:pres
-,	PUN
-l'	DET:ART
-oeil	NOM
-mi	NOM
-fermé	VER:pper
-...	PUN
-je	PRO:PER
-te	PRO:PER
-porterais	VER:cond
-,	PUN
-palpitante	ADJ
-,	PUN
-dans	PRP
-le	DET:ART
-sentier	NOM
-...	PUN
-l'	DET:ART
-oiseau	NOM
-filerait	VER:cond
-son	DET:POS
-andante	NOM
-,	PUN
-joli	ADJ
-portier	NOM
-...	PUN
-je	PRO:PER
-te	PRO:PER
-parlerais	VER:cond
-dans	PRP
-ta	DET:POS
-bouche	NOM
-:	PUN
-j'	PRO:PER
-irais	VER:cond
-,	PUN
-pressant	VER:ppre
-ton	DET:POS
-corps	NOM
-,	PUN
-comme	KON
-une	DET:ART
-enfant	NOM
-qu'	PRO:REL
-on	PRO:PER
-couche	VER:pres
-,	PUN
-ivre	ADJ
-du	PRP:det
-sang	NOM
-qui	PRO:REL
-coule	VER:pres
-,	PUN
-bleu	ADJ
-,	PUN
-sous	PRP
-ta	DET:POS
-peau	NOM
-blanche	ADJ
-aux	PRP:det
-tons	NOM
-rosés	ADJ
-,	PUN
-te	PRO:PER
-parlant	VER:ppre
-bas	ADV
-la	DET:ART
-langue	NOM
-franche	ADJ
-...	PUN
-tiens	INT
-!	SENT
-...	PUN
-que	KON
-tu	PRO:PER
-sais	VER:pres
-...	PUN
-nos	DET:POS
-grands	ADJ
-bois	NOM
-sentiraient	VER:cond
-la	DET:ART
-sève	NOM
-,	PUN
-et	KON
-le	DET:ART
-soleil	NOM
-sablerait	VER:cond
-d'	PRP
-or	NOM
-fin	NOM
-leur	DET:POS
-grand	ADJ
-rêve	NOM
-sombre	ADJ
-et	KON
-vermeil	ADJ
-!	SENT
-le	DET:ART
-soir	NOM
-?	SENT
-...	PUN
-nous	PRO:PER
-reprendrons	VER:futu
-la	DET:ART
-route	NOM
-blanche	ADJ
-qui	PRO:REL
-court	VER:pres
-,	PUN
-flânant	VER:ppre
-,	PUN
-comme	KON
-un	DET:ART
-troupeau	NOM
-qui	PRO:REL
-broute	VER:pres
-,	PUN
-tout	ADV
-à	PRP
-l'	DET:ART
-entour	NOM
-...	PUN
-les	DET:ART
-bons	ADJ
-vergers	NOM
-à	PRP
-l'	DET:ART
-herbe	NOM
-bleue	ADJ
-aux	PRP:det
-pommiers	NOM
-tors	ADJ
-!	SENT
-comme	KON
-on	PRO:PER
-les	PRO:PER
-sent	VER:pres
-toute	PRO:IND
-une	DET:ART
-lieue	NOM
-,	PUN
-leurs	DET:POS
-parfums	NOM
-forts	ADJ
-!	SENT
-nous	PRO:PER
-regagnerions	VER:cond
-le	DET:ART
-village	NOM
-au	PRP:det
-ciel	NOM
-mi	NOM
-noir	ADJ
-;	PUN
-et	KON
-ça	PRO:DEM
-sentira	VER:futu
-le	DET:ART
-laitage	NOM
-dans	PRP
-l'	DET:ART
-air	NOM
-du	PRP:det
-soir	NOM
-;	PUN
-ça	PRO:DEM
-sentira	VER:futu
-l'	DET:ART
-étable	NOM
-pleine	ADJ
-de	PRP
-fumiers	NOM
-chauds	ADJ
-,	PUN
-pleine	ADJ
-d'	PRP
-un	DET:ART
-rythme	NOM
-lent	ADJ
-d'	PRP
-haleine	NOM
-,	PUN
-et	KON
-de	PRP
-grands	ADJ
-dos	NOM
-blanchissant	VER:ppre
-sous	PRP
-quelque	PRO:IND
-lumière	NOM
-;	PUN
-et	KON
-,	PUN
-tout	ADV
-là	ADV
-bas	ADJ
-,	PUN
-une	DET:ART
-vache	NOM
-fienterait	VER:cond
-fière	ADJ
-,	PUN
-a	VER:pres
-chaque	PRO:IND
-pas	NOM
-!	SENT
-...	PUN
-les	DET:ART
-lunettes	NOM
-de	PRP
-la	DET:ART
-grand'mère	NOM
-et	KON
-son	DET:POS
-nez	NOM
-long	ADJ
-dans	PRP
-son	DET:POS
-missel	NOM
-,	PUN
-le	DET:ART
-pot	NOM
-de	PRP
-bière	NOM
-cerclé	VER:pper
-de	PRP
-plomb	NOM
-,	PUN
-moussant	VER:ppre
-entre	PRP
-les	DET:ART
-larges	ADJ
-pipes	NOM
-qui	PRO:REL
-,	PUN
-crânement	ADV
-,	PUN
-fument	VER:pres
-:	PUN
-dix	NUM
-,	PUN
-quinze	NUM
-,	PUN
-immenses	ADJ
-lippes	NOM
-qui	PRO:REL
-,	PUN
-tout	ADV
-fumant	ADJ
-,	PUN
-happent	VER:pres
-le	DET:ART
-jambon	NOM
-aux	PRP:det
-fourchettes	NOM
-tant	ADV
-,	PUN
-tant	ADV
-et	KON
-plus	ADV
-;	PUN
-le	DET:ART
-feu	NOM
-qui	PRO:REL
-claire	ADJ
-les	DET:ART
-couchettes	NOM
-,	PUN
-et	KON
-les	DET:ART
-bahuts	NOM
-;	PUN
-les	DET:ART
-fesses	NOM
-luisantes	ADJ
-et	KON
-grasses	ADJ
-d'	PRP
-un	DET:ART
-gros	ADJ
-enfant	NOM
-qui	PRO:REL
-fourre	VER:pres
-,	PUN
-à	PRP
-genoux	NOM
-,	PUN
-dans	PRP
-des	PRP:det
-tasses	NOM
-,	PUN
-son	DET:POS
-museau	NOM
-blanc	ADJ
-frolé	VER:pper
-par	PRP
-un	DET:ART
-mufle	NOM
-qui	PRO:REL
-gronde	VER:pres
-d'	PRP
-un	DET:ART
-ton	NOM
-gentil	ADJ
-,	PUN
-et	KON
-pourlèche	VER:pres
-la	DET:ART
-face	NOM
-ronde	ADJ
-du	PRP:det
-cher	ADV
-petit	ADJ
-...	PUN
-noire	ADJ
-,	PUN
-rogue	ADJ
-au	PRP:det
-bord	NOM
-de	PRP
-sa	DET:POS
-chaise	NOM
-,	PUN
-affreux	ADJ
-profil	NOM
-,	PUN
-une	DET:ART
-vieille	NOM
-devant	PRP
-la	DET:ART
-braise	NOM
-qui	PRO:REL
-fait	VER:pres
-du	PRP:det
-fil	NOM
-;	PUN
-que	KON
-de	PRP
-choses	NOM
-nous	PRO:PER
-verrions	VER:cond
-,	PUN
-chère	ADJ
-,	PUN
-dans	PRP
-ces	PRO:DEM
-taudis	NOM
-,	PUN
-quand	KON
-la	DET:ART
-flamme	NOM
-illumine	VER:pres
-,	PUN
-claire	ADJ
-,	PUN
-les	DET:ART
-carreaux	NOM
-gris	ADJ
-!	SENT
-...	PUN
-et	KON
-puis	ADV
-,	PUN
-fraîche	ADJ
-et	KON
-toute	PRO:IND
-nichée	NOM
-dans	PRP
-les	DET:ART
-lilas	NOM
-,	PUN
-la	DET:ART
-maison	NOM
-,	PUN
-la	DET:ART
-vitre	NOM
-cachée	VER:pper
-qui	PRO:REL
-rit	VER:pres
-là	ADV
-bas	ADJ
-...	PUN
-tu	PRO:PER
-viendras	VER:futu
-,	PUN
-tu	PRO:PER
-viendras	VER:futu
-,	PUN
-je	PRO:PER
-t'	PRO:PER
-aime	VER:pres
-,	PUN
-ce	PRO:DEM
-sera	VER:futu
-beau	ADJ
-!	SENT
-tu	PRO:PER
-viendras	VER:futu
-,	PUN
-n'	ADV
-est	VER:pres
-ce	PRO:DEM
-pas	NOM
-?	SENT
-et	KON
-même	ADV
-...	PUN
-mais	KON
-le	DET:ART
-bureau	NOM
-?	SENT
+ta	DET:POS	ton
+poitrine	NOM	poitrine
+sur	PRP	sur
+ma	DET:POS	mon
+poitrine	NOM	poitrine
+,	PUN	,
+hein	INT	hein
+?	SENT	?
+nous	PRO:PER	nous
+irions	VER:cond	aller
+,	PUN	,
+ayant	VER:ppre	avoir
+de	PRP	de
+l'	DET:ART	le
+air	NOM	air
+plein	ADJ	plein
+la	DET:ART	le
+narine	NOM	narine
+,	PUN	,
+aux	PRP:det	au
+frais	ADJ	frais
+rayons	NOM	rayon
+du	PRP:det	du
+bon	ADJ	bon
+matin	NOM	matin
+bleu	ADJ	bleu
+qui	PRO:REL	qui
+vous	PRO:PER	vous
+baigne	VER:pres	baigner
+du	PRP:det	du
+vin	NOM	vin
+de	PRP	de
+jour	NOM	jour
+?	SENT	?
+...	PUN	...
+quand	KON	quand
+tout	PRO:IND	tout
+le	DET:ART	le
+bois	NOM	bois
+frissonnant	ADJ	frissonnant
+saigne	VER:pres	saigner
+muet	ADJ	muet
+d'	PRP	de
+amour	NOM	amour
+de	PRP	de
+chaque	PRO:IND	chaque
+branche	NOM	branche
+,	PUN	,
+gouttes	NOM	goutte
+vertes	ADJ	vert
+,	PUN	,
+des	PRP:det	du
+bourgeons	NOM	bourgeon
+clairs	ADJ	clair
+,	PUN	,
+on	PRO:PER	on
+sent	VER:pres	sentir
+dans	PRP	dans
+les	DET:ART	le
+choses	NOM	chose
+ouvertes	ADJ	ouvert
+frémir	VER:infi	frémir
+des	PRP:det	du
+chairs	NOM	chair
+;	PUN	;
+tu	PRO:PER	tu
+plongerais	VER:cond	plonger
+dans	PRP	dans
+la	DET:ART	le
+luzerne	NOM	luzerne
+ton	DET:POS	ton
+long	ADJ	long
+peignoir	NOM	peignoir
+,	PUN	,
+divine	ADJ	divin
+avec	PRP	avec
+ce	PRO:DEM	ce
+bleu	NOM	bleu
+qui	PRO:REL	qui
+cerne	VER:pres	cerner
+ton	DET:POS	ton
+grand	ADJ	grand
+oeil	NOM	œil
+noir	ADJ	noir
+,	PUN	,
+amoureuse	ADJ	amoureux
+de	PRP	de
+la	DET:ART	le
+campagne	NOM	campagne
+,	PUN	,
+semant	VER:ppre	semer
+partout	ADV	partout
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+mousse	NOM	mousse
+de	PRP	de
+champagne	NOM	champagne
+,	PUN	,
+ton	DET:POS	ton
+rire	NOM	rire
+fou	ADJ	fou
+!	SENT	!
+riant	VER:ppre	rire
+à	PRP	à
+moi	PRO:PER	moi
+,	PUN	,
+brutal	ADJ	brutal
+d'	PRP	de
+ivresse	NOM	ivresse
+,	PUN	,
+qui	PRO:REL	qui
+te	PRO:PER	te
+prendrais	VER:cond	prendre
+comme	KON	comme
+cela	PRO:DEM	cela
+,	PUN	,
+la	DET:ART	le
+belle	ADJ	beau
+tresse	NOM	tresse
+,	PUN	,
+oh	INT	oh
+!	SENT	!
+qui	PRO:REL	qui
+boirais	VER:cond	boire
+ton	DET:POS	ton
+goût	NOM	goût
+de	PRP	de
+framboise	NOM	framboise
+et	KON	et
+de	PRP	de
+fraise	NOM	fraise
+,	PUN	,
+o	VER:simp	o
+chair	NOM	chair
+de	PRP	de
+fleur	NOM	fleur
+!	SENT	!
+riant	VER:ppre	rire
+au	PRP:det	au
+vent	NOM	vent
+vif	ADJ	vif
+qui	PRO:REL	qui
+te	PRO:PER	te
+baise	VER:pres	baiser
+comme	ADV	comme
+un	DET:ART	un
+voleur	NOM	voleur
+!	SENT	!
+au	PRP:det	au
+rose	ADJ	rose
+églantier	NOM	églantier
+qui	PRO:REL	qui
+t'	PRO:PER	te
+embête	VER:pres	embêter
+aimablement	ADV	aimablement
+...	PUN	...
+riant	VER:ppre	rire
+surtout	ADV	surtout
+,	PUN	,
+ô	INT	ô
+folle	ADJ	folle|fou
+tête	NOM	tête
+,	PUN	,
+a	VER:pres	avoir
+ton	DET:POS	ton
+amant	NOM	amant
+!	SENT	!
+...	PUN	...
+dix	NUM	dix
+sept	NUM	sept
+ans	NOM	an
+!	SENT	!
+tu	PRO:PER	tu
+seras	VER:futu	être
+heureuse	ADJ	heureux
+!	SENT	!
+oh	INT	oh
+!	SENT	!
+les	DET:ART	le
+grands	ADJ	grand
+prés	NOM	pré
+,	PUN	,
+la	DET:ART	le
+grande	ADJ	grand
+campagne	NOM	campagne
+amoureuse	ADJ	amoureux
+!	SENT	!
+dis	VER:pres	dire
+,	PUN	,
+viens	VER:pres	venir
+plus	ADV	plus
+près	ADV	près
+!	SENT	!
+...	PUN	...
+ta	DET:POS	ton
+poitrine	NOM	poitrine
+sur	PRP	sur
+ma	DET:POS	mon
+poitrine	NOM	poitrine
+,	PUN	,
+mêlant	VER:ppre	mêler
+nos	DET:POS	notre
+voix	NOM	voix
+,	PUN	,
+lents	ADJ	lent
+,	PUN	,
+nous	PRO:PER	nous
+gagnerions	VER:cond	gagner
+la	DET:ART	le
+ravine	NOM	ravine
+,	PUN	,
+puis	ADV	puis
+les	DET:ART	le
+grands	ADJ	grand
+bois	NOM	bois
+!	SENT	!
+...	PUN	...
+puis	ADV	puis
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+petite	ADJ	petit
+morte	NOM	mort
+,	PUN	,
+le	DET:ART	le
+coeur	NOM	cœur
+pâmé	VER:pper	pâmer
+,	PUN	,
+tu	PRO:PER	tu
+me	PRO:PER	me
+dirais	VER:cond	dire
+que	KON	que
+je	PRO:PER	je
+te	PRO:PER	te
+porte	VER:pres	porter
+,	PUN	,
+l'	DET:ART	le
+oeil	NOM	œil
+mi	NOM	mi
+fermé	VER:pper	fermer
+...	PUN	...
+je	PRO:PER	je
+te	PRO:PER	te
+porterais	VER:cond	porter
+,	PUN	,
+palpitante	ADJ	palpitant
+,	PUN	,
+dans	PRP	dans
+le	DET:ART	le
+sentier	NOM	sentier
+...	PUN	...
+l'	DET:ART	le
+oiseau	NOM	oiseau
+filerait	VER:cond	filer
+son	DET:POS	son
+andante	NOM	andante
+,	PUN	,
+joli	ADJ	joli
+portier	NOM	portier
+...	PUN	...
+je	PRO:PER	je
+te	PRO:PER	te
+parlerais	VER:cond	parler
+dans	PRP	dans
+ta	DET:POS	ton
+bouche	NOM	bouche
+:	PUN	:
+j'	PRO:PER	je
+irais	VER:cond	aller
+,	PUN	,
+pressant	VER:ppre	presser
+ton	DET:POS	ton
+corps	NOM	corps
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+enfant	NOM	enfant
+qu'	PRO:REL	que
+on	PRO:PER	on
+couche	VER:pres	coucher
+,	PUN	,
+ivre	ADJ	ivre
+du	PRP:det	du
+sang	NOM	sang
+qui	PRO:REL	qui
+coule	VER:pres	couler
+,	PUN	,
+bleu	ADJ	bleu
+,	PUN	,
+sous	PRP	sous
+ta	DET:POS	ton
+peau	NOM	peau
+blanche	ADJ	blanc
+aux	PRP:det	au
+tons	NOM	ton
+rosés	ADJ	rosé
+,	PUN	,
+te	PRO:PER	te
+parlant	VER:ppre	parler
+bas	ADV	bas
+la	DET:ART	le
+langue	NOM	langue
+franche	ADJ	franc
+...	PUN	...
+tiens	INT	tiens
+!	SENT	!
+...	PUN	...
+que	KON	que
+tu	PRO:PER	tu
+sais	VER:pres	savoir
+...	PUN	...
+nos	DET:POS	notre
+grands	ADJ	grand
+bois	NOM	bois
+sentiraient	VER:cond	sentir
+la	DET:ART	le
+sève	NOM	sève
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+soleil	NOM	soleil
+sablerait	VER:cond	sabler
+d'	PRP	de
+or	NOM	or
+fin	NOM	fin
+leur	DET:POS	leur
+grand	ADJ	grand
+rêve	NOM	rêve
+sombre	ADJ	sombre
+et	KON	et
+vermeil	ADJ	vermeil
+!	SENT	!
+le	DET:ART	le
+soir	NOM	soir
+?	SENT	?
+...	PUN	...
+nous	PRO:PER	nous
+reprendrons	VER:futu	reprendre
+la	DET:ART	le
+route	NOM	route
+blanche	ADJ	blanc
+qui	PRO:REL	qui
+court	VER:pres	courir
+,	PUN	,
+flânant	VER:ppre	flâner
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+troupeau	NOM	troupeau
+qui	PRO:REL	qui
+broute	VER:pres	brouter
+,	PUN	,
+tout	ADV	tout
+à	PRP	à
+l'	DET:ART	le
+entour	NOM	entour
+...	PUN	...
+les	DET:ART	le
+bons	ADJ	bon
+vergers	NOM	verger
+à	PRP	à
+l'	DET:ART	le
+herbe	NOM	herbe
+bleue	ADJ	bleu
+aux	PRP:det	au
+pommiers	NOM	pommier
+tors	ADJ	tors
+!	SENT	!
+comme	KON	comme
+on	PRO:PER	on
+les	PRO:PER	la|le
+sent	VER:pres	sentir
+toute	PRO:IND	tout
+une	DET:ART	un
+lieue	NOM	lieue
+,	PUN	,
+leurs	DET:POS	leur
+parfums	NOM	parfum
+forts	ADJ	fort
+!	SENT	!
+nous	PRO:PER	nous
+regagnerions	VER:cond	regagner
+le	DET:ART	le
+village	NOM	village
+au	PRP:det	au
+ciel	NOM	ciel
+mi	NOM	mi
+noir	ADJ	noir
+;	PUN	;
+et	KON	et
+ça	PRO:DEM	cela
+sentira	VER:futu	sentir
+le	DET:ART	le
+laitage	NOM	laitage
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+du	PRP:det	du
+soir	NOM	soir
+;	PUN	;
+ça	PRO:DEM	cela
+sentira	VER:futu	sentir
+l'	DET:ART	le
+étable	NOM	étable
+pleine	ADJ	plein
+de	PRP	de
+fumiers	NOM	fumier
+chauds	ADJ	chaud
+,	PUN	,
+pleine	ADJ	plein
+d'	PRP	de
+un	DET:ART	un
+rythme	NOM	rythme
+lent	ADJ	lent
+d'	PRP	de
+haleine	NOM	haleine
+,	PUN	,
+et	KON	et
+de	PRP	de
+grands	ADJ	grand
+dos	NOM	dos
+blanchissant	VER:ppre	blanchir
+sous	PRP	sous
+quelque	PRO:IND	quelque
+lumière	NOM	lumière
+;	PUN	;
+et	KON	et
+,	PUN	,
+tout	ADV	tout
+là	ADV	là
+bas	ADJ	bas
+,	PUN	,
+une	DET:ART	un
+vache	NOM	vache
+fienterait	VER:cond	fienter
+fière	ADJ	fier
+,	PUN	,
+a	VER:pres	avoir
+chaque	PRO:IND	chaque
+pas	NOM	pas
+!	SENT	!
+...	PUN	...
+les	DET:ART	le
+lunettes	NOM	lunette|lunettes
+de	PRP	de
+la	DET:ART	le
+grand'mère	NOM	grand'mère
+et	KON	et
+son	DET:POS	son
+nez	NOM	nez
+long	ADJ	long
+dans	PRP	dans
+son	DET:POS	son
+missel	NOM	missel
+,	PUN	,
+le	DET:ART	le
+pot	NOM	pot
+de	PRP	de
+bière	NOM	bière
+cerclé	VER:pper	cercler
+de	PRP	de
+plomb	NOM	plomb
+,	PUN	,
+moussant	VER:ppre	mousser
+entre	PRP	entre
+les	DET:ART	le
+larges	ADJ	large
+pipes	NOM	pipe
+qui	PRO:REL	qui
+,	PUN	,
+crânement	ADV	crânement
+,	PUN	,
+fument	VER:pres	fumer
+:	PUN	:
+dix	NUM	dix
+,	PUN	,
+quinze	NUM	quinze
+,	PUN	,
+immenses	ADJ	immense
+lippes	NOM	lippe
+qui	PRO:REL	qui
+,	PUN	,
+tout	ADV	tout
+fumant	ADJ	fumant
+,	PUN	,
+happent	VER:pres	happer
+le	DET:ART	le
+jambon	NOM	jambon
+aux	PRP:det	au
+fourchettes	NOM	fourchette
+tant	ADV	tant
+,	PUN	,
+tant	ADV	tant
+et	KON	et
+plus	ADV	plus
+;	PUN	;
+le	DET:ART	le
+feu	NOM	feu
+qui	PRO:REL	qui
+claire	ADJ	clair
+les	DET:ART	le
+couchettes	NOM	couchette
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+bahuts	NOM	bahut
+;	PUN	;
+les	DET:ART	le
+fesses	NOM	fesse
+luisantes	ADJ	luisant
+et	KON	et
+grasses	ADJ	gras
+d'	PRP	de
+un	DET:ART	un
+gros	ADJ	gros
+enfant	NOM	enfant
+qui	PRO:REL	qui
+fourre	VER:pres	fourrer
+,	PUN	,
+à	PRP	à
+genoux	NOM	genou
+,	PUN	,
+dans	PRP	dans
+des	PRP:det	du
+tasses	NOM	tasse
+,	PUN	,
+son	DET:POS	son
+museau	NOM	museau
+blanc	ADJ	blanc
+frolé	VER:pper	frolé
+par	PRP	par
+un	DET:ART	un
+mufle	NOM	mufle
+qui	PRO:REL	qui
+gronde	VER:pres	gronder
+d'	PRP	de
+un	DET:ART	un
+ton	NOM	ton
+gentil	ADJ	gentil
+,	PUN	,
+et	KON	et
+pourlèche	VER:pres	pourlécher
+la	DET:ART	le
+face	NOM	face
+ronde	ADJ	rond
+du	PRP:det	du
+cher	ADV	cher
+petit	ADJ	petit
+...	PUN	...
+noire	ADJ	noir
+,	PUN	,
+rogue	ADJ	rogue
+au	PRP:det	au
+bord	NOM	bord
+de	PRP	de
+sa	DET:POS	son
+chaise	NOM	chaise
+,	PUN	,
+affreux	ADJ	affreux
+profil	NOM	profil
+,	PUN	,
+une	DET:ART	un
+vieille	NOM	vieille
+devant	PRP	devant
+la	DET:ART	le
+braise	NOM	braise
+qui	PRO:REL	qui
+fait	VER:pres	faire
+du	PRP:det	du
+fil	NOM	fil
+;	PUN	;
+que	KON	que
+de	PRP	de
+choses	NOM	chose
+nous	PRO:PER	nous
+verrions	VER:cond	voir
+,	PUN	,
+chère	ADJ	cher
+,	PUN	,
+dans	PRP	dans
+ces	PRO:DEM	ce
+taudis	NOM	taudis
+,	PUN	,
+quand	KON	quand
+la	DET:ART	le
+flamme	NOM	flamme
+illumine	VER:pres	illuminer
+,	PUN	,
+claire	ADJ	clair
+,	PUN	,
+les	DET:ART	le
+carreaux	NOM	carreau
+gris	ADJ	gris
+!	SENT	!
+...	PUN	...
+et	KON	et
+puis	ADV	puis
+,	PUN	,
+fraîche	ADJ	frais
+et	KON	et
+toute	PRO:IND	tout
+nichée	NOM	nichée
+dans	PRP	dans
+les	DET:ART	le
+lilas	NOM	lilas
+,	PUN	,
+la	DET:ART	le
+maison	NOM	maison
+,	PUN	,
+la	DET:ART	le
+vitre	NOM	vitre
+cachée	VER:pper	cacher
+qui	PRO:REL	qui
+rit	VER:pres	rire
+là	ADV	là
+bas	ADJ	bas
+...	PUN	...
+tu	PRO:PER	tu
+viendras	VER:futu	venir
+,	PUN	,
+tu	PRO:PER	tu
+viendras	VER:futu	venir
+,	PUN	,
+je	PRO:PER	je
+t'	PRO:PER	te
+aime	VER:pres	aimer
+,	PUN	,
+ce	PRO:DEM	ce
+sera	VER:futu	être
+beau	ADJ	beau
+!	SENT	!
+tu	PRO:PER	tu
+viendras	VER:futu	venir
+,	PUN	,
+n'	ADV	ne
+est	VER:pres	être
+ce	PRO:DEM	ce
+pas	NOM	pas
+?	SENT	?
+et	KON	et
+même	ADV	même
+...	PUN	...
+mais	KON	mais
+le	DET:ART	le
+bureau	NOM	bureau
+?	SENT	?

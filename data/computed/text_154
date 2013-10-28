@@ -1,78 +1,78 @@
-une	DET:ART
-dentelle	NOM
-s'	PRO:PER
-abolit	VER:pres
-dans	PRP
-le	DET:ART
-doute	NOM
-du	PRP:det
-jeu	NOM
-suprême	ADJ
-a	VER:pres
-n'	ADV
-entr'ouvrir	VER:infi
-comme	ADV
-un	DET:ART
-blasphème	NOM
-qu'	KON
-absence	NOM
-éternelle	ADJ
-de	PRP
-lit	NOM
-.	SENT
-cet	PRO:DEM
-unanime	ADJ
-blanc	ADJ
-conflit	NOM
-d'	PRP
-une	DET:ART
-guirlande	NOM
-avec	PRP
-la	DET:ART
-même	ADJ
-,	PUN
-enfui	VER:pper
-contre	PRP
-la	DET:ART
-vitre	NOM
-blême	ADJ
-flotte	VER:pres
-plus	ADV
-qu'	KON
-il	PRO:PER
-n'	ADV
-ensevelit	VER:pres
-.	SENT
-mais	KON
-chez	PRP
-qui	PRO:REL
-du	PRP:det
-rêve	NOM
-se	PRO:PER
-dore	VER:pres
-tristement	ADV
-dort	VER:pres
-une	DET:ART
-mandore	NOM
-au	PRP:det
-creux	ADJ
-néant	NOM
-musicien	NOM
-telle	PRO:DEM
-que	PRO:REL
-vers	PRP
-quelque	PRO:IND
-fenêtre	NOM
-selon	PRP
-nul	ADJ
-ventre	NOM
-que	PRO:REL
-le	PRO:PER
-sien	PRO:POS
-,	PUN
-filial	ADJ
-on	PRO:PER
-aurait	VER:cond
-pu	VER:pper
-naître	VER:infi
-.	SENT
+une	DET:ART	un
+dentelle	NOM	dentelle
+s'	PRO:PER	se
+abolit	VER:pres	abolir
+dans	PRP	dans
+le	DET:ART	le
+doute	NOM	doute
+du	PRP:det	du
+jeu	NOM	jeu
+suprême	ADJ	suprême
+a	VER:pres	avoir
+n'	ADV	ne
+entr'ouvrir	VER:infi	entr'ouvrir
+comme	ADV	comme
+un	DET:ART	un
+blasphème	NOM	blasphème
+qu'	KON	que
+absence	NOM	absence
+éternelle	ADJ	éternel
+de	PRP	de
+lit	NOM	lit
+.	SENT	.
+cet	PRO:DEM	ce
+unanime	ADJ	unanime
+blanc	ADJ	blanc
+conflit	NOM	conflit
+d'	PRP	de
+une	DET:ART	un
+guirlande	NOM	guirlande
+avec	PRP	avec
+la	DET:ART	le
+même	ADJ	même
+,	PUN	,
+enfui	VER:pper	enfuir
+contre	PRP	contre
+la	DET:ART	le
+vitre	NOM	vitre
+blême	ADJ	blême
+flotte	VER:pres	flotter
+plus	ADV	plus
+qu'	KON	que
+il	PRO:PER	il
+n'	ADV	ne
+ensevelit	VER:pres	ensevelir
+.	SENT	.
+mais	KON	mais
+chez	PRP	chez
+qui	PRO:REL	qui
+du	PRP:det	du
+rêve	NOM	rêve
+se	PRO:PER	se
+dore	VER:pres	dorer
+tristement	ADV	tristement
+dort	VER:pres	dormir
+une	DET:ART	un
+mandore	NOM	mandore
+au	PRP:det	au
+creux	ADJ	creux
+néant	NOM	néant
+musicien	NOM	musicien
+telle	PRO:DEM	tel
+que	PRO:REL	que
+vers	PRP	vers
+quelque	PRO:IND	quelque
+fenêtre	NOM	fenêtre
+selon	PRP	selon
+nul	ADJ	nul
+ventre	NOM	ventre
+que	PRO:REL	que
+le	PRO:PER	le
+sien	PRO:POS	sien
+,	PUN	,
+filial	ADJ	filial
+on	PRO:PER	on
+aurait	VER:cond	avoir
+pu	VER:pper	pouvoir
+naître	VER:infi	naître
+.	SENT	.

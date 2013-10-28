@@ -1,140 +1,140 @@
-je	PRO:PER
-vis	VER:simp
-assis	VER:pper
-,	PUN
-tel	PRO:DEM
-qu'	PRO:REL
-un	DET:ART
-ange	NOM
-aux	PRP:det
-mains	NOM
-d'	PRP
-un	DET:ART
-barbier	NOM
-,	PUN
-empoignant	VER:ppre
-une	DET:ART
-chope	NOM
-à	PRP
-fortes	ADJ
-cannelures	NOM
-,	PUN
-l'	DET:ART
-hypogastre	NOM
-et	KON
-le	DET:ART
-col	NOM
-cambrés	VER:pper
-,	PUN
-une	DET:ART
-gambier	NOM
-aux	PRP:det
-dents	NOM
-,	PUN
-sous	PRP
-l'	DET:ART
-air	NOM
-gonflé	VER:pper
-d'	PRP
-impalpables	ADJ
-voilures	NOM
-.	SENT
-tels	PRO:DEM
-que	PRO:REL
-les	DET:ART
-excréments	NOM
-chauds	ADJ
-d'	PRP
-un	DET:ART
-vieux	ADJ
-colombier	NOM
-,	PUN
-mille	NUM
-rêves	NOM
-en	PRP
-moi	PRO:PER
-font	VER:pres
-de	PRP
-douces	ADJ
-brûlures	NOM
-;	PUN
-puis	ADV
-par	PRP
-instants	NOM
-mon	DET:POS
-coeur	NOM
-triste	ADJ
-est	VER:pres
-comme	ADV
-un	DET:ART
-aubier	NOM
-qu'	PRO:REL
-ensanglante	VER:pres
-l'	DET:ART
-or	NOM
-jaune	ADJ
-et	KON
-sombre	ADJ
-des	PRP:det
-coulures	NOM
-.	SENT
-puis	ADV
-quand	KON
-j'	PRO:PER
-ai	VER:pres
-ravalé	VER:pper
-mes	DET:POS
-rêves	NOM
-avec	PRP
-soin	NOM
-,	PUN
-je	PRO:PER
-me	PRO:PER
-tourne	VER:pres
-,	PUN
-ayant	VER:ppre
-bu	VER:pper
-trente	NUM
-ou	KON
-quarante	NUM
-chopes	NOM
-,	PUN
-et	KON
-me	PRO:PER
-recueille	VER:pres
-pour	PRP
-lâcher	VER:infi
-l'	DET:ART
-âcre	ADJ
-besoin	NOM
-.	SENT
-doux	ADV
-comme	ADV
-le	DET:ART
-seigneur	NOM
-du	PRP:det
-cèdre	NOM
-et	KON
-des	PRP:det
-hysopes	NOM
-,	PUN
-je	PRO:PER
-pisse	VER:pres
-vers	PRP
-les	DET:ART
-cieux	NOM
-bruns	ADJ
-,	PUN
-très	ADV
-haut	ADJ
-et	KON
-très	ADV
-loin	ADV
-,	PUN
-avec	PRP
-l'	DET:ART
-assentiment	NOM
-des	PRP:det
-grands	ADJ
-héliotropes	NOM
-.	SENT
+je	PRO:PER	je
+vis	VER:simp	voir
+assis	VER:pper	asseoir
+,	PUN	,
+tel	PRO:DEM	tel
+qu'	PRO:REL	que
+un	DET:ART	un
+ange	NOM	ange
+aux	PRP:det	au
+mains	NOM	main
+d'	PRP	de
+un	DET:ART	un
+barbier	NOM	barbier
+,	PUN	,
+empoignant	VER:ppre	empoigner
+une	DET:ART	un
+chope	NOM	chope
+à	PRP	à
+fortes	ADJ	fort
+cannelures	NOM	cannelure
+,	PUN	,
+l'	DET:ART	le
+hypogastre	NOM	hypogastre
+et	KON	et
+le	DET:ART	le
+col	NOM	col
+cambrés	VER:pper	cambrer
+,	PUN	,
+une	DET:ART	un
+gambier	NOM	gambier
+aux	PRP:det	au
+dents	NOM	dent
+,	PUN	,
+sous	PRP	sous
+l'	DET:ART	le
+air	NOM	air
+gonflé	VER:pper	gonfler
+d'	PRP	de
+impalpables	ADJ	impalpable
+voilures	NOM	voilure
+.	SENT	.
+tels	PRO:DEM	tel
+que	PRO:REL	que
+les	DET:ART	le
+excréments	NOM	excrément
+chauds	ADJ	chaud
+d'	PRP	de
+un	DET:ART	un
+vieux	ADJ	vieux
+colombier	NOM	colombier
+,	PUN	,
+mille	NUM	mille
+rêves	NOM	rêve
+en	PRP	en
+moi	PRO:PER	moi
+font	VER:pres	faire
+de	PRP	de
+douces	ADJ	doux
+brûlures	NOM	brûlure
+;	PUN	;
+puis	ADV	puis
+par	PRP	par
+instants	NOM	instant
+mon	DET:POS	mon
+coeur	NOM	cœur
+triste	ADJ	triste
+est	VER:pres	être
+comme	ADV	comme
+un	DET:ART	un
+aubier	NOM	aubier
+qu'	PRO:REL	que
+ensanglante	VER:pres	ensanglanter
+l'	DET:ART	le
+or	NOM	or
+jaune	ADJ	jaune
+et	KON	et
+sombre	ADJ	sombre
+des	PRP:det	du
+coulures	NOM	coulure
+.	SENT	.
+puis	ADV	puis
+quand	KON	quand
+j'	PRO:PER	je
+ai	VER:pres	avoir
+ravalé	VER:pper	ravaler
+mes	DET:POS	mon
+rêves	NOM	rêve
+avec	PRP	avec
+soin	NOM	soin
+,	PUN	,
+je	PRO:PER	je
+me	PRO:PER	me
+tourne	VER:pres	tourner
+,	PUN	,
+ayant	VER:ppre	avoir
+bu	VER:pper	boire
+trente	NUM	trente
+ou	KON	ou
+quarante	NUM	quarante
+chopes	NOM	chope
+,	PUN	,
+et	KON	et
+me	PRO:PER	me
+recueille	VER:pres	recueillir
+pour	PRP	pour
+lâcher	VER:infi	lâcher
+l'	DET:ART	le
+âcre	ADJ	âcre
+besoin	NOM	besoin
+.	SENT	.
+doux	ADV	doux
+comme	ADV	comme
+le	DET:ART	le
+seigneur	NOM	seigneur
+du	PRP:det	du
+cèdre	NOM	cèdre
+et	KON	et
+des	PRP:det	du
+hysopes	NOM	hysope
+,	PUN	,
+je	PRO:PER	je
+pisse	VER:pres	pisser
+vers	PRP	vers
+les	DET:ART	le
+cieux	NOM	cieux
+bruns	ADJ	brun
+,	PUN	,
+très	ADV	très
+haut	ADJ	haut
+et	KON	et
+très	ADV	très
+loin	ADV	loin
+,	PUN	,
+avec	PRP	avec
+l'	DET:ART	le
+assentiment	NOM	assentiment
+des	PRP:det	du
+grands	ADJ	grand
+héliotropes	NOM	héliotrope
+.	SENT	.

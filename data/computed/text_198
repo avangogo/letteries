@@ -1,264 +1,264 @@
-il	PRO:PER
-est	VER:pres
-de	PRP
-forts	ADJ
-parfums	NOM
-pour	KON
-qui	PRO:REL
-toute	PRO:IND
-matière	NOM
-est	VER:pres
-poreuse	ADJ
-.	SENT
-on	PRO:PER
-dirait	VER:cond
-qu'	KON
-ils	PRO:PER
-pénètrent	VER:pres
-le	DET:ART
-verre	NOM
-.	SENT
-en	PRP
-ouvrant	VER:ppre
-un	DET:ART
-coffret	NOM
-venu	VER:pper
-de	PRP
-l'	DET:ART
-orient	NOM
-dont	PRO:REL
-la	DET:ART
-serrure	NOM
-grince	VER:pres
-et	KON
-rechigne	VER:pres
-en	PRP
-criant	VER:ppre
-,	PUN
-ou	KON
-dans	PRP
-une	DET:ART
-maison	NOM
-déserte	ADJ
-quelque	PRO:IND
-armoire	NOM
-pleine	ADJ
-de	PRP
-l'	DET:ART
-âcre	ADJ
-odeur	NOM
-des	PRP:det
-temps	NOM
-,	PUN
-poudreuse	ADJ
-et	KON
-noire	ADJ
-,	PUN
-parfois	ADV
-on	PRO:PER
-trouve	VER:pres
-un	DET:ART
-vieux	ADJ
-flacon	NOM
-qui	PRO:REL
-se	PRO:PER
-souvient	VER:pres
-,	PUN
-d'	PRP
-où	PRO:REL
-jaillit	VER:pres
-toute	ADV
-vive	ADJ
-une	DET:ART
-âme	NOM
-qui	PRO:REL
-revient	VER:pres
-.	SENT
-mille	NUM
-pensers	NOM
-dormaient	VER:impf
-,	PUN
-chrysalides	NOM
-funèbres	ADJ
-,	PUN
-frémissant	VER:ppre
-doucement	ADV
-dans	PRP
-les	DET:ART
-lourdes	ADJ
-ténèbres	NOM
-,	PUN
-qui	PRO:REL
-dégagent	VER:pres
-leur	DET:POS
-aile	NOM
-et	KON
-prennent	VER:pres
-leur	DET:POS
-essor	NOM
-,	PUN
-teintés	VER:pper
-d'	PRP
-azur	NOM
-,	PUN
-glacés	VER:pper
-de	PRP
-rose	ADJ
-,	PUN
-lamés	VER:pper
-d'	PRP
-or	NOM
-.	SENT
-voilà	ADV
-le	DET:ART
-souvenir	NOM
-enivrant	ADJ
-qui	PRO:REL
-voltige	VER:pres
-dans	PRP
-l'	DET:ART
-air	NOM
-troublé	ADJ
-;	PUN
-les	DET:ART
-yeux	NOM
-se	PRO:PER
-ferment	NOM
-;	PUN
-le	DET:ART
-vertige	NOM
-saisit	VER:pres
-l'	DET:ART
-âme	NOM
-vaincue	VER:pper
-et	KON
-la	DET:ART
-pousse	NOM
-à	PRP
-deux	NUM
-mains	NOM
-vers	PRP
-un	DET:ART
-gouffre	NOM
-obscurci	VER:pper
-de	PRP
-miasmes	NOM
-humains	ADJ
-;	PUN
-il	PRO:PER
-la	PRO:PER
-terrasse	VER:subi
-au	PRP:det
-bord	NOM
-d'	PRP
-un	DET:ART
-gouffre	NOM
-séculaire	ADJ
-,	PUN
-où	PRO:REL
-,	PUN
-lazare	NOM
-odorant	VER:ppre
-déchirant	VER:ppre
-son	DET:POS
-suaire	NOM
-,	PUN
-se	PRO:PER
-meut	VER:pres
-dans	PRP
-son	DET:POS
-réveil	NOM
-le	DET:ART
-cadavre	NOM
-spectral	ADJ
-d'	PRP
-un	DET:ART
-vieil	ADJ
-amour	NOM
-ranci	VER:pper
-,	PUN
-charmant	ADJ
-et	KON
-sépulcral	ADJ
-.	SENT
-ainsi	ADV
-,	PUN
-quand	KON
-je	PRO:PER
-serai	VER:futu
-perdu	VER:pper
-dans	PRP
-la	DET:ART
-mémoire	NOM
-des	PRP:det
-hommes	NOM
-,	PUN
-dans	PRP
-le	DET:ART
-coin	NOM
-d'	PRP
-une	DET:ART
-sinistre	ADJ
-armoire	NOM
-quand	KON
-on	PRO:PER
-m'	PRO:PER
-aura	VER:futu
-jeté	VER:pper
-,	PUN
-vieux	ADJ
-flacon	NOM
-désolé	VER:pper
-,	PUN
-décrépit	ADJ
-,	PUN
-poudreux	ADJ
-,	PUN
-sale	ADJ
-,	PUN
-abject	ADJ
-,	PUN
-visqueux	ADJ
-,	PUN
-fêlé	VER:pper
-,	PUN
-je	PRO:PER
-serai	VER:futu
-ton	DET:POS
-cercueil	NOM
-,	PUN
-aimable	ADJ
-pestilence	NOM
-!	SENT
-le	DET:ART
-témoin	NOM
-de	PRP
-ta	DET:POS
-force	NOM
-et	KON
-de	PRP
-ta	DET:POS
-virulence	NOM
-,	PUN
-cher	ADV
-poison	NOM
-préparé	VER:pper
-par	PRP
-les	DET:ART
-anges	NOM
-!	SENT
-liqueur	NOM
-qui	PRO:REL
-me	PRO:PER
-ronge	VER:pres
-,	PUN
-ô	INT
-la	DET:ART
-vie	NOM
-et	KON
-la	DET:ART
-mort	NOM
-de	PRP
-mon	DET:POS
-coeur	NOM
-!	SENT
+il	PRO:PER	il
+est	VER:pres	être
+de	PRP	de
+forts	ADJ	fort
+parfums	NOM	parfum
+pour	KON	pour
+qui	PRO:REL	qui
+toute	PRO:IND	tout
+matière	NOM	matière
+est	VER:pres	être
+poreuse	ADJ	poreux
+.	SENT	.
+on	PRO:PER	on
+dirait	VER:cond	dire
+qu'	KON	que
+ils	PRO:PER	il
+pénètrent	VER:pres	pénétrer
+le	DET:ART	le
+verre	NOM	verre
+.	SENT	.
+en	PRP	en
+ouvrant	VER:ppre	ouvrer|ouvrir
+un	DET:ART	un
+coffret	NOM	coffret
+venu	VER:pper	venir
+de	PRP	de
+l'	DET:ART	le
+orient	NOM	orient
+dont	PRO:REL	dont
+la	DET:ART	le
+serrure	NOM	serrure
+grince	VER:pres	grincer
+et	KON	et
+rechigne	VER:pres	rechigner
+en	PRP	en
+criant	VER:ppre	crier
+,	PUN	,
+ou	KON	ou
+dans	PRP	dans
+une	DET:ART	un
+maison	NOM	maison
+déserte	ADJ	désert
+quelque	PRO:IND	quelque
+armoire	NOM	armoire
+pleine	ADJ	plein
+de	PRP	de
+l'	DET:ART	le
+âcre	ADJ	âcre
+odeur	NOM	odeur
+des	PRP:det	du
+temps	NOM	temps
+,	PUN	,
+poudreuse	ADJ	poudreux
+et	KON	et
+noire	ADJ	noir
+,	PUN	,
+parfois	ADV	parfois
+on	PRO:PER	on
+trouve	VER:pres	trouver
+un	DET:ART	un
+vieux	ADJ	vieux
+flacon	NOM	flacon
+qui	PRO:REL	qui
+se	PRO:PER	se
+souvient	VER:pres	souvenir
+,	PUN	,
+d'	PRP	de
+où	PRO:REL	où
+jaillit	VER:pres	jaillir
+toute	ADV	toute
+vive	ADJ	vif
+une	DET:ART	un
+âme	NOM	âme
+qui	PRO:REL	qui
+revient	VER:pres	revenir
+.	SENT	.
+mille	NUM	mille
+pensers	NOM	penser
+dormaient	VER:impf	dormir
+,	PUN	,
+chrysalides	NOM	chrysalide
+funèbres	ADJ	funèbre
+,	PUN	,
+frémissant	VER:ppre	frémir
+doucement	ADV	doucement
+dans	PRP	dans
+les	DET:ART	le
+lourdes	ADJ	lourd
+ténèbres	NOM	ténèbre
+,	PUN	,
+qui	PRO:REL	qui
+dégagent	VER:pres	dégager
+leur	DET:POS	leur
+aile	NOM	aile
+et	KON	et
+prennent	VER:pres	prendre
+leur	DET:POS	leur
+essor	NOM	essor
+,	PUN	,
+teintés	VER:pper	teinter
+d'	PRP	de
+azur	NOM	azur
+,	PUN	,
+glacés	VER:pper	glacer
+de	PRP	de
+rose	ADJ	rose
+,	PUN	,
+lamés	VER:pper	lamer
+d'	PRP	de
+or	NOM	or
+.	SENT	.
+voilà	ADV	voilà
+le	DET:ART	le
+souvenir	NOM	souvenir
+enivrant	ADJ	enivrant
+qui	PRO:REL	qui
+voltige	VER:pres	voltiger
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+troublé	ADJ	troublé
+;	PUN	;
+les	DET:ART	le
+yeux	NOM	œil
+se	PRO:PER	se
+ferment	NOM	ferment
+;	PUN	;
+le	DET:ART	le
+vertige	NOM	vertige
+saisit	VER:pres	saisir
+l'	DET:ART	le
+âme	NOM	âme
+vaincue	VER:pper	vaincre
+et	KON	et
+la	DET:ART	le
+pousse	NOM	pousse
+à	PRP	à
+deux	NUM	deux
+mains	NOM	main
+vers	PRP	vers
+un	DET:ART	un
+gouffre	NOM	gouffre
+obscurci	VER:pper	obscurcir
+de	PRP	de
+miasmes	NOM	miasme
+humains	ADJ	humain
+;	PUN	;
+il	PRO:PER	il
+la	PRO:PER	la
+terrasse	VER:subi	terrer
+au	PRP:det	au
+bord	NOM	bord
+d'	PRP	de
+un	DET:ART	un
+gouffre	NOM	gouffre
+séculaire	ADJ	séculaire
+,	PUN	,
+où	PRO:REL	où
+,	PUN	,
+lazare	NOM	lazare
+odorant	VER:ppre	odorer
+déchirant	VER:ppre	déchirer
+son	DET:POS	son
+suaire	NOM	suaire
+,	PUN	,
+se	PRO:PER	se
+meut	VER:pres	mouvoir
+dans	PRP	dans
+son	DET:POS	son
+réveil	NOM	réveil
+le	DET:ART	le
+cadavre	NOM	cadavre
+spectral	ADJ	spectral
+d'	PRP	de
+un	DET:ART	un
+vieil	ADJ	vieux
+amour	NOM	amour
+ranci	VER:pper	rancir
+,	PUN	,
+charmant	ADJ	charmant
+et	KON	et
+sépulcral	ADJ	sépulcral
+.	SENT	.
+ainsi	ADV	ainsi
+,	PUN	,
+quand	KON	quand
+je	PRO:PER	je
+serai	VER:futu	être
+perdu	VER:pper	perdre
+dans	PRP	dans
+la	DET:ART	le
+mémoire	NOM	mémoire
+des	PRP:det	du
+hommes	NOM	homme
+,	PUN	,
+dans	PRP	dans
+le	DET:ART	le
+coin	NOM	coin
+d'	PRP	de
+une	DET:ART	un
+sinistre	ADJ	sinistre
+armoire	NOM	armoire
+quand	KON	quand
+on	PRO:PER	on
+m'	PRO:PER	me
+aura	VER:futu	avoir
+jeté	VER:pper	jeter
+,	PUN	,
+vieux	ADJ	vieux
+flacon	NOM	flacon
+désolé	VER:pper	désoler
+,	PUN	,
+décrépit	ADJ	décrépit
+,	PUN	,
+poudreux	ADJ	poudreux
+,	PUN	,
+sale	ADJ	sale
+,	PUN	,
+abject	ADJ	abject
+,	PUN	,
+visqueux	ADJ	visqueux
+,	PUN	,
+fêlé	VER:pper	fêler
+,	PUN	,
+je	PRO:PER	je
+serai	VER:futu	être
+ton	DET:POS	ton
+cercueil	NOM	cercueil
+,	PUN	,
+aimable	ADJ	aimable
+pestilence	NOM	pestilence
+!	SENT	!
+le	DET:ART	le
+témoin	NOM	témoin
+de	PRP	de
+ta	DET:POS	ton
+force	NOM	force
+et	KON	et
+de	PRP	de
+ta	DET:POS	ton
+virulence	NOM	virulence
+,	PUN	,
+cher	ADV	cher
+poison	NOM	poison
+préparé	VER:pper	préparer
+par	PRP	par
+les	DET:ART	le
+anges	NOM	ange
+!	SENT	!
+liqueur	NOM	liqueur
+qui	PRO:REL	qui
+me	PRO:PER	me
+ronge	VER:pres	ronger
+,	PUN	,
+ô	INT	ô
+la	DET:ART	le
+vie	NOM	vie
+et	KON	et
+la	DET:ART	le
+mort	NOM	mort
+de	PRP	de
+mon	DET:POS	mon
+coeur	NOM	cœur
+!	SENT	!

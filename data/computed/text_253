@@ -1,196 +1,196 @@
-la	DET:ART
-chambre	NOM
-est	VER:pres
-ouverte	VER:pper
-au	PRP:det
-ciel	NOM
-bleu	ADJ
-turquin	ADJ
-;	PUN
-pas	ADV
-de	PRP
-place	NOM
-:	PUN
-des	PRP:det
-coffrets	NOM
-et	KON
-des	PRP:det
-huches	NOM
-!	SENT
-dehors	PRP
-le	DET:ART
-mur	NOM
-est	VER:pres
-plein	ADJ
-d'	PRP
-aristoloches	NOM
-où	PRO:REL
-vibrent	VER:pres
-les	DET:ART
-gencives	NOM
-des	PRP:det
-lutins	NOM
-.	SENT
-que	KON
-ce	PRO:DEM
-sont	VER:pres
-bien	ADV
-intrigues	NOM
-de	PRP
-génies	NOM
-cette	PRO:DEM
-dépense	VER:pres
-et	KON
-ces	PRO:DEM
-désordres	NOM
-vains	ADJ
-!	SENT
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-fée	NOM
-africaine	ADJ
-qui	PRO:REL
-fournit	VER:pres
-la	DET:ART
-mûre	NOM
-,	PUN
-et	KON
-les	DET:ART
-résilles	NOM
-dans	PRP
-les	DET:ART
-coins	NOM
-.	SENT
-plusieurs	PRO:IND
-entrent	VER:pres
-,	PUN
-marraines	NOM
-mécontentes	ADJ
-,	PUN
-en	PRP
-pans	NOM
-de	PRP
-lumière	NOM
-dans	PRP
-les	DET:ART
-buffets	NOM
-,	PUN
-puis	ADV
-y	PRO:PER
-restent	VER:pres
-!	SENT
-le	DET:ART
-ménage	NOM
-s'	PRO:PER
-absente	VER:pres
-peu	ADV
-sérieusement	ADV
-,	PUN
-et	KON
-rien	ADV
-ne	ADV
-se	PRO:PER
-fait	VER:pres
-.	SENT
-le	DET:ART
-marié	NOM
-a	VER:pres
-le	DET:ART
-vent	NOM
-qui	PRO:REL
-le	PRO:PER
-floue	VER:pres
-pendant	PRP
-son	DET:POS
-absence	NOM
-,	PUN
-ici	ADV
-,	PUN
-tout	PRO:IND
-le	DET:ART
-temps	NOM
-.	SENT
-même	ADV
-des	PRP:det
-esprits	NOM
-des	PRP:det
-eaux	NOM
-,	PUN
-malfaisants	ADJ
-entrent	VER:pres
-vaguer	VER:infi
-aux	PRP:det
-sphères	NOM
-de	PRP
-l'	DET:ART
-alcôve	NOM
-.	SENT
-la	DET:ART
-nuit	NOM
-,	PUN
-l'	DET:ART
-amie	NOM
-oh	INT
-,	PUN
-la	DET:ART
-lune	NOM
-de	PRP
-miel	NOM
-cueillera	VER:futu
-leur	PRO:PER
-sourire	VER:infi
-et	KON
-remplira	VER:futu
-de	PRP
-mille	NUM
-bandeaux	NOM
-de	PRP
-cuivre	NOM
-le	DET:ART
-ciel	NOM
-.	SENT
-puis	ADV
-ils	PRO:PER
-auront	VER:futu
-affaire	NOM
-au	PRP:det
-malin	ADJ
-rat	NOM
-.	SENT
-s'	PRO:PER
-il	PRO:PER
-n'	ADV
-arrive	VER:pres
-pas	ADV
-un	DET:ART
-feu	ADJ
-follet	NOM
-blême	ADJ
-,	PUN
-comme	KON
-un	DET:ART
-coup	NOM
-de	PRP
-fusil	NOM
-,	PUN
-après	PRP
-des	PRP:det
-vêpres	NOM
-.	SENT
-o	ADJ
-spectres	NOM
-saints	ADJ
-et	KON
-blancs	ADJ
-de	PRP
-bethléem	NOM
-,	PUN
-charmez	VER:pres
-plutôt	ADV
-le	DET:ART
-bleu	NOM
-de	PRP
-leur	DET:POS
-fenêtre	NOM
-!	SENT
+la	DET:ART	le
+chambre	NOM	chambre
+est	VER:pres	être
+ouverte	VER:pper	ouvrir
+au	PRP:det	au
+ciel	NOM	ciel
+bleu	ADJ	bleu
+turquin	ADJ	turquin
+;	PUN	;
+pas	ADV	pas
+de	PRP	de
+place	NOM	place
+:	PUN	:
+des	PRP:det	du
+coffrets	NOM	coffret
+et	KON	et
+des	PRP:det	du
+huches	NOM	huche
+!	SENT	!
+dehors	PRP	dehors
+le	DET:ART	le
+mur	NOM	mur
+est	VER:pres	être
+plein	ADJ	plein
+d'	PRP	de
+aristoloches	NOM	aristoloche
+où	PRO:REL	où
+vibrent	VER:pres	vibrer
+les	DET:ART	le
+gencives	NOM	gencive
+des	PRP:det	du
+lutins	NOM	lutin
+.	SENT	.
+que	KON	que
+ce	PRO:DEM	ce
+sont	VER:pres	être
+bien	ADV	bien
+intrigues	NOM	intrigue
+de	PRP	de
+génies	NOM	génie
+cette	PRO:DEM	ce
+dépense	VER:pres	dépenser
+et	KON	et
+ces	PRO:DEM	ce
+désordres	NOM	désordre
+vains	ADJ	vain
+!	SENT	!
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+fée	NOM	fée
+africaine	ADJ	africain
+qui	PRO:REL	qui
+fournit	VER:pres	fournir
+la	DET:ART	le
+mûre	NOM	mûre
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+résilles	NOM	résille
+dans	PRP	dans
+les	DET:ART	le
+coins	NOM	coin
+.	SENT	.
+plusieurs	PRO:IND	plusieurs
+entrent	VER:pres	entrer
+,	PUN	,
+marraines	NOM	marraine
+mécontentes	ADJ	mécontent
+,	PUN	,
+en	PRP	en
+pans	NOM	pan
+de	PRP	de
+lumière	NOM	lumière
+dans	PRP	dans
+les	DET:ART	le
+buffets	NOM	buffet
+,	PUN	,
+puis	ADV	puis
+y	PRO:PER	y
+restent	VER:pres	rester
+!	SENT	!
+le	DET:ART	le
+ménage	NOM	ménage
+s'	PRO:PER	se
+absente	VER:pres	absenter
+peu	ADV	peu
+sérieusement	ADV	sérieusement
+,	PUN	,
+et	KON	et
+rien	ADV	rien
+ne	ADV	ne
+se	PRO:PER	se
+fait	VER:pres	faire
+.	SENT	.
+le	DET:ART	le
+marié	NOM	marié
+a	VER:pres	avoir
+le	DET:ART	le
+vent	NOM	vent
+qui	PRO:REL	qui
+le	PRO:PER	le
+floue	VER:pres	flouer
+pendant	PRP	pendant
+son	DET:POS	son
+absence	NOM	absence
+,	PUN	,
+ici	ADV	ici
+,	PUN	,
+tout	PRO:IND	tout
+le	DET:ART	le
+temps	NOM	temps
+.	SENT	.
+même	ADV	même
+des	PRP:det	du
+esprits	NOM	esprit
+des	PRP:det	du
+eaux	NOM	eau
+,	PUN	,
+malfaisants	ADJ	malfaisant
+entrent	VER:pres	entrer
+vaguer	VER:infi	vaguer
+aux	PRP:det	au
+sphères	NOM	sphère
+de	PRP	de
+l'	DET:ART	le
+alcôve	NOM	alcôve
+.	SENT	.
+la	DET:ART	le
+nuit	NOM	nuit
+,	PUN	,
+l'	DET:ART	le
+amie	NOM	ami
+oh	INT	oh
+,	PUN	,
+la	DET:ART	le
+lune	NOM	lune
+de	PRP	de
+miel	NOM	miel
+cueillera	VER:futu	cueillir
+leur	PRO:PER	lui
+sourire	VER:infi	sourire
+et	KON	et
+remplira	VER:futu	remplir
+de	PRP	de
+mille	NUM	mille
+bandeaux	NOM	bandeau
+de	PRP	de
+cuivre	NOM	cuivre
+le	DET:ART	le
+ciel	NOM	ciel
+.	SENT	.
+puis	ADV	puis
+ils	PRO:PER	il
+auront	VER:futu	avoir
+affaire	NOM	affaire
+au	PRP:det	au
+malin	ADJ	malin
+rat	NOM	rat
+.	SENT	.
+s'	PRO:PER	se
+il	PRO:PER	il
+n'	ADV	ne
+arrive	VER:pres	arriver
+pas	ADV	pas
+un	DET:ART	un
+feu	ADJ	feu
+follet	NOM	follet
+blême	ADJ	blême
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+coup	NOM	coup
+de	PRP	de
+fusil	NOM	fusil
+,	PUN	,
+après	PRP	après
+des	PRP:det	du
+vêpres	NOM	vêpre|vêpres
+.	SENT	.
+o	ADJ	o
+spectres	NOM	spectre
+saints	ADJ	saint
+et	KON	et
+blancs	ADJ	blanc
+de	PRP	de
+bethléem	NOM	bethléem
+,	PUN	,
+charmez	VER:pres	charmer
+plutôt	ADV	plutôt
+le	DET:ART	le
+bleu	NOM	bleu
+de	PRP	de
+leur	DET:POS	leur
+fenêtre	NOM	fenêtre
+!	SENT	!

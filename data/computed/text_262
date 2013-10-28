@@ -1,147 +1,147 @@
-tandis	KON
-que	KON
-les	DET:ART
-crachats	NOM
-rouges	ADJ
-de	PRP
-la	DET:ART
-mitraille	NOM
-sifflent	VER:pres
-tout	ADV
-le	DET:ART
-jour	NOM
-par	PRP
-l'	DET:ART
-infini	NOM
-du	PRP:det
-ciel	NOM
-bleu	ADJ
-;	PUN
-qu'	KON
-écarlates	ADJ
-ou	KON
-verts	ADJ
-,	PUN
-près	ADV
-du	PRP:det
-roi	NOM
-qui	PRO:REL
-les	DET:ART
-raille	NOM
-,	PUN
-croulent	VER:pres
-les	DET:ART
-bataillons	NOM
-en	PRP
-masse	NOM
-dans	PRP
-le	DET:ART
-feu	NOM
-;	PUN
-tandis	KON
-qu'	KON
-une	DET:ART
-folie	NOM
-épouvantable	ADJ
-,	PUN
-broie	NOM
-et	KON
-fait	VER:pper
-de	PRP
-cent	NUM
-milliers	NOM
-d'	PRP
-hommes	NOM
-un	DET:ART
-tas	NOM
-fumant	ADJ
-;	PUN
-pauvres	ADJ
-morts	NOM
-!	SENT
-dans	PRP
-l'	DET:ART
-été	NOM
-,	PUN
-dans	PRP
-l'	DET:ART
-herbe	NOM
-,	PUN
-dans	PRP
-ta	DET:POS
-joie	NOM
-,	PUN
-nature	NOM
-!	SENT
-ô	INT
-toi	PRO:PER
-qui	PRO:REL
-fis	VER:simp
-ces	PRO:DEM
-hommes	NOM
-saintement	ADV
-!	SENT
-...	PUN
-il	PRO:PER
-est	VER:pres
-un	DET:ART
-dieu	NOM
-,	PUN
-qui	PRO:REL
-rit	VER:pres
-aux	PRP:det
-nappes	NOM
-damassées	VER:pper
-des	PRP:det
-autels	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-encens	NOM
-,	PUN
-aux	PRP:det
-grands	ADJ
-calices	NOM
-d'	PRP
-or	NOM
-;	PUN
-qui	PRO:REL
-dans	PRP
-le	DET:ART
-bercement	NOM
-des	PRP:det
-hosannah	NOM
-s'	PRO:PER
-endort	VER:pres
-,	PUN
-et	KON
-se	PRO:PER
-réveille	VER:pres
-,	PUN
-quand	KON
-des	PRP:det
-mères	NOM
-,	PUN
-ramassées	VER:pper
-dans	PRP
-l'	DET:ART
-angoisse	NOM
-,	PUN
-et	KON
-pleurant	VER:ppre
-sous	PRP
-leur	DET:POS
-vieux	ADJ
-bonnet	NOM
-noir	ADJ
-,	PUN
-lui	PRO:PER
-donnent	VER:pres
-un	DET:ART
-gros	ADJ
-sou	NOM
-lié	VER:pper
-dans	PRP
-leur	DET:POS
-mouchoir	NOM
-!	SENT
+tandis	KON	tandis
+que	KON	que
+les	DET:ART	le
+crachats	NOM	crachat
+rouges	ADJ	rouge
+de	PRP	de
+la	DET:ART	le
+mitraille	NOM	mitraille
+sifflent	VER:pres	siffler
+tout	ADV	tout
+le	DET:ART	le
+jour	NOM	jour
+par	PRP	par
+l'	DET:ART	le
+infini	NOM	infini
+du	PRP:det	du
+ciel	NOM	ciel
+bleu	ADJ	bleu
+;	PUN	;
+qu'	KON	que
+écarlates	ADJ	écarlate
+ou	KON	ou
+verts	ADJ	vert
+,	PUN	,
+près	ADV	près
+du	PRP:det	du
+roi	NOM	roi
+qui	PRO:REL	qui
+les	DET:ART	le
+raille	NOM	raille
+,	PUN	,
+croulent	VER:pres	crouler
+les	DET:ART	le
+bataillons	NOM	bataillon
+en	PRP	en
+masse	NOM	masse
+dans	PRP	dans
+le	DET:ART	le
+feu	NOM	feu
+;	PUN	;
+tandis	KON	tandis
+qu'	KON	que
+une	DET:ART	un
+folie	NOM	folie
+épouvantable	ADJ	épouvantable
+,	PUN	,
+broie	NOM	broie
+et	KON	et
+fait	VER:pper	faire
+de	PRP	de
+cent	NUM	cent
+milliers	NOM	millier
+d'	PRP	de
+hommes	NOM	homme
+un	DET:ART	un
+tas	NOM	tas
+fumant	ADJ	fumant
+;	PUN	;
+pauvres	ADJ	pauvre
+morts	NOM	mort
+!	SENT	!
+dans	PRP	dans
+l'	DET:ART	le
+été	NOM	été
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+herbe	NOM	herbe
+,	PUN	,
+dans	PRP	dans
+ta	DET:POS	ton
+joie	NOM	joie
+,	PUN	,
+nature	NOM	nature
+!	SENT	!
+ô	INT	ô
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+fis	VER:simp	faire
+ces	PRO:DEM	ce
+hommes	NOM	homme
+saintement	ADV	saintement
+!	SENT	!
+...	PUN	...
+il	PRO:PER	il
+est	VER:pres	être
+un	DET:ART	un
+dieu	NOM	dieu
+,	PUN	,
+qui	PRO:REL	qui
+rit	VER:pres	rire
+aux	PRP:det	au
+nappes	NOM	nappe
+damassées	VER:pper	damasser
+des	PRP:det	du
+autels	NOM	autel
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+encens	NOM	encens
+,	PUN	,
+aux	PRP:det	au
+grands	ADJ	grand
+calices	NOM	calice
+d'	PRP	de
+or	NOM	or
+;	PUN	;
+qui	PRO:REL	qui
+dans	PRP	dans
+le	DET:ART	le
+bercement	NOM	bercement
+des	PRP:det	du
+hosannah	NOM	hosannah
+s'	PRO:PER	se
+endort	VER:pres	endormir
+,	PUN	,
+et	KON	et
+se	PRO:PER	se
+réveille	VER:pres	réveiller
+,	PUN	,
+quand	KON	quand
+des	PRP:det	du
+mères	NOM	mère
+,	PUN	,
+ramassées	VER:pper	ramasser
+dans	PRP	dans
+l'	DET:ART	le
+angoisse	NOM	angoisse
+,	PUN	,
+et	KON	et
+pleurant	VER:ppre	pleurer
+sous	PRP	sous
+leur	DET:POS	leur
+vieux	ADJ	vieux
+bonnet	NOM	bonnet
+noir	ADJ	noir
+,	PUN	,
+lui	PRO:PER	lui
+donnent	VER:pres	donner
+un	DET:ART	un
+gros	ADJ	gros
+sou	NOM	sou
+lié	VER:pper	lier
+dans	PRP	dans
+leur	DET:POS	leur
+mouchoir	NOM	mouchoir
+!	SENT	!

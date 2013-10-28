@@ -1,109 +1,109 @@
-ô	INT
-soleil	NOM
-,	PUN
-ô	INT
-face	NOM
-divine	ADJ
-,	PUN
-fleurs	NOM
-sauvages	ADJ
-de	PRP
-la	DET:ART
-ravine	NOM
-,	PUN
-grottes	NOM
-où	PRO:REL
-l'	DET:ART
-on	PRO:PER
-entend	VER:pres
-des	PRP:det
-voix	NOM
-,	PUN
-parfums	NOM
-que	KON
-sous	PRP
-l'	DET:ART
-herbe	NOM
-ou	KON
-devine	VER:pres
-,	PUN
-ô	INT
-ronces	NOM
-farouches	ADJ
-des	PRP:det
-bois	NOM
-,	PUN
-monts	NOM
-sacrés	ADJ
-,	PUN
-hauts	ADJ
-comme	KON
-l'	DET:ART
-exemple	NOM
-,	PUN
-blancs	ADJ
-comme	KON
-le	DET:ART
-fronton	NOM
-d'	PRP
-un	DET:ART
-temple	NOM
-,	PUN
-vieux	ADJ
-rocs	NOM
-,	PUN
-chêne	NOM
-des	PRP:det
-ans	NOM
-vainqueur	NOM
-,	PUN
-dont	PRO:REL
-je	PRO:PER
-sens	VER:pres
-,	PUN
-quand	KON
-je	PRO:PER
-vous	PRO:PER
-contemple	VER:pres
-,	PUN
-l'	DET:ART
-âme	NOM
-éparse	ADJ
-entrer	VER:infi
-dans	PRP
-mon	DET:POS
-coeur	NOM
-,	PUN
-ô	INT
-vierge	ADJ
-forêt	NOM
-,	PUN
-source	NOM
-pure	ADJ
-,	PUN
-lac	NOM
-limpide	ADJ
-que	KON
-l'	DET:ART
-ombre	NOM
-azure	VER:pres
-,	PUN
-eau	NOM
-chaste	ADJ
-où	PRO:REL
-le	DET:ART
-ciel	NOM
-resplendit	VER:pres
-,	PUN
-conscience	NOM
-de	PRP
-la	DET:ART
-nature	NOM
-,	PUN
-que	PRO:REL
-pensez	VER:pres
-vous	PRO:PER
-de	PRP
-ce	PRO:DEM
-bandit	NOM
-?	SENT
+ô	INT	ô
+soleil	NOM	soleil
+,	PUN	,
+ô	INT	ô
+face	NOM	face
+divine	ADJ	divin
+,	PUN	,
+fleurs	NOM	fleur
+sauvages	ADJ	sauvage
+de	PRP	de
+la	DET:ART	le
+ravine	NOM	ravine
+,	PUN	,
+grottes	NOM	grotte
+où	PRO:REL	où
+l'	DET:ART	le
+on	PRO:PER	on
+entend	VER:pres	entendre
+des	PRP:det	du
+voix	NOM	voix
+,	PUN	,
+parfums	NOM	parfum
+que	KON	que
+sous	PRP	sous
+l'	DET:ART	le
+herbe	NOM	herbe
+ou	KON	ou
+devine	VER:pres	deviner
+,	PUN	,
+ô	INT	ô
+ronces	NOM	ronce
+farouches	ADJ	farouche
+des	PRP:det	du
+bois	NOM	bois
+,	PUN	,
+monts	NOM	mont
+sacrés	ADJ	sacré
+,	PUN	,
+hauts	ADJ	haut
+comme	KON	comme
+l'	DET:ART	le
+exemple	NOM	exemple
+,	PUN	,
+blancs	ADJ	blanc
+comme	KON	comme
+le	DET:ART	le
+fronton	NOM	fronton
+d'	PRP	de
+un	DET:ART	un
+temple	NOM	temple
+,	PUN	,
+vieux	ADJ	vieux
+rocs	NOM	roc
+,	PUN	,
+chêne	NOM	chêne
+des	PRP:det	du
+ans	NOM	an
+vainqueur	NOM	vainqueur
+,	PUN	,
+dont	PRO:REL	dont
+je	PRO:PER	je
+sens	VER:pres	sentir
+,	PUN	,
+quand	KON	quand
+je	PRO:PER	je
+vous	PRO:PER	vous
+contemple	VER:pres	contempler
+,	PUN	,
+l'	DET:ART	le
+âme	NOM	âme
+éparse	ADJ	épars
+entrer	VER:infi	entrer
+dans	PRP	dans
+mon	DET:POS	mon
+coeur	NOM	cœur
+,	PUN	,
+ô	INT	ô
+vierge	ADJ	vierge
+forêt	NOM	forêt
+,	PUN	,
+source	NOM	source
+pure	ADJ	pur
+,	PUN	,
+lac	NOM	lac
+limpide	ADJ	limpide
+que	KON	que
+l'	DET:ART	le
+ombre	NOM	ombre
+azure	VER:pres	azurer
+,	PUN	,
+eau	NOM	eau
+chaste	ADJ	chaste
+où	PRO:REL	où
+le	DET:ART	le
+ciel	NOM	ciel
+resplendit	VER:pres	resplendir
+,	PUN	,
+conscience	NOM	conscience
+de	PRP	de
+la	DET:ART	le
+nature	NOM	nature
+,	PUN	,
+que	PRO:REL	que
+pensez	VER:pres	penser
+vous	PRO:PER	vous
+de	PRP	de
+ce	PRO:DEM	ce
+bandit	NOM	bandit
+?	SENT	?

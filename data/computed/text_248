@@ -1,190 +1,190 @@
-le	DET:ART
-printemps	NOM
-est	VER:pres
-évident	ADJ
-,	PUN
-car	KON
-du	PRP:det
-coeur	NOM
-des	PRP:det
-propriétés	NOM
-vertes	ADJ
-le	DET:ART
-vol	NOM
-de	PRP
-thiers	NOM
-et	KON
-de	PRP
-picard	NOM
-tient	VER:pres
-ses	DET:POS
-splendeurs	NOM
-grandes	ADJ
-ouvertes	VER:pper
-.	SENT
-o	ADJ
-mai	NOM
-!	SENT
-quels	PRO:REL
-délirants	ADJ
-cul	NOM
-nus	NOM
-!	SENT
-sèvres	NOM
-,	PUN
-meudon	NOM
-,	PUN
-bagneux	NOM
-,	PUN
-asnières	NOM
-,	PUN
-ecoutez	VER:pres
-donc	ADV
-les	DET:ART
-bienvenus	NOM
-semer	VER:infi
-les	DET:ART
-choses	NOM
-printanières	ADJ
-!	SENT
-ils	PRO:PER
-ont	VER:pres
-schako	NOM
-,	PUN
-sabre	NOM
-et	KON
-tamtam	NOM
-non	ADV
-la	DET:ART
-vieille	ADJ
-boîte	NOM
-à	PRP
-bougies	NOM
-et	KON
-des	PRP:det
-yoles	NOM
-qui	PRO:REL
-n'	ADV
-ont	VER:pres
-jam	NOM
-...	PUN
-jam	NOM
-...	PUN
-fendent	VER:pres
-le	DET:ART
-lac	NOM
-aux	PRP:det
-eaux	NOM
-rougies	VER:pper
-!	SENT
-...	PUN
-plus	ADV
-que	KON
-jamais	ADV
-nous	PRO:PER
-bambochons	VER:pres
-quand	KON
-arrivent	VER:pres
-sur	PRP
-nos	DET:POS
-tanières	NOM
-crouler	VER:infi
-les	DET:ART
-jaunes	ADJ
-cabochons	NOM
-dans	PRP
-des	PRP:det
-aubes	NOM
-particulières	ADJ
-.	SENT
-thiers	NOM
-et	KON
-picard	NOM
-sont	VER:pres
-des	PRP:det
-eros	NOM
-des	PRP:det
-enleveurs	NOM
-d'	PRP
-héliotropes	NOM
-au	PRP:det
-pétrole	NOM
-ils	PRO:PER
-font	VER:pres
-des	PRP:det
-corots	NOM
-.	SENT
-voici	ADV
-hannetonner	VER:infi
-leurs	DET:POS
-tropes	NOM
-...	PUN
-ils	PRO:PER
-sont	VER:pres
-familiers	NOM
-du	PRP:det
-grand	ADJ
-truc	NOM
-!	SENT
-...	PUN
-et	KON
-couché	VER:pper
-dans	PRP
-les	DET:ART
-glaïeuls	NOM
-,	PUN
-favre	NOM
-,	PUN
-fait	VER:pper
-son	DET:POS
-cillement	NOM
-aqueduc	NOM
-et	KON
-ses	DET:POS
-reniflements	NOM
-à	PRP
-poivre	NOM
-!	SENT
-la	DET:ART
-grand	ADJ
-ville	NOM
-a	VER:pres
-le	DET:ART
-pavé	NOM
-chaud	ADJ
-malgré	PRP
-vos	DET:POS
-douches	NOM
-de	PRP
-pétrole	NOM
-et	KON
-décidément	ADV
-il	PRO:PER
-nous	PRO:PER
-faut	VER:pres
-nous	PRO:PER
-secouer	VER:infi
-dans	PRP
-votre	DET:POS
-rôle	NOM
-...	PUN
-et	KON
-les	DET:ART
-ruraux	ADJ
-qui	PRO:REL
-se	PRO:PER
-prélassent	VER:pres
-dans	PRP
-de	PRP
-longs	ADJ
-accroupissements	NOM
-entendront	VER:futu
-des	PRP:det
-rameaux	NOM
-qui	PRO:REL
-cassent	VER:pres
-parmi	PRP
-les	DET:ART
-rouges	ADJ
-froissements	NOM
-.	SENT
+le	DET:ART	le
+printemps	NOM	printemps
+est	VER:pres	être
+évident	ADJ	évident
+,	PUN	,
+car	KON	car
+du	PRP:det	du
+coeur	NOM	cœur
+des	PRP:det	du
+propriétés	NOM	propriété
+vertes	ADJ	vert
+le	DET:ART	le
+vol	NOM	vol
+de	PRP	de
+thiers	NOM	thiers
+et	KON	et
+de	PRP	de
+picard	NOM	picard
+tient	VER:pres	tenir
+ses	DET:POS	son
+splendeurs	NOM	splendeur
+grandes	ADJ	grand
+ouvertes	VER:pper	ouvrir
+.	SENT	.
+o	ADJ	o
+mai	NOM	mai
+!	SENT	!
+quels	PRO:REL	quel
+délirants	ADJ	délirant
+cul	NOM	cul
+nus	NOM	nu
+!	SENT	!
+sèvres	NOM	sèvres
+,	PUN	,
+meudon	NOM	meudon
+,	PUN	,
+bagneux	NOM	bagneux
+,	PUN	,
+asnières	NOM	asnières
+,	PUN	,
+ecoutez	VER:pres	ecoutez
+donc	ADV	donc
+les	DET:ART	le
+bienvenus	NOM	bienvenu
+semer	VER:infi	semer
+les	DET:ART	le
+choses	NOM	chose
+printanières	ADJ	printanier
+!	SENT	!
+ils	PRO:PER	il
+ont	VER:pres	avoir
+schako	NOM	schako
+,	PUN	,
+sabre	NOM	sabre
+et	KON	et
+tamtam	NOM	tamtam
+non	ADV	non
+la	DET:ART	le
+vieille	ADJ	vieux
+boîte	NOM	boîte
+à	PRP	à
+bougies	NOM	bougie
+et	KON	et
+des	PRP:det	du
+yoles	NOM	yole
+qui	PRO:REL	qui
+n'	ADV	ne
+ont	VER:pres	avoir
+jam	NOM	jam
+...	PUN	...
+jam	NOM	jam
+...	PUN	...
+fendent	VER:pres	fendre
+le	DET:ART	le
+lac	NOM	lac
+aux	PRP:det	au
+eaux	NOM	eau
+rougies	VER:pper	rougir
+!	SENT	!
+...	PUN	...
+plus	ADV	plus
+que	KON	que
+jamais	ADV	jamais
+nous	PRO:PER	nous
+bambochons	VER:pres	bambocher
+quand	KON	quand
+arrivent	VER:pres	arriver
+sur	PRP	sur
+nos	DET:POS	notre
+tanières	NOM	tanière
+crouler	VER:infi	crouler
+les	DET:ART	le
+jaunes	ADJ	jaune
+cabochons	NOM	cabochon
+dans	PRP	dans
+des	PRP:det	du
+aubes	NOM	aube
+particulières	ADJ	particulier
+.	SENT	.
+thiers	NOM	thiers
+et	KON	et
+picard	NOM	picard
+sont	VER:pres	être
+des	PRP:det	du
+eros	NOM	eros
+des	PRP:det	du
+enleveurs	NOM	enleveur
+d'	PRP	de
+héliotropes	NOM	héliotrope
+au	PRP:det	au
+pétrole	NOM	pétrole
+ils	PRO:PER	il
+font	VER:pres	faire
+des	PRP:det	du
+corots	NOM	corots
+.	SENT	.
+voici	ADV	voici
+hannetonner	VER:infi	hannetonner
+leurs	DET:POS	leur
+tropes	NOM	trope
+...	PUN	...
+ils	PRO:PER	il
+sont	VER:pres	être
+familiers	NOM	familier
+du	PRP:det	du
+grand	ADJ	grand
+truc	NOM	truc
+!	SENT	!
+...	PUN	...
+et	KON	et
+couché	VER:pper	coucher
+dans	PRP	dans
+les	DET:ART	le
+glaïeuls	NOM	glaïeul
+,	PUN	,
+favre	NOM	favre
+,	PUN	,
+fait	VER:pper	faire
+son	DET:POS	son
+cillement	NOM	cillement
+aqueduc	NOM	aqueduc
+et	KON	et
+ses	DET:POS	son
+reniflements	NOM	reniflement
+à	PRP	à
+poivre	NOM	poivre
+!	SENT	!
+la	DET:ART	le
+grand	ADJ	grand
+ville	NOM	ville
+a	VER:pres	avoir
+le	DET:ART	le
+pavé	NOM	pavé
+chaud	ADJ	chaud
+malgré	PRP	malgré
+vos	DET:POS	votre
+douches	NOM	douche
+de	PRP	de
+pétrole	NOM	pétrole
+et	KON	et
+décidément	ADV	décidément
+il	PRO:PER	il
+nous	PRO:PER	nous
+faut	VER:pres	falloir
+nous	PRO:PER	nous
+secouer	VER:infi	secouer
+dans	PRP	dans
+votre	DET:POS	votre
+rôle	NOM	rôle
+...	PUN	...
+et	KON	et
+les	DET:ART	le
+ruraux	ADJ	rural
+qui	PRO:REL	qui
+se	PRO:PER	se
+prélassent	VER:pres	prélasser
+dans	PRP	dans
+de	PRP	de
+longs	ADJ	long
+accroupissements	NOM	accroupissement
+entendront	VER:futu	entendre
+des	PRP:det	du
+rameaux	NOM	rameau
+qui	PRO:REL	qui
+cassent	VER:pres	casser
+parmi	PRP	parmi
+les	DET:ART	le
+rouges	ADJ	rouge
+froissements	NOM	froissement
+.	SENT	.

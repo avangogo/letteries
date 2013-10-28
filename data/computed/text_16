@@ -1,610 +1,610 @@
-xiv	NOM
-à	PRP
-quoi	PRO:REL
-ce	PRO:DEM
-proscrit	VER:pres
-pense	VER:pres
-t	VER:simp
-il	PRO:PER
-à	PRP
-son	DET:POS
-champ	NOM
-d'	PRP
-orge	NOM
-ou	KON
-de	PRP
-laitue	NOM
-,	PUN
-à	PRP
-sa	DET:POS
-charrue	NOM
-,	PUN
-à	PRP
-son	DET:POS
-outil	NOM
-,	PUN
-à	PRP
-la	DET:ART
-grande	ADJ
-france	NOM
-abattue	VER:pper
-.	SENT
-hélas	INT
-!	SENT
-le	DET:ART
-souvenir	NOM
-le	PRO:PER
-tue	VER:pres
-.	SENT
-pendant	PRP
-qu'	PRO:REL
-on	PRO:PER
-rente	VER:pres
-les	DET:ART
-dupin	NOM
-le	DET:ART
-pauvre	NOM
-exilé	VER:pper
-souffre	VER:pres
-et	KON
-prie	VER:pres
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-l'	DET:ART
-ouvrier	ADJ
-rêve	NOM
-l'	DET:ART
-atelier	NOM
-,	PUN
-et	KON
-le	DET:ART
-laboureur	NOM
-sa	DET:POS
-chaumière	NOM
-,	PUN
-les	DET:ART
-pots	NOM
-de	PRP
-fleurs	NOM
-sur	PRP
-l'	DET:ART
-escalier	NOM
-,	PUN
-le	DET:ART
-feu	NOM
-brillant	VER:ppre
-,	PUN
-la	DET:ART
-vitre	NOM
-claire	ADJ
-,	PUN
-au	PRP:det
-fond	NOM
-le	DET:ART
-lit	NOM
-de	PRP
-la	DET:ART
-grand'mère	NOM
-.	SENT
-quatre	NUM
-gros	ADJ
-glands	NOM
-de	PRP
-vieux	ADJ
-crépin	NOM
-en	PRO:PER
-faisaient	VER:impf
-la	DET:ART
-coquetterie	NOM
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-en	PRP
-mai	NOM
-volait	VER:impf
-la	DET:ART
-mouche	NOM
-à	PRP
-miel	NOM
-on	PRO:PER
-voyait	VER:impf
-courir	VER:infi
-dans	PRP
-les	DET:ART
-seigles	NOM
-les	DET:ART
-moineaux	NOM
-,	PUN
-partageux	ADJ
-du	PRP:det
-ciel	NOM
-ils	PRO:PER
-pillaient	VER:impf
-nos	DET:POS
-champs	NOM
-,	PUN
-ces	PRO:DEM
-espiègles	ADJ
-,	PUN
-tout	ADV
-comme	KON
-s'	PRO:PER
-ils	PRO:PER
-étaient	VER:impf
-des	PRP:det
-aigles	NOM
-.	SENT
-un	DET:ART
-château	NOM
-du	PRP:det
-temps	NOM
-de	PRP
-pépin	NOM
-croulait	VER:impf
-près	ADV
-de	PRP
-la	DET:ART
-métairie	NOM
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-avec	PRP
-sa	DET:POS
-lime	NOM
-ou	KON
-son	DET:POS
-maillet	NOM
-on	PRO:PER
-soutenait	VER:impf
-enfants	NOM
-et	KON
-femme	NOM
-de	PRP
-l'	DET:ART
-aube	NOM
-au	PRP:det
-soir	NOM
-on	PRO:PER
-travaillait	VER:impf
-et	KON
-le	DET:ART
-travail	NOM
-égayait	VER:impf
-l'	DET:ART
-âme	NOM
-.	SENT
-ô	INT
-saint	ADJ
-travail	NOM
-!	SENT
-lumière	NOM
-et	KON
-flamme	NOM
-!	SENT
-de	PRP
-watt	NOM
-,	PUN
-de	PRP
-jacquart	NOM
-,	PUN
-de	PRP
-papin	NOM
-,	PUN
-la	DET:ART
-jeunesse	NOM
-ainsi	KON
-fut	VER:simp
-nourrie	VER:pper
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-les	DET:ART
-jours	NOM
-de	PRP
-fête	NOM
-,	PUN
-l'	DET:ART
-ouvrier	NOM
-laissait	VER:impf
-les	DET:ART
-soucis	NOM
-en	PRP
-fourrière	NOM
-chantant	VER:ppre
-les	DET:ART
-chants	NOM
-de	PRP
-février	NOM
-,	PUN
-blouse	NOM
-au	PRP:det
-vent	NOM
-,	PUN
-casquette	NOM
-en	PRP
-arrière	NOM
-,	PUN
-on	PRO:PER
-s'	PRO:PER
-en	PRO:PER
-allait	VER:impf
-à	PRP
-la	DET:ART
-barrière	NOM
-.	SENT
-on	PRO:PER
-mangeait	VER:impf
-un	DET:ART
-douteux	ADJ
-lapin	NOM
-et	KON
-l'	PRO:PER
-on	PRO:PER
-buvait	VER:impf
-à	PRP
-la	DET:ART
-hongrie	ADJ
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-les	DET:ART
-dimanches	NOM
-le	DET:ART
-paysan	NOM
-appelait	VER:impf
-jeanne	NOM
-ou	KON
-jacqueline	NOM
-,	PUN
-et	KON
-disait	VER:impf
-:	PUN
-femme	NOM
-,	PUN
-viens	VER:pres
-nous	PRO:PER
-en	PRP
-,	PUN
-mets	VER:pres
-ta	DET:POS
-coiffe	NOM
-de	PRP
-mousseline	NOM
-!	SENT
-et	KON
-l'	PRO:PER
-on	PRO:PER
-dansait	VER:impf
-sur	PRP
-la	DET:ART
-colline	NOM
-.	SENT
-le	DET:ART
-sabot	NOM
-,	PUN
-et	KON
-non	ADV
-l'	DET:ART
-escarpin	NOM
-,	PUN
-foulait	VER:impf
-gaîment	ADV
-l'	DET:ART
-herbe	NOM
-fleurie	ADJ
-!	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-les	PRO:PER
-exilés	VER:pper
-s'	PRO:PER
-en	PRO:PER
-vont	VER:pres
-pensifs	ADJ
-.	SENT
-leur	DET:POS
-âme	NOM
-,	PUN
-hélas	INT
-!	SENT
-n'	ADV
-est	VER:pres
-plus	ADV
-entière	ADJ
-.	SENT
-ils	PRO:PER
-regardent	VER:pres
-l'	DET:ART
-ombre	NOM
-des	PRP:det
-ifs	NOM
-sur	PRP
-les	DET:ART
-fosses	NOM
-du	PRP:det
-cimetière	NOM
-;	PUN
-l'	DET:ART
-un	NUM
-songe	NOM
-à	PRP
-l'	DET:ART
-allemagne	NOM
-altière	ADJ
-,	PUN
-l'	DET:ART
-autre	ADJ
-au	PRP:det
-beau	ADJ
-pays	NOM
-transalpin	ADJ
-,	PUN
-l'	DET:ART
-autre	ADJ
-à	PRP
-sa	DET:POS
-pologne	NOM
-chérie	VER:pper
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-un	DET:ART
-proscrit	VER:pper
-,	PUN
-lassé	VER:pper
-de	PRP
-souffrir	VER:infi
-,	PUN
-mourait	VER:impf
-;	PUN
-calme	ADJ
-,	PUN
-il	PRO:PER
-fermait	VER:impf
-son	DET:POS
-livre	NOM
-;	PUN
-et	KON
-je	PRO:PER
-lui	PRO:PER
-dis	VER:pres
-:	PUN
-pourquoi	ADV
-mourir	VER:infi
-?	SENT
-il	PRO:PER
-me	PRO:PER
-répondit	VER:simp
-:	PUN
-pourquoi	ADV
-vivre	VER:infi
-?	SENT
-puis	ADV
-il	PRO:PER
-reprit	VER:simp
-:	PUN
-je	PRO:PER
-me	PRO:PER
-délivre	VER:pres
-.	SENT
-adieu	INT
-!	SENT
-je	PRO:PER
-meurs	VER:pres
-.	SENT
-néron	NOM
-scapin	NOM
-met	VER:pres
-aux	PRP:det
-fers	NOM
-la	DET:ART
-france	NOM
-flétrie	ADJ
-...	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
-...	PUN
-je	PRO:PER
-meurs	VER:pres
-de	PRP
-ne	ADV
-plus	ADV
-voir	VER:infi
-les	DET:ART
-champs	NOM
-où	PRO:REL
-je	PRO:PER
-regardais	VER:impf
-l'	DET:ART
-aube	NOM
-naître	VER:infi
-,	PUN
-de	PRP
-ne	ADV
-plus	ADV
-entendre	VER:infi
-les	DET:ART
-chants	NOM
-que	PRO:REL
-j'	PRO:PER
-entendais	VER:impf
-de	PRP
-ma	DET:POS
-fenêtre	NOM
-.	SENT
-mon	DET:POS
-âme	NOM
-est	VER:pres
-où	PRO:REL
-je	PRO:PER
-ne	ADV
-puis	ADV
-être	VER:infi
-.	SENT
-sous	PRP
-quatre	NUM
-planches	NOM
-de	PRP
-sapin	NOM
-,	PUN
-enterrez	VER:pres
-moi	PRO:PER
-dans	PRP
-la	DET:ART
-prairie	NOM
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
+xiv	NOM	xiv
+à	PRP	à
+quoi	PRO:REL	quoi
+ce	PRO:DEM	ce
+proscrit	VER:pres	proscrire
+pense	VER:pres	penser
+t	VER:simp	t
+il	PRO:PER	il
+à	PRP	à
+son	DET:POS	son
+champ	NOM	champ
+d'	PRP	de
+orge	NOM	orge
+ou	KON	ou
+de	PRP	de
+laitue	NOM	laitue
+,	PUN	,
+à	PRP	à
+sa	DET:POS	son
+charrue	NOM	charrue
+,	PUN	,
+à	PRP	à
+son	DET:POS	son
+outil	NOM	outil
+,	PUN	,
+à	PRP	à
+la	DET:ART	le
+grande	ADJ	grand
+france	NOM	france
+abattue	VER:pper	abattre
+.	SENT	.
+hélas	INT	hélas
+!	SENT	!
+le	DET:ART	le
+souvenir	NOM	souvenir
+le	PRO:PER	le
+tue	VER:pres	tuer
+.	SENT	.
+pendant	PRP	pendant
+qu'	PRO:REL	que
+on	PRO:PER	on
+rente	VER:pres	renter
+les	DET:ART	le
+dupin	NOM	dupin
+le	DET:ART	le
+pauvre	NOM	pauvre
+exilé	VER:pper	exiler
+souffre	VER:pres	souffrir
+et	KON	et
+prie	VER:pres	prier
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+l'	DET:ART	le
+ouvrier	ADJ	ouvrier
+rêve	NOM	rêve
+l'	DET:ART	le
+atelier	NOM	atelier
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+laboureur	NOM	laboureur
+sa	DET:POS	son
+chaumière	NOM	chaumière
+,	PUN	,
+les	DET:ART	le
+pots	NOM	pot
+de	PRP	de
+fleurs	NOM	fleur
+sur	PRP	sur
+l'	DET:ART	le
+escalier	NOM	escalier
+,	PUN	,
+le	DET:ART	le
+feu	NOM	feu
+brillant	VER:ppre	briller
+,	PUN	,
+la	DET:ART	le
+vitre	NOM	vitre
+claire	ADJ	clair
+,	PUN	,
+au	PRP:det	au
+fond	NOM	fond
+le	DET:ART	le
+lit	NOM	lit
+de	PRP	de
+la	DET:ART	le
+grand'mère	NOM	grand'mère
+.	SENT	.
+quatre	NUM	quatre
+gros	ADJ	gros
+glands	NOM	gland
+de	PRP	de
+vieux	ADJ	vieux
+crépin	NOM	crépin
+en	PRO:PER	en
+faisaient	VER:impf	faire
+la	DET:ART	le
+coquetterie	NOM	coquetterie
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+en	PRP	en
+mai	NOM	mai
+volait	VER:impf	voler
+la	DET:ART	le
+mouche	NOM	mouche
+à	PRP	à
+miel	NOM	miel
+on	PRO:PER	on
+voyait	VER:impf	voir
+courir	VER:infi	courir
+dans	PRP	dans
+les	DET:ART	le
+seigles	NOM	seigle
+les	DET:ART	le
+moineaux	NOM	moineau
+,	PUN	,
+partageux	ADJ	partageux
+du	PRP:det	du
+ciel	NOM	ciel
+ils	PRO:PER	il
+pillaient	VER:impf	piller
+nos	DET:POS	notre
+champs	NOM	champ
+,	PUN	,
+ces	PRO:DEM	ce
+espiègles	ADJ	espiègle
+,	PUN	,
+tout	ADV	tout
+comme	KON	comme
+s'	PRO:PER	se
+ils	PRO:PER	il
+étaient	VER:impf	être
+des	PRP:det	du
+aigles	NOM	aigle
+.	SENT	.
+un	DET:ART	un
+château	NOM	château
+du	PRP:det	du
+temps	NOM	temps
+de	PRP	de
+pépin	NOM	pépin
+croulait	VER:impf	crouler
+près	ADV	près
+de	PRP	de
+la	DET:ART	le
+métairie	NOM	métairie
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+avec	PRP	avec
+sa	DET:POS	son
+lime	NOM	lime
+ou	KON	ou
+son	DET:POS	son
+maillet	NOM	maillet
+on	PRO:PER	on
+soutenait	VER:impf	soutenir
+enfants	NOM	enfant
+et	KON	et
+femme	NOM	femme
+de	PRP	de
+l'	DET:ART	le
+aube	NOM	aube
+au	PRP:det	au
+soir	NOM	soir
+on	PRO:PER	on
+travaillait	VER:impf	travailler
+et	KON	et
+le	DET:ART	le
+travail	NOM	travail
+égayait	VER:impf	égayer|égayer
+l'	DET:ART	le
+âme	NOM	âme
+.	SENT	.
+ô	INT	ô
+saint	ADJ	saint
+travail	NOM	travail
+!	SENT	!
+lumière	NOM	lumière
+et	KON	et
+flamme	NOM	flamme
+!	SENT	!
+de	PRP	de
+watt	NOM	watt
+,	PUN	,
+de	PRP	de
+jacquart	NOM	jacquart
+,	PUN	,
+de	PRP	de
+papin	NOM	papin
+,	PUN	,
+la	DET:ART	le
+jeunesse	NOM	jeunesse
+ainsi	KON	ainsi
+fut	VER:simp	être
+nourrie	VER:pper	nourrir
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+les	DET:ART	le
+jours	NOM	jour
+de	PRP	de
+fête	NOM	fête
+,	PUN	,
+l'	DET:ART	le
+ouvrier	NOM	ouvrier
+laissait	VER:impf	laisser
+les	DET:ART	le
+soucis	NOM	souci
+en	PRP	en
+fourrière	NOM	fourrière
+chantant	VER:ppre	chanter
+les	DET:ART	le
+chants	NOM	chant
+de	PRP	de
+février	NOM	février
+,	PUN	,
+blouse	NOM	blouse
+au	PRP:det	au
+vent	NOM	vent
+,	PUN	,
+casquette	NOM	casquette
+en	PRP	en
+arrière	NOM	arrière
+,	PUN	,
+on	PRO:PER	on
+s'	PRO:PER	se
+en	PRO:PER	en
+allait	VER:impf	aller
+à	PRP	à
+la	DET:ART	le
+barrière	NOM	barrière
+.	SENT	.
+on	PRO:PER	on
+mangeait	VER:impf	manger
+un	DET:ART	un
+douteux	ADJ	douteux
+lapin	NOM	lapin
+et	KON	et
+l'	PRO:PER	la|le
+on	PRO:PER	on
+buvait	VER:impf	boire
+à	PRP	à
+la	DET:ART	le
+hongrie	ADJ	hongrie
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+les	DET:ART	le
+dimanches	NOM	dimanche
+le	DET:ART	le
+paysan	NOM	paysan
+appelait	VER:impf	appeler
+jeanne	NOM	jeanne
+ou	KON	ou
+jacqueline	NOM	jacqueline
+,	PUN	,
+et	KON	et
+disait	VER:impf	dire
+:	PUN	:
+femme	NOM	femme
+,	PUN	,
+viens	VER:pres	venir
+nous	PRO:PER	nous
+en	PRP	en
+,	PUN	,
+mets	VER:pres	mettre
+ta	DET:POS	ton
+coiffe	NOM	coiffe
+de	PRP	de
+mousseline	NOM	mousseline
+!	SENT	!
+et	KON	et
+l'	PRO:PER	la|le
+on	PRO:PER	on
+dansait	VER:impf	danser
+sur	PRP	sur
+la	DET:ART	le
+colline	NOM	colline
+.	SENT	.
+le	DET:ART	le
+sabot	NOM	sabot
+,	PUN	,
+et	KON	et
+non	ADV	non
+l'	DET:ART	le
+escarpin	NOM	escarpin
+,	PUN	,
+foulait	VER:impf	fouler
+gaîment	ADV	gaîment
+l'	DET:ART	le
+herbe	NOM	herbe
+fleurie	ADJ	fleuri
+!	SENT	!
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+les	PRO:PER	la|le
+exilés	VER:pper	exiler
+s'	PRO:PER	se
+en	PRO:PER	en
+vont	VER:pres	aller
+pensifs	ADJ	pensif
+.	SENT	.
+leur	DET:POS	leur
+âme	NOM	âme
+,	PUN	,
+hélas	INT	hélas
+!	SENT	!
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+entière	ADJ	entier
+.	SENT	.
+ils	PRO:PER	il
+regardent	VER:pres	regarder
+l'	DET:ART	le
+ombre	NOM	ombre
+des	PRP:det	du
+ifs	NOM	if
+sur	PRP	sur
+les	DET:ART	le
+fosses	NOM	fosse
+du	PRP:det	du
+cimetière	NOM	cimetière
+;	PUN	;
+l'	DET:ART	le
+un	NUM	un
+songe	NOM	songe
+à	PRP	à
+l'	DET:ART	le
+allemagne	NOM	allemagne
+altière	ADJ	altier
+,	PUN	,
+l'	DET:ART	le
+autre	ADJ	autre
+au	PRP:det	au
+beau	ADJ	beau
+pays	NOM	pays
+transalpin	ADJ	transalpin
+,	PUN	,
+l'	DET:ART	le
+autre	ADJ	autre
+à	PRP	à
+sa	DET:POS	son
+pologne	NOM	pologne
+chérie	VER:pper	chérir
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+un	DET:ART	un
+proscrit	VER:pper	proscrire
+,	PUN	,
+lassé	VER:pper	lasser
+de	PRP	de
+souffrir	VER:infi	souffrir
+,	PUN	,
+mourait	VER:impf	mourir
+;	PUN	;
+calme	ADJ	calme
+,	PUN	,
+il	PRO:PER	il
+fermait	VER:impf	fermer
+son	DET:POS	son
+livre	NOM	livre
+;	PUN	;
+et	KON	et
+je	PRO:PER	je
+lui	PRO:PER	lui
+dis	VER:pres	dire
+:	PUN	:
+pourquoi	ADV	pourquoi
+mourir	VER:infi	mourir
+?	SENT	?
+il	PRO:PER	il
+me	PRO:PER	me
+répondit	VER:simp	répondre
+:	PUN	:
+pourquoi	ADV	pourquoi
+vivre	VER:infi	vivre
+?	SENT	?
+puis	ADV	puis
+il	PRO:PER	il
+reprit	VER:simp	reprendre
+:	PUN	:
+je	PRO:PER	je
+me	PRO:PER	me
+délivre	VER:pres	délivrer
+.	SENT	.
+adieu	INT	adieu
+!	SENT	!
+je	PRO:PER	je
+meurs	VER:pres	mourir
+.	SENT	.
+néron	NOM	néron
+scapin	NOM	scapin
+met	VER:pres	mettre
+aux	PRP:det	au
+fers	NOM	fer
+la	DET:ART	le
+france	NOM	france
+flétrie	ADJ	flétri
+...	PUN	...
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.
+...	PUN	...
+je	PRO:PER	je
+meurs	VER:pres	mourir
+de	PRP	de
+ne	ADV	ne
+plus	ADV	plus
+voir	VER:infi	voir
+les	DET:ART	le
+champs	NOM	champ
+où	PRO:REL	où
+je	PRO:PER	je
+regardais	VER:impf	regarder
+l'	DET:ART	le
+aube	NOM	aube
+naître	VER:infi	naître
+,	PUN	,
+de	PRP	de
+ne	ADV	ne
+plus	ADV	plus
+entendre	VER:infi	entendre
+les	DET:ART	le
+chants	NOM	chant
+que	PRO:REL	que
+j'	PRO:PER	je
+entendais	VER:impf	entendre
+de	PRP	de
+ma	DET:POS	mon
+fenêtre	NOM	fenêtre
+.	SENT	.
+mon	DET:POS	mon
+âme	NOM	âme
+est	VER:pres	être
+où	PRO:REL	où
+je	PRO:PER	je
+ne	ADV	ne
+puis	ADV	puis
+être	VER:infi	être
+.	SENT	.
+sous	PRP	sous
+quatre	NUM	quatre
+planches	NOM	planche
+de	PRP	de
+sapin	NOM	sapin
+,	PUN	,
+enterrez	VER:pres	enterrer
+moi	PRO:PER	moi
+dans	PRP	dans
+la	DET:ART	le
+prairie	NOM	prairie
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.

@@ -1,519 +1,519 @@
-trois	NUM
-amis	NOM
-l'	PRO:PER
-entouraient	VER:impf
-.	SENT
-c'	PRO:DEM
-était	VER:impf
-à	PRP
-l'	DET:ART
-élysée	NOM
-.	SENT
-on	PRO:PER
-voyait	VER:impf
-du	PRP:det
-dehors	NOM
-luire	VER:infi
-cette	PRO:DEM
-croisée	NOM
-.	SENT
-regardant	VER:ppre
-venir	VER:infi
-l'	DET:ART
-heure	NOM
-et	KON
-l'	PRO:PER
-aiguille	VER:pres
-marcher	VER:infi
-,	PUN
-il	PRO:PER
-était	VER:impf
-là	ADV
-,	PUN
-pensif	ADJ
-;	PUN
-et	KON
-rêvant	VER:ppre
-d'	PRP
-attacher	VER:infi
-le	DET:ART
-nom	NOM
-de	PRP
-bonaparte	NOM
-aux	PRP:det
-exploits	NOM
-de	PRP
-cartouche	NOM
-,	PUN
-il	PRO:PER
-sentait	VER:impf
-approcher	VER:infi
-son	DET:POS
-guet	NOM
-apens	ADJ
-farouche	ADJ
-.	SENT
-d'	PRP
-un	DET:ART
-pied	NOM
-distrait	VER:pper
-dans	PRP
-l'	DET:ART
-âtre	NOM
-il	PRO:PER
-poussait	VER:impf
-le	DET:ART
-tison	NOM
-,	PUN
-et	KON
-voici	ADV
-ce	PRO:DEM
-que	PRO:REL
-dit	VER:pres
-l'	DET:ART
-homme	NOM
-de	PRP
-trahison	NOM
-:	PUN
-cette	PRO:DEM
-nuit	NOM
-vont	VER:pres
-surgir	VER:infi
-mes	DET:POS
-projets	NOM
-invisibles	ADJ
-.	SENT
-les	DET:ART
-saint	ADJ
-barthélemy	NOM
-sont	VER:pres
-encore	ADV
-possibles	ADJ
-.	SENT
-paris	NOM
-dort	VER:pres
-,	PUN
-comme	ADV
-aux	PRP:det
-temps	NOM
-de	PRP
-charles	NOM
-de	PRP
-valois	NOM
-.	SENT
-vous	PRO:PER
-allez	VER:pres
-dans	PRP
-un	DET:ART
-sac	NOM
-mettre	VER:infi
-toutes	PRO:IND
-les	DET:ART
-lois	NOM
-,	PUN
-et	KON
-par	PRP
-dessus	ADV
-le	DET:ART
-pont	NOM
-les	PRO:PER
-jeter	VER:infi
-dans	PRP
-la	DET:ART
-seine	NOM
-.	SENT
-ô	INT
-ruffians	NOM
-!	SENT
-bâtards	NOM
-de	PRP
-la	DET:ART
-fortune	NOM
-obscène	ADJ
-,	PUN
-nés	VER:pper
-du	PRP:det
-honteux	ADJ
-coït	NOM
-de	PRP
-l'	DET:ART
-intrigue	NOM
-et	KON
-du	PRP:det
-sort	NOM
-!	SENT
-rien	ADV
-qu'	KON
-en	PRO:PER
-songeant	VER:ppre
-à	PRP
-vous	PRO:PER
-mon	DET:POS
-vers	NOM
-indigné	ADJ
-sort	VER:pres
-,	PUN
-et	KON
-mon	DET:POS
-coeur	NOM
-orageux	ADJ
-dans	PRP
-ma	DET:POS
-poitrine	NOM
-gronde	VER:pres
-comme	ADV
-le	DET:ART
-chêne	NOM
-au	PRP:det
-vent	NOM
-dans	PRP
-la	DET:ART
-forêt	NOM
-profonde	ADJ
-!	SENT
-comme	KON
-ils	PRO:PER
-sortaient	VER:impf
-tous	PRO:IND
-trois	NUM
-de	PRP
-la	DET:ART
-maison	NOM
-bancal	ADJ
-,	PUN
-morny	NAM
-,	PUN
-maupas	VER:simp
-le	DET:ART
-grec	NOM
-,	PUN
-saint	ADJ
-arnaud	VER:futu
-le	DET:ART
-chacal	NOM
-,	PUN
-voyant	VER:ppre
-passer	VER:infi
-ce	PRO:DEM
-groupe	NOM
-oblique	ADJ
-et	KON
-taciturne	ADJ
-,	PUN
-les	DET:ART
-clochers	NOM
-de	PRP
-paris	NOM
-,	PUN
-sonnant	VER:ppre
-l'	DET:ART
-heure	NOM
-nocturne	ADJ
-,	PUN
-s'	PRO:PER
-efforçaient	VER:impf
-vainement	ADV
-d'	PRP
-imiter	VER:infi
-le	DET:ART
-tocsin	NOM
-;	PUN
-les	DET:ART
-pavés	NOM
-de	PRP
-juillet	NOM
-criaient	VER:impf
-à	PRP
-l'	DET:ART
-assassin	NOM
-!	SENT
-tous	PRO:IND
-les	DET:ART
-spectres	NOM
-sanglants	ADJ
-des	PRP:det
-antiques	ADJ
-carnages	NOM
-,	PUN
-réveillés	VER:pper
-,	PUN
-se	PRO:PER
-montraient	VER:impf
-du	PRP:det
-doigt	NOM
-ces	PRO:DEM
-personnages	NOM
-la	DET:ART
-marseillaise	NOM
-,	PUN
-archange	NOM
-aux	PRP:det
-chants	NOM
-aériens	ADJ
-,	PUN
-murmurait	VER:impf
-dans	PRP
-les	DET:ART
-cieux	NOM
-:	PUN
-aux	PRP:det
-armes	NOM
-,	PUN
-citoyens	NOM
-!	SENT
-paris	NOM
-dormait	VER:impf
-,	PUN
-hélas	INT
-!	SENT
-et	KON
-bientôt	ADV
-,	PUN
-sur	PRP
-les	DET:ART
-places	NOM
-,	PUN
-sur	PRP
-les	DET:ART
-quais	NOM
-,	PUN
-les	DET:ART
-soldats	NOM
-,	PUN
-dociles	ADJ
-populaces	NOM
-,	PUN
-janissaires	NOM
-conduits	VER:pper
-par	PRP
-reibell	NOM
-et	KON
-sauboul	NOM
-,	PUN
-payés	VER:pper
-comme	ADV
-à	PRP
-byzance	NOM
-,	PUN
-ivres	ADJ
-comme	KON
-à	PRP
-stamboul	NOM
-,	PUN
-ceux	PRO:DEM
-de	PRP
-dulac	NOM
-,	PUN
-et	KON
-ceux	PRO:DEM
-de	PRP
-korte	NOM
-et	KON
-d'	PRP
-espinasse	NOM
-,	PUN
-la	DET:ART
-cartouchière	NOM
-au	PRP:det
-flanc	NOM
-et	KON
-dans	PRP
-l'	DET:ART
-oeil	NOM
-la	DET:ART
-menace	NOM
-,	PUN
-vinrent	VER:simp
-,	PUN
-le	DET:ART
-régiment	NOM
-après	PRP
-le	DET:ART
-régiment	NOM
-,	PUN
-et	KON
-le	DET:ART
-long	NOM
-des	PRP:det
-maisons	NOM
-ils	PRO:PER
-passaient	VER:impf
-lentement	ADV
-,	PUN
-à	PRP
-pas	ADV
-sourds	ADJ
-,	PUN
-comme	KON
-on	PRO:PER
-voit	VER:pres
-les	DET:ART
-tigres	NOM
-dans	PRP
-les	DET:ART
-jongles	VER:pres
-qui	PRO:REL
-rampent	VER:pres
-sur	PRP
-le	DET:ART
-ventre	NOM
-en	PRP
-allongeant	VER:ppre
-leurs	DET:POS
-ongles	NOM
-et	KON
-la	DET:ART
-nuit	NOM
-était	VER:impf
-morne	ADJ
-,	PUN
-et	KON
-paris	NOM
-sommeillait	VER:impf
-comme	ADV
-un	DET:ART
-aigle	NOM
-endormi	VER:pper
-pris	VER:pper
-sous	PRP
-un	DET:ART
-noir	ADJ
-filet	NOM
-.	SENT
-les	DET:ART
-chefs	NOM
-attendaient	VER:impf
-l'	DET:ART
-aube	NOM
-en	PRP
-fumant	VER:ppre
-leurs	DET:POS
-cigares	NOM
-.	SENT
-ô	INT
-cosaques	ADJ
-!	SENT
-voleurs	NOM
-!	SENT
-chauffeurs	NOM
-!	SENT
-routiers	NOM
-!	SENT
-bulgares	NOM
-!	SENT
-ô	INT
-généraux	ADJ
-brigands	NOM
-!	SENT
-bagne	NOM
-,	PUN
-je	PRO:PER
-te	PRO:PER
-les	PRO:PER
-rends	VER:pres
-!	SENT
-les	DET:ART
-juges	NOM
-d'	PRP
-autrefois	ADV
-pour	PRP
-des	PRP:det
-crimes	NOM
-moins	ADV
-grands	ADJ
-ont	VER:pres
-brûlé	VER:pper
-la	DET:ART
-voisin	NOM
-et	KON
-roué	NOM
-vif	ADJ
-desrues	ADJ
-!	SENT
-éclairant	VER:ppre
-leur	DET:POS
-affiche	NOM
-infâme	ADJ
-au	PRP:det
-coin	NOM
-des	PRP:det
-rues	NOM
-et	KON
-le	DET:ART
-lâche	ADJ
-armement	NOM
-de	PRP
-ces	PRO:DEM
-filons	NOM
-hardis	ADJ
-,	PUN
-le	DET:ART
-jour	NOM
-parut	VER:simp
-.	SENT
-la	DET:ART
-nuit	NOM
-,	PUN
-complice	ADJ
-des	PRP:det
-bandits	NOM
-,	PUN
-prit	VER:simp
-la	DET:ART
-fuite	NOM
-,	PUN
-et	KON
-,	PUN
-traînant	VER:ppre
-à	PRP
-la	DET:ART
-hâte	NOM
-ses	DET:POS
-voiles	NOM
-,	PUN
-dans	PRP
-les	DET:ART
-plis	NOM
-de	PRP
-sa	DET:POS
-robe	NOM
-emporta	VER:simp
-les	DET:ART
-étoiles	NOM
-et	KON
-les	DET:ART
-mille	NUM
-soleils	NOM
-dans	PRP
-l'	DET:ART
-ombre	NOM
-étincelant	ADJ
-,	PUN
-comme	KON
-les	DET:ART
-sequins	NOM
-d'	PRP
-or	NOM
-qu'	PRO:REL
-emporte	VER:pres
-en	PRP
-s'	PRO:PER
-en	PRP
-allant	VER:ppre
-une	DET:ART
-fille	NOM
-,	PUN
-aux	PRP:det
-baisers	NOM
-du	PRP:det
-crime	NOM
-habituée	ADJ
-,	PUN
-qui	PRO:REL
-se	PRO:PER
-rhabille	VER:pres
-après	PRP
-s'	PRO:PER
-être	VER:infi
-prostituée	VER:pper
-.	SENT
+trois	NUM	trois
+amis	NOM	ami
+l'	PRO:PER	la|le
+entouraient	VER:impf	entourer
+.	SENT	.
+c'	PRO:DEM	ce
+était	VER:impf	être
+à	PRP	à
+l'	DET:ART	le
+élysée	NOM	élysée
+.	SENT	.
+on	PRO:PER	on
+voyait	VER:impf	voir
+du	PRP:det	du
+dehors	NOM	dehors
+luire	VER:infi	luire
+cette	PRO:DEM	ce
+croisée	NOM	croisée
+.	SENT	.
+regardant	VER:ppre	regarder
+venir	VER:infi	venir
+l'	DET:ART	le
+heure	NOM	heure
+et	KON	et
+l'	PRO:PER	la|le
+aiguille	VER:pres	aiguiller
+marcher	VER:infi	marcher
+,	PUN	,
+il	PRO:PER	il
+était	VER:impf	être
+là	ADV	là
+,	PUN	,
+pensif	ADJ	pensif
+;	PUN	;
+et	KON	et
+rêvant	VER:ppre	rêver
+d'	PRP	de
+attacher	VER:infi	attacher
+le	DET:ART	le
+nom	NOM	nom
+de	PRP	de
+bonaparte	NOM	bonaparte
+aux	PRP:det	au
+exploits	NOM	exploit
+de	PRP	de
+cartouche	NOM	cartouche
+,	PUN	,
+il	PRO:PER	il
+sentait	VER:impf	sentir
+approcher	VER:infi	approcher
+son	DET:POS	son
+guet	NOM	guet
+apens	ADJ	apens
+farouche	ADJ	farouche
+.	SENT	.
+d'	PRP	de
+un	DET:ART	un
+pied	NOM	pied
+distrait	VER:pper	distraire
+dans	PRP	dans
+l'	DET:ART	le
+âtre	NOM	âtre
+il	PRO:PER	il
+poussait	VER:impf	pousser
+le	DET:ART	le
+tison	NOM	tison
+,	PUN	,
+et	KON	et
+voici	ADV	voici
+ce	PRO:DEM	ce
+que	PRO:REL	que
+dit	VER:pres	dire
+l'	DET:ART	le
+homme	NOM	homme
+de	PRP	de
+trahison	NOM	trahison
+:	PUN	:
+cette	PRO:DEM	ce
+nuit	NOM	nuit
+vont	VER:pres	aller
+surgir	VER:infi	surgir
+mes	DET:POS	mon
+projets	NOM	projet
+invisibles	ADJ	invisible
+.	SENT	.
+les	DET:ART	le
+saint	ADJ	saint
+barthélemy	NOM	barthélemy
+sont	VER:pres	être
+encore	ADV	encore
+possibles	ADJ	possible
+.	SENT	.
+paris	NOM	pari
+dort	VER:pres	dormir
+,	PUN	,
+comme	ADV	comme
+aux	PRP:det	au
+temps	NOM	temps
+de	PRP	de
+charles	NOM	charles
+de	PRP	de
+valois	NOM	valois
+.	SENT	.
+vous	PRO:PER	vous
+allez	VER:pres	aller
+dans	PRP	dans
+un	DET:ART	un
+sac	NOM	sac
+mettre	VER:infi	mettre
+toutes	PRO:IND	tout
+les	DET:ART	le
+lois	NOM	loi
+,	PUN	,
+et	KON	et
+par	PRP	par
+dessus	ADV	dessus
+le	DET:ART	le
+pont	NOM	pont
+les	PRO:PER	la|le
+jeter	VER:infi	jeter
+dans	PRP	dans
+la	DET:ART	le
+seine	NOM	seine
+.	SENT	.
+ô	INT	ô
+ruffians	NOM	ruffian
+!	SENT	!
+bâtards	NOM	bâtard
+de	PRP	de
+la	DET:ART	le
+fortune	NOM	fortune
+obscène	ADJ	obscène
+,	PUN	,
+nés	VER:pper	naître
+du	PRP:det	du
+honteux	ADJ	honteux
+coït	NOM	coït
+de	PRP	de
+l'	DET:ART	le
+intrigue	NOM	intrigue
+et	KON	et
+du	PRP:det	du
+sort	NOM	sort
+!	SENT	!
+rien	ADV	rien
+qu'	KON	que
+en	PRO:PER	en
+songeant	VER:ppre	songer
+à	PRP	à
+vous	PRO:PER	vous
+mon	DET:POS	mon
+vers	NOM	ver|vers
+indigné	ADJ	indigné
+sort	VER:pres	sortir
+,	PUN	,
+et	KON	et
+mon	DET:POS	mon
+coeur	NOM	cœur
+orageux	ADJ	orageux
+dans	PRP	dans
+ma	DET:POS	mon
+poitrine	NOM	poitrine
+gronde	VER:pres	gronder
+comme	ADV	comme
+le	DET:ART	le
+chêne	NOM	chêne
+au	PRP:det	au
+vent	NOM	vent
+dans	PRP	dans
+la	DET:ART	le
+forêt	NOM	forêt
+profonde	ADJ	profond
+!	SENT	!
+comme	KON	comme
+ils	PRO:PER	il
+sortaient	VER:impf	sortir
+tous	PRO:IND	tout
+trois	NUM	trois
+de	PRP	de
+la	DET:ART	le
+maison	NOM	maison
+bancal	ADJ	bancal
+,	PUN	,
+morny	NAM	morny
+,	PUN	,
+maupas	VER:simp	maupas
+le	DET:ART	le
+grec	NOM	grec
+,	PUN	,
+saint	ADJ	saint
+arnaud	VER:futu	arnaud
+le	DET:ART	le
+chacal	NOM	chacal
+,	PUN	,
+voyant	VER:ppre	voir
+passer	VER:infi	passer
+ce	PRO:DEM	ce
+groupe	NOM	groupe
+oblique	ADJ	oblique
+et	KON	et
+taciturne	ADJ	taciturne
+,	PUN	,
+les	DET:ART	le
+clochers	NOM	clocher
+de	PRP	de
+paris	NOM	pari
+,	PUN	,
+sonnant	VER:ppre	sonner
+l'	DET:ART	le
+heure	NOM	heure
+nocturne	ADJ	nocturne
+,	PUN	,
+s'	PRO:PER	se
+efforçaient	VER:impf	efforcer
+vainement	ADV	vainement
+d'	PRP	de
+imiter	VER:infi	imiter
+le	DET:ART	le
+tocsin	NOM	tocsin
+;	PUN	;
+les	DET:ART	le
+pavés	NOM	pavé
+de	PRP	de
+juillet	NOM	juillet
+criaient	VER:impf	crier
+à	PRP	à
+l'	DET:ART	le
+assassin	NOM	assassin
+!	SENT	!
+tous	PRO:IND	tout
+les	DET:ART	le
+spectres	NOM	spectre
+sanglants	ADJ	sanglant
+des	PRP:det	du
+antiques	ADJ	antique
+carnages	NOM	carnage
+,	PUN	,
+réveillés	VER:pper	réveiller
+,	PUN	,
+se	PRO:PER	se
+montraient	VER:impf	montrer
+du	PRP:det	du
+doigt	NOM	doigt
+ces	PRO:DEM	ce
+personnages	NOM	personnage
+la	DET:ART	le
+marseillaise	NOM	marseillais
+,	PUN	,
+archange	NOM	archange
+aux	PRP:det	au
+chants	NOM	chant
+aériens	ADJ	aérien
+,	PUN	,
+murmurait	VER:impf	murmurer
+dans	PRP	dans
+les	DET:ART	le
+cieux	NOM	cieux
+:	PUN	:
+aux	PRP:det	au
+armes	NOM	arme
+,	PUN	,
+citoyens	NOM	citoyen
+!	SENT	!
+paris	NOM	pari
+dormait	VER:impf	dormir
+,	PUN	,
+hélas	INT	hélas
+!	SENT	!
+et	KON	et
+bientôt	ADV	bientôt
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+places	NOM	place
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+quais	NOM	quai
+,	PUN	,
+les	DET:ART	le
+soldats	NOM	soldat
+,	PUN	,
+dociles	ADJ	docile
+populaces	NOM	populace
+,	PUN	,
+janissaires	NOM	janissaire
+conduits	VER:pper	conduire
+par	PRP	par
+reibell	NOM	reibell
+et	KON	et
+sauboul	NOM	sauboul
+,	PUN	,
+payés	VER:pper	payer|payer
+comme	ADV	comme
+à	PRP	à
+byzance	NOM	byzance
+,	PUN	,
+ivres	ADJ	ivre
+comme	KON	comme
+à	PRP	à
+stamboul	NOM	stamboul
+,	PUN	,
+ceux	PRO:DEM	celui
+de	PRP	de
+dulac	NOM	dulac
+,	PUN	,
+et	KON	et
+ceux	PRO:DEM	celui
+de	PRP	de
+korte	NOM	korte
+et	KON	et
+d'	PRP	de
+espinasse	NOM	espinasse
+,	PUN	,
+la	DET:ART	le
+cartouchière	NOM	cartouchière
+au	PRP:det	au
+flanc	NOM	flanc
+et	KON	et
+dans	PRP	dans
+l'	DET:ART	le
+oeil	NOM	œil
+la	DET:ART	le
+menace	NOM	menace
+,	PUN	,
+vinrent	VER:simp	venir
+,	PUN	,
+le	DET:ART	le
+régiment	NOM	régiment
+après	PRP	après
+le	DET:ART	le
+régiment	NOM	régiment
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+long	NOM	long
+des	PRP:det	du
+maisons	NOM	maison
+ils	PRO:PER	il
+passaient	VER:impf	passer
+lentement	ADV	lentement
+,	PUN	,
+à	PRP	à
+pas	ADV	pas
+sourds	ADJ	sourd
+,	PUN	,
+comme	KON	comme
+on	PRO:PER	on
+voit	VER:pres	voir
+les	DET:ART	le
+tigres	NOM	tigre
+dans	PRP	dans
+les	DET:ART	le
+jongles	VER:pres	jongler
+qui	PRO:REL	qui
+rampent	VER:pres	ramper
+sur	PRP	sur
+le	DET:ART	le
+ventre	NOM	ventre
+en	PRP	en
+allongeant	VER:ppre	allonger
+leurs	DET:POS	leur
+ongles	NOM	ongle
+et	KON	et
+la	DET:ART	le
+nuit	NOM	nuit
+était	VER:impf	être
+morne	ADJ	morne
+,	PUN	,
+et	KON	et
+paris	NOM	pari
+sommeillait	VER:impf	sommeiller
+comme	ADV	comme
+un	DET:ART	un
+aigle	NOM	aigle
+endormi	VER:pper	endormir
+pris	VER:pper	prendre
+sous	PRP	sous
+un	DET:ART	un
+noir	ADJ	noir
+filet	NOM	filet
+.	SENT	.
+les	DET:ART	le
+chefs	NOM	chef
+attendaient	VER:impf	attendre
+l'	DET:ART	le
+aube	NOM	aube
+en	PRP	en
+fumant	VER:ppre	fumer
+leurs	DET:POS	leur
+cigares	NOM	cigare
+.	SENT	.
+ô	INT	ô
+cosaques	ADJ	cosaque
+!	SENT	!
+voleurs	NOM	voleur
+!	SENT	!
+chauffeurs	NOM	chauffeur
+!	SENT	!
+routiers	NOM	routier
+!	SENT	!
+bulgares	NOM	bulgare
+!	SENT	!
+ô	INT	ô
+généraux	ADJ	général
+brigands	NOM	brigand
+!	SENT	!
+bagne	NOM	bagne
+,	PUN	,
+je	PRO:PER	je
+te	PRO:PER	te
+les	PRO:PER	la|le
+rends	VER:pres	rendre
+!	SENT	!
+les	DET:ART	le
+juges	NOM	juge
+d'	PRP	de
+autrefois	ADV	autrefois
+pour	PRP	pour
+des	PRP:det	du
+crimes	NOM	crime
+moins	ADV	moins
+grands	ADJ	grand
+ont	VER:pres	avoir
+brûlé	VER:pper	brûler
+la	DET:ART	le
+voisin	NOM	voisin
+et	KON	et
+roué	NOM	roué
+vif	ADJ	vif
+desrues	ADJ	desrues
+!	SENT	!
+éclairant	VER:ppre	éclairer
+leur	DET:POS	leur
+affiche	NOM	affiche
+infâme	ADJ	infâme
+au	PRP:det	au
+coin	NOM	coin
+des	PRP:det	du
+rues	NOM	rue
+et	KON	et
+le	DET:ART	le
+lâche	ADJ	lâche
+armement	NOM	armement
+de	PRP	de
+ces	PRO:DEM	ce
+filons	NOM	filon
+hardis	ADJ	hardi
+,	PUN	,
+le	DET:ART	le
+jour	NOM	jour
+parut	VER:simp	paraître
+.	SENT	.
+la	DET:ART	le
+nuit	NOM	nuit
+,	PUN	,
+complice	ADJ	complice
+des	PRP:det	du
+bandits	NOM	bandit
+,	PUN	,
+prit	VER:simp	prendre
+la	DET:ART	le
+fuite	NOM	fuite
+,	PUN	,
+et	KON	et
+,	PUN	,
+traînant	VER:ppre	traîner
+à	PRP	à
+la	DET:ART	le
+hâte	NOM	hâte
+ses	DET:POS	son
+voiles	NOM	voile
+,	PUN	,
+dans	PRP	dans
+les	DET:ART	le
+plis	NOM	pli
+de	PRP	de
+sa	DET:POS	son
+robe	NOM	robe
+emporta	VER:simp	emporter
+les	DET:ART	le
+étoiles	NOM	étoile
+et	KON	et
+les	DET:ART	le
+mille	NUM	mille
+soleils	NOM	soleil
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+étincelant	ADJ	étincelant
+,	PUN	,
+comme	KON	comme
+les	DET:ART	le
+sequins	NOM	sequin
+d'	PRP	de
+or	NOM	or
+qu'	PRO:REL	que
+emporte	VER:pres	emporter
+en	PRP	en
+s'	PRO:PER	se
+en	PRP	en
+allant	VER:ppre	aller
+une	DET:ART	un
+fille	NOM	fille
+,	PUN	,
+aux	PRP:det	au
+baisers	NOM	baiser
+du	PRP:det	du
+crime	NOM	crime
+habituée	ADJ	habitué
+,	PUN	,
+qui	PRO:REL	qui
+se	PRO:PER	se
+rhabille	VER:pres	rhabiller
+après	PRP	après
+s'	PRO:PER	se
+être	VER:infi	être
+prostituée	VER:pper	prostituer
+.	SENT	.

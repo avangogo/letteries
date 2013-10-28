@@ -1,130 +1,130 @@
-tel	PRO:DEM
-qu'	PRO:REL
-en	PRO:PER
-lui	PRO:PER
-même	ADV
-enfin	ADV
-l'	DET:ART
-éternité	NOM
-le	PRO:PER
-change	VER:pres
-,	PUN
-le	DET:ART
-poëte	NOM
-suscite	VER:pres
-avec	PRP
-un	DET:ART
-glaive	NOM
-nu	NOM
-son	DET:POS
-siècle	NOM
-épouvanté	VER:pper
-de	PRP
-n'	ADV
-avoir	VER:infi
-pas	ADV
-connu	VER:pper
-que	KON
-la	DET:ART
-mort	NOM
-triomphait	VER:impf
-dans	PRP
-cette	PRO:DEM
-voix	NOM
-étrange	ADJ
-!	SENT
-eux	PRO:PER
-,	PUN
-comme	KON
-un	DET:ART
-vil	ADJ
-sursaut	NOM
-d'	PRP
-hydre	NOM
-oyant	VER:ppre
-jadis	ADV
-l'	DET:ART
-ange	NOM
-donner	VER:infi
-un	DET:ART
-sens	NOM
-plus	ADV
-pur	ADJ
-aux	PRP:det
-mots	NOM
-de	PRP
-la	DET:ART
-tribu	NOM
-proclamèrent	VER:simp
-très	ADV
-haut	ADV
-le	DET:ART
-sortilège	NOM
-bu	VER:pper
-dans	PRP
-le	DET:ART
-flot	NOM
-sans	PRP
-honneur	NOM
-de	PRP
-quelque	PRO:IND
-noir	ADJ
-mélange	NOM
-.	SENT
-du	PRP:det
-sol	NOM
-et	KON
-de	PRP
-la	DET:ART
-nue	NOM
-hostiles	ADJ
-,	PUN
-ô	INT
-grief	ADJ
-!	SENT
-si	KON
-notre	DET:POS
-idée	NOM
-avec	PRP
-ne	ADV
-sculpte	VER:pres
-un	DET:ART
-bas	ADJ
-relief	NOM
-dont	PRO:REL
-la	DET:ART
-tombe	NOM
-de	PRP
-poe	NOM
-éblouissante	ADJ
-s'	PRO:PER
-orne	VER:pres
-calme	ADJ
-bloc	NOM
-ici	ADV
-bas	ADV
-chu	VER:pper
-d'	PRP
-un	DET:ART
-désastre	NOM
-obscur	ADJ
-que	PRO:REL
-ce	PRO:DEM
-granit	NOM
-du	PRP:det
-moins	ADV
-montre	VER:pres
-à	PRP
-jamais	ADV
-sa	DET:POS
-borne	NOM
-aux	PRP:det
-noirs	ADJ
-vols	NOM
-du	PRP:det
-blasphème	NOM
-épars	ADJ
-dans	PRP
-le	DET:ART
-futur	NOM
-.	SENT
+tel	PRO:DEM	tel
+qu'	PRO:REL	que
+en	PRO:PER	en
+lui	PRO:PER	lui
+même	ADV	même
+enfin	ADV	enfin
+l'	DET:ART	le
+éternité	NOM	éternité
+le	PRO:PER	le
+change	VER:pres	changer
+,	PUN	,
+le	DET:ART	le
+poëte	NOM	poëte
+suscite	VER:pres	susciter
+avec	PRP	avec
+un	DET:ART	un
+glaive	NOM	glaive
+nu	NOM	nu
+son	DET:POS	son
+siècle	NOM	siècle
+épouvanté	VER:pper	épouvanter
+de	PRP	de
+n'	ADV	ne
+avoir	VER:infi	avoir
+pas	ADV	pas
+connu	VER:pper	connaître
+que	KON	que
+la	DET:ART	le
+mort	NOM	mort
+triomphait	VER:impf	triompher
+dans	PRP	dans
+cette	PRO:DEM	ce
+voix	NOM	voix
+étrange	ADJ	étrange
+!	SENT	!
+eux	PRO:PER	eux
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+vil	ADJ	vil
+sursaut	NOM	sursaut
+d'	PRP	de
+hydre	NOM	hydre
+oyant	VER:ppre	ouïr
+jadis	ADV	jadis
+l'	DET:ART	le
+ange	NOM	ange
+donner	VER:infi	donner
+un	DET:ART	un
+sens	NOM	sen|sens
+plus	ADV	plus
+pur	ADJ	pur
+aux	PRP:det	au
+mots	NOM	mot
+de	PRP	de
+la	DET:ART	le
+tribu	NOM	tribu
+proclamèrent	VER:simp	proclamer
+très	ADV	très
+haut	ADV	haut
+le	DET:ART	le
+sortilège	NOM	sortilège
+bu	VER:pper	boire
+dans	PRP	dans
+le	DET:ART	le
+flot	NOM	flot
+sans	PRP	sans
+honneur	NOM	honneur
+de	PRP	de
+quelque	PRO:IND	quelque
+noir	ADJ	noir
+mélange	NOM	mélange
+.	SENT	.
+du	PRP:det	du
+sol	NOM	sol
+et	KON	et
+de	PRP	de
+la	DET:ART	le
+nue	NOM	nue
+hostiles	ADJ	hostile
+,	PUN	,
+ô	INT	ô
+grief	ADJ	grief
+!	SENT	!
+si	KON	si
+notre	DET:POS	notre
+idée	NOM	idée
+avec	PRP	avec
+ne	ADV	ne
+sculpte	VER:pres	sculpter
+un	DET:ART	un
+bas	ADJ	bas
+relief	NOM	relief
+dont	PRO:REL	dont
+la	DET:ART	le
+tombe	NOM	tombe
+de	PRP	de
+poe	NOM	poe
+éblouissante	ADJ	éblouissant
+s'	PRO:PER	se
+orne	VER:pres	orner
+calme	ADJ	calme
+bloc	NOM	bloc
+ici	ADV	ici
+bas	ADV	bas
+chu	VER:pper	choir
+d'	PRP	de
+un	DET:ART	un
+désastre	NOM	désastre
+obscur	ADJ	obscur
+que	PRO:REL	que
+ce	PRO:DEM	ce
+granit	NOM	granit
+du	PRP:det	du
+moins	ADV	moins
+montre	VER:pres	montrer
+à	PRP	à
+jamais	ADV	jamais
+sa	DET:POS	son
+borne	NOM	borne
+aux	PRP:det	au
+noirs	ADJ	noir
+vols	NOM	vol
+du	PRP:det	du
+blasphème	NOM	blasphème
+épars	ADJ	épars
+dans	PRP	dans
+le	DET:ART	le
+futur	NOM	futur
+.	SENT	.

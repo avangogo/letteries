@@ -1,82 +1,82 @@
-tout	PRO:IND
-orgueil	NOM
-fume	VER:pres
-t	VER:pper
-il	PRO:PER
-du	PRP:det
-soir	NOM
-,	PUN
-torche	NOM
-dans	PRP
-un	DET:ART
-branle	NOM
-étouffée	VER:pper
-sans	PRP
-que	KON
-l'	DET:ART
-immortelle	ADJ
-bouffée	NOM
-ne	ADV
-puisse	VER:subp
-à	PRP
-l'	DET:ART
-abandon	NOM
-surseoir	VER:infi
-!	SENT
-la	DET:ART
-chambre	NOM
-ancienne	ADJ
-de	PRP
-l'	DET:ART
-hoir	NOM
-de	PRP
-maint	PRO:IND
-riche	NOM
-mais	KON
-chu	VER:pper
-trophée	NOM
-ne	ADV
-serait	VER:cond
-pas	ADV
-même	ADV
-chauffée	VER:pper
-s'	PRO:PER
-il	PRO:PER
-survenait	VER:impf
-par	PRP
-le	DET:ART
-couloir	NOM
-.	SENT
-affres	NOM
-du	PRP:det
-passé	NOM
-nécessaires	ADJ
-agrippant	VER:ppre
-comme	ADV
-avec	PRP
-des	PRP:det
-serres	NOM
-le	DET:ART
-sépulcre	NOM
-de	PRP
-désaveu	NOM
-,	PUN
-sous	PRP
-un	DET:ART
-marbre	NOM
-lourd	ADJ
-qu'	PRO:REL
-elle	PRO:PER
-isole	VER:pres
-ne	ADV
-s'	PRO:PER
-allume	VER:pres
-pas	ADV
-d'	PRP
-autre	ADJ
-feu	NOM
-que	KON
-la	DET:ART
-fulgurante	ADJ
-console	NOM
-.	SENT
+tout	PRO:IND	tout
+orgueil	NOM	orgueil
+fume	VER:pres	fumer
+t	VER:pper	t
+il	PRO:PER	il
+du	PRP:det	du
+soir	NOM	soir
+,	PUN	,
+torche	NOM	torche
+dans	PRP	dans
+un	DET:ART	un
+branle	NOM	branle
+étouffée	VER:pper	étouffer
+sans	PRP	sans
+que	KON	que
+l'	DET:ART	le
+immortelle	ADJ	immortel
+bouffée	NOM	bouffée
+ne	ADV	ne
+puisse	VER:subp	pouvoir
+à	PRP	à
+l'	DET:ART	le
+abandon	NOM	abandon
+surseoir	VER:infi	surseoir
+!	SENT	!
+la	DET:ART	le
+chambre	NOM	chambre
+ancienne	ADJ	ancien
+de	PRP	de
+l'	DET:ART	le
+hoir	NOM	hoir
+de	PRP	de
+maint	PRO:IND	maint
+riche	NOM	riche
+mais	KON	mais
+chu	VER:pper	choir
+trophée	NOM	trophée
+ne	ADV	ne
+serait	VER:cond	être
+pas	ADV	pas
+même	ADV	même
+chauffée	VER:pper	chauffer
+s'	PRO:PER	se
+il	PRO:PER	il
+survenait	VER:impf	survenir
+par	PRP	par
+le	DET:ART	le
+couloir	NOM	couloir
+.	SENT	.
+affres	NOM	affres
+du	PRP:det	du
+passé	NOM	passé
+nécessaires	ADJ	nécessaire
+agrippant	VER:ppre	agripper
+comme	ADV	comme
+avec	PRP	avec
+des	PRP:det	du
+serres	NOM	serre|serres
+le	DET:ART	le
+sépulcre	NOM	sépulcre
+de	PRP	de
+désaveu	NOM	désaveu
+,	PUN	,
+sous	PRP	sous
+un	DET:ART	un
+marbre	NOM	marbre
+lourd	ADJ	lourd
+qu'	PRO:REL	que
+elle	PRO:PER	elle
+isole	VER:pres	isoler
+ne	ADV	ne
+s'	PRO:PER	se
+allume	VER:pres	allumer
+pas	ADV	pas
+d'	PRP	de
+autre	ADJ	autre
+feu	NOM	feu
+que	KON	que
+la	DET:ART	le
+fulgurante	ADJ	fulgurant
+console	NOM	console
+.	SENT	.

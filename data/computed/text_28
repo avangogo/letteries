@@ -1,131 +1,131 @@
-ah	INT
-!	SENT
-tu	PRO:PER
-finiras	VER:futu
-bien	ADV
-par	PRP
-hurler	VER:infi
-,	PUN
-misérable	ADJ
-!	SENT
-encor	ADV
-tout	ADV
-haletant	ADJ
-de	PRP
-ton	DET:POS
-crime	NOM
-exécrable	ADJ
-,	PUN
-dans	PRP
-ton	DET:POS
-triomphe	NOM
-abject	ADJ
-,	PUN
-si	ADV
-lugubre	ADJ
-et	KON
-si	ADV
-prompt	ADJ
-,	PUN
-je	PRO:PER
-t'	PRO:PER
-ai	VER:pres
-saisi	VER:pper
-.	SENT
-j'	PRO:PER
-ai	VER:pres
-mis	VER:pper
-l'	DET:ART
-écriteau	NOM
-sur	PRP
-ton	DET:POS
-front	NOM
-;	PUN
-et	KON
-maintenant	ADV
-la	DET:ART
-foule	NOM
-accourt	VER:pres
-,	PUN
-et	KON
-te	PRO:PER
-bafoue	VER:pres
-.	SENT
-toi	PRO:PER
-,	PUN
-tandis	KON
-qu'	KON
-au	PRP:det
-poteau	NOM
-le	DET:ART
-châtiment	NOM
-te	PRO:PER
-cloue	VER:pres
-,	PUN
-que	KON
-le	DET:ART
-carcan	NOM
-te	PRO:PER
-force	VER:pres
-à	PRP
-lever	VER:infi
-le	DET:ART
-menton	NOM
-,	PUN
-tandis	KON
-que	KON
-,	PUN
-de	PRP
-ta	DET:POS
-veste	NOM
-arrachant	VER:ppre
-le	DET:ART
-bouton	NOM
-,	PUN
-l'	DET:ART
-histoire	NOM
-à	PRP
-mes	DET:POS
-côtés	NOM
-met	VER:pres
-à	PRP
-nu	NOM
-ton	DET:POS
-épaule	NOM
-,	PUN
-tu	PRO:PER
-dis	VER:pres
-:	PUN
-je	PRO:PER
-ne	ADV
-sens	VER:pres
-rien	ADV
-!	SENT
-et	KON
-tu	PRO:PER
-nous	PRO:PER
-railles	VER:pres
-,	PUN
-drôle	ADJ
-!	SENT
-ton	DET:POS
-rire	NOM
-sur	PRP
-mon	DET:POS
-nom	NOM
-gaîment	ADV
-vient	VER:pres
-écumer	VER:infi
-;	PUN
-mais	KON
-je	PRO:PER
-tiens	VER:pres
-le	DET:ART
-fer	NOM
-rouge	ADJ
-et	KON
-vois	VER:pres
-ta	DET:POS
-chair	NOM
-fumer	VER:infi
-.	SENT
+ah	INT	ah
+!	SENT	!
+tu	PRO:PER	tu
+finiras	VER:futu	finir
+bien	ADV	bien
+par	PRP	par
+hurler	VER:infi	hurler
+,	PUN	,
+misérable	ADJ	misérable
+!	SENT	!
+encor	ADV	encor
+tout	ADV	tout
+haletant	ADJ	haletant
+de	PRP	de
+ton	DET:POS	ton
+crime	NOM	crime
+exécrable	ADJ	exécrable
+,	PUN	,
+dans	PRP	dans
+ton	DET:POS	ton
+triomphe	NOM	triomphe
+abject	ADJ	abject
+,	PUN	,
+si	ADV	si
+lugubre	ADJ	lugubre
+et	KON	et
+si	ADV	si
+prompt	ADJ	prompt
+,	PUN	,
+je	PRO:PER	je
+t'	PRO:PER	te
+ai	VER:pres	avoir
+saisi	VER:pper	saisir
+.	SENT	.
+j'	PRO:PER	je
+ai	VER:pres	avoir
+mis	VER:pper	mettre
+l'	DET:ART	le
+écriteau	NOM	écriteau
+sur	PRP	sur
+ton	DET:POS	ton
+front	NOM	front
+;	PUN	;
+et	KON	et
+maintenant	ADV	maintenant
+la	DET:ART	le
+foule	NOM	foule
+accourt	VER:pres	accourir
+,	PUN	,
+et	KON	et
+te	PRO:PER	te
+bafoue	VER:pres	bafouer
+.	SENT	.
+toi	PRO:PER	toi
+,	PUN	,
+tandis	KON	tandis
+qu'	KON	que
+au	PRP:det	au
+poteau	NOM	poteau
+le	DET:ART	le
+châtiment	NOM	châtiment
+te	PRO:PER	te
+cloue	VER:pres	clouer
+,	PUN	,
+que	KON	que
+le	DET:ART	le
+carcan	NOM	carcan
+te	PRO:PER	te
+force	VER:pres	forcer
+à	PRP	à
+lever	VER:infi	lever
+le	DET:ART	le
+menton	NOM	menton
+,	PUN	,
+tandis	KON	tandis
+que	KON	que
+,	PUN	,
+de	PRP	de
+ta	DET:POS	ton
+veste	NOM	veste
+arrachant	VER:ppre	arracher
+le	DET:ART	le
+bouton	NOM	bouton
+,	PUN	,
+l'	DET:ART	le
+histoire	NOM	histoire
+à	PRP	à
+mes	DET:POS	mon
+côtés	NOM	côté
+met	VER:pres	mettre
+à	PRP	à
+nu	NOM	nu
+ton	DET:POS	ton
+épaule	NOM	épaule
+,	PUN	,
+tu	PRO:PER	tu
+dis	VER:pres	dire
+:	PUN	:
+je	PRO:PER	je
+ne	ADV	ne
+sens	VER:pres	sentir
+rien	ADV	rien
+!	SENT	!
+et	KON	et
+tu	PRO:PER	tu
+nous	PRO:PER	nous
+railles	VER:pres	railler
+,	PUN	,
+drôle	ADJ	drôle
+!	SENT	!
+ton	DET:POS	ton
+rire	NOM	rire
+sur	PRP	sur
+mon	DET:POS	mon
+nom	NOM	nom
+gaîment	ADV	gaîment
+vient	VER:pres	venir
+écumer	VER:infi	écumer
+;	PUN	;
+mais	KON	mais
+je	PRO:PER	je
+tiens	VER:pres	tenir
+le	DET:ART	le
+fer	NOM	fer
+rouge	ADJ	rouge
+et	KON	et
+vois	VER:pres	voir
+ta	DET:POS	ton
+chair	NOM	chair
+fumer	VER:infi	fumer
+.	SENT	.

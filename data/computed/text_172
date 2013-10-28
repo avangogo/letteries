@@ -1,85 +1,85 @@
-de	PRP
-ce	PRO:DEM
-ciel	NOM
-bizarre	ADJ
-et	KON
-livide	ADJ
-,	PUN
-tourmenté	VER:pper
-comme	ADV
-ton	DET:POS
-destin	NOM
-,	PUN
-quels	PRO:REL
-pensers	NOM
-dans	PRP
-ton	DET:POS
-âme	NOM
-vide	ADJ
-descendent	VER:pres
-?	SENT
-réponds	VER:pres
-,	PUN
-libertin	ADJ
-.	SENT
-insatiablement	ADV
-avide	ADJ
-de	PRP
-l'	DET:ART
-obscur	ADJ
-et	KON
-de	PRP
-l'	DET:ART
-incertain	ADJ
-,	PUN
-je	PRO:PER
-ne	ADV
-geindrai	VER:futu
-pas	ADV
-comme	ADV
-ovide	ADJ
-chassé	VER:pper
-du	PRP:det
-paradis	NOM
-latin	ADJ
-.	SENT
-cieux	NOM
-déchirés	VER:pper
-comme	ADV
-des	PRP:det
-grèves	NOM
-,	PUN
-en	PRP
-vous	PRO:PER
-se	PRO:PER
-mire	VER:pres
-mon	DET:POS
-orgueil	NOM
-!	SENT
-vos	DET:POS
-vastes	ADJ
-nuages	NOM
-en	PRP
-deuil	NOM
-sont	VER:pres
-les	DET:ART
-corbillards	NOM
-de	PRP
-mes	DET:POS
-rêves	NOM
-,	PUN
-et	KON
-vos	DET:POS
-lueurs	NOM
-sont	VER:pres
-le	DET:ART
-reflet	NOM
-de	PRP
-l'	DET:ART
-enfer	NOM
-où	PRO:REL
-mon	DET:POS
-coeur	NOM
-se	PRO:PER
-plaît	VER:pres
-!	SENT
+de	PRP	de
+ce	PRO:DEM	ce
+ciel	NOM	ciel
+bizarre	ADJ	bizarre
+et	KON	et
+livide	ADJ	livide
+,	PUN	,
+tourmenté	VER:pper	tourmenter
+comme	ADV	comme
+ton	DET:POS	ton
+destin	NOM	destin
+,	PUN	,
+quels	PRO:REL	quel
+pensers	NOM	penser
+dans	PRP	dans
+ton	DET:POS	ton
+âme	NOM	âme
+vide	ADJ	vide
+descendent	VER:pres	descendre
+?	SENT	?
+réponds	VER:pres	répondre
+,	PUN	,
+libertin	ADJ	libertin
+.	SENT	.
+insatiablement	ADV	insatiablement
+avide	ADJ	avide
+de	PRP	de
+l'	DET:ART	le
+obscur	ADJ	obscur
+et	KON	et
+de	PRP	de
+l'	DET:ART	le
+incertain	ADJ	incertain
+,	PUN	,
+je	PRO:PER	je
+ne	ADV	ne
+geindrai	VER:futu	geindre
+pas	ADV	pas
+comme	ADV	comme
+ovide	ADJ	ovide
+chassé	VER:pper	chasser
+du	PRP:det	du
+paradis	NOM	paradis
+latin	ADJ	latin
+.	SENT	.
+cieux	NOM	cieux
+déchirés	VER:pper	déchirer
+comme	ADV	comme
+des	PRP:det	du
+grèves	NOM	grève
+,	PUN	,
+en	PRP	en
+vous	PRO:PER	vous
+se	PRO:PER	se
+mire	VER:pres	mirer
+mon	DET:POS	mon
+orgueil	NOM	orgueil
+!	SENT	!
+vos	DET:POS	votre
+vastes	ADJ	vaste
+nuages	NOM	nuage
+en	PRP	en
+deuil	NOM	deuil
+sont	VER:pres	être
+les	DET:ART	le
+corbillards	NOM	corbillard
+de	PRP	de
+mes	DET:POS	mon
+rêves	NOM	rêve
+,	PUN	,
+et	KON	et
+vos	DET:POS	votre
+lueurs	NOM	lueur
+sont	VER:pres	être
+le	DET:ART	le
+reflet	NOM	reflet
+de	PRP	de
+l'	DET:ART	le
+enfer	NOM	enfer
+où	PRO:REL	où
+mon	DET:POS	mon
+coeur	NOM	cœur
+se	PRO:PER	se
+plaît	VER:pres	plaire
+!	SENT	!

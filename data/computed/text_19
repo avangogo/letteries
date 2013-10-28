@@ -1,212 +1,212 @@
-un	DET:ART
-jour	NOM
-,	PUN
-maigre	ADJ
-et	KON
-sentant	VER:ppre
-un	DET:ART
-royal	ADJ
-appétit	NOM
-,	PUN
-un	DET:ART
-singe	NOM
-d'	PRP
-une	DET:ART
-peau	NOM
-de	PRP
-tigre	NOM
-se	PRO:PER
-vêtit	VER:simp
-.	SENT
-le	DET:ART
-tigre	NOM
-avait	VER:impf
-été	VER:pper
-méchant	NOM
-;	PUN
-lui	PRO:PER
-,	PUN
-fut	VER:simp
-atroce	ADJ
-.	SENT
-il	PRO:PER
-avait	VER:impf
-endossé	VER:pper
-le	DET:ART
-droit	NOM
-d'	PRP
-être	VER:infi
-féroce	ADJ
-.	SENT
-il	PRO:PER
-se	PRO:PER
-mit	VER:simp
-à	PRP
-grincer	VER:infi
-des	PRP:det
-dents	NOM
-,	PUN
-criant	ADJ
-:	PUN
-je	PRO:PER
-suis	VER:pres
-le	DET:ART
-vainqueur	NOM
-des	PRP:det
-halliers	NOM
-,	PUN
-le	DET:ART
-roi	NOM
-sombre	ADJ
-des	PRP:det
-nuits	NOM
-!	SENT
-il	PRO:PER
-s'	PRO:PER
-embusqua	VER:simp
-,	PUN
-brigand	NOM
-des	PRP:det
-bois	NOM
-,	PUN
-dans	PRP
-les	DET:ART
-épines	NOM
-il	PRO:PER
-entassa	VER:simp
-l'	DET:ART
-horreur	NOM
-,	PUN
-le	DET:ART
-meurtre	NOM
-,	PUN
-les	DET:ART
-rapines	NOM
-,	PUN
-egorgea	VER:simp
-les	DET:ART
-passants	NOM
-,	PUN
-dévasta	VER:simp
-la	DET:ART
-forêt	NOM
-,	PUN
-fit	VER:simp
-tout	PRO:IND
-ce	PRO:DEM
-qu'	PRO:REL
-avait	VER:impf
-fait	VER:pper
-la	DET:ART
-peau	NOM
-qui	PRO:REL
-le	PRO:PER
-couvrait	VER:impf
-.	SENT
-il	PRO:PER
-vivait	VER:impf
-dans	PRP
-un	DET:ART
-antre	NOM
-,	PUN
-entouré	VER:pper
-de	PRP
-carnage	NOM
-.	SENT
-chacun	PRO:IND
-,	PUN
-voyant	VER:ppre
-la	DET:ART
-peau	NOM
-,	PUN
-croyait	VER:impf
-au	PRP:det
-personnage	NOM
-.	SENT
-il	PRO:PER
-s'	PRO:PER
-écriait	VER:impf
-,	PUN
-poussant	VER:ppre
-d'	PRP
-affreux	ADJ
-rugissements	NOM
-:	PUN
-regardez	VER:pres
-,	PUN
-ma	DET:POS
-caverne	NOM
-est	VER:pres
-pleine	ADJ
-d'	PRP
-ossements	NOM
-;	PUN
-devant	ADV
-moi	PRO:PER
-tout	ADV
-recule	VER:pres
-et	KON
-frémit	VER:pres
-,	PUN
-tout	PRO:IND
-émigre	VER:pres
-,	PUN
-tout	PRO:IND
-tremble	NOM
-;	PUN
-admirez	VER:pres
-moi	PRO:PER
-,	PUN
-voyez	VER:pres
-,	PUN
-je	PRO:PER
-suis	VER:pres
-un	DET:ART
-tigre	NOM
-!	SENT
-les	DET:ART
-bêtes	NOM
-l'	PRO:PER
-admiraient	VER:impf
-,	PUN
-et	KON
-fuyaient	VER:impf
-à	PRP
-grands	ADJ
-pas	NOM
-.	SENT
-un	DET:ART
-belluaire	NOM
-vint	VER:simp
-,	PUN
-le	PRO:PER
-saisit	VER:pres
-dans	PRP
-ses	DET:POS
-bras	NOM
-,	PUN
-déchira	VER:simp
-cette	PRO:DEM
-peau	NOM
-comme	ADV
-on	PRO:PER
-déchire	VER:pres
-un	DET:ART
-linge	NOM
-,	PUN
-mit	VER:simp
-à	PRP
-nu	NOM
-ce	PRO:DEM
-vainqueur	NOM
-,	PUN
-et	KON
-dit	VER:pper
-:	PUN
-tu	PRO:PER
-n'	ADV
-es	VER:pres
-qu'	KON
-un	DET:ART
-singe	NOM
-!	SENT
+un	DET:ART	un
+jour	NOM	jour
+,	PUN	,
+maigre	ADJ	maigre
+et	KON	et
+sentant	VER:ppre	sentir
+un	DET:ART	un
+royal	ADJ	royal
+appétit	NOM	appétit
+,	PUN	,
+un	DET:ART	un
+singe	NOM	singe
+d'	PRP	de
+une	DET:ART	un
+peau	NOM	peau
+de	PRP	de
+tigre	NOM	tigre
+se	PRO:PER	se
+vêtit	VER:simp	vêtir
+.	SENT	.
+le	DET:ART	le
+tigre	NOM	tigre
+avait	VER:impf	avoir
+été	VER:pper	être
+méchant	NOM	méchant
+;	PUN	;
+lui	PRO:PER	lui
+,	PUN	,
+fut	VER:simp	être
+atroce	ADJ	atroce
+.	SENT	.
+il	PRO:PER	il
+avait	VER:impf	avoir
+endossé	VER:pper	endosser
+le	DET:ART	le
+droit	NOM	droit
+d'	PRP	de
+être	VER:infi	être
+féroce	ADJ	féroce
+.	SENT	.
+il	PRO:PER	il
+se	PRO:PER	se
+mit	VER:simp	mettre
+à	PRP	à
+grincer	VER:infi	grincer
+des	PRP:det	du
+dents	NOM	dent
+,	PUN	,
+criant	ADJ	criant
+:	PUN	:
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+le	DET:ART	le
+vainqueur	NOM	vainqueur
+des	PRP:det	du
+halliers	NOM	hallier
+,	PUN	,
+le	DET:ART	le
+roi	NOM	roi
+sombre	ADJ	sombre
+des	PRP:det	du
+nuits	NOM	nuit
+!	SENT	!
+il	PRO:PER	il
+s'	PRO:PER	se
+embusqua	VER:simp	embusquer
+,	PUN	,
+brigand	NOM	brigand
+des	PRP:det	du
+bois	NOM	bois
+,	PUN	,
+dans	PRP	dans
+les	DET:ART	le
+épines	NOM	épine
+il	PRO:PER	il
+entassa	VER:simp	entasser
+l'	DET:ART	le
+horreur	NOM	horreur
+,	PUN	,
+le	DET:ART	le
+meurtre	NOM	meurtre
+,	PUN	,
+les	DET:ART	le
+rapines	NOM	rapine
+,	PUN	,
+egorgea	VER:simp	egorgea
+les	DET:ART	le
+passants	NOM	passant
+,	PUN	,
+dévasta	VER:simp	dévaster
+la	DET:ART	le
+forêt	NOM	forêt
+,	PUN	,
+fit	VER:simp	faire
+tout	PRO:IND	tout
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+avait	VER:impf	avoir
+fait	VER:pper	faire
+la	DET:ART	le
+peau	NOM	peau
+qui	PRO:REL	qui
+le	PRO:PER	le
+couvrait	VER:impf	couvrir
+.	SENT	.
+il	PRO:PER	il
+vivait	VER:impf	vivre
+dans	PRP	dans
+un	DET:ART	un
+antre	NOM	antre
+,	PUN	,
+entouré	VER:pper	entourer
+de	PRP	de
+carnage	NOM	carnage
+.	SENT	.
+chacun	PRO:IND	chacun
+,	PUN	,
+voyant	VER:ppre	voir
+la	DET:ART	le
+peau	NOM	peau
+,	PUN	,
+croyait	VER:impf	croire
+au	PRP:det	au
+personnage	NOM	personnage
+.	SENT	.
+il	PRO:PER	il
+s'	PRO:PER	se
+écriait	VER:impf	écrier
+,	PUN	,
+poussant	VER:ppre	pousser
+d'	PRP	de
+affreux	ADJ	affreux
+rugissements	NOM	rugissement
+:	PUN	:
+regardez	VER:pres	regarder
+,	PUN	,
+ma	DET:POS	mon
+caverne	NOM	caverne
+est	VER:pres	être
+pleine	ADJ	plein
+d'	PRP	de
+ossements	NOM	ossement
+;	PUN	;
+devant	ADV	devant
+moi	PRO:PER	moi
+tout	ADV	tout
+recule	VER:pres	reculer
+et	KON	et
+frémit	VER:pres	frémir
+,	PUN	,
+tout	PRO:IND	tout
+émigre	VER:pres	émigrer
+,	PUN	,
+tout	PRO:IND	tout
+tremble	NOM	tremble
+;	PUN	;
+admirez	VER:pres	admirer
+moi	PRO:PER	moi
+,	PUN	,
+voyez	VER:pres	voir
+,	PUN	,
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+un	DET:ART	un
+tigre	NOM	tigre
+!	SENT	!
+les	DET:ART	le
+bêtes	NOM	bête
+l'	PRO:PER	la|le
+admiraient	VER:impf	admirer
+,	PUN	,
+et	KON	et
+fuyaient	VER:impf	fuir
+à	PRP	à
+grands	ADJ	grand
+pas	NOM	pas
+.	SENT	.
+un	DET:ART	un
+belluaire	NOM	belluaire
+vint	VER:simp	venir
+,	PUN	,
+le	PRO:PER	le
+saisit	VER:pres	saisir
+dans	PRP	dans
+ses	DET:POS	son
+bras	NOM	bras
+,	PUN	,
+déchira	VER:simp	déchirer
+cette	PRO:DEM	ce
+peau	NOM	peau
+comme	ADV	comme
+on	PRO:PER	on
+déchire	VER:pres	déchirer
+un	DET:ART	un
+linge	NOM	linge
+,	PUN	,
+mit	VER:simp	mettre
+à	PRP	à
+nu	NOM	nu
+ce	PRO:DEM	ce
+vainqueur	NOM	vainqueur
+,	PUN	,
+et	KON	et
+dit	VER:pper	dire
+:	PUN	:
+tu	PRO:PER	tu
+n'	ADV	ne
+es	VER:pres	être
+qu'	KON	que
+un	DET:ART	un
+singe	NOM	singe
+!	SENT	!

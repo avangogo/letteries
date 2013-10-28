@@ -1,136 +1,136 @@
-depuis	PRP
-huit	NUM
-jours	NOM
-,	PUN
-j'	PRO:PER
-avais	VER:impf
-déchiré	VER:pper
-mes	DET:POS
-bottines	NOM
-aux	PRP:det
-cailloux	NOM
-des	PRP:det
-chemins	NOM
-.	SENT
-j'	PRO:PER
-entrais	VER:impf
-à	PRP
-charleroi	NOM
-.	SENT
-au	PRP:det
-cabaret	NOM
-vert	ADJ
-:	PUN
-je	PRO:PER
-demandai	VER:simp
-des	PRP:det
-tartines	NOM
-de	PRP
-beurre	NOM
-et	KON
-du	PRP:det
-jambon	NOM
-qui	PRO:REL
-fût	VER:subi
-à	PRP
-moitié	NOM
-froid	ADJ
-.	SENT
-bienheureux	ADJ
-,	PUN
-j'	PRO:PER
-allongeai	VER:simp
-les	DET:ART
-jambes	NOM
-sous	PRP
-la	DET:ART
-table	NOM
-verte	ADJ
-:	PUN
-je	PRO:PER
-contemplai	VER:simp
-les	DET:ART
-sujets	NOM
-très	ADV
-naïfs	ADJ
-de	PRP
-la	DET:ART
-tapisserie	NOM
-.	SENT
-et	KON
-ce	PRO:DEM
-fut	VER:simp
-adorable	ADJ
-,	PUN
-quand	KON
-la	DET:ART
-fille	NOM
-aux	PRP:det
-tétons	NOM
-énormes	ADJ
-,	PUN
-aux	PRP:det
-yeux	NOM
-vifs	ADJ
-,	PUN
-celle	PRO:DEM
-là	ADV
-,	PUN
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-pas	ADV
-un	DET:ART
-baiser	NOM
-qui	PRO:REL
-l'	PRO:PER
-épeure	VER:pres
-!	SENT
-rieuse	ADJ
-,	PUN
-m'	PRO:PER
-apporta	VER:simp
-des	PRP:det
-tartines	NOM
-de	PRP
-beurre	NOM
-,	PUN
-du	PRP:det
-jambon	NOM
-tiède	ADJ
-,	PUN
-dans	PRP
-un	DET:ART
-plat	NOM
-colorié	VER:pper
-,	PUN
-du	PRP:det
-jambon	NOM
-rose	ADJ
-et	KON
-blanc	ADJ
-parfumé	VER:pper
-d'	PRP
-une	DET:ART
-gousse	NOM
-d'	PRP
-ail	NOM
-,	PUN
-et	KON
-m'	PRO:PER
-emplit	VER:pres
-la	DET:ART
-chope	NOM
-immense	ADJ
-,	PUN
-avec	PRP
-sa	DET:POS
-mousse	NOM
-que	PRO:REL
-dorait	VER:impf
-un	DET:ART
-rayon	NOM
-de	PRP
-soleil	NOM
-arriéré	VER:pper
-.	SENT
+depuis	PRP	depuis
+huit	NUM	huit
+jours	NOM	jour
+,	PUN	,
+j'	PRO:PER	je
+avais	VER:impf	avoir
+déchiré	VER:pper	déchirer
+mes	DET:POS	mon
+bottines	NOM	bottine
+aux	PRP:det	au
+cailloux	NOM	caillou
+des	PRP:det	du
+chemins	NOM	chemin
+.	SENT	.
+j'	PRO:PER	je
+entrais	VER:impf	entrer
+à	PRP	à
+charleroi	NOM	charleroi
+.	SENT	.
+au	PRP:det	au
+cabaret	NOM	cabaret
+vert	ADJ	vert
+:	PUN	:
+je	PRO:PER	je
+demandai	VER:simp	demander
+des	PRP:det	du
+tartines	NOM	tartine
+de	PRP	de
+beurre	NOM	beurre
+et	KON	et
+du	PRP:det	du
+jambon	NOM	jambon
+qui	PRO:REL	qui
+fût	VER:subi	être
+à	PRP	à
+moitié	NOM	moitié
+froid	ADJ	froid
+.	SENT	.
+bienheureux	ADJ	bienheureux
+,	PUN	,
+j'	PRO:PER	je
+allongeai	VER:simp	allonger
+les	DET:ART	le
+jambes	NOM	jambe
+sous	PRP	sous
+la	DET:ART	le
+table	NOM	table
+verte	ADJ	vert
+:	PUN	:
+je	PRO:PER	je
+contemplai	VER:simp	contempler
+les	DET:ART	le
+sujets	NOM	sujet
+très	ADV	très
+naïfs	ADJ	naïf
+de	PRP	de
+la	DET:ART	le
+tapisserie	NOM	tapisserie
+.	SENT	.
+et	KON	et
+ce	PRO:DEM	ce
+fut	VER:simp	être
+adorable	ADJ	adorable
+,	PUN	,
+quand	KON	quand
+la	DET:ART	le
+fille	NOM	fille
+aux	PRP:det	au
+tétons	NOM	téton
+énormes	ADJ	énorme
+,	PUN	,
+aux	PRP:det	au
+yeux	NOM	œil
+vifs	ADJ	vif
+,	PUN	,
+celle	PRO:DEM	celui
+là	ADV	là
+,	PUN	,
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+un	DET:ART	un
+baiser	NOM	baiser
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+épeure	VER:pres	épeurer
+!	SENT	!
+rieuse	ADJ	rieur
+,	PUN	,
+m'	PRO:PER	me
+apporta	VER:simp	apporter
+des	PRP:det	du
+tartines	NOM	tartine
+de	PRP	de
+beurre	NOM	beurre
+,	PUN	,
+du	PRP:det	du
+jambon	NOM	jambon
+tiède	ADJ	tiède
+,	PUN	,
+dans	PRP	dans
+un	DET:ART	un
+plat	NOM	plat
+colorié	VER:pper	colorier
+,	PUN	,
+du	PRP:det	du
+jambon	NOM	jambon
+rose	ADJ	rose
+et	KON	et
+blanc	ADJ	blanc
+parfumé	VER:pper	parfumer
+d'	PRP	de
+une	DET:ART	un
+gousse	NOM	gousse
+d'	PRP	de
+ail	NOM	ail
+,	PUN	,
+et	KON	et
+m'	PRO:PER	me
+emplit	VER:pres	emplir
+la	DET:ART	le
+chope	NOM	chope
+immense	ADJ	immense
+,	PUN	,
+avec	PRP	avec
+sa	DET:POS	son
+mousse	NOM	mousse
+que	PRO:REL	que
+dorait	VER:impf	dorer
+un	DET:ART	un
+rayon	NOM	rayon
+de	PRP	de
+soleil	NOM	soleil
+arriéré	VER:pper	arriérer
+.	SENT	.

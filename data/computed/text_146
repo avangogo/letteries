@@ -1,67 +1,67 @@
-rien	NOM
-au	PRP:det
-réveil	NOM
-que	KON
-vous	PRO:PER
-n'	ADV
-ayez	VER:subp
-envisagé	VER:pper
-de	PRP
-quelque	PRO:IND
-moue	NOM
-pire	ADJ
-si	KON
-le	DET:ART
-rire	NOM
-secoue	VER:pres
-votre	DET:POS
-aile	NOM
-sur	PRP
-les	DET:ART
-oreillers	NOM
-indifféremment	ADV
-sommeillez	VER:pres
-sans	PRP
-crainte	NOM
-qu'	KON
-une	DET:ART
-haleine	NOM
-avoue	VER:pres
-rien	ADV
-au	PRP:det
-réveil	NOM
-que	KON
-vous	PRO:PER
-n'	ADV
-ayez	VER:subp
-envisagé	VER:pper
-de	PRP
-quelque	PRO:IND
-moue	NOM
-tous	PRO:IND
-les	DET:ART
-rêves	NOM
-émerveillés	VER:pper
-quand	KON
-cette	PRO:DEM
-beauté	NOM
-les	PRO:PER
-déjoue	VER:pres
-ne	ADV
-produisent	VER:pres
-fleur	NOM
-sur	PRP
-la	DET:ART
-joue	NOM
-dans	PRP
-l'	DET:ART
-oeil	NOM
-diamants	NOM
-impayés	ADJ
-rien	NOM
-au	PRP:det
-réveil	NOM
-que	KON
-vous	PRO:PER
-n'	ADV
-ayez	VER:subp
+rien	NOM	rien
+au	PRP:det	au
+réveil	NOM	réveil
+que	KON	que
+vous	PRO:PER	vous
+n'	ADV	ne
+ayez	VER:subp	avoir
+envisagé	VER:pper	envisager
+de	PRP	de
+quelque	PRO:IND	quelque
+moue	NOM	moue
+pire	ADJ	pire
+si	KON	si
+le	DET:ART	le
+rire	NOM	rire
+secoue	VER:pres	secouer
+votre	DET:POS	votre
+aile	NOM	aile
+sur	PRP	sur
+les	DET:ART	le
+oreillers	NOM	oreiller
+indifféremment	ADV	indifféremment
+sommeillez	VER:pres	sommeiller
+sans	PRP	sans
+crainte	NOM	crainte
+qu'	KON	que
+une	DET:ART	un
+haleine	NOM	haleine
+avoue	VER:pres	avouer
+rien	ADV	rien
+au	PRP:det	au
+réveil	NOM	réveil
+que	KON	que
+vous	PRO:PER	vous
+n'	ADV	ne
+ayez	VER:subp	avoir
+envisagé	VER:pper	envisager
+de	PRP	de
+quelque	PRO:IND	quelque
+moue	NOM	moue
+tous	PRO:IND	tout
+les	DET:ART	le
+rêves	NOM	rêve
+émerveillés	VER:pper	émerveiller
+quand	KON	quand
+cette	PRO:DEM	ce
+beauté	NOM	beauté
+les	PRO:PER	la|le
+déjoue	VER:pres	déjouer
+ne	ADV	ne
+produisent	VER:pres	produire
+fleur	NOM	fleur
+sur	PRP	sur
+la	DET:ART	le
+joue	NOM	joue
+dans	PRP	dans
+l'	DET:ART	le
+oeil	NOM	œil
+diamants	NOM	diamant
+impayés	ADJ	impayé
+rien	NOM	rien
+au	PRP:det	au
+réveil	NOM	réveil
+que	KON	que
+vous	PRO:PER	vous
+n'	ADV	ne
+ayez	VER:subp	avoir

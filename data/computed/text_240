@@ -1,121 +1,121 @@
-vous	PRO:PER
-avez	VER:pres
-empoigné	VER:pper
-les	DET:ART
-crins	NOM
-de	PRP
-la	DET:ART
-déesse	NOM
-avec	PRP
-un	DET:ART
-tel	PRO:DEM
-poignet	NOM
-,	PUN
-qu'	KON
-on	PRO:PER
-vous	PRO:PER
-eût	VER:subi
-pris	VER:pper
-,	PUN
-à	PRP
-voir	VER:infi
-et	KON
-cet	PRO:DEM
-air	NOM
-de	PRP
-maîtrise	NOM
-et	KON
-ce	PRO:DEM
-beau	ADJ
-nonchaloir	NOM
-,	PUN
-pour	PRP
-un	DET:ART
-jeune	ADJ
-ruffian	NOM
-terrassant	VER:ppre
-sa	DET:POS
-maîtresse	NOM
-.	SENT
-l'	DET:ART
-oeil	NOM
-clair	ADJ
-et	KON
-plein	ADJ
-du	PRP:det
-feu	NOM
-de	PRP
-la	DET:ART
-précocité	NOM
-,	PUN
-vous	PRO:PER
-avez	VER:pres
-prélassé	VER:pper
-votre	DET:POS
-orgueil	NOM
-d'	PRP
-architecte	NOM
-dans	PRP
-des	PRP:det
-constructions	NOM
-dont	PRO:REL
-l'	DET:ART
-audace	NOM
-correcte	ADJ
-fait	VER:pres
-voir	VER:infi
-quelle	PRO:REL
-sera	VER:futu
-votre	DET:POS
-maturité	NOM
-.	SENT
-poëte	NOM
-,	PUN
-notre	DET:POS
-sang	NOM
-nous	PRO:PER
-fuit	VER:pres
-par	PRP
-chaque	PRO:IND
-pore	NOM
-;	PUN
-est	VER:pres
-ce	PRO:DEM
-que	PRO:REL
-par	PRP
-hasard	NOM
-la	DET:ART
-robe	NOM
-de	PRP
-centaure	NOM
-,	PUN
-qui	PRO:REL
-changeait	VER:impf
-toute	PRO:IND
-veine	NOM
-en	PRP
-funèbre	ADJ
-ruisseau	NOM
-,	PUN
-était	VER:impf
-teinte	VER:pper
-trois	NUM
-fois	NOM
-dans	PRP
-les	DET:ART
-baves	NOM
-subtiles	ADJ
-de	PRP
-ces	PRO:DEM
-vindicatifs	ADJ
-et	KON
-monstrueux	ADJ
-reptiles	NOM
-que	KON
-le	DET:ART
-petit	ADJ
-hercule	NOM
-étranglait	VER:impf
-au	PRP:det
-berceau	NOM
-?	SENT
+vous	PRO:PER	vous
+avez	VER:pres	avoir
+empoigné	VER:pper	empoigner
+les	DET:ART	le
+crins	NOM	crin
+de	PRP	de
+la	DET:ART	le
+déesse	NOM	déesse
+avec	PRP	avec
+un	DET:ART	un
+tel	PRO:DEM	tel
+poignet	NOM	poignet
+,	PUN	,
+qu'	KON	que
+on	PRO:PER	on
+vous	PRO:PER	vous
+eût	VER:subi	avoir
+pris	VER:pper	prendre
+,	PUN	,
+à	PRP	à
+voir	VER:infi	voir
+et	KON	et
+cet	PRO:DEM	ce
+air	NOM	air
+de	PRP	de
+maîtrise	NOM	maîtrise
+et	KON	et
+ce	PRO:DEM	ce
+beau	ADJ	beau
+nonchaloir	NOM	nonchaloir
+,	PUN	,
+pour	PRP	pour
+un	DET:ART	un
+jeune	ADJ	jeune
+ruffian	NOM	ruffian
+terrassant	VER:ppre	terrasser
+sa	DET:POS	son
+maîtresse	NOM	maître|maîtresse
+.	SENT	.
+l'	DET:ART	le
+oeil	NOM	œil
+clair	ADJ	clair
+et	KON	et
+plein	ADJ	plein
+du	PRP:det	du
+feu	NOM	feu
+de	PRP	de
+la	DET:ART	le
+précocité	NOM	précocité
+,	PUN	,
+vous	PRO:PER	vous
+avez	VER:pres	avoir
+prélassé	VER:pper	prélasser
+votre	DET:POS	votre
+orgueil	NOM	orgueil
+d'	PRP	de
+architecte	NOM	architecte
+dans	PRP	dans
+des	PRP:det	du
+constructions	NOM	construction
+dont	PRO:REL	dont
+l'	DET:ART	le
+audace	NOM	audace
+correcte	ADJ	correct
+fait	VER:pres	faire
+voir	VER:infi	voir
+quelle	PRO:REL	quel
+sera	VER:futu	être
+votre	DET:POS	votre
+maturité	NOM	maturité
+.	SENT	.
+poëte	NOM	poëte
+,	PUN	,
+notre	DET:POS	notre
+sang	NOM	sang
+nous	PRO:PER	nous
+fuit	VER:pres	fuir
+par	PRP	par
+chaque	PRO:IND	chaque
+pore	NOM	pore
+;	PUN	;
+est	VER:pres	être
+ce	PRO:DEM	ce
+que	PRO:REL	que
+par	PRP	par
+hasard	NOM	hasard
+la	DET:ART	le
+robe	NOM	robe
+de	PRP	de
+centaure	NOM	centaure
+,	PUN	,
+qui	PRO:REL	qui
+changeait	VER:impf	changer
+toute	PRO:IND	tout
+veine	NOM	veine
+en	PRP	en
+funèbre	ADJ	funèbre
+ruisseau	NOM	ruisseau
+,	PUN	,
+était	VER:impf	être
+teinte	VER:pper	teindre
+trois	NUM	trois
+fois	NOM	foi|fois
+dans	PRP	dans
+les	DET:ART	le
+baves	NOM	bave
+subtiles	ADJ	subtil
+de	PRP	de
+ces	PRO:DEM	ce
+vindicatifs	ADJ	vindicatif
+et	KON	et
+monstrueux	ADJ	monstrueux
+reptiles	NOM	reptile
+que	KON	que
+le	DET:ART	le
+petit	ADJ	petit
+hercule	NOM	hercule
+étranglait	VER:impf	étrangler
+au	PRP:det	au
+berceau	NOM	berceau
+?	SENT	?

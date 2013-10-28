@@ -1,104 +1,104 @@
-la	DET:ART
-chevelure	NOM
-vol	NOM
-d'	PRP
-une	DET:ART
-flamme	NOM
-à	PRP
-l'	DET:ART
-extrême	ADJ
-occident	NOM
-de	PRP
-désirs	NOM
-pour	PRP
-la	DET:ART
-tout	PRO:IND
-déployer	VER:infi
-se	PRO:PER
-pose	VER:pres
-je	PRO:PER
-dirais	VER:cond
-mourir	VER:infi
-un	DET:ART
-diadème	NOM
-vers	PRP
-le	DET:ART
-front	NOM
-couronné	VER:pper
-son	DET:POS
-ancien	ADJ
-foyer	NOM
-mais	KON
-sans	PRP
-or	NOM
-soupirer	VER:infi
-que	KON
-cette	PRO:DEM
-vive	ADJ
-nue	NOM
-l'	DET:ART
-ignition	NOM
-du	PRP:det
-feu	NOM
-toujours	ADV
-intérieur	ADJ
-originellement	ADV
-la	DET:ART
-seule	ADJ
-continue	VER:pres
-dans	PRP
-le	DET:ART
-joyau	NOM
-de	PRP
-l'	DET:ART
-oeil	NOM
-véridique	ADJ
-ou	KON
-rieur	ADJ
-une	DET:ART
-nudité	NOM
-de	PRP
-héros	NOM
-tendre	ADJ
-diffame	VER:pres
-celle	PRO:DEM
-qui	PRO:REL
-ne	ADV
-mouvant	ADJ
-astre	NOM
-ni	KON
-feux	NOM
-au	PRP:det
-doigt	NOM
-rien	NOM
-qu'	KON
-à	PRP
-simplifier	VER:infi
-avec	PRP
-gloire	NOM
-la	DET:ART
-femme	NOM
-accomplit	VER:pres
-par	PRP
-son	DET:POS
-chef	NOM
-fulgurante	ADJ
-l'	DET:ART
-exploit	NOM
-de	PRP
-semer	VER:infi
-de	PRP
-rubis	NOM
-le	DET:ART
-doute	NOM
-qu'	PRO:REL
-elle	PRO:PER
-écorche	VER:pres
-ainsi	ADV
-qu'	KON
-une	DET:ART
-joyeuse	ADJ
-et	KON
-tutélaire	ADJ
-torche	NOM
-.	SENT
+la	DET:ART	le
+chevelure	NOM	chevelure
+vol	NOM	vol
+d'	PRP	de
+une	DET:ART	un
+flamme	NOM	flamme
+à	PRP	à
+l'	DET:ART	le
+extrême	ADJ	extrême
+occident	NOM	occident
+de	PRP	de
+désirs	NOM	désir
+pour	PRP	pour
+la	DET:ART	le
+tout	PRO:IND	tout
+déployer	VER:infi	déployer
+se	PRO:PER	se
+pose	VER:pres	poser
+je	PRO:PER	je
+dirais	VER:cond	dire
+mourir	VER:infi	mourir
+un	DET:ART	un
+diadème	NOM	diadème
+vers	PRP	vers
+le	DET:ART	le
+front	NOM	front
+couronné	VER:pper	couronner
+son	DET:POS	son
+ancien	ADJ	ancien
+foyer	NOM	foyer
+mais	KON	mais
+sans	PRP	sans
+or	NOM	or
+soupirer	VER:infi	soupirer
+que	KON	que
+cette	PRO:DEM	ce
+vive	ADJ	vif
+nue	NOM	nue
+l'	DET:ART	le
+ignition	NOM	ignition
+du	PRP:det	du
+feu	NOM	feu
+toujours	ADV	toujours
+intérieur	ADJ	intérieur
+originellement	ADV	originellement
+la	DET:ART	le
+seule	ADJ	seul
+continue	VER:pres	continuer
+dans	PRP	dans
+le	DET:ART	le
+joyau	NOM	joyau
+de	PRP	de
+l'	DET:ART	le
+oeil	NOM	œil
+véridique	ADJ	véridique
+ou	KON	ou
+rieur	ADJ	rieur
+une	DET:ART	un
+nudité	NOM	nudité
+de	PRP	de
+héros	NOM	héro|héros
+tendre	ADJ	tendre
+diffame	VER:pres	diffamer
+celle	PRO:DEM	celui
+qui	PRO:REL	qui
+ne	ADV	ne
+mouvant	ADJ	mouvant
+astre	NOM	astre
+ni	KON	ni
+feux	NOM	feu
+au	PRP:det	au
+doigt	NOM	doigt
+rien	NOM	rien
+qu'	KON	que
+à	PRP	à
+simplifier	VER:infi	simplifier
+avec	PRP	avec
+gloire	NOM	gloire
+la	DET:ART	le
+femme	NOM	femme
+accomplit	VER:pres	accomplir
+par	PRP	par
+son	DET:POS	son
+chef	NOM	chef
+fulgurante	ADJ	fulgurant
+l'	DET:ART	le
+exploit	NOM	exploit
+de	PRP	de
+semer	VER:infi	semer
+de	PRP	de
+rubis	NOM	rubis
+le	DET:ART	le
+doute	NOM	doute
+qu'	PRO:REL	que
+elle	PRO:PER	elle
+écorche	VER:pres	écorcher
+ainsi	ADV	ainsi
+qu'	KON	que
+une	DET:ART	un
+joyeuse	ADJ	joyeux
+et	KON	et
+tutélaire	ADJ	tutélaire
+torche	NOM	torche
+.	SENT	.

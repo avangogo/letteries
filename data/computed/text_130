@@ -1,87 +1,87 @@
-a	VER:pres
-la	DET:ART
-fenêtre	NOM
-recélant	VER:ppre
-le	DET:ART
-santal	NOM
-vieux	ADJ
-qui	PRO:REL
-se	PRO:PER
-dédore	VER:pres
-de	PRP
-sa	DET:POS
-viole	NOM
-étincelant	ADJ
-jadis	ADV
-avec	PRP
-flûte	NOM
-ou	KON
-mandore	NOM
-,	PUN
-est	VER:pres
-la	DET:ART
-sainte	ADJ
-pâle	ADJ
-,	PUN
-étalant	VER:ppre
-le	DET:ART
-livre	NOM
-vieux	ADJ
-qui	PRO:REL
-se	PRO:PER
-déplie	VER:pres
-du	PRP:det
-magnificat	NOM
-ruisselant	VER:ppre
-jadis	ADV
-selon	PRP
-vêpre	NOM
-et	KON
-complie	VER:pper
-:	PUN
-a	VER:pres
-ce	PRO:DEM
-vitrage	NOM
-d'	PRP
-ostensoir	NOM
-que	PRO:REL
-frôle	VER:pres
-une	DET:ART
-harpe	NOM
-par	PRP
-l'	DET:ART
-ange	NOM
-formée	VER:pper
-avec	PRP
-son	DET:POS
-vol	NOM
-du	PRP:det
-soir	NOM
-pour	PRP
-la	DET:ART
-délicate	ADJ
-phalange	NOM
-du	PRP:det
-doigt	NOM
-que	PRO:REL
-,	PUN
-sans	PRP
-le	DET:ART
-vieux	ADJ
-santal	NOM
-ni	KON
-le	DET:ART
-vieux	ADJ
-livre	NOM
-,	PUN
-elle	PRO:PER
-balance	VER:pres
-sur	PRP
-le	DET:ART
-plumage	NOM
-instrumental	ADJ
-,	PUN
-musicienne	NOM
-du	PRP:det
-silence	NOM
-.	SENT
+a	VER:pres	avoir
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+recélant	VER:ppre	recéler
+le	DET:ART	le
+santal	NOM	santal
+vieux	ADJ	vieux
+qui	PRO:REL	qui
+se	PRO:PER	se
+dédore	VER:pres	dédorer
+de	PRP	de
+sa	DET:POS	son
+viole	NOM	viole
+étincelant	ADJ	étincelant
+jadis	ADV	jadis
+avec	PRP	avec
+flûte	NOM	flûte
+ou	KON	ou
+mandore	NOM	mandore
+,	PUN	,
+est	VER:pres	être
+la	DET:ART	le
+sainte	ADJ	saint
+pâle	ADJ	pâle
+,	PUN	,
+étalant	VER:ppre	étaler
+le	DET:ART	le
+livre	NOM	livre
+vieux	ADJ	vieux
+qui	PRO:REL	qui
+se	PRO:PER	se
+déplie	VER:pres	déplier
+du	PRP:det	du
+magnificat	NOM	magnificat
+ruisselant	VER:ppre	ruisseler
+jadis	ADV	jadis
+selon	PRP	selon
+vêpre	NOM	vêpre
+et	KON	et
+complie	VER:pper	complie
+:	PUN	:
+a	VER:pres	avoir
+ce	PRO:DEM	ce
+vitrage	NOM	vitrage
+d'	PRP	de
+ostensoir	NOM	ostensoir
+que	PRO:REL	que
+frôle	VER:pres	frôler
+une	DET:ART	un
+harpe	NOM	harpe
+par	PRP	par
+l'	DET:ART	le
+ange	NOM	ange
+formée	VER:pper	former
+avec	PRP	avec
+son	DET:POS	son
+vol	NOM	vol
+du	PRP:det	du
+soir	NOM	soir
+pour	PRP	pour
+la	DET:ART	le
+délicate	ADJ	délicat
+phalange	NOM	phalange
+du	PRP:det	du
+doigt	NOM	doigt
+que	PRO:REL	que
+,	PUN	,
+sans	PRP	sans
+le	DET:ART	le
+vieux	ADJ	vieux
+santal	NOM	santal
+ni	KON	ni
+le	DET:ART	le
+vieux	ADJ	vieux
+livre	NOM	livre
+,	PUN	,
+elle	PRO:PER	elle
+balance	VER:pres	balancer
+sur	PRP	sur
+le	DET:ART	le
+plumage	NOM	plumage
+instrumental	ADJ	instrumental
+,	PUN	,
+musicienne	NOM	musicien
+du	PRP:det	du
+silence	NOM	silence
+.	SENT	.

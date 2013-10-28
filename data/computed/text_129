@@ -1,143 +1,143 @@
-le	DET:ART
-printemps	NOM
-maladif	ADJ
-a	VER:pres
-chassé	VER:pper
-tristement	ADV
-l'	DET:ART
-hiver	NOM
-,	PUN
-saison	NOM
-de	PRP
-l'	DET:ART
-art	NOM
-serein	ADJ
-,	PUN
-l'	DET:ART
-hiver	NOM
-lucide	ADJ
-,	PUN
-et	KON
-dans	PRP
-mon	DET:POS
-être	NOM
-à	PRP
-qui	PRO:REL
-le	DET:ART
-sang	NOM
-morne	ADJ
-préside	VER:pres
-l'	DET:ART
-impuissance	NOM
-s'	PRO:PER
-étire	VER:pres
-en	PRP
-un	DET:ART
-long	ADJ
-baîllement	NOM
-.	SENT
-des	PRP:det
-crépuscules	NOM
-blancs	ADJ
-tiédissent	VER:pres
-sous	PRP
-mon	DET:POS
-crâne	NOM
-qu'	KON
-un	DET:ART
-cercle	NOM
-de	PRP
-fer	NOM
-serre	VER:pres
-ainsi	ADV
-qu'	KON
-un	DET:ART
-vieux	ADJ
-tombeau	NOM
-,	PUN
-et	KON
-,	PUN
-triste	ADJ
-,	PUN
-j'	PRO:PER
-erre	VER:pres
-après	PRP
-un	DET:ART
-rêve	NOM
-vague	ADJ
-et	KON
-beau	ADJ
-,	PUN
-par	PRP
-les	DET:ART
-champs	NOM
-où	PRO:REL
-la	DET:ART
-sève	NOM
-immense	ADJ
-se	PRO:PER
-pavane	VER:pres
-.	SENT
-puis	ADV
-je	PRO:PER
-tombe	VER:pres
-énervé	VER:pper
-de	PRP
-parfums	NOM
-d'	PRP
-arbres	NOM
-,	PUN
-las	ADJ
-,	PUN
-et	KON
-creusant	VER:ppre
-de	PRP
-ma	DET:POS
-face	NOM
-une	DET:ART
-fosse	NOM
-à	PRP
-mon	DET:POS
-rêve	NOM
-,	PUN
-mordant	VER:ppre
-la	DET:ART
-terre	NOM
-chaude	ADJ
-où	PRO:REL
-poussent	VER:pres
-les	DET:ART
-lilas	NOM
-,	PUN
-j'	PRO:PER
-attends	VER:pres
-,	PUN
-en	PRP
-m'	PRO:PER
-abîmant	VER:ppre
-que	KON
-mon	DET:POS
-ennui	NOM
-s'	PRO:PER
-élève	VER:pres
-...	PUN
-cependant	ADV
-l'	DET:ART
-azur	NOM
-rit	VER:pres
-sur	PRP
-la	DET:ART
-haie	NOM
-et	KON
-l'	DET:ART
-éveil	NOM
-de	PRP
-tant	ADV
-d'	PRP
-oiseaux	NOM
-en	PRP
-fleur	NOM
-gazouillant	VER:ppre
-au	PRP:det
-soleil	NOM
-.	SENT
+le	DET:ART	le
+printemps	NOM	printemps
+maladif	ADJ	maladif
+a	VER:pres	avoir
+chassé	VER:pper	chasser
+tristement	ADV	tristement
+l'	DET:ART	le
+hiver	NOM	hiver
+,	PUN	,
+saison	NOM	saison
+de	PRP	de
+l'	DET:ART	le
+art	NOM	art
+serein	ADJ	serein
+,	PUN	,
+l'	DET:ART	le
+hiver	NOM	hiver
+lucide	ADJ	lucide
+,	PUN	,
+et	KON	et
+dans	PRP	dans
+mon	DET:POS	mon
+être	NOM	être
+à	PRP	à
+qui	PRO:REL	qui
+le	DET:ART	le
+sang	NOM	sang
+morne	ADJ	morne
+préside	VER:pres	présider
+l'	DET:ART	le
+impuissance	NOM	impuissance
+s'	PRO:PER	se
+étire	VER:pres	étirer
+en	PRP	en
+un	DET:ART	un
+long	ADJ	long
+baîllement	NOM	baîllement
+.	SENT	.
+des	PRP:det	du
+crépuscules	NOM	crépuscule
+blancs	ADJ	blanc
+tiédissent	VER:pres	tiédir
+sous	PRP	sous
+mon	DET:POS	mon
+crâne	NOM	crâne
+qu'	KON	que
+un	DET:ART	un
+cercle	NOM	cercle
+de	PRP	de
+fer	NOM	fer
+serre	VER:pres	serrer
+ainsi	ADV	ainsi
+qu'	KON	que
+un	DET:ART	un
+vieux	ADJ	vieux
+tombeau	NOM	tombeau
+,	PUN	,
+et	KON	et
+,	PUN	,
+triste	ADJ	triste
+,	PUN	,
+j'	PRO:PER	je
+erre	VER:pres	errer
+après	PRP	après
+un	DET:ART	un
+rêve	NOM	rêve
+vague	ADJ	vague
+et	KON	et
+beau	ADJ	beau
+,	PUN	,
+par	PRP	par
+les	DET:ART	le
+champs	NOM	champ
+où	PRO:REL	où
+la	DET:ART	le
+sève	NOM	sève
+immense	ADJ	immense
+se	PRO:PER	se
+pavane	VER:pres	pavaner
+.	SENT	.
+puis	ADV	puis
+je	PRO:PER	je
+tombe	VER:pres	tomber
+énervé	VER:pper	énerver
+de	PRP	de
+parfums	NOM	parfum
+d'	PRP	de
+arbres	NOM	arbre
+,	PUN	,
+las	ADJ	las
+,	PUN	,
+et	KON	et
+creusant	VER:ppre	creuser
+de	PRP	de
+ma	DET:POS	mon
+face	NOM	face
+une	DET:ART	un
+fosse	NOM	fosse
+à	PRP	à
+mon	DET:POS	mon
+rêve	NOM	rêve
+,	PUN	,
+mordant	VER:ppre	mordre
+la	DET:ART	le
+terre	NOM	terre
+chaude	ADJ	chaud
+où	PRO:REL	où
+poussent	VER:pres	pousser
+les	DET:ART	le
+lilas	NOM	lilas
+,	PUN	,
+j'	PRO:PER	je
+attends	VER:pres	attendre
+,	PUN	,
+en	PRP	en
+m'	PRO:PER	me
+abîmant	VER:ppre	abîmer
+que	KON	que
+mon	DET:POS	mon
+ennui	NOM	ennui
+s'	PRO:PER	se
+élève	VER:pres	élever
+...	PUN	...
+cependant	ADV	cependant
+l'	DET:ART	le
+azur	NOM	azur
+rit	VER:pres	rire
+sur	PRP	sur
+la	DET:ART	le
+haie	NOM	haie
+et	KON	et
+l'	DET:ART	le
+éveil	NOM	éveil
+de	PRP	de
+tant	ADV	tant
+d'	PRP	de
+oiseaux	NOM	oiseau
+en	PRP	en
+fleur	NOM	fleur
+gazouillant	VER:ppre	gazouiller
+au	PRP:det	au
+soleil	NOM	soleil
+.	SENT	.

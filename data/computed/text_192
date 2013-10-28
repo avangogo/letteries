@@ -1,353 +1,353 @@
-je	PRO:PER
-veux	VER:pres
-te	PRO:PER
-raconter	VER:infi
-,	PUN
-ô	INT
-molle	ADJ
-enchanteresse	NOM
-!	SENT
-les	DET:ART
-diverses	ADJ
-beautés	NOM
-qui	PRO:REL
-parent	VER:pres
-ta	DET:POS
-jeunesse	NOM
-;	PUN
-je	PRO:PER
-veux	VER:pres
-te	PRO:PER
-peindre	VER:infi
-ta	DET:POS
-beauté	NOM
-,	PUN
-où	PRO:REL
-l'	DET:ART
-enfance	NOM
-s'	PRO:PER
-allie	VER:pres
-à	PRP
-la	DET:ART
-maturité	NOM
-.	SENT
-quand	KON
-tu	PRO:PER
-vas	VER:pres
-balayant	VER:ppre
-l'	DET:ART
-air	NOM
-de	PRP
-ta	DET:POS
-jupe	NOM
-large	ADJ
-,	PUN
-tu	PRO:PER
-fais	VER:pres
-l'	DET:ART
-effet	NOM
-d'	PRP
-un	DET:ART
-beau	ADJ
-vaisseau	NOM
-qui	PRO:REL
-prend	VER:pres
-le	DET:ART
-large	ADJ
-,	PUN
-chargé	VER:pper
-de	PRP
-toile	NOM
-,	PUN
-et	KON
-va	VER:pres
-roulant	ADJ
-suivant	VER:ppre
-un	DET:ART
-rhythme	NOM
-doux	ADJ
-,	PUN
-et	KON
-paresseux	ADJ
-,	PUN
-et	KON
-lent	ADJ
-.	SENT
-sur	PRP
-ton	DET:POS
-cou	NOM
-large	ADJ
-et	KON
-rond	ADJ
-,	PUN
-sur	PRP
-tes	DET:POS
-épaules	NOM
-grasses	ADJ
-,	PUN
-ta	DET:POS
-tête	NOM
-se	PRO:PER
-pavane	VER:pres
-avec	PRP
-d'	PRP
-étranges	ADJ
-grâces	NOM
-;	PUN
-d'	PRP
-un	DET:ART
-air	NOM
-placide	ADJ
-et	KON
-triomphant	ADJ
-tu	PRO:PER
-passes	VER:pres
-ton	DET:POS
-chemin	NOM
-,	PUN
-majestueuse	ADJ
-enfant	NOM
-.	SENT
-je	PRO:PER
-veux	VER:pres
-te	PRO:PER
-raconter	VER:infi
-,	PUN
-ô	INT
-molle	ADJ
-enchanteresse	NOM
-!	SENT
-les	DET:ART
-diverses	ADJ
-beautés	NOM
-qui	PRO:REL
-parent	VER:pres
-ta	DET:POS
-jeunesse	NOM
-;	PUN
-je	PRO:PER
-veux	VER:pres
-te	PRO:PER
-peindre	VER:infi
-ta	DET:POS
-beauté	NOM
-,	PUN
-où	PRO:REL
-l'	DET:ART
-enfance	NOM
-s'	PRO:PER
-allie	VER:pres
-à	PRP
-la	DET:ART
-maturité	NOM
-.	SENT
-ta	DET:POS
-gorge	NOM
-qui	PRO:REL
-s'	PRO:PER
-avance	VER:pres
-et	KON
-qui	PRO:REL
-pousse	VER:pres
-la	DET:ART
-moire	NOM
-,	PUN
-ta	DET:POS
-gorge	NOM
-triomphante	ADJ
-est	VER:pres
-une	DET:ART
-belle	ADJ
-armoire	NOM
-dont	PRO:REL
-les	DET:ART
-panneaux	NOM
-bombés	ADJ
-et	KON
-clairs	ADJ
-comme	KON
-les	DET:ART
-boucliers	NOM
-accrochent	VER:pres
-des	PRP:det
-éclairs	NOM
-;	PUN
-boucliers	NOM
-provoquants	ADJ
-,	PUN
-armés	VER:pper
-de	PRP
-pointes	NOM
-roses	ADJ
-!	SENT
-armoire	NOM
-à	PRP
-doux	ADJ
-secrets	NOM
-,	PUN
-pleine	ADJ
-de	PRP
-bonnes	ADJ
-choses	NOM
-,	PUN
-de	PRP
-vins	NOM
-,	PUN
-de	PRP
-parfums	NOM
-,	PUN
-de	PRP
-liqueurs	NOM
-qui	PRO:REL
-feraient	VER:cond
-délirer	VER:infi
-les	DET:ART
-cerveaux	NOM
-et	KON
-les	DET:ART
-coeurs	NOM
-!	SENT
-quand	KON
-tu	PRO:PER
-vas	VER:pres
-balayant	VER:ppre
-l'	DET:ART
-air	NOM
-de	PRP
-ta	DET:POS
-jupe	NOM
-large	ADJ
-,	PUN
-tu	PRO:PER
-fais	VER:pres
-l'	DET:ART
-effet	NOM
-d'	PRP
-un	DET:ART
-beau	ADJ
-vaisseau	NOM
-qui	PRO:REL
-prend	VER:pres
-le	DET:ART
-large	ADJ
-,	PUN
-chargé	VER:pper
-de	PRP
-toile	NOM
-,	PUN
-et	KON
-va	VER:pres
-roulant	ADJ
-suivant	VER:ppre
-un	DET:ART
-rhythme	NOM
-doux	ADJ
-,	PUN
-et	KON
-paresseux	ADJ
-,	PUN
-et	KON
-lent	ADJ
-.	SENT
-tes	DET:POS
-nobles	ADJ
-jambes	NOM
-,	PUN
-sous	PRP
-les	DET:ART
-volants	NOM
-qu'	PRO:REL
-elles	PRO:PER
-chassent	VER:pres
-,	PUN
-tourmentent	VER:pres
-les	DET:ART
-désirs	NOM
-obscurs	ADJ
-et	KON
-les	PRO:PER
-agacent	VER:pres
-,	PUN
-comme	KON
-deux	NUM
-sorcières	NOM
-qui	PRO:REL
-font	VER:pres
-tourner	VER:infi
-un	DET:ART
-philtre	NOM
-noir	ADJ
-dans	PRP
-un	DET:ART
-vase	NOM
-profond	ADJ
-.	SENT
-tes	DET:POS
-bras	NOM
-,	PUN
-qui	PRO:REL
-se	PRO:PER
-joueraient	VER:cond
-des	PRP:det
-précoces	ADJ
-hercules	NOM
-,	PUN
-sont	VER:pres
-des	PRP:det
-boas	NOM
-luisants	ADJ
-les	DET:ART
-solides	ADJ
-émules	NOM
-,	PUN
-faits	VER:pper
-pour	PRP
-serrer	VER:infi
-obstinément	ADV
-,	PUN
-comme	ADV
-pour	PRP
-l'	PRO:PER
-imprimer	VER:infi
-dans	PRP
-ton	DET:POS
-coeur	NOM
-,	PUN
-ton	DET:POS
-amant	NOM
-.	SENT
-sur	PRP
-ton	DET:POS
-cou	NOM
-large	ADJ
-et	KON
-rond	ADJ
-,	PUN
-sur	PRP
-tes	DET:POS
-épaules	NOM
-grasses	ADJ
-,	PUN
-ta	DET:POS
-tête	NOM
-se	PRO:PER
-pavane	VER:pres
-avec	PRP
-d'	PRP
-étranges	ADJ
-grâces	NOM
-;	PUN
-d'	PRP
-un	DET:ART
-air	NOM
-placide	ADJ
-et	KON
-triomphant	ADJ
-tu	PRO:PER
-passes	VER:pres
-ton	DET:POS
-chemin	NOM
-,	PUN
-majestueuse	ADJ
-enfant	NOM
-.	SENT
+je	PRO:PER	je
+veux	VER:pres	vouloir
+te	PRO:PER	te
+raconter	VER:infi	raconter
+,	PUN	,
+ô	INT	ô
+molle	ADJ	mou
+enchanteresse	NOM	enchanteur
+!	SENT	!
+les	DET:ART	le
+diverses	ADJ	divers
+beautés	NOM	beauté
+qui	PRO:REL	qui
+parent	VER:pres	parer
+ta	DET:POS	ton
+jeunesse	NOM	jeunesse
+;	PUN	;
+je	PRO:PER	je
+veux	VER:pres	vouloir
+te	PRO:PER	te
+peindre	VER:infi	peindre
+ta	DET:POS	ton
+beauté	NOM	beauté
+,	PUN	,
+où	PRO:REL	où
+l'	DET:ART	le
+enfance	NOM	enfance
+s'	PRO:PER	se
+allie	VER:pres	allier
+à	PRP	à
+la	DET:ART	le
+maturité	NOM	maturité
+.	SENT	.
+quand	KON	quand
+tu	PRO:PER	tu
+vas	VER:pres	aller
+balayant	VER:ppre	balayer|balayer
+l'	DET:ART	le
+air	NOM	air
+de	PRP	de
+ta	DET:POS	ton
+jupe	NOM	jupe
+large	ADJ	large
+,	PUN	,
+tu	PRO:PER	tu
+fais	VER:pres	faire
+l'	DET:ART	le
+effet	NOM	effet
+d'	PRP	de
+un	DET:ART	un
+beau	ADJ	beau
+vaisseau	NOM	vaisseau
+qui	PRO:REL	qui
+prend	VER:pres	prendre
+le	DET:ART	le
+large	ADJ	large
+,	PUN	,
+chargé	VER:pper	charger
+de	PRP	de
+toile	NOM	toile
+,	PUN	,
+et	KON	et
+va	VER:pres	aller
+roulant	ADJ	roulant
+suivant	VER:ppre	suivre
+un	DET:ART	un
+rhythme	NOM	rhythme
+doux	ADJ	doux
+,	PUN	,
+et	KON	et
+paresseux	ADJ	paresseux
+,	PUN	,
+et	KON	et
+lent	ADJ	lent
+.	SENT	.
+sur	PRP	sur
+ton	DET:POS	ton
+cou	NOM	cou
+large	ADJ	large
+et	KON	et
+rond	ADJ	rond
+,	PUN	,
+sur	PRP	sur
+tes	DET:POS	ton
+épaules	NOM	épaule
+grasses	ADJ	gras
+,	PUN	,
+ta	DET:POS	ton
+tête	NOM	tête
+se	PRO:PER	se
+pavane	VER:pres	pavaner
+avec	PRP	avec
+d'	PRP	de
+étranges	ADJ	étrange
+grâces	NOM	grâce
+;	PUN	;
+d'	PRP	de
+un	DET:ART	un
+air	NOM	air
+placide	ADJ	placide
+et	KON	et
+triomphant	ADJ	triomphant
+tu	PRO:PER	tu
+passes	VER:pres	passer
+ton	DET:POS	ton
+chemin	NOM	chemin
+,	PUN	,
+majestueuse	ADJ	majestueux
+enfant	NOM	enfant
+.	SENT	.
+je	PRO:PER	je
+veux	VER:pres	vouloir
+te	PRO:PER	te
+raconter	VER:infi	raconter
+,	PUN	,
+ô	INT	ô
+molle	ADJ	mou
+enchanteresse	NOM	enchanteur
+!	SENT	!
+les	DET:ART	le
+diverses	ADJ	divers
+beautés	NOM	beauté
+qui	PRO:REL	qui
+parent	VER:pres	parer
+ta	DET:POS	ton
+jeunesse	NOM	jeunesse
+;	PUN	;
+je	PRO:PER	je
+veux	VER:pres	vouloir
+te	PRO:PER	te
+peindre	VER:infi	peindre
+ta	DET:POS	ton
+beauté	NOM	beauté
+,	PUN	,
+où	PRO:REL	où
+l'	DET:ART	le
+enfance	NOM	enfance
+s'	PRO:PER	se
+allie	VER:pres	allier
+à	PRP	à
+la	DET:ART	le
+maturité	NOM	maturité
+.	SENT	.
+ta	DET:POS	ton
+gorge	NOM	gorge
+qui	PRO:REL	qui
+s'	PRO:PER	se
+avance	VER:pres	avancer
+et	KON	et
+qui	PRO:REL	qui
+pousse	VER:pres	pousser
+la	DET:ART	le
+moire	NOM	moire
+,	PUN	,
+ta	DET:POS	ton
+gorge	NOM	gorge
+triomphante	ADJ	triomphant
+est	VER:pres	être
+une	DET:ART	un
+belle	ADJ	beau
+armoire	NOM	armoire
+dont	PRO:REL	dont
+les	DET:ART	le
+panneaux	NOM	panneau
+bombés	ADJ	bombé
+et	KON	et
+clairs	ADJ	clair
+comme	KON	comme
+les	DET:ART	le
+boucliers	NOM	bouclier
+accrochent	VER:pres	accrocher
+des	PRP:det	du
+éclairs	NOM	éclair
+;	PUN	;
+boucliers	NOM	bouclier
+provoquants	ADJ	provoquants
+,	PUN	,
+armés	VER:pper	armer
+de	PRP	de
+pointes	NOM	pointe
+roses	ADJ	rose
+!	SENT	!
+armoire	NOM	armoire
+à	PRP	à
+doux	ADJ	doux
+secrets	NOM	secret
+,	PUN	,
+pleine	ADJ	plein
+de	PRP	de
+bonnes	ADJ	bon
+choses	NOM	chose
+,	PUN	,
+de	PRP	de
+vins	NOM	vin
+,	PUN	,
+de	PRP	de
+parfums	NOM	parfum
+,	PUN	,
+de	PRP	de
+liqueurs	NOM	liqueur
+qui	PRO:REL	qui
+feraient	VER:cond	faire
+délirer	VER:infi	délirer
+les	DET:ART	le
+cerveaux	NOM	cerveau
+et	KON	et
+les	DET:ART	le
+coeurs	NOM	cœur
+!	SENT	!
+quand	KON	quand
+tu	PRO:PER	tu
+vas	VER:pres	aller
+balayant	VER:ppre	balayer|balayer
+l'	DET:ART	le
+air	NOM	air
+de	PRP	de
+ta	DET:POS	ton
+jupe	NOM	jupe
+large	ADJ	large
+,	PUN	,
+tu	PRO:PER	tu
+fais	VER:pres	faire
+l'	DET:ART	le
+effet	NOM	effet
+d'	PRP	de
+un	DET:ART	un
+beau	ADJ	beau
+vaisseau	NOM	vaisseau
+qui	PRO:REL	qui
+prend	VER:pres	prendre
+le	DET:ART	le
+large	ADJ	large
+,	PUN	,
+chargé	VER:pper	charger
+de	PRP	de
+toile	NOM	toile
+,	PUN	,
+et	KON	et
+va	VER:pres	aller
+roulant	ADJ	roulant
+suivant	VER:ppre	suivre
+un	DET:ART	un
+rhythme	NOM	rhythme
+doux	ADJ	doux
+,	PUN	,
+et	KON	et
+paresseux	ADJ	paresseux
+,	PUN	,
+et	KON	et
+lent	ADJ	lent
+.	SENT	.
+tes	DET:POS	ton
+nobles	ADJ	noble
+jambes	NOM	jambe
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+volants	NOM	volant
+qu'	PRO:REL	que
+elles	PRO:PER	elle
+chassent	VER:pres	chasser
+,	PUN	,
+tourmentent	VER:pres	tourmenter
+les	DET:ART	le
+désirs	NOM	désir
+obscurs	ADJ	obscur
+et	KON	et
+les	PRO:PER	la|le
+agacent	VER:pres	agacer
+,	PUN	,
+comme	KON	comme
+deux	NUM	deux
+sorcières	NOM	sorcier
+qui	PRO:REL	qui
+font	VER:pres	faire
+tourner	VER:infi	tourner
+un	DET:ART	un
+philtre	NOM	philtre
+noir	ADJ	noir
+dans	PRP	dans
+un	DET:ART	un
+vase	NOM	vase
+profond	ADJ	profond
+.	SENT	.
+tes	DET:POS	ton
+bras	NOM	bras
+,	PUN	,
+qui	PRO:REL	qui
+se	PRO:PER	se
+joueraient	VER:cond	jouer
+des	PRP:det	du
+précoces	ADJ	précoce
+hercules	NOM	hercule
+,	PUN	,
+sont	VER:pres	être
+des	PRP:det	du
+boas	NOM	boa
+luisants	ADJ	luisant
+les	DET:ART	le
+solides	ADJ	solide
+émules	NOM	émule
+,	PUN	,
+faits	VER:pper	faire
+pour	PRP	pour
+serrer	VER:infi	serrer
+obstinément	ADV	obstinément
+,	PUN	,
+comme	ADV	comme
+pour	PRP	pour
+l'	PRO:PER	la|le
+imprimer	VER:infi	imprimer
+dans	PRP	dans
+ton	DET:POS	ton
+coeur	NOM	cœur
+,	PUN	,
+ton	DET:POS	ton
+amant	NOM	amant
+.	SENT	.
+sur	PRP	sur
+ton	DET:POS	ton
+cou	NOM	cou
+large	ADJ	large
+et	KON	et
+rond	ADJ	rond
+,	PUN	,
+sur	PRP	sur
+tes	DET:POS	ton
+épaules	NOM	épaule
+grasses	ADJ	gras
+,	PUN	,
+ta	DET:POS	ton
+tête	NOM	tête
+se	PRO:PER	se
+pavane	VER:pres	pavaner
+avec	PRP	avec
+d'	PRP	de
+étranges	ADJ	étrange
+grâces	NOM	grâce
+;	PUN	;
+d'	PRP	de
+un	DET:ART	un
+air	NOM	air
+placide	ADJ	placide
+et	KON	et
+triomphant	ADJ	triomphant
+tu	PRO:PER	tu
+passes	VER:pres	passer
+ton	DET:POS	ton
+chemin	NOM	chemin
+,	PUN	,
+majestueuse	ADJ	majestueux
+enfant	NOM	enfant
+.	SENT	.

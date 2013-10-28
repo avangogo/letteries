@@ -1,385 +1,385 @@
-qu'	KON
-es	VER:pres
-tu	PRO:PER
-,	PUN
-passant	VER:ppre
-?	SENT
-le	DET:ART
-bois	NOM
-est	VER:pres
-sombre	ADJ
-,	PUN
-les	DET:ART
-corbeaux	NOM
-volent	VER:pres
-en	PRP
-grand	ADJ
-nombre	NOM
-,	PUN
-il	PRO:PER
-va	VER:pres
-pleuvoir	VER:infi
-.	SENT
-je	PRO:PER
-suis	VER:pres
-celui	PRO:DEM
-qui	PRO:REL
-va	VER:pres
-dans	PRP
-l'	DET:ART
-ombre	NOM
-,	PUN
-le	DET:ART
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-,	PUN
-du	PRP:det
-vent	NOM
-remuées	VER:pper
-,	PUN
-sifflent	VER:pres
-...	PUN
-on	PRO:PER
-dirait	VER:cond
-qu'	KON
-un	DET:ART
-sabbat	NOM
-nocturne	ADJ
-emplit	VER:pres
-de	PRP
-huées	NOM
-toute	PRO:IND
-la	DET:ART
-forêt	NOM
-;	PUN
-dans	PRP
-une	DET:ART
-clairière	NOM
-au	PRP:det
-sein	NOM
-des	PRP:det
-nuées	NOM
-la	DET:ART
-lune	NOM
-apparaît	VER:pres
-.	SENT
-chasse	NOM
-le	DET:ART
-daim	NOM
-,	PUN
-chasse	VER:pres
-la	DET:ART
-biche	NOM
-,	PUN
-cours	NOM
-dans	PRP
-les	DET:ART
-bois	NOM
-,	PUN
-cours	NOM
-dans	PRP
-la	DET:ART
-friche	NOM
-,	PUN
-voici	ADV
-le	DET:ART
-soir	NOM
-.	SENT
-chasse	NOM
-le	DET:ART
-czar	NOM
-,	PUN
-chasse	VER:pres
-l'	DET:ART
-autriche	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-souffle	VER:pres
-en	PRP
-ton	DET:POS
-cor	NOM
-,	PUN
-boucle	VER:pres
-ta	DET:POS
-guêtre	NOM
-,	PUN
-chasse	VER:pres
-les	DET:ART
-cerfs	NOM
-qui	PRO:REL
-viennent	VER:pres
-paître	VER:infi
-près	ADV
-du	PRP:det
-manoir	NOM
-.	SENT
-chasse	NOM
-le	DET:ART
-roi	NOM
-,	PUN
-chasse	VER:pres
-le	DET:ART
-prêtre	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-il	PRO:PER
-tonne	VER:pres
-,	PUN
-il	PRO:PER
-pleut	VER:pres
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-déluge	NOM
-.	SENT
-le	DET:ART
-renard	NOM
-fuit	VER:pres
-,	PUN
-pas	ADV
-de	PRP
-refuge	NOM
-et	KON
-pas	ADV
-d'	PRP
-espoir	NOM
-!	SENT
-chasse	NOM
-l'	DET:ART
-espion	NOM
-,	PUN
-chasse	VER:pres
-le	DET:ART
-juge	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-tous	PRO:IND
-les	DET:ART
-démons	NOM
-de	PRP
-saint	ADJ
-antoine	NOM
-bondissent	VER:pres
-dans	PRP
-la	DET:ART
-folle	ADJ
-avoine	NOM
-sans	PRP
-t'	PRO:PER
-émouvoir	VER:infi
-;	PUN
-chasse	VER:pres
-l'	DET:ART
-abbé	NOM
-,	PUN
-chasse	VER:pres
-le	DET:ART
-moine	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-chasse	VER:pres
-les	DET:ART
-ours	NOM
-!	SENT
-ta	DET:POS
-meute	NOM
-jappe	VER:pres
-.	SENT
-que	KON
-pas	ADV
-un	DET:ART
-sanglier	NOM
-n'	ADV
-échappe	VER:pres
-!	SENT
-fais	VER:pres
-ton	DET:POS
-devoir	NOM
-!	SENT
-chasse	NOM
-césar	NOM
-,	PUN
-chasse	VER:pres
-le	DET:ART
-pape	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-le	DET:ART
-loup	NOM
-de	PRP
-ton	DET:POS
-sentier	NOM
-s'	PRO:PER
-écarte	VER:pres
-.	SENT
-que	KON
-ta	DET:POS
-meute	NOM
-à	PRP
-sa	DET:POS
-suite	NOM
-parte	VER:subp
-!	SENT
-cours	NOM
-!	SENT
-fais	VER:pres
-le	PRO:PER
-choir	VER:infi
-!	SENT
-chasse	NOM
-le	DET:ART
-brigand	NOM
-bonaparte	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-,	PUN
-du	PRP:det
-vent	NOM
-remuées	VER:pper
-,	PUN
-tombent	VER:pres
-...	PUN
-on	PRO:PER
-dirait	VER:cond
-que	KON
-le	DET:ART
-sabbat	NOM
-sombre	ADJ
-aux	PRP:det
-rauques	ADJ
-huées	NOM
-à	PRP
-fui	VER:pper
-la	DET:ART
-forêt	NOM
-;	PUN
-le	DET:ART
-clair	ADJ
-chant	NOM
-du	PRP:det
-coq	NOM
-perce	VER:pres
-les	DET:ART
-nuées	NOM
-;	PUN
-ciel	NOM
-!	SENT
-l'	DET:ART
-aube	NOM
-apparaît	VER:pres
-!	SENT
-tout	PRO:IND
-reprend	VER:pres
-sa	DET:POS
-forme	NOM
-première	NUM
-.	SENT
-tu	PRO:PER
-redeviens	VER:pres
-la	DET:ART
-france	NOM
-altière	ADJ
-si	KON
-belle	ADJ
-à	PRP
-voir	VER:infi
-,	PUN
-l'	DET:ART
-ange	NOM
-blanc	ADJ
-vêtu	VER:pper
-de	PRP
-lumière	NOM
-,	PUN
-ô	INT
-chasseur	NOM
-noir	ADJ
-!	SENT
-les	DET:ART
-feuilles	NOM
-des	PRP:det
-bois	NOM
-,	PUN
-du	PRP:det
-vent	NOM
-remuées	VER:pper
-,	PUN
-tombent	VER:pres
-...	PUN
-on	PRO:PER
-dirait	VER:cond
-que	KON
-le	DET:ART
-sabbat	NOM
-sombre	ADJ
-aux	PRP:det
-rauques	ADJ
-huées	NOM
-à	PRP
-fui	VER:pper
-la	DET:ART
-forêt	NOM
-;	PUN
-le	DET:ART
-clair	ADJ
-chant	NOM
-du	PRP:det
-coq	NOM
-perce	VER:pres
-les	DET:ART
-nuées	NOM
-,	PUN
-ciel	NOM
-!	SENT
-l'	DET:ART
-aube	NOM
-apparaît	VER:pres
-!	SENT
+qu'	KON	que
+es	VER:pres	être
+tu	PRO:PER	tu
+,	PUN	,
+passant	VER:ppre	passer
+?	SENT	?
+le	DET:ART	le
+bois	NOM	bois
+est	VER:pres	être
+sombre	ADJ	sombre
+,	PUN	,
+les	DET:ART	le
+corbeaux	NOM	corbeau
+volent	VER:pres	voler
+en	PRP	en
+grand	ADJ	grand
+nombre	NOM	nombre
+,	PUN	,
+il	PRO:PER	il
+va	VER:pres	aller
+pleuvoir	VER:infi	pleuvoir
+.	SENT	.
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+celui	PRO:DEM	celui
+qui	PRO:REL	qui
+va	VER:pres	aller
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+,	PUN	,
+le	DET:ART	le
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+,	PUN	,
+du	PRP:det	du
+vent	NOM	vent
+remuées	VER:pper	remuer
+,	PUN	,
+sifflent	VER:pres	siffler
+...	PUN	...
+on	PRO:PER	on
+dirait	VER:cond	dire
+qu'	KON	que
+un	DET:ART	un
+sabbat	NOM	sabbat
+nocturne	ADJ	nocturne
+emplit	VER:pres	emplir
+de	PRP	de
+huées	NOM	huée
+toute	PRO:IND	tout
+la	DET:ART	le
+forêt	NOM	forêt
+;	PUN	;
+dans	PRP	dans
+une	DET:ART	un
+clairière	NOM	clairière
+au	PRP:det	au
+sein	NOM	sein
+des	PRP:det	du
+nuées	NOM	nuée
+la	DET:ART	le
+lune	NOM	lune
+apparaît	VER:pres	apparaître
+.	SENT	.
+chasse	NOM	chasse
+le	DET:ART	le
+daim	NOM	daim
+,	PUN	,
+chasse	VER:pres	chasser
+la	DET:ART	le
+biche	NOM	biche
+,	PUN	,
+cours	NOM	cour|cours
+dans	PRP	dans
+les	DET:ART	le
+bois	NOM	bois
+,	PUN	,
+cours	NOM	cour|cours
+dans	PRP	dans
+la	DET:ART	le
+friche	NOM	friche
+,	PUN	,
+voici	ADV	voici
+le	DET:ART	le
+soir	NOM	soir
+.	SENT	.
+chasse	NOM	chasse
+le	DET:ART	le
+czar	NOM	czar
+,	PUN	,
+chasse	VER:pres	chasser
+l'	DET:ART	le
+autriche	NOM	autriche
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+souffle	VER:pres	souffler
+en	PRP	en
+ton	DET:POS	ton
+cor	NOM	cor
+,	PUN	,
+boucle	VER:pres	boucler
+ta	DET:POS	ton
+guêtre	NOM	guêtre
+,	PUN	,
+chasse	VER:pres	chasser
+les	DET:ART	le
+cerfs	NOM	cerf
+qui	PRO:REL	qui
+viennent	VER:pres	venir
+paître	VER:infi	paître
+près	ADV	près
+du	PRP:det	du
+manoir	NOM	manoir
+.	SENT	.
+chasse	NOM	chasse
+le	DET:ART	le
+roi	NOM	roi
+,	PUN	,
+chasse	VER:pres	chasser
+le	DET:ART	le
+prêtre	NOM	prêtre
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+il	PRO:PER	il
+tonne	VER:pres	tonner
+,	PUN	,
+il	PRO:PER	il
+pleut	VER:pres	pleuvoir
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+déluge	NOM	déluge
+.	SENT	.
+le	DET:ART	le
+renard	NOM	renard
+fuit	VER:pres	fuir
+,	PUN	,
+pas	ADV	pas
+de	PRP	de
+refuge	NOM	refuge
+et	KON	et
+pas	ADV	pas
+d'	PRP	de
+espoir	NOM	espoir
+!	SENT	!
+chasse	NOM	chasse
+l'	DET:ART	le
+espion	NOM	espion
+,	PUN	,
+chasse	VER:pres	chasser
+le	DET:ART	le
+juge	NOM	juge
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+tous	PRO:IND	tout
+les	DET:ART	le
+démons	NOM	démon
+de	PRP	de
+saint	ADJ	saint
+antoine	NOM	antoine
+bondissent	VER:pres	bondir
+dans	PRP	dans
+la	DET:ART	le
+folle	ADJ	folle|fou
+avoine	NOM	avoine
+sans	PRP	sans
+t'	PRO:PER	te
+émouvoir	VER:infi	émouvoir
+;	PUN	;
+chasse	VER:pres	chasser
+l'	DET:ART	le
+abbé	NOM	abbé
+,	PUN	,
+chasse	VER:pres	chasser
+le	DET:ART	le
+moine	NOM	moine
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+chasse	VER:pres	chasser
+les	DET:ART	le
+ours	NOM	ours
+!	SENT	!
+ta	DET:POS	ton
+meute	NOM	meute
+jappe	VER:pres	japper
+.	SENT	.
+que	KON	que
+pas	ADV	pas
+un	DET:ART	un
+sanglier	NOM	sanglier
+n'	ADV	ne
+échappe	VER:pres	échapper
+!	SENT	!
+fais	VER:pres	faire
+ton	DET:POS	ton
+devoir	NOM	devoir
+!	SENT	!
+chasse	NOM	chasse
+césar	NOM	césar
+,	PUN	,
+chasse	VER:pres	chasser
+le	DET:ART	le
+pape	NOM	pape
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+le	DET:ART	le
+loup	NOM	loup
+de	PRP	de
+ton	DET:POS	ton
+sentier	NOM	sentier
+s'	PRO:PER	se
+écarte	VER:pres	écarter
+.	SENT	.
+que	KON	que
+ta	DET:POS	ton
+meute	NOM	meute
+à	PRP	à
+sa	DET:POS	son
+suite	NOM	suite
+parte	VER:subp	partir
+!	SENT	!
+cours	NOM	cour|cours
+!	SENT	!
+fais	VER:pres	faire
+le	PRO:PER	le
+choir	VER:infi	choir
+!	SENT	!
+chasse	NOM	chasse
+le	DET:ART	le
+brigand	NOM	brigand
+bonaparte	NOM	bonaparte
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+,	PUN	,
+du	PRP:det	du
+vent	NOM	vent
+remuées	VER:pper	remuer
+,	PUN	,
+tombent	VER:pres	tomber
+...	PUN	...
+on	PRO:PER	on
+dirait	VER:cond	dire
+que	KON	que
+le	DET:ART	le
+sabbat	NOM	sabbat
+sombre	ADJ	sombre
+aux	PRP:det	au
+rauques	ADJ	rauque
+huées	NOM	huée
+à	PRP	à
+fui	VER:pper	fuir
+la	DET:ART	le
+forêt	NOM	forêt
+;	PUN	;
+le	DET:ART	le
+clair	ADJ	clair
+chant	NOM	chant
+du	PRP:det	du
+coq	NOM	coq
+perce	VER:pres	percer
+les	DET:ART	le
+nuées	NOM	nuée
+;	PUN	;
+ciel	NOM	ciel
+!	SENT	!
+l'	DET:ART	le
+aube	NOM	aube
+apparaît	VER:pres	apparaître
+!	SENT	!
+tout	PRO:IND	tout
+reprend	VER:pres	reprendre
+sa	DET:POS	son
+forme	NOM	forme
+première	NUM	premier
+.	SENT	.
+tu	PRO:PER	tu
+redeviens	VER:pres	redevenir
+la	DET:ART	le
+france	NOM	france
+altière	ADJ	altier
+si	KON	si
+belle	ADJ	beau
+à	PRP	à
+voir	VER:infi	voir
+,	PUN	,
+l'	DET:ART	le
+ange	NOM	ange
+blanc	ADJ	blanc
+vêtu	VER:pper	vêtir
+de	PRP	de
+lumière	NOM	lumière
+,	PUN	,
+ô	INT	ô
+chasseur	NOM	chasseur
+noir	ADJ	noir
+!	SENT	!
+les	DET:ART	le
+feuilles	NOM	feuille
+des	PRP:det	du
+bois	NOM	bois
+,	PUN	,
+du	PRP:det	du
+vent	NOM	vent
+remuées	VER:pper	remuer
+,	PUN	,
+tombent	VER:pres	tomber
+...	PUN	...
+on	PRO:PER	on
+dirait	VER:cond	dire
+que	KON	que
+le	DET:ART	le
+sabbat	NOM	sabbat
+sombre	ADJ	sombre
+aux	PRP:det	au
+rauques	ADJ	rauque
+huées	NOM	huée
+à	PRP	à
+fui	VER:pper	fuir
+la	DET:ART	le
+forêt	NOM	forêt
+;	PUN	;
+le	DET:ART	le
+clair	ADJ	clair
+chant	NOM	chant
+du	PRP:det	du
+coq	NOM	coq
+perce	VER:pres	percer
+les	DET:ART	le
+nuées	NOM	nuée
+,	PUN	,
+ciel	NOM	ciel
+!	SENT	!
+l'	DET:ART	le
+aube	NOM	aube
+apparaît	VER:pres	apparaître
+!	SENT	!

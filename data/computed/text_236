@@ -1,131 +1,131 @@
-je	PRO:PER
-te	PRO:PER
-donne	VER:pres
-ces	PRO:DEM
-vers	PRP
-afin	KON
-que	KON
-si	KON
-mon	DET:POS
-nom	NOM
-aborde	VER:pres
-heureusement	ADV
-aux	PRP:det
-époques	NOM
-lointaines	ADJ
-,	PUN
-et	KON
-fait	VER:pres
-rêver	VER:infi
-un	DET:ART
-soir	NOM
-les	DET:ART
-cervelles	NOM
-humaines	ADJ
-,	PUN
-vaisseau	NOM
-favorisé	VER:pper
-par	PRP
-un	DET:ART
-grand	ADJ
-aquilon	NOM
-,	PUN
-ta	DET:POS
-mémoire	NOM
-,	PUN
-pareille	ADJ
-aux	PRP:det
-fables	NOM
-incertaines	ADJ
-,	PUN
-fatigue	VER:pres
-le	DET:ART
-lecteur	NOM
-ainsi	KON
-qu'	KON
-un	DET:ART
-tympanon	NOM
-,	PUN
-et	KON
-par	PRP
-un	DET:ART
-fraternel	ADJ
-et	KON
-mystique	ADJ
-chaînon	NOM
-reste	VER:pres
-comme	ADV
-pendue	VER:pper
-à	PRP
-mes	DET:POS
-rimes	NOM
-hautaines	ADJ
-;	PUN
-être	VER:infi
-maudit	VER:pper
-à	PRP
-qui	PRO:REL
-,	PUN
-de	PRP
-l'	DET:ART
-abîme	NOM
-profond	ADJ
-jusqu'	PRP
-au	PRP:det
-plus	ADV
-haut	ADV
-du	PRP:det
-ciel	NOM
-,	PUN
-rien	NOM
-,	PUN
-hors	PRP
-moi	PRO:PER
-,	PUN
-ne	ADV
-répond	VER:pres
-!	SENT
-ô	INT
-toi	PRO:PER
-qui	PRO:REL
-,	PUN
-comme	ADV
-une	DET:ART
-ombre	NOM
-à	PRP
-la	DET:ART
-trace	NOM
-éphémère	ADJ
-,	PUN
-foules	NOM
-d'	PRP
-un	DET:ART
-pied	NOM
-léger	ADJ
-et	KON
-d'	PRP
-un	DET:ART
-regard	NOM
-serein	ADJ
-les	DET:ART
-stupides	ADJ
-mortels	NOM
-qui	PRO:REL
-t'	PRO:PER
-ont	VER:pres
-jugée	VER:pper
-amère	ADJ
-,	PUN
-statue	NOM
-aux	PRP:det
-yeux	NOM
-de	PRP
-jais	NOM
-,	PUN
-grand	ADJ
-ange	NOM
-au	PRP:det
-front	NOM
-d'	PRP
-airain	NOM
-!	SENT
+je	PRO:PER	je
+te	PRO:PER	te
+donne	VER:pres	donner
+ces	PRO:DEM	ce
+vers	PRP	vers
+afin	KON	afin
+que	KON	que
+si	KON	si
+mon	DET:POS	mon
+nom	NOM	nom
+aborde	VER:pres	aborder
+heureusement	ADV	heureusement
+aux	PRP:det	au
+époques	NOM	époque
+lointaines	ADJ	lointain
+,	PUN	,
+et	KON	et
+fait	VER:pres	faire
+rêver	VER:infi	rêver
+un	DET:ART	un
+soir	NOM	soir
+les	DET:ART	le
+cervelles	NOM	cervelle
+humaines	ADJ	humain
+,	PUN	,
+vaisseau	NOM	vaisseau
+favorisé	VER:pper	favoriser
+par	PRP	par
+un	DET:ART	un
+grand	ADJ	grand
+aquilon	NOM	aquilon
+,	PUN	,
+ta	DET:POS	ton
+mémoire	NOM	mémoire
+,	PUN	,
+pareille	ADJ	pareil
+aux	PRP:det	au
+fables	NOM	fable
+incertaines	ADJ	incertain
+,	PUN	,
+fatigue	VER:pres	fatiguer
+le	DET:ART	le
+lecteur	NOM	lecteur
+ainsi	KON	ainsi
+qu'	KON	que
+un	DET:ART	un
+tympanon	NOM	tympanon
+,	PUN	,
+et	KON	et
+par	PRP	par
+un	DET:ART	un
+fraternel	ADJ	fraternel
+et	KON	et
+mystique	ADJ	mystique
+chaînon	NOM	chaînon
+reste	VER:pres	rester
+comme	ADV	comme
+pendue	VER:pper	pendre
+à	PRP	à
+mes	DET:POS	mon
+rimes	NOM	rime
+hautaines	ADJ	hautain
+;	PUN	;
+être	VER:infi	être
+maudit	VER:pper	maudire
+à	PRP	à
+qui	PRO:REL	qui
+,	PUN	,
+de	PRP	de
+l'	DET:ART	le
+abîme	NOM	abîme
+profond	ADJ	profond
+jusqu'	PRP	jusque
+au	PRP:det	au
+plus	ADV	plus
+haut	ADV	haut
+du	PRP:det	du
+ciel	NOM	ciel
+,	PUN	,
+rien	NOM	rien
+,	PUN	,
+hors	PRP	hors
+moi	PRO:PER	moi
+,	PUN	,
+ne	ADV	ne
+répond	VER:pres	répondre
+!	SENT	!
+ô	INT	ô
+toi	PRO:PER	toi
+qui	PRO:REL	qui
+,	PUN	,
+comme	ADV	comme
+une	DET:ART	un
+ombre	NOM	ombre
+à	PRP	à
+la	DET:ART	le
+trace	NOM	trace
+éphémère	ADJ	éphémère
+,	PUN	,
+foules	NOM	foule
+d'	PRP	de
+un	DET:ART	un
+pied	NOM	pied
+léger	ADJ	léger
+et	KON	et
+d'	PRP	de
+un	DET:ART	un
+regard	NOM	regard
+serein	ADJ	serein
+les	DET:ART	le
+stupides	ADJ	stupide
+mortels	NOM	mortel
+qui	PRO:REL	qui
+t'	PRO:PER	te
+ont	VER:pres	avoir
+jugée	VER:pper	juger
+amère	ADJ	amer
+,	PUN	,
+statue	NOM	statue
+aux	PRP:det	au
+yeux	NOM	œil
+de	PRP	de
+jais	NOM	jais
+,	PUN	,
+grand	ADJ	grand
+ange	NOM	ange
+au	PRP:det	au
+front	NOM	front
+d'	PRP	de
+airain	NOM	airain
+!	SENT	!

@@ -1,23 +1,23 @@
-toujours	ADV
-,	PUN
-n'	ADV
-importe	VER:pres
-le	DET:ART
-titre	NOM
-,	PUN
-sans	PRP
-même	ADV
-s'	PRO:PER
-enrhumer	VER:infi
-au	PRP:det
-dégel	NOM
-,	PUN
-ce	PRO:DEM
-gai	ADJ
-siffle	VER:pres
-litre	NOM
-crie	VER:pres
-un	DET:ART
-premier	NUM
-numéro	NOM
-.	SENT
+toujours	ADV	toujours
+,	PUN	,
+n'	ADV	ne
+importe	VER:pres	importer
+le	DET:ART	le
+titre	NOM	titre
+,	PUN	,
+sans	PRP	sans
+même	ADV	même
+s'	PRO:PER	se
+enrhumer	VER:infi	enrhumer
+au	PRP:det	au
+dégel	NOM	dégel
+,	PUN	,
+ce	PRO:DEM	ce
+gai	ADJ	gai
+siffle	VER:pres	siffler
+litre	NOM	litre
+crie	VER:pres	crier
+un	DET:ART	un
+premier	NUM	premier
+numéro	NOM	numéro
+.	SENT	.

@@ -1,129 +1,129 @@
-la	DET:ART
-haine	NOM
-est	VER:pres
-le	DET:ART
-tonneau	NOM
-des	PRP:det
-pâles	ADJ
-danaïdes	NOM
-;	PUN
-la	DET:ART
-vengeance	NOM
-éperdue	VER:pper
-aux	PRP:det
-bras	NOM
-rouges	ADJ
-et	KON
-forts	ADJ
-a	VER:pres
-beau	ADJ
-précipiter	VER:infi
-dans	PRP
-ses	DET:POS
-ténèbres	NOM
-vides	ADJ
-de	PRP
-grands	ADJ
-seaux	NOM
-pleins	ADJ
-du	PRP:det
-sang	NOM
-et	KON
-des	PRP:det
-larmes	NOM
-des	PRP:det
-morts	NOM
-,	PUN
-le	DET:ART
-démon	NOM
-fait	VER:pper
-des	PRP:det
-trous	NOM
-secrets	ADJ
-à	PRP
-ces	PRO:DEM
-abîmes	NOM
-,	PUN
-par	PRP
-où	PRO:REL
-fuiraient	VER:cond
-mille	NUM
-ans	NOM
-de	PRP
-sueurs	NOM
-et	KON
-d'	PRP
-efforts	NOM
-,	PUN
-quand	KON
-même	ADV
-elle	PRO:PER
-saurait	VER:cond
-ranimer	VER:infi
-ses	DET:POS
-victimes	NOM
-,	PUN
-et	KON
-pour	PRP
-les	PRO:PER
-ressaigner	VER:infi
-ressusciter	VER:infi
-leurs	DET:POS
-corps	NOM
-.	SENT
-la	DET:ART
-haine	NOM
-est	VER:pres
-un	DET:ART
-ivrogne	ADJ
-au	PRP:det
-fond	NOM
-d'	PRP
-une	DET:ART
-taverne	NOM
-,	PUN
-qui	PRO:REL
-sent	VER:pres
-toujours	ADV
-la	DET:ART
-soif	NOM
-naître	VER:infi
-de	PRP
-la	DET:ART
-liqueur	NOM
-et	KON
-se	PRO:PER
-multiplier	VER:infi
-comme	ADV
-l'	DET:ART
-hydre	NOM
-de	PRP
-lerne	NOM
-.	SENT
-mais	KON
-les	DET:ART
-buveurs	NOM
-heureux	ADJ
-connaissent	VER:pres
-leur	DET:POS
-vainqueur	NOM
-,	PUN
-et	KON
-la	DET:ART
-haine	NOM
-est	VER:pres
-vouée	VER:pper
-à	PRP
-ce	PRO:DEM
-sort	NOM
-lamentable	ADJ
-de	PRP
-ne	ADV
-pouvoir	VER:infi
-jamais	ADV
-s'	PRO:PER
-endormir	VER:infi
-sous	PRP
-la	DET:ART
-table	NOM
-.	SENT
+la	DET:ART	le
+haine	NOM	haine
+est	VER:pres	être
+le	DET:ART	le
+tonneau	NOM	tonneau
+des	PRP:det	du
+pâles	ADJ	pâle
+danaïdes	NOM	danaïde
+;	PUN	;
+la	DET:ART	le
+vengeance	NOM	vengeance
+éperdue	VER:pper	éperdre
+aux	PRP:det	au
+bras	NOM	bras
+rouges	ADJ	rouge
+et	KON	et
+forts	ADJ	fort
+a	VER:pres	avoir
+beau	ADJ	beau
+précipiter	VER:infi	précipiter
+dans	PRP	dans
+ses	DET:POS	son
+ténèbres	NOM	ténèbre
+vides	ADJ	vide
+de	PRP	de
+grands	ADJ	grand
+seaux	NOM	seau
+pleins	ADJ	plein
+du	PRP:det	du
+sang	NOM	sang
+et	KON	et
+des	PRP:det	du
+larmes	NOM	larme
+des	PRP:det	du
+morts	NOM	mort
+,	PUN	,
+le	DET:ART	le
+démon	NOM	démon
+fait	VER:pper	faire
+des	PRP:det	du
+trous	NOM	trou
+secrets	ADJ	secret
+à	PRP	à
+ces	PRO:DEM	ce
+abîmes	NOM	abîme
+,	PUN	,
+par	PRP	par
+où	PRO:REL	où
+fuiraient	VER:cond	fuir
+mille	NUM	mille
+ans	NOM	an
+de	PRP	de
+sueurs	NOM	sueur
+et	KON	et
+d'	PRP	de
+efforts	NOM	effort
+,	PUN	,
+quand	KON	quand
+même	ADV	même
+elle	PRO:PER	elle
+saurait	VER:cond	savoir
+ranimer	VER:infi	ranimer
+ses	DET:POS	son
+victimes	NOM	victime
+,	PUN	,
+et	KON	et
+pour	PRP	pour
+les	PRO:PER	la|le
+ressaigner	VER:infi	ressaigner
+ressusciter	VER:infi	ressusciter
+leurs	DET:POS	leur
+corps	NOM	corps
+.	SENT	.
+la	DET:ART	le
+haine	NOM	haine
+est	VER:pres	être
+un	DET:ART	un
+ivrogne	ADJ	ivrogne
+au	PRP:det	au
+fond	NOM	fond
+d'	PRP	de
+une	DET:ART	un
+taverne	NOM	taverne
+,	PUN	,
+qui	PRO:REL	qui
+sent	VER:pres	sentir
+toujours	ADV	toujours
+la	DET:ART	le
+soif	NOM	soif
+naître	VER:infi	naître
+de	PRP	de
+la	DET:ART	le
+liqueur	NOM	liqueur
+et	KON	et
+se	PRO:PER	se
+multiplier	VER:infi	multiplier
+comme	ADV	comme
+l'	DET:ART	le
+hydre	NOM	hydre
+de	PRP	de
+lerne	NOM	lerne
+.	SENT	.
+mais	KON	mais
+les	DET:ART	le
+buveurs	NOM	buveur
+heureux	ADJ	heureux
+connaissent	VER:pres	connaître
+leur	DET:POS	leur
+vainqueur	NOM	vainqueur
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+haine	NOM	haine
+est	VER:pres	être
+vouée	VER:pper	vouer
+à	PRP	à
+ce	PRO:DEM	ce
+sort	NOM	sort
+lamentable	ADJ	lamentable
+de	PRP	de
+ne	ADV	ne
+pouvoir	VER:infi	pouvoir
+jamais	ADV	jamais
+s'	PRO:PER	se
+endormir	VER:infi	endormir
+sous	PRP	sous
+la	DET:ART	le
+table	NOM	table
+.	SENT	.

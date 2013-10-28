@@ -1,125 +1,125 @@
-o	NOM
-rêveuse	ADJ
-,	PUN
-pour	KON
-que	PRO:REL
-je	PRO:PER
-plonge	VER:pres
-au	PRP:det
-pur	ADJ
-délice	NOM
-sans	PRP
-chemin	NOM
-,	PUN
-sache	VER:subp
-,	PUN
-par	PRP
-un	DET:ART
-subtil	ADJ
-mensonge	NOM
-,	PUN
-garder	VER:infi
-mon	DET:POS
-aile	NOM
-dans	PRP
-ta	DET:POS
-main	NOM
-.	SENT
-une	DET:ART
-fraîcheur	NOM
-de	PRP
-crépuscule	NOM
-te	PRO:PER
-vient	VER:pres
-à	PRP
-chaque	PRO:IND
-battement	NOM
-dont	PRO:REL
-le	DET:ART
-coup	NOM
-prisonnier	NOM
-recule	VER:pres
-l'	DET:ART
-horizon	NOM
-délicatement	ADV
-.	SENT
-vertige	NOM
-!	SENT
-voici	ADV
-que	PRO:REL
-frissonne	VER:pres
-l'	DET:ART
-espace	NOM
-comme	KON
-un	DET:ART
-grand	ADJ
-baiser	NOM
-qui	PRO:REL
-,	PUN
-fou	ADJ
-de	PRP
-naître	VER:infi
-pour	PRP
-personne	NOM
-,	PUN
-ne	ADV
-peut	VER:pres
-jaillir	VER:infi
-ni	KON
-s'	PRO:PER
-apaiser	VER:infi
-.	SENT
-sens	VER:pres
-tu	PRO:PER
-le	DET:ART
-paradis	NOM
-farouche	ADJ
-ainsi	ADV
-qu'	KON
-un	DET:ART
-rire	NOM
-enseveli	VER:pper
-se	PRO:PER
-couler	VER:infi
-du	PRP:det
-coin	NOM
-de	PRP
-ta	DET:POS
-bouche	NOM
-au	PRP:det
-fond	NOM
-de	PRP
-l'	DET:ART
-unanime	ADJ
-pli	NOM
-!	SENT
-le	DET:ART
-sceptre	NOM
-des	PRP:det
-rivages	NOM
-roses	ADJ
-stagnants	ADJ
-sur	PRP
-les	DET:ART
-soirs	NOM
-d'	PRP
-or	NOM
-,	PUN
-ce	PRO:DEM
-l'	PRO:PER
-est	VER:pres
-,	PUN
-ce	PRO:DEM
-blanc	ADJ
-vol	NOM
-fermé	VER:pper
-que	KON
-tu	PRO:PER
-poses	VER:pres
-contre	PRP
-le	DET:ART
-feu	NOM
-d'	PRP
-un	DET:ART
-bracelet	NOM
-.	SENT
+o	NOM	o
+rêveuse	ADJ	rêveur
+,	PUN	,
+pour	KON	pour
+que	PRO:REL	que
+je	PRO:PER	je
+plonge	VER:pres	plonger
+au	PRP:det	au
+pur	ADJ	pur
+délice	NOM	délice
+sans	PRP	sans
+chemin	NOM	chemin
+,	PUN	,
+sache	VER:subp	savoir
+,	PUN	,
+par	PRP	par
+un	DET:ART	un
+subtil	ADJ	subtil
+mensonge	NOM	mensonge
+,	PUN	,
+garder	VER:infi	garder
+mon	DET:POS	mon
+aile	NOM	aile
+dans	PRP	dans
+ta	DET:POS	ton
+main	NOM	main
+.	SENT	.
+une	DET:ART	un
+fraîcheur	NOM	fraîcheur
+de	PRP	de
+crépuscule	NOM	crépuscule
+te	PRO:PER	te
+vient	VER:pres	venir
+à	PRP	à
+chaque	PRO:IND	chaque
+battement	NOM	battement
+dont	PRO:REL	dont
+le	DET:ART	le
+coup	NOM	coup
+prisonnier	NOM	prisonnier
+recule	VER:pres	reculer
+l'	DET:ART	le
+horizon	NOM	horizon
+délicatement	ADV	délicatement
+.	SENT	.
+vertige	NOM	vertige
+!	SENT	!
+voici	ADV	voici
+que	PRO:REL	que
+frissonne	VER:pres	frissonner
+l'	DET:ART	le
+espace	NOM	espace
+comme	KON	comme
+un	DET:ART	un
+grand	ADJ	grand
+baiser	NOM	baiser
+qui	PRO:REL	qui
+,	PUN	,
+fou	ADJ	fou
+de	PRP	de
+naître	VER:infi	naître
+pour	PRP	pour
+personne	NOM	personne
+,	PUN	,
+ne	ADV	ne
+peut	VER:pres	pouvoir
+jaillir	VER:infi	jaillir
+ni	KON	ni
+s'	PRO:PER	se
+apaiser	VER:infi	apaiser
+.	SENT	.
+sens	VER:pres	sentir
+tu	PRO:PER	tu
+le	DET:ART	le
+paradis	NOM	paradis
+farouche	ADJ	farouche
+ainsi	ADV	ainsi
+qu'	KON	que
+un	DET:ART	un
+rire	NOM	rire
+enseveli	VER:pper	ensevelir
+se	PRO:PER	se
+couler	VER:infi	couler
+du	PRP:det	du
+coin	NOM	coin
+de	PRP	de
+ta	DET:POS	ton
+bouche	NOM	bouche
+au	PRP:det	au
+fond	NOM	fond
+de	PRP	de
+l'	DET:ART	le
+unanime	ADJ	unanime
+pli	NOM	pli
+!	SENT	!
+le	DET:ART	le
+sceptre	NOM	sceptre
+des	PRP:det	du
+rivages	NOM	rivage
+roses	ADJ	rose
+stagnants	ADJ	stagnant
+sur	PRP	sur
+les	DET:ART	le
+soirs	NOM	soir
+d'	PRP	de
+or	NOM	or
+,	PUN	,
+ce	PRO:DEM	ce
+l'	PRO:PER	la|le
+est	VER:pres	être
+,	PUN	,
+ce	PRO:DEM	ce
+blanc	ADJ	blanc
+vol	NOM	vol
+fermé	VER:pper	fermer
+que	KON	que
+tu	PRO:PER	tu
+poses	VER:pres	poser
+contre	PRP	contre
+le	DET:ART	le
+feu	NOM	feu
+d'	PRP	de
+un	DET:ART	un
+bracelet	NOM	bracelet
+.	SENT	.

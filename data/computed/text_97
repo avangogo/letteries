@@ -1,147 +1,147 @@
-la	DET:ART
-lune	NOM
-s'	PRO:PER
-attristait	VER:impf
-.	SENT
-des	PRP:det
-séraphins	NOM
-en	PRP
-pleurs	NOM
-rêvant	VER:ppre
-,	PUN
-l'	DET:ART
-archet	NOM
-aux	PRP:det
-doigts	NOM
-,	PUN
-dans	PRP
-le	DET:ART
-calme	NOM
-des	PRP:det
-fleurs	NOM
-vaporeuses	ADJ
-,	PUN
-tiraient	VER:impf
-de	PRP
-mourantes	ADJ
-violes	NOM
-de	PRP
-blancs	ADJ
-sanglots	NOM
-glissant	VER:ppre
-sur	PRP
-l'	DET:ART
-azur	NOM
-des	PRP:det
-corolles	NOM
-c'	PRO:DEM
-était	VER:impf
-le	DET:ART
-jour	NOM
-béni	VER:pper
-de	PRP
-ton	DET:POS
-premier	NUM
-baiser	NOM
-.	SENT
-ma	DET:POS
-songerie	NOM
-aimant	VER:ppre
-à	PRP
-me	PRO:PER
-martyriser	VER:infi
-s'	PRO:PER
-enivrait	VER:impf
-savamment	ADV
-du	PRP:det
-parfum	NOM
-de	PRP
-tristesse	NOM
-que	KON
-même	ADV
-sans	PRP
-regret	NOM
-et	KON
-sans	PRP
-déboire	NOM
-laissela	VER:simp
-cueillaison	NOM
-d'	PRP
-un	DET:ART
-rêve	NOM
-au	PRP:det
-coeur	NOM
-qui	PRO:REL
-l'	PRO:PER
-a	VER:pres
-cueilli	VER:pper
-.	SENT
-j'	PRO:PER
-errais	VER:impf
-donc	ADV
-,	PUN
-l'	DET:ART
-oeil	NOM
-rivé	VER:pper
-sur	PRP
-le	DET:ART
-pavé	NOM
-vieilli	VER:pper
-quand	KON
-avec	PRP
-du	PRP:det
-soleil	NOM
-aux	PRP:det
-cheveux	NOM
-,	PUN
-dans	PRP
-la	DET:ART
-rue	NOM
-et	KON
-dans	PRP
-le	DET:ART
-soir	NOM
-,	PUN
-tu	PRO:PER
-m'	PRO:PER
-es	VER:pres
-en	PRP
-riant	VER:ppre
-apparue	VER:pper
-et	KON
-j'	PRO:PER
-ai	VER:pres
-cru	VER:pper
-voir	VER:infi
-la	DET:ART
-fée	NOM
-au	PRP:det
-chapeau	NOM
-de	PRP
-clarté	NOM
-qui	PRO:REL
-jadis	ADV
-sur	PRP
-mes	DET:POS
-beaux	ADJ
-sommeils	NOM
-d'	PRP
-enfant	NOM
-gâté	VER:pper
-passait	VER:impf
-,	PUN
-laissant	VER:ppre
-toujours	ADV
-de	PRP
-ses	DET:POS
-mains	NOM
-mal	ADV
-fermées	VER:pper
-neiger	VER:infi
-de	PRP
-blancs	ADJ
-bouquets	NOM
-d'	PRP
-étoiles	NOM
-parfumées	VER:pper
-.	SENT
+la	DET:ART	le
+lune	NOM	lune
+s'	PRO:PER	se
+attristait	VER:impf	attrister
+.	SENT	.
+des	PRP:det	du
+séraphins	NOM	séraphin
+en	PRP	en
+pleurs	NOM	pleur|pleurs
+rêvant	VER:ppre	rêver
+,	PUN	,
+l'	DET:ART	le
+archet	NOM	archet
+aux	PRP:det	au
+doigts	NOM	doigt
+,	PUN	,
+dans	PRP	dans
+le	DET:ART	le
+calme	NOM	calme
+des	PRP:det	du
+fleurs	NOM	fleur
+vaporeuses	ADJ	vaporeux
+,	PUN	,
+tiraient	VER:impf	tirer
+de	PRP	de
+mourantes	ADJ	mourant
+violes	NOM	viole
+de	PRP	de
+blancs	ADJ	blanc
+sanglots	NOM	sanglot
+glissant	VER:ppre	glisser
+sur	PRP	sur
+l'	DET:ART	le
+azur	NOM	azur
+des	PRP:det	du
+corolles	NOM	corolle
+c'	PRO:DEM	ce
+était	VER:impf	être
+le	DET:ART	le
+jour	NOM	jour
+béni	VER:pper	bénir
+de	PRP	de
+ton	DET:POS	ton
+premier	NUM	premier
+baiser	NOM	baiser
+.	SENT	.
+ma	DET:POS	mon
+songerie	NOM	songerie
+aimant	VER:ppre	aimer
+à	PRP	à
+me	PRO:PER	me
+martyriser	VER:infi	martyriser
+s'	PRO:PER	se
+enivrait	VER:impf	enivrer
+savamment	ADV	savamment
+du	PRP:det	du
+parfum	NOM	parfum
+de	PRP	de
+tristesse	NOM	tristesse
+que	KON	que
+même	ADV	même
+sans	PRP	sans
+regret	NOM	regret
+et	KON	et
+sans	PRP	sans
+déboire	NOM	déboire
+laissela	VER:simp	laissela
+cueillaison	NOM	cueillaison
+d'	PRP	de
+un	DET:ART	un
+rêve	NOM	rêve
+au	PRP:det	au
+coeur	NOM	cœur
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+a	VER:pres	avoir
+cueilli	VER:pper	cueillir
+.	SENT	.
+j'	PRO:PER	je
+errais	VER:impf	errer
+donc	ADV	donc
+,	PUN	,
+l'	DET:ART	le
+oeil	NOM	œil
+rivé	VER:pper	river
+sur	PRP	sur
+le	DET:ART	le
+pavé	NOM	pavé
+vieilli	VER:pper	vieillir
+quand	KON	quand
+avec	PRP	avec
+du	PRP:det	du
+soleil	NOM	soleil
+aux	PRP:det	au
+cheveux	NOM	cheveu
+,	PUN	,
+dans	PRP	dans
+la	DET:ART	le
+rue	NOM	rue
+et	KON	et
+dans	PRP	dans
+le	DET:ART	le
+soir	NOM	soir
+,	PUN	,
+tu	PRO:PER	tu
+m'	PRO:PER	me
+es	VER:pres	être
+en	PRP	en
+riant	VER:ppre	rire
+apparue	VER:pper	apparaître
+et	KON	et
+j'	PRO:PER	je
+ai	VER:pres	avoir
+cru	VER:pper	croire
+voir	VER:infi	voir
+la	DET:ART	le
+fée	NOM	fée
+au	PRP:det	au
+chapeau	NOM	chapeau
+de	PRP	de
+clarté	NOM	clarté
+qui	PRO:REL	qui
+jadis	ADV	jadis
+sur	PRP	sur
+mes	DET:POS	mon
+beaux	ADJ	beau
+sommeils	NOM	sommeil
+d'	PRP	de
+enfant	NOM	enfant
+gâté	VER:pper	gâter
+passait	VER:impf	passer
+,	PUN	,
+laissant	VER:ppre	laisser
+toujours	ADV	toujours
+de	PRP	de
+ses	DET:POS	son
+mains	NOM	main
+mal	ADV	mal
+fermées	VER:pper	fermer
+neiger	VER:infi	neiger
+de	PRP	de
+blancs	ADJ	blanc
+bouquets	NOM	bouquet
+d'	PRP	de
+étoiles	NOM	étoile
+parfumées	VER:pper	parfumer
+.	SENT	.

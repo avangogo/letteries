@@ -1,162 +1,162 @@
-ce	PRO:DEM
-qu'	PRO:REL
-on	PRO:PER
-appelle	VER:pres
-charte	NOM
-ou	KON
-constitution	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-antre	NOM
-qu'	KON
-un	DET:ART
-peuple	NOM
-en	PRP
-révolution	NOM
-creuse	ADJ
-dans	PRP
-le	DET:ART
-granit	NOM
-,	PUN
-abri	NOM
-sûr	ADJ
-et	KON
-fidèle	ADJ
-.	SENT
-joyeux	ADJ
-,	PUN
-le	DET:ART
-peuple	NOM
-enferme	VER:pres
-en	PRP
-cette	PRO:DEM
-citadelle	NOM
-ses	DET:POS
-conquêtes	NOM
-,	PUN
-ses	DET:POS
-droits	NOM
-,	PUN
-payés	VER:pper
-de	PRP
-tant	ADV
-d'	PRP
-efforts	NOM
-,	PUN
-ses	DET:POS
-progrès	NOM
-,	PUN
-son	DET:POS
-honneur	NOM
-;	PUN
-pour	PRP
-garder	VER:infi
-ces	PRO:DEM
-trésors	NOM
-,	PUN
-il	PRO:PER
-installe	VER:pres
-en	PRP
-la	DET:ART
-haute	ADJ
-et	KON
-superbe	ADJ
-tanière	NOM
-la	DET:ART
-fauve	ADJ
-liberté	NOM
-,	PUN
-secouant	VER:ppre
-sa	DET:POS
-crinière	NOM
-.	SENT
-l'	DET:ART
-oeuvre	NOM
-faite	VER:pper
-,	PUN
-il	PRO:PER
-s'	PRO:PER
-apaise	VER:pres
-,	PUN
-il	PRO:PER
-reprend	VER:pres
-ses	DET:POS
-travaux	NOM
-,	PUN
-il	PRO:PER
-retourne	VER:pres
-à	PRP
-son	DET:POS
-champ	NOM
-,	PUN
-fier	VER:infi
-de	PRP
-ses	DET:POS
-droits	NOM
-nouveaux	ADJ
-,	PUN
-et	KON
-tranquille	ADJ
-,	PUN
-il	PRO:PER
-s'	PRO:PER
-endort	VER:pres
-sur	PRP
-des	PRP:det
-dates	NOM
-célèbres	ADJ
-,	PUN
-sans	PRP
-songer	VER:infi
-aux	PRP:det
-larrons	NOM
-rôdant	VER:ppre
-dans	PRP
-les	DET:ART
-ténèbres	NOM
-.	SENT
-un	DET:ART
-beau	ADJ
-matin	NOM
-,	PUN
-le	DET:ART
-peuple	NOM
-en	PRP
-s'	PRO:PER
-éveillant	VER:ppre
-va	VER:pres
-voir	VER:infi
-sa	DET:POS
-constitution	NOM
-,	PUN
-temple	NOM
-de	PRP
-son	DET:POS
-pouvoir	NOM
-;	PUN
-hélas	INT
-!	SENT
-de	PRP
-l'	DET:ART
-antre	NOM
-auguste	ADJ
-on	PRO:PER
-a	VER:pres
-fait	VER:pper
-une	DET:ART
-niche	NOM
-.	SENT
-il	PRO:PER
-y	PRO:PER
-mit	VER:simp
-un	DET:ART
-lion	NOM
-,	PUN
-il	PRO:PER
-y	PRO:PER
-trouve	VER:pres
-un	DET:ART
-caniche	NOM
-.	SENT
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+on	PRO:PER	on
+appelle	VER:pres	appeler
+charte	NOM	charte
+ou	KON	ou
+constitution	NOM	constitution
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+antre	NOM	antre
+qu'	KON	que
+un	DET:ART	un
+peuple	NOM	peuple
+en	PRP	en
+révolution	NOM	révolution
+creuse	ADJ	creux
+dans	PRP	dans
+le	DET:ART	le
+granit	NOM	granit
+,	PUN	,
+abri	NOM	abri
+sûr	ADJ	sûr
+et	KON	et
+fidèle	ADJ	fidèle
+.	SENT	.
+joyeux	ADJ	joyeux
+,	PUN	,
+le	DET:ART	le
+peuple	NOM	peuple
+enferme	VER:pres	enfermer
+en	PRP	en
+cette	PRO:DEM	ce
+citadelle	NOM	citadelle
+ses	DET:POS	son
+conquêtes	NOM	conquête
+,	PUN	,
+ses	DET:POS	son
+droits	NOM	droit
+,	PUN	,
+payés	VER:pper	payer|payer
+de	PRP	de
+tant	ADV	tant
+d'	PRP	de
+efforts	NOM	effort
+,	PUN	,
+ses	DET:POS	son
+progrès	NOM	progrès
+,	PUN	,
+son	DET:POS	son
+honneur	NOM	honneur
+;	PUN	;
+pour	PRP	pour
+garder	VER:infi	garder
+ces	PRO:DEM	ce
+trésors	NOM	trésor
+,	PUN	,
+il	PRO:PER	il
+installe	VER:pres	installer
+en	PRP	en
+la	DET:ART	le
+haute	ADJ	haut
+et	KON	et
+superbe	ADJ	superbe
+tanière	NOM	tanière
+la	DET:ART	le
+fauve	ADJ	fauve
+liberté	NOM	liberté
+,	PUN	,
+secouant	VER:ppre	secouer
+sa	DET:POS	son
+crinière	NOM	crinière
+.	SENT	.
+l'	DET:ART	le
+oeuvre	NOM	œuvre
+faite	VER:pper	faire
+,	PUN	,
+il	PRO:PER	il
+s'	PRO:PER	se
+apaise	VER:pres	apaiser
+,	PUN	,
+il	PRO:PER	il
+reprend	VER:pres	reprendre
+ses	DET:POS	son
+travaux	NOM	travail
+,	PUN	,
+il	PRO:PER	il
+retourne	VER:pres	retourner
+à	PRP	à
+son	DET:POS	son
+champ	NOM	champ
+,	PUN	,
+fier	VER:infi	fier
+de	PRP	de
+ses	DET:POS	son
+droits	NOM	droit
+nouveaux	ADJ	nouveau
+,	PUN	,
+et	KON	et
+tranquille	ADJ	tranquille
+,	PUN	,
+il	PRO:PER	il
+s'	PRO:PER	se
+endort	VER:pres	endormir
+sur	PRP	sur
+des	PRP:det	du
+dates	NOM	date
+célèbres	ADJ	célèbre
+,	PUN	,
+sans	PRP	sans
+songer	VER:infi	songer
+aux	PRP:det	au
+larrons	NOM	larron
+rôdant	VER:ppre	rôder
+dans	PRP	dans
+les	DET:ART	le
+ténèbres	NOM	ténèbre
+.	SENT	.
+un	DET:ART	un
+beau	ADJ	beau
+matin	NOM	matin
+,	PUN	,
+le	DET:ART	le
+peuple	NOM	peuple
+en	PRP	en
+s'	PRO:PER	se
+éveillant	VER:ppre	éveiller
+va	VER:pres	aller
+voir	VER:infi	voir
+sa	DET:POS	son
+constitution	NOM	constitution
+,	PUN	,
+temple	NOM	temple
+de	PRP	de
+son	DET:POS	son
+pouvoir	NOM	pouvoir
+;	PUN	;
+hélas	INT	hélas
+!	SENT	!
+de	PRP	de
+l'	DET:ART	le
+antre	NOM	antre
+auguste	ADJ	auguste
+on	PRO:PER	on
+a	VER:pres	avoir
+fait	VER:pper	faire
+une	DET:ART	un
+niche	NOM	niche
+.	SENT	.
+il	PRO:PER	il
+y	PRO:PER	y
+mit	VER:simp	mettre
+un	DET:ART	un
+lion	NOM	lion
+,	PUN	,
+il	PRO:PER	il
+y	PRO:PER	y
+trouve	VER:pres	trouver
+un	DET:ART	un
+caniche	NOM	caniche
+.	SENT	.

@@ -1,117 +1,117 @@
-vous	PRO:PER
-pouvez	VER:pres
-mépriser	VER:infi
-les	DET:ART
-yeux	NOM
-les	DET:ART
-plus	ADV
-célèbres	ADJ
-,	PUN
-beaux	ADJ
-yeux	NOM
-de	PRP
-mon	DET:POS
-enfant	NOM
-,	PUN
-par	PRP
-où	PRO:REL
-filtre	NOM
-et	KON
-s'	PRO:PER
-enfuit	VER:pres
-je	PRO:PER
-ne	ADV
-sais	VER:pres
-quoi	PRO
-de	PRP
-bon	ADJ
-,	PUN
-de	PRP
-doux	ADJ
-comme	KON
-la	DET:ART
-nuit	NOM
-!	SENT
-beaux	ADJ
-yeux	NOM
-,	PUN
-versez	VER:pres
-sur	PRP
-moi	PRO:PER
-vos	DET:POS
-charmantes	ADJ
-ténèbres	NOM
-!	SENT
-grands	ADJ
-yeux	NOM
-de	PRP
-mon	DET:POS
-enfant	NOM
-,	PUN
-arcanes	ADJ
-adorés	VER:pper
-,	PUN
-vous	PRO:PER
-ressemblez	VER:pres
-beaucoup	ADV
-à	PRP
-ces	PRO:DEM
-grottes	NOM
-magiques	ADJ
-où	PRO:REL
-,	PUN
-derrière	PRP
-l'	DET:ART
-amas	NOM
-des	PRP:det
-ombres	NOM
-léthargiques	ADJ
-,	PUN
-scintillent	VER:pres
-vaguement	ADV
-des	PRP:det
-trésors	NOM
-ignorés	ADJ
-!	SENT
-mon	DET:POS
-enfant	NOM
-a	VER:pres
-des	PRP:det
-yeux	NOM
-obscurs	ADJ
-,	PUN
-profonds	ADJ
-et	KON
-vastes	ADJ
-,	PUN
-comme	KON
-toi	PRO:PER
-,	PUN
-nuit	NOM
-immense	ADJ
-,	PUN
-éclairés	VER:pper
-comme	KON
-toi	PRO:PER
-!	SENT
-leurs	DET:POS
-feux	NOM
-sont	VER:pres
-ces	PRO:DEM
-pensers	NOM
-d'	PRP
-amour	NOM
-,	PUN
-mêlés	VER:pper
-de	PRP
-foi	NOM
-,	PUN
-qui	PRO:REL
-petillent	VER:pres
-au	PRP:det
-fond	NOM
-,	PUN
-voluptueux	ADJ
-ou	KON
-chastes	ADJ
-.	SENT
+vous	PRO:PER	vous
+pouvez	VER:pres	pouvoir
+mépriser	VER:infi	mépriser
+les	DET:ART	le
+yeux	NOM	œil
+les	DET:ART	le
+plus	ADV	plus
+célèbres	ADJ	célèbre
+,	PUN	,
+beaux	ADJ	beau
+yeux	NOM	œil
+de	PRP	de
+mon	DET:POS	mon
+enfant	NOM	enfant
+,	PUN	,
+par	PRP	par
+où	PRO:REL	où
+filtre	NOM	filtre
+et	KON	et
+s'	PRO:PER	se
+enfuit	VER:pres	enfuir
+je	PRO:PER	je
+ne	ADV	ne
+sais	VER:pres	savoir
+quoi	PRO	quoi
+de	PRP	de
+bon	ADJ	bon
+,	PUN	,
+de	PRP	de
+doux	ADJ	doux
+comme	KON	comme
+la	DET:ART	le
+nuit	NOM	nuit
+!	SENT	!
+beaux	ADJ	beau
+yeux	NOM	œil
+,	PUN	,
+versez	VER:pres	verser
+sur	PRP	sur
+moi	PRO:PER	moi
+vos	DET:POS	votre
+charmantes	ADJ	charmant
+ténèbres	NOM	ténèbre
+!	SENT	!
+grands	ADJ	grand
+yeux	NOM	œil
+de	PRP	de
+mon	DET:POS	mon
+enfant	NOM	enfant
+,	PUN	,
+arcanes	ADJ	arcane
+adorés	VER:pper	adorer
+,	PUN	,
+vous	PRO:PER	vous
+ressemblez	VER:pres	ressembler
+beaucoup	ADV	beaucoup
+à	PRP	à
+ces	PRO:DEM	ce
+grottes	NOM	grotte
+magiques	ADJ	magique
+où	PRO:REL	où
+,	PUN	,
+derrière	PRP	derrière
+l'	DET:ART	le
+amas	NOM	amas
+des	PRP:det	du
+ombres	NOM	ombre
+léthargiques	ADJ	léthargique
+,	PUN	,
+scintillent	VER:pres	scintiller
+vaguement	ADV	vaguement
+des	PRP:det	du
+trésors	NOM	trésor
+ignorés	ADJ	ignoré
+!	SENT	!
+mon	DET:POS	mon
+enfant	NOM	enfant
+a	VER:pres	avoir
+des	PRP:det	du
+yeux	NOM	œil
+obscurs	ADJ	obscur
+,	PUN	,
+profonds	ADJ	profond
+et	KON	et
+vastes	ADJ	vaste
+,	PUN	,
+comme	KON	comme
+toi	PRO:PER	toi
+,	PUN	,
+nuit	NOM	nuit
+immense	ADJ	immense
+,	PUN	,
+éclairés	VER:pper	éclairer
+comme	KON	comme
+toi	PRO:PER	toi
+!	SENT	!
+leurs	DET:POS	leur
+feux	NOM	feu
+sont	VER:pres	être
+ces	PRO:DEM	ce
+pensers	NOM	penser
+d'	PRP	de
+amour	NOM	amour
+,	PUN	,
+mêlés	VER:pper	mêler
+de	PRP	de
+foi	NOM	foi
+,	PUN	,
+qui	PRO:REL	qui
+petillent	VER:pres	petillent
+au	PRP:det	au
+fond	NOM	fond
+,	PUN	,
+voluptueux	ADJ	voluptueux
+ou	KON	ou
+chastes	ADJ	chaste
+.	SENT	.

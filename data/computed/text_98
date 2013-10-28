@@ -1,244 +1,244 @@
-prends	VER:pres
-ce	PRO:DEM
-sac	NOM
-,	PUN
-mendiant	VER:ppre
-!	SENT
-tu	PRO:PER
-ne	ADV
-le	PRO:PER
-cajolas	VER:simp
-sénile	ADJ
-nourrisson	NOM
-d'	PRP
-une	DET:ART
-tétine	NOM
-avare	ADJ
-afin	KON
-de	PRP
-pièce	NOM
-à	PRP
-pièce	NOM
-en	PRP
-égoutter	VER:infi
-ton	DET:POS
-glas	NOM
-.	SENT
-tire	NOM
-du	PRP:det
-métal	NOM
-cher	ADV
-quelque	PRO:IND
-péché	NOM
-bizarre	ADJ
-et	KON
-vaste	ADJ
-comme	KON
-nous	PRO:PER
-,	PUN
-les	DET:ART
-poings	NOM
-pleins	ADJ
-,	PUN
-le	PRO:PER
-baisons	VER:pres
-souffles	VER:pres
-y	PRO:PER
-qu'	PRO:REL
-il	PRO:PER
-se	PRO:PER
-torde	VER:subp
-!	SENT
-une	DET:ART
-ardente	ADJ
-fanfare	NOM
-.	SENT
-église	NOM
-avec	PRP
-l'	DET:ART
-encens	NOM
-que	KON
-toutes	PRO:IND
-ces	PRO:DEM
-maisons	NOM
-sur	PRP
-les	DET:ART
-murs	NOM
-quand	ADV
-berceur	ADJ
-d'	PRP
-une	DET:ART
-bleue	ADJ
-éclaircie	NOM
-le	DET:ART
-tabac	NOM
-sans	PRP
-parler	NOM
-roule	VER:pres
-les	DET:ART
-oraisons	NOM
-,	PUN
-et	KON
-l'	DET:ART
-opium	NOM
-puissant	ADJ
-brise	VER:pres
-la	DET:ART
-pharmacie	NOM
-!	SENT
-robes	NOM
-et	KON
-peau	NOM
-,	PUN
-veux	VER:pres
-tu	PRO:PER
-lacérer	VER:infi
-le	DET:ART
-satin	NOM
-et	KON
-boire	VER:infi
-en	PRP
-la	DET:ART
-salive	NOM
-heureuse	ADJ
-l'	DET:ART
-inertie	NOM
-,	PUN
-par	PRP
-les	DET:ART
-cafés	NOM
-princiers	ADJ
-attendre	VER:infi
-le	DET:ART
-matin	NOM
-?	SENT
-les	DET:ART
-plafonds	NOM
-enrichis	VER:pper
-de	PRP
-nymphes	NOM
-et	KON
-de	PRP
-voiles	NOM
-,	PUN
-on	PRO:PER
-jette	VER:pres
-,	PUN
-au	PRP:det
-mendiant	NOM
-de	PRP
-la	DET:ART
-vitre	NOM
-,	PUN
-un	DET:ART
-festin	NOM
-.	SENT
-et	KON
-quand	KON
-tu	PRO:PER
-sors	VER:pres
-,	PUN
-vieux	ADJ
-dieu	NOM
-,	PUN
-grelottant	VER:ppre
-sous	PRP
-tes	DET:POS
-toiles	NOM
-d'	PRP
-emballage	NOM
-,	PUN
-l'	DET:ART
-aurore	NOM
-est	VER:pres
-un	DET:ART
-lac	NOM
-de	PRP
-vin	NOM
-d'	PRP
-or	NOM
-et	KON
-tu	PRO:PER
-jures	VER:pres
-avoir	VER:infi
-au	PRP:det
-gosier	NOM
-les	DET:ART
-étoiles	NOM
-!	SENT
-faute	NOM
-de	PRP
-supputer	VER:infi
-l'	DET:ART
-éclat	NOM
-de	PRP
-ton	DET:POS
-trésor	NOM
-,	PUN
-tu	PRO:PER
-peux	VER:pres
-du	PRP:det
-moins	ADV
-t'	PRO:PER
-orner	VER:infi
-d'	PRP
-une	DET:ART
-plume	NOM
-,	PUN
-à	PRP
-complies	NOM
-servir	VER:infi
-un	DET:ART
-cierge	NOM
-au	PRP:det
-saint	NOM
-en	PRP
-qui	PRO:REL
-tu	PRO:PER
-crois	VER:pres
-encor	ADV
-.	SENT
-ne	ADV
-t'	PRO:PER
-imagine	VER:pres
-pas	ADV
-que	KON
-je	PRO:PER
-dis	VER:pres
-des	PRP:det
-folies	NOM
-.	SENT
-la	DET:ART
-terre	NOM
-s'	PRO:PER
-ouvre	VER:pres
-vieille	ADJ
-à	PRP
-qui	PRO:REL
-crève	VER:pres
-la	DET:ART
-faim	NOM
-.	SENT
-je	PRO:PER
-hais	VER:pres
-une	DET:ART
-autre	ADJ
-aumône	NOM
-et	KON
-veux	VER:pres
-que	KON
-tu	PRO:PER
-m'	PRO:PER
-oublies	VER:pres
-et	KON
-surtout	ADV
-ne	ADV
-va	VER:pres
-pas	ADV
-,	PUN
-frère	NOM
-,	PUN
-acheter	VER:infi
-du	PRP:det
-pain	NOM
-.	SENT
+prends	VER:pres	prendre
+ce	PRO:DEM	ce
+sac	NOM	sac
+,	PUN	,
+mendiant	VER:ppre	mendier
+!	SENT	!
+tu	PRO:PER	tu
+ne	ADV	ne
+le	PRO:PER	le
+cajolas	VER:simp	cajoler
+sénile	ADJ	sénile
+nourrisson	NOM	nourrisson
+d'	PRP	de
+une	DET:ART	un
+tétine	NOM	tétine
+avare	ADJ	avare
+afin	KON	afin
+de	PRP	de
+pièce	NOM	pièce
+à	PRP	à
+pièce	NOM	pièce
+en	PRP	en
+égoutter	VER:infi	égoutter
+ton	DET:POS	ton
+glas	NOM	glas
+.	SENT	.
+tire	NOM	tire
+du	PRP:det	du
+métal	NOM	métal
+cher	ADV	cher
+quelque	PRO:IND	quelque
+péché	NOM	péché
+bizarre	ADJ	bizarre
+et	KON	et
+vaste	ADJ	vaste
+comme	KON	comme
+nous	PRO:PER	nous
+,	PUN	,
+les	DET:ART	le
+poings	NOM	poing
+pleins	ADJ	plein
+,	PUN	,
+le	PRO:PER	le
+baisons	VER:pres	baiser
+souffles	VER:pres	souffler
+y	PRO:PER	y
+qu'	PRO:REL	que
+il	PRO:PER	il
+se	PRO:PER	se
+torde	VER:subp	tordre
+!	SENT	!
+une	DET:ART	un
+ardente	ADJ	ardent
+fanfare	NOM	fanfare
+.	SENT	.
+église	NOM	église
+avec	PRP	avec
+l'	DET:ART	le
+encens	NOM	encens
+que	KON	que
+toutes	PRO:IND	tout
+ces	PRO:DEM	ce
+maisons	NOM	maison
+sur	PRP	sur
+les	DET:ART	le
+murs	NOM	mur
+quand	ADV	quand
+berceur	ADJ	berceur
+d'	PRP	de
+une	DET:ART	un
+bleue	ADJ	bleu
+éclaircie	NOM	éclaircie
+le	DET:ART	le
+tabac	NOM	tabac
+sans	PRP	sans
+parler	NOM	parler
+roule	VER:pres	rouler
+les	DET:ART	le
+oraisons	NOM	oraison
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+opium	NOM	opium
+puissant	ADJ	puissant
+brise	VER:pres	briser
+la	DET:ART	le
+pharmacie	NOM	pharmacie
+!	SENT	!
+robes	NOM	robe
+et	KON	et
+peau	NOM	peau
+,	PUN	,
+veux	VER:pres	vouloir
+tu	PRO:PER	tu
+lacérer	VER:infi	lacérer
+le	DET:ART	le
+satin	NOM	satin
+et	KON	et
+boire	VER:infi	boire
+en	PRP	en
+la	DET:ART	le
+salive	NOM	salive
+heureuse	ADJ	heureux
+l'	DET:ART	le
+inertie	NOM	inertie
+,	PUN	,
+par	PRP	par
+les	DET:ART	le
+cafés	NOM	café
+princiers	ADJ	princier
+attendre	VER:infi	attendre
+le	DET:ART	le
+matin	NOM	matin
+?	SENT	?
+les	DET:ART	le
+plafonds	NOM	plafond
+enrichis	VER:pper	enrichir
+de	PRP	de
+nymphes	NOM	nymphe
+et	KON	et
+de	PRP	de
+voiles	NOM	voile
+,	PUN	,
+on	PRO:PER	on
+jette	VER:pres	jeter
+,	PUN	,
+au	PRP:det	au
+mendiant	NOM	mendiant
+de	PRP	de
+la	DET:ART	le
+vitre	NOM	vitre
+,	PUN	,
+un	DET:ART	un
+festin	NOM	festin
+.	SENT	.
+et	KON	et
+quand	KON	quand
+tu	PRO:PER	tu
+sors	VER:pres	sortir
+,	PUN	,
+vieux	ADJ	vieux
+dieu	NOM	dieu
+,	PUN	,
+grelottant	VER:ppre	grelotter
+sous	PRP	sous
+tes	DET:POS	ton
+toiles	NOM	toile
+d'	PRP	de
+emballage	NOM	emballage
+,	PUN	,
+l'	DET:ART	le
+aurore	NOM	aurore
+est	VER:pres	être
+un	DET:ART	un
+lac	NOM	lac
+de	PRP	de
+vin	NOM	vin
+d'	PRP	de
+or	NOM	or
+et	KON	et
+tu	PRO:PER	tu
+jures	VER:pres	jurer
+avoir	VER:infi	avoir
+au	PRP:det	au
+gosier	NOM	gosier
+les	DET:ART	le
+étoiles	NOM	étoile
+!	SENT	!
+faute	NOM	faute
+de	PRP	de
+supputer	VER:infi	supputer
+l'	DET:ART	le
+éclat	NOM	éclat
+de	PRP	de
+ton	DET:POS	ton
+trésor	NOM	trésor
+,	PUN	,
+tu	PRO:PER	tu
+peux	VER:pres	pouvoir
+du	PRP:det	du
+moins	ADV	moins
+t'	PRO:PER	te
+orner	VER:infi	orner
+d'	PRP	de
+une	DET:ART	un
+plume	NOM	plume
+,	PUN	,
+à	PRP	à
+complies	NOM	complies
+servir	VER:infi	servir
+un	DET:ART	un
+cierge	NOM	cierge
+au	PRP:det	au
+saint	NOM	saint
+en	PRP	en
+qui	PRO:REL	qui
+tu	PRO:PER	tu
+crois	VER:pres	croire
+encor	ADV	encor
+.	SENT	.
+ne	ADV	ne
+t'	PRO:PER	te
+imagine	VER:pres	imaginer
+pas	ADV	pas
+que	KON	que
+je	PRO:PER	je
+dis	VER:pres	dire
+des	PRP:det	du
+folies	NOM	folie
+.	SENT	.
+la	DET:ART	le
+terre	NOM	terre
+s'	PRO:PER	se
+ouvre	VER:pres	ouvrer|ouvrir
+vieille	ADJ	vieux
+à	PRP	à
+qui	PRO:REL	qui
+crève	VER:pres	crever
+la	DET:ART	le
+faim	NOM	faim
+.	SENT	.
+je	PRO:PER	je
+hais	VER:pres	haïr
+une	DET:ART	un
+autre	ADJ	autre
+aumône	NOM	aumône
+et	KON	et
+veux	VER:pres	vouloir
+que	KON	que
+tu	PRO:PER	tu
+m'	PRO:PER	me
+oublies	VER:pres	oublier
+et	KON	et
+surtout	ADV	surtout
+ne	ADV	ne
+va	VER:pres	aller
+pas	ADV	pas
+,	PUN	,
+frère	NOM	frère
+,	PUN	,
+acheter	VER:infi	acheter
+du	PRP:det	du
+pain	NOM	pain
+.	SENT	.

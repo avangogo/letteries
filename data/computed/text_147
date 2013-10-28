@@ -1,122 +1,122 @@
-ses	DET:POS
-purs	ADJ
-ongles	NOM
-très	ADV
-haut	ADJ
-dédiant	VER:ppre
-leur	DET:POS
-onyx	NOM
-,	PUN
-l'	DET:ART
-angoisse	NOM
-,	PUN
-ce	PRO:DEM
-minuit	NOM
-,	PUN
-soutient	VER:pres
-,	PUN
-lampadophore	ADJ
-,	PUN
-maint	PRO:IND
-rêve	NOM
-vespéral	ADJ
-brûlé	VER:pper
-par	PRP
-le	DET:ART
-phénix	NOM
-que	PRO:REL
-ne	ADV
-recueille	VER:pres
-pas	ADV
-de	PRP
-cinéraire	ADJ
-amphore	NOM
-sur	PRP
-les	DET:ART
-crédences	NOM
-,	PUN
-au	PRP:det
-salon	NOM
-vide	ADJ
-:	PUN
-nul	ADJ
-ptyx	NOM
-,	PUN
-aboli	VER:pper
-bibelot	NOM
-d'	PRP
-inanité	NOM
-sonore	ADJ
-,	PUN
-car	KON
-le	DET:ART
-maître	NOM
-est	VER:pres
-allé	VER:pper
-puiser	VER:infi
-des	PRP:det
-pleurs	NOM
-au	PRP:det
-styx	NOM
-avec	PRP
-ce	PRO:DEM
-seul	ADJ
-objet	NOM
-dont	PRO:REL
-le	DET:ART
-néant	NOM
-s'	PRO:PER
-honore	VER:pres
-.	SENT
-mais	KON
-proche	ADV
-la	DET:ART
-croisée	NOM
-au	PRP:det
-nord	NOM
-vacante	ADJ
-,	PUN
-un	DET:ART
-or	NOM
-agonise	VER:pres
-selon	PRP
-peut	VER:pres
-être	VER:infi
-le	DET:ART
-décor	NOM
-des	PRP:det
-licornes	NOM
-ruant	VER:ppre
-du	PRP:det
-feu	NOM
-contre	PRP
-une	DET:ART
-nixe	NOM
-,	PUN
-elle	PRO:PER
-,	PUN
-défunte	ADJ
-nue	NOM
-en	PRP
-le	DET:ART
-miroir	NOM
-,	PUN
-encor	ADV
-que	KON
-,	PUN
-dans	PRP
-l'	DET:ART
-oubli	NOM
-fermé	VER:pper
-par	PRP
-le	DET:ART
-cadre	NOM
-,	PUN
-se	PRO:PER
-fixe	VER:pres
-de	PRP
-scintillations	NOM
-sitôt	ADV
-le	DET:ART
-septuor	NOM
-.	SENT
+ses	DET:POS	son
+purs	ADJ	pur
+ongles	NOM	ongle
+très	ADV	très
+haut	ADJ	haut
+dédiant	VER:ppre	dédier
+leur	DET:POS	leur
+onyx	NOM	onyx
+,	PUN	,
+l'	DET:ART	le
+angoisse	NOM	angoisse
+,	PUN	,
+ce	PRO:DEM	ce
+minuit	NOM	minuit
+,	PUN	,
+soutient	VER:pres	soutenir
+,	PUN	,
+lampadophore	ADJ	lampadophore
+,	PUN	,
+maint	PRO:IND	maint
+rêve	NOM	rêve
+vespéral	ADJ	vespéral
+brûlé	VER:pper	brûler
+par	PRP	par
+le	DET:ART	le
+phénix	NOM	phénix
+que	PRO:REL	que
+ne	ADV	ne
+recueille	VER:pres	recueillir
+pas	ADV	pas
+de	PRP	de
+cinéraire	ADJ	cinéraire
+amphore	NOM	amphore
+sur	PRP	sur
+les	DET:ART	le
+crédences	NOM	crédence
+,	PUN	,
+au	PRP:det	au
+salon	NOM	salon
+vide	ADJ	vide
+:	PUN	:
+nul	ADJ	nul
+ptyx	NOM	ptyx
+,	PUN	,
+aboli	VER:pper	abolir
+bibelot	NOM	bibelot
+d'	PRP	de
+inanité	NOM	inanité
+sonore	ADJ	sonore
+,	PUN	,
+car	KON	car
+le	DET:ART	le
+maître	NOM	maître
+est	VER:pres	être
+allé	VER:pper	aller
+puiser	VER:infi	puiser
+des	PRP:det	du
+pleurs	NOM	pleur|pleurs
+au	PRP:det	au
+styx	NOM	styx
+avec	PRP	avec
+ce	PRO:DEM	ce
+seul	ADJ	seul
+objet	NOM	objet
+dont	PRO:REL	dont
+le	DET:ART	le
+néant	NOM	néant
+s'	PRO:PER	se
+honore	VER:pres	honorer
+.	SENT	.
+mais	KON	mais
+proche	ADV	proche
+la	DET:ART	le
+croisée	NOM	croisée
+au	PRP:det	au
+nord	NOM	nord
+vacante	ADJ	vacant
+,	PUN	,
+un	DET:ART	un
+or	NOM	or
+agonise	VER:pres	agoniser
+selon	PRP	selon
+peut	VER:pres	pouvoir
+être	VER:infi	être
+le	DET:ART	le
+décor	NOM	décor
+des	PRP:det	du
+licornes	NOM	licorne
+ruant	VER:ppre	ruer
+du	PRP:det	du
+feu	NOM	feu
+contre	PRP	contre
+une	DET:ART	un
+nixe	NOM	nixe
+,	PUN	,
+elle	PRO:PER	elle
+,	PUN	,
+défunte	ADJ	défunt
+nue	NOM	nue
+en	PRP	en
+le	DET:ART	le
+miroir	NOM	miroir
+,	PUN	,
+encor	ADV	encor
+que	KON	que
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+oubli	NOM	oubli
+fermé	VER:pper	fermer
+par	PRP	par
+le	DET:ART	le
+cadre	NOM	cadre
+,	PUN	,
+se	PRO:PER	se
+fixe	VER:pres	fixer
+de	PRP	de
+scintillations	NOM	scintillation
+sitôt	ADV	sitôt
+le	DET:ART	le
+septuor	NOM	septuor
+.	SENT	.

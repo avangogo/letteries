@@ -1,247 +1,247 @@
-ange	NOM
-plein	ADJ
-de	PRP
-gaîté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-l'	DET:ART
-angoisse	NOM
-,	PUN
-la	DET:ART
-honte	NOM
-,	PUN
-les	DET:ART
-remords	NOM
-,	PUN
-les	DET:ART
-sanglots	NOM
-,	PUN
-les	DET:ART
-ennuis	NOM
-et	KON
-les	DET:ART
-vagues	ADJ
-terreurs	NOM
-de	PRP
-ces	PRO:DEM
-affreuses	ADJ
-nuits	NOM
-qui	PRO:REL
-compriment	VER:pres
-le	DET:ART
-coeur	NOM
-comme	KON
-un	DET:ART
-papier	NOM
-qu'	PRO:REL
-on	PRO:PER
-froisse	VER:pres
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-gaîté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-l'	DET:ART
-angoisse	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-bonté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-la	DET:ART
-haine	NOM
-,	PUN
-les	DET:ART
-poings	NOM
-crispés	VER:pper
-dans	PRP
-l'	DET:ART
-ombre	NOM
-et	KON
-des	PRP:det
-larmes	NOM
-de	PRP
-fiel	NOM
-,	PUN
-quand	KON
-la	DET:ART
-vengeance	NOM
-bat	VER:pres
-son	DET:POS
-infernal	ADJ
-rappel	NOM
-,	PUN
-et	KON
-de	PRP
-nos	DET:POS
-facultés	NOM
-se	PRO:PER
-fait	VER:pres
-le	DET:ART
-capitaine	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-bonté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-la	DET:ART
-haine	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-santé	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-les	DET:ART
-fièvres	NOM
-,	PUN
-qui	PRO:REL
-,	PUN
-le	DET:ART
-long	NOM
-des	PRP:det
-grands	ADJ
-murs	NOM
-de	PRP
-l'	DET:ART
-hospice	NOM
-blafard	ADJ
-,	PUN
-comme	ADV
-des	PRP:det
-exilés	VER:pper
-,	PUN
-s'	PRO:PER
-en	PRO:PER
-vont	VER:pres
-d'	PRP
-un	DET:ART
-pied	NOM
-traînard	ADJ
-,	PUN
-cherchant	VER:ppre
-le	DET:ART
-soleil	NOM
-rare	ADJ
-et	KON
-remuant	VER:ppre
-les	DET:ART
-lèvres	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-santé	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-les	DET:ART
-fièvres	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-beauté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-les	DET:ART
-rides	NOM
-,	PUN
-et	KON
-la	DET:ART
-peur	NOM
-de	PRP
-vieillir	VER:infi
-,	PUN
-et	KON
-ce	PRO:DEM
-hideux	ADJ
-tourment	NOM
-de	PRP
-lire	VER:infi
-la	DET:ART
-secrète	ADJ
-horreur	NOM
-du	PRP:det
-dévoûment	NOM
-dans	PRP
-des	PRP:det
-yeux	NOM
-où	PRO:REL
-longtemps	ADV
-burent	VER:simp
-nos	DET:POS
-yeux	NOM
-avides	ADJ
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-beauté	NOM
-,	PUN
-connaissez	VER:pres
-vous	PRO:PER
-les	DET:ART
-rides	NOM
-?	SENT
-ange	NOM
-plein	ADJ
-de	PRP
-bonheur	NOM
-,	PUN
-de	PRP
-joie	NOM
-et	KON
-de	PRP
-lumières	NOM
-,	PUN
-david	NOM
-mourant	VER:ppre
-aurait	VER:cond
-demandé	VER:pper
-la	DET:ART
-santé	NOM
-aux	PRP:det
-émanations	NOM
-de	PRP
-ton	DET:POS
-corps	NOM
-enchanté	VER:pper
-;	PUN
-mais	KON
-de	PRP
-toi	PRO:PER
-je	PRO:PER
-n'	ADV
-implore	VER:pres
-,	PUN
-ange	NOM
-,	PUN
-que	KON
-tes	DET:POS
-prières	NOM
-,	PUN
-ange	NOM
-plein	ADJ
-de	PRP
-bonheur	NOM
-,	PUN
-de	PRP
-joie	NOM
-et	KON
-de	PRP
-lumières	NOM
-!	SENT
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+gaîté	NOM	gaîté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+l'	DET:ART	le
+angoisse	NOM	angoisse
+,	PUN	,
+la	DET:ART	le
+honte	NOM	honte
+,	PUN	,
+les	DET:ART	le
+remords	NOM	remords
+,	PUN	,
+les	DET:ART	le
+sanglots	NOM	sanglot
+,	PUN	,
+les	DET:ART	le
+ennuis	NOM	ennui
+et	KON	et
+les	DET:ART	le
+vagues	ADJ	vague
+terreurs	NOM	terreur
+de	PRP	de
+ces	PRO:DEM	ce
+affreuses	ADJ	affreux
+nuits	NOM	nuit
+qui	PRO:REL	qui
+compriment	VER:pres	comprimer
+le	DET:ART	le
+coeur	NOM	cœur
+comme	KON	comme
+un	DET:ART	un
+papier	NOM	papier
+qu'	PRO:REL	que
+on	PRO:PER	on
+froisse	VER:pres	froisser
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+gaîté	NOM	gaîté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+l'	DET:ART	le
+angoisse	NOM	angoisse
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+bonté	NOM	bonté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+la	DET:ART	le
+haine	NOM	haine
+,	PUN	,
+les	DET:ART	le
+poings	NOM	poing
+crispés	VER:pper	crisper
+dans	PRP	dans
+l'	DET:ART	le
+ombre	NOM	ombre
+et	KON	et
+des	PRP:det	du
+larmes	NOM	larme
+de	PRP	de
+fiel	NOM	fiel
+,	PUN	,
+quand	KON	quand
+la	DET:ART	le
+vengeance	NOM	vengeance
+bat	VER:pres	battre
+son	DET:POS	son
+infernal	ADJ	infernal
+rappel	NOM	rappel
+,	PUN	,
+et	KON	et
+de	PRP	de
+nos	DET:POS	notre
+facultés	NOM	faculté
+se	PRO:PER	se
+fait	VER:pres	faire
+le	DET:ART	le
+capitaine	NOM	capitaine
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+bonté	NOM	bonté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+la	DET:ART	le
+haine	NOM	haine
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+santé	NOM	santé
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+les	DET:ART	le
+fièvres	NOM	fièvre
+,	PUN	,
+qui	PRO:REL	qui
+,	PUN	,
+le	DET:ART	le
+long	NOM	long
+des	PRP:det	du
+grands	ADJ	grand
+murs	NOM	mur
+de	PRP	de
+l'	DET:ART	le
+hospice	NOM	hospice
+blafard	ADJ	blafard
+,	PUN	,
+comme	ADV	comme
+des	PRP:det	du
+exilés	VER:pper	exiler
+,	PUN	,
+s'	PRO:PER	se
+en	PRO:PER	en
+vont	VER:pres	aller
+d'	PRP	de
+un	DET:ART	un
+pied	NOM	pied
+traînard	ADJ	traînard
+,	PUN	,
+cherchant	VER:ppre	chercher
+le	DET:ART	le
+soleil	NOM	soleil
+rare	ADJ	rare
+et	KON	et
+remuant	VER:ppre	remuer
+les	DET:ART	le
+lèvres	NOM	lèvre
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+santé	NOM	santé
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+les	DET:ART	le
+fièvres	NOM	fièvre
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+beauté	NOM	beauté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+les	DET:ART	le
+rides	NOM	ride
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+peur	NOM	peur
+de	PRP	de
+vieillir	VER:infi	vieillir
+,	PUN	,
+et	KON	et
+ce	PRO:DEM	ce
+hideux	ADJ	hideux
+tourment	NOM	tourment
+de	PRP	de
+lire	VER:infi	lire
+la	DET:ART	le
+secrète	ADJ	secret
+horreur	NOM	horreur
+du	PRP:det	du
+dévoûment	NOM	dévoûment
+dans	PRP	dans
+des	PRP:det	du
+yeux	NOM	œil
+où	PRO:REL	où
+longtemps	ADV	longtemps
+burent	VER:simp	boire
+nos	DET:POS	notre
+yeux	NOM	œil
+avides	ADJ	avide
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+beauté	NOM	beauté
+,	PUN	,
+connaissez	VER:pres	connaître
+vous	PRO:PER	vous
+les	DET:ART	le
+rides	NOM	ride
+?	SENT	?
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+bonheur	NOM	bonheur
+,	PUN	,
+de	PRP	de
+joie	NOM	joie
+et	KON	et
+de	PRP	de
+lumières	NOM	lumière
+,	PUN	,
+david	NOM	david
+mourant	VER:ppre	mourir
+aurait	VER:cond	avoir
+demandé	VER:pper	demander
+la	DET:ART	le
+santé	NOM	santé
+aux	PRP:det	au
+émanations	NOM	émanation
+de	PRP	de
+ton	DET:POS	ton
+corps	NOM	corps
+enchanté	VER:pper	enchanter
+;	PUN	;
+mais	KON	mais
+de	PRP	de
+toi	PRO:PER	toi
+je	PRO:PER	je
+n'	ADV	ne
+implore	VER:pres	implorer
+,	PUN	,
+ange	NOM	ange
+,	PUN	,
+que	KON	que
+tes	DET:POS	ton
+prières	NOM	prière
+,	PUN	,
+ange	NOM	ange
+plein	ADJ	plein
+de	PRP	de
+bonheur	NOM	bonheur
+,	PUN	,
+de	PRP	de
+joie	NOM	joie
+et	KON	et
+de	PRP	de
+lumières	NOM	lumière
+!	SENT	!

@@ -1,251 +1,251 @@
-en	PRP
-ces	PRO:DEM
-temps	NOM
-merveilleux	ADJ
-où	PRO:REL
-la	DET:ART
-théologie	NOM
-fleurit	VER:pres
-avec	PRP
-le	DET:ART
-plus	ADV
-de	PRP
-séve	ADJ
-et	KON
-d'	PRP
-énergie	NOM
-,	PUN
-on	PRO:PER
-raconte	VER:pres
-qu'	KON
-un	DET:ART
-jour	NOM
-un	DET:ART
-docteur	NOM
-des	PRP:det
-plus	ADV
-grands	ADJ
-,	PUN
-après	PRP
-avoir	VER:infi
-forcé	VER:pper
-les	DET:ART
-coeurs	NOM
-indifférents	ADJ
-,	PUN
-les	PRO:PER
-avoir	VER:infi
-remués	VER:pper
-dans	PRP
-leurs	DET:POS
-profondeurs	NOM
-noires	ADJ
-;	PUN
-après	PRP
-avoir	VER:infi
-franchi	VER:pper
-vers	PRP
-les	DET:ART
-célestes	ADJ
-gloires	NOM
-des	PRP:det
-chemins	NOM
-singuliers	ADJ
-à	PRP
-lui	PRO:PER
-même	ADV
-inconnus	ADJ
-,	PUN
-où	PRO:REL
-les	DET:ART
-purs	ADJ
-esprits	NOM
-seuls	ADJ
-peut	VER:pres
-être	NOM
-étaient	VER:impf
-venus	VER:pper
-,	PUN
-comme	KON
-un	DET:ART
-homme	NOM
-monté	VER:pper
-trop	ADV
-haut	ADJ
-,	PUN
-pris	VER:pper
-de	PRP
-panique	NOM
-,	PUN
-s'	PRO:PER
-écria	VER:simp
-,	PUN
-transporté	VER:pper
-d'	PRP
-un	DET:ART
-orgueil	NOM
-satanique	ADJ
-:	PUN
-jésus	NOM
-,	PUN
-petit	ADJ
-jésus	NOM
-!	SENT
-je	PRO:PER
-t'	PRO:PER
-ai	VER:pres
-poussé	VER:pper
-bien	ADV
-haut	ADJ
-!	SENT
-mais	KON
-,	PUN
-si	KON
-j'	PRO:PER
-avais	VER:impf
-voulu	VER:pper
-t'	PRO:PER
-attaquer	VER:infi
-au	PRP:det
-défaut	NOM
-de	PRP
-l'	DET:ART
-armure	NOM
-,	PUN
-ta	DET:POS
-honte	NOM
-égalerait	VER:cond
-ta	DET:POS
-gloire	NOM
-,	PUN
-et	KON
-tu	PRO:PER
-ne	ADV
-serais	VER:cond
-plus	ADV
-qu'	KON
-un	DET:ART
-foetus	NOM
-dérisoire	ADJ
-!	SENT
-immédiatement	ADV
-sa	DET:POS
-raison	NOM
-s'	PRO:PER
-en	PRO:PER
-alla	VER:simp
-.	SENT
-l'	DET:ART
-éclat	NOM
-de	PRP
-ce	PRO:DEM
-soleil	NOM
-d'	PRP
-un	DET:ART
-crêpe	NOM
-se	PRO:PER
-voila	VER:simp
-;	PUN
-tout	PRO:IND
-le	DET:ART
-chaos	NOM
-roula	VER:simp
-dans	PRP
-cette	PRO:DEM
-intelligence	NOM
-,	PUN
-temple	NOM
-autrefois	ADV
-vivant	ADJ
-,	PUN
-plein	ADJ
-d'	PRP
-ordre	NOM
-et	KON
-d'	PRP
-opulence	NOM
-,	PUN
-sous	PRP
-les	DET:ART
-plafonds	NOM
-duquel	PRO:REL
-tant	ADV
-de	PRP
-pompe	NOM
-avait	VER:impf
-lui	PRO:PER
-.	SENT
-le	DET:ART
-silence	NOM
-et	KON
-la	DET:ART
-nuit	NOM
-s'	PRO:PER
-installèrent	VER:simp
-en	PRP
-lui	PRO:PER
-,	PUN
-comme	ADV
-dans	PRP
-un	DET:ART
-caveau	NOM
-dont	PRO:REL
-la	DET:ART
-clef	NOM
-est	VER:pres
-perdue	VER:pper
-.	SENT
-dès	PRP
-lors	ADV
-il	PRO:PER
-fut	VER:simp
-semblable	ADJ
-aux	PRP:det
-bêtes	NOM
-de	PRP
-la	DET:ART
-rue	NOM
-,	PUN
-et	KON
-,	PUN
-quand	KON
-il	PRO:PER
-s'	PRO:PER
-en	PRO:PER
-allait	VER:impf
-sans	PRP
-rien	ADV
-voir	VER:infi
-,	PUN
-à	PRP
-travers	NOM
-les	DET:ART
-champs	NOM
-,	PUN
-sans	PRP
-distinguer	VER:infi
-les	DET:ART
-étés	NOM
-des	PRP:det
-hivers	NOM
-,	PUN
-sale	ADJ
-,	PUN
-inutile	ADJ
-et	KON
-laid	ADJ
-comme	KON
-une	DET:ART
-chose	NOM
-usée	ADJ
-,	PUN
-il	PRO:PER
-faisait	VER:impf
-des	PRP:det
-enfants	NOM
-la	DET:ART
-joie	NOM
-et	KON
-la	DET:ART
-risée	NOM
-.	SENT
+en	PRP	en
+ces	PRO:DEM	ce
+temps	NOM	temps
+merveilleux	ADJ	merveilleux
+où	PRO:REL	où
+la	DET:ART	le
+théologie	NOM	théologie
+fleurit	VER:pres	fleurir
+avec	PRP	avec
+le	DET:ART	le
+plus	ADV	plus
+de	PRP	de
+séve	ADJ	séve
+et	KON	et
+d'	PRP	de
+énergie	NOM	énergie
+,	PUN	,
+on	PRO:PER	on
+raconte	VER:pres	raconter
+qu'	KON	que
+un	DET:ART	un
+jour	NOM	jour
+un	DET:ART	un
+docteur	NOM	docteur
+des	PRP:det	du
+plus	ADV	plus
+grands	ADJ	grand
+,	PUN	,
+après	PRP	après
+avoir	VER:infi	avoir
+forcé	VER:pper	forcer
+les	DET:ART	le
+coeurs	NOM	cœur
+indifférents	ADJ	indifférent
+,	PUN	,
+les	PRO:PER	la|le
+avoir	VER:infi	avoir
+remués	VER:pper	remuer
+dans	PRP	dans
+leurs	DET:POS	leur
+profondeurs	NOM	profondeur
+noires	ADJ	noir
+;	PUN	;
+après	PRP	après
+avoir	VER:infi	avoir
+franchi	VER:pper	franchir
+vers	PRP	vers
+les	DET:ART	le
+célestes	ADJ	céleste
+gloires	NOM	gloire
+des	PRP:det	du
+chemins	NOM	chemin
+singuliers	ADJ	singulier
+à	PRP	à
+lui	PRO:PER	lui
+même	ADV	même
+inconnus	ADJ	inconnu
+,	PUN	,
+où	PRO:REL	où
+les	DET:ART	le
+purs	ADJ	pur
+esprits	NOM	esprit
+seuls	ADJ	seul
+peut	VER:pres	pouvoir
+être	NOM	être
+étaient	VER:impf	être
+venus	VER:pper	venir
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+homme	NOM	homme
+monté	VER:pper	monter
+trop	ADV	trop
+haut	ADJ	haut
+,	PUN	,
+pris	VER:pper	prendre
+de	PRP	de
+panique	NOM	panique
+,	PUN	,
+s'	PRO:PER	se
+écria	VER:simp	écrier
+,	PUN	,
+transporté	VER:pper	transporter
+d'	PRP	de
+un	DET:ART	un
+orgueil	NOM	orgueil
+satanique	ADJ	satanique
+:	PUN	:
+jésus	NOM	jésus
+,	PUN	,
+petit	ADJ	petit
+jésus	NOM	jésus
+!	SENT	!
+je	PRO:PER	je
+t'	PRO:PER	te
+ai	VER:pres	avoir
+poussé	VER:pper	pousser
+bien	ADV	bien
+haut	ADJ	haut
+!	SENT	!
+mais	KON	mais
+,	PUN	,
+si	KON	si
+j'	PRO:PER	je
+avais	VER:impf	avoir
+voulu	VER:pper	vouloir
+t'	PRO:PER	te
+attaquer	VER:infi	attaquer
+au	PRP:det	au
+défaut	NOM	défaut
+de	PRP	de
+l'	DET:ART	le
+armure	NOM	armure
+,	PUN	,
+ta	DET:POS	ton
+honte	NOM	honte
+égalerait	VER:cond	égaler
+ta	DET:POS	ton
+gloire	NOM	gloire
+,	PUN	,
+et	KON	et
+tu	PRO:PER	tu
+ne	ADV	ne
+serais	VER:cond	être
+plus	ADV	plus
+qu'	KON	que
+un	DET:ART	un
+foetus	NOM	fœtus
+dérisoire	ADJ	dérisoire
+!	SENT	!
+immédiatement	ADV	immédiatement
+sa	DET:POS	son
+raison	NOM	raison
+s'	PRO:PER	se
+en	PRO:PER	en
+alla	VER:simp	aller
+.	SENT	.
+l'	DET:ART	le
+éclat	NOM	éclat
+de	PRP	de
+ce	PRO:DEM	ce
+soleil	NOM	soleil
+d'	PRP	de
+un	DET:ART	un
+crêpe	NOM	crêpe
+se	PRO:PER	se
+voila	VER:simp	voiler
+;	PUN	;
+tout	PRO:IND	tout
+le	DET:ART	le
+chaos	NOM	chaos
+roula	VER:simp	rouler
+dans	PRP	dans
+cette	PRO:DEM	ce
+intelligence	NOM	intelligence
+,	PUN	,
+temple	NOM	temple
+autrefois	ADV	autrefois
+vivant	ADJ	vivant
+,	PUN	,
+plein	ADJ	plein
+d'	PRP	de
+ordre	NOM	ordre
+et	KON	et
+d'	PRP	de
+opulence	NOM	opulence
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+plafonds	NOM	plafond
+duquel	PRO:REL	duquel
+tant	ADV	tant
+de	PRP	de
+pompe	NOM	pompe
+avait	VER:impf	avoir
+lui	PRO:PER	lui
+.	SENT	.
+le	DET:ART	le
+silence	NOM	silence
+et	KON	et
+la	DET:ART	le
+nuit	NOM	nuit
+s'	PRO:PER	se
+installèrent	VER:simp	installer
+en	PRP	en
+lui	PRO:PER	lui
+,	PUN	,
+comme	ADV	comme
+dans	PRP	dans
+un	DET:ART	un
+caveau	NOM	caveau
+dont	PRO:REL	dont
+la	DET:ART	le
+clef	NOM	clef
+est	VER:pres	être
+perdue	VER:pper	perdre
+.	SENT	.
+dès	PRP	dès
+lors	ADV	lors
+il	PRO:PER	il
+fut	VER:simp	être
+semblable	ADJ	semblable
+aux	PRP:det	au
+bêtes	NOM	bête
+de	PRP	de
+la	DET:ART	le
+rue	NOM	rue
+,	PUN	,
+et	KON	et
+,	PUN	,
+quand	KON	quand
+il	PRO:PER	il
+s'	PRO:PER	se
+en	PRO:PER	en
+allait	VER:impf	aller
+sans	PRP	sans
+rien	ADV	rien
+voir	VER:infi	voir
+,	PUN	,
+à	PRP	à
+travers	NOM	travers
+les	DET:ART	le
+champs	NOM	champ
+,	PUN	,
+sans	PRP	sans
+distinguer	VER:infi	distinguer
+les	DET:ART	le
+étés	NOM	été
+des	PRP:det	du
+hivers	NOM	hiver
+,	PUN	,
+sale	ADJ	sale
+,	PUN	,
+inutile	ADJ	inutile
+et	KON	et
+laid	ADJ	laid
+comme	KON	comme
+une	DET:ART	un
+chose	NOM	chose
+usée	ADJ	usé
+,	PUN	,
+il	PRO:PER	il
+faisait	VER:impf	faire
+des	PRP:det	du
+enfants	NOM	enfant
+la	DET:ART	le
+joie	NOM	joie
+et	KON	et
+la	DET:ART	le
+risée	NOM	risée
+.	SENT	.

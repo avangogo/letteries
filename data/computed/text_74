@@ -1,189 +1,189 @@
-il	PRO:PER
-est	VER:pres
-des	PRP:det
-jours	NOM
-abjects	ADJ
-où	PRO:REL
-,	PUN
-séduits	VER:pper
-par	PRP
-la	DET:ART
-joie	NOM
-sans	PRP
-honneur	NOM
-,	PUN
-les	DET:ART
-peuples	NOM
-au	PRP:det
-succès	NOM
-se	PRO:PER
-livrent	VER:pres
-,	PUN
-triste	ADJ
-proie	NOM
-du	PRP:det
-bonheur	NOM
-.	SENT
-alors	ADV
-des	PRP:det
-nations	NOM
-,	PUN
-que	PRO:REL
-berce	VER:pres
-un	DET:ART
-fatal	ADJ
-songe	NOM
-dans	PRP
-leur	DET:POS
-lit	NOM
-,	PUN
-la	DET:ART
-vertu	NOM
-coule	VER:pres
-et	KON
-tombe	VER:pres
-,	PUN
-ainsi	KON
-que	KON
-d'	PRP
-une	DET:ART
-éponge	NOM
-l'	DET:ART
-eau	NOM
-jaillit	VER:pres
-.	SENT
-alors	ADV
-,	PUN
-devant	PRP
-le	DET:ART
-mal	NOM
-,	PUN
-le	DET:ART
-vice	NOM
-,	PUN
-la	DET:ART
-folle	NOM
-,	PUN
-les	DET:ART
-vivants	NOM
-imitent	VER:pres
-les	DET:ART
-saluts	NOM
-du	PRP:det
-vil	ADJ
-roseau	NOM
-qui	PRO:REL
-plie	VER:pres
-sous	PRP
-les	DET:ART
-vents	NOM
-.	SENT
-alors	ADV
-festins	NOM
-et	KON
-jeux	NOM
-;	PUN
-rien	NOM
-de	PRP
-ce	PRO:DEM
-que	PRO:REL
-dit	VER:pres
-l'	DET:ART
-âme	NOM
-ne	ADV
-s'	PRO:PER
-entend	VER:pres
-;	PUN
-on	PRO:PER
-boit	VER:pres
-,	PUN
-on	PRO:PER
-mange	VER:pres
-,	PUN
-on	PRO:PER
-chante	VER:pres
-,	PUN
-on	PRO:PER
-danse	VER:pres
-,	PUN
-on	PRO:PER
-est	VER:pres
-infâme	ADJ
-et	KON
-content	ADJ
-.	SENT
-le	DET:ART
-crime	NOM
-heureux	ADJ
-,	PUN
-servi	VER:pper
-par	PRP
-d'	PRP
-immondes	ADJ
-ministres	NOM
-,	PUN
-sous	PRP
-les	DET:ART
-cieux	NOM
-rit	VER:pres
-,	PUN
-et	KON
-vous	PRO:PER
-frissonnez	VER:pres
-,	PUN
-grands	ADJ
-ossements	NOM
-sinistres	ADJ
-des	PRP:det
-aïeux	NOM
-.	SENT
-on	PRO:PER
-vit	VER:pres
-honteux	ADJ
-,	PUN
-les	DET:ART
-yeux	NOM
-troubles	ADJ
-,	PUN
-le	DET:ART
-pas	ADV
-oblique	ADJ
-,	PUN
-hébété	VER:pper
-tout	ADV
-à	PRP
-coup	NOM
-un	DET:ART
-clairon	NOM
-jette	VER:pres
-aux	PRP:det
-vents	NOM
-:	PUN
-république	NOM
-!	SENT
-liberté	NOM
-!	SENT
-et	KON
-le	DET:ART
-monde	NOM
-,	PUN
-éveillé	VER:pper
-par	PRP
-cette	PRO:DEM
-âpre	ADJ
-fanfare	NOM
-,	PUN
-est	VER:pres
-pareil	ADV
-aux	PRP:det
-ivrognes	ADJ
-de	PRP
-nuit	NOM
-qu'	KON
-en	PRP
-se	PRO:PER
-levant	VER:ppre
-effare	VER:pres
-le	DET:ART
-soleil	NOM
-.	SENT
+il	PRO:PER	il
+est	VER:pres	être
+des	PRP:det	du
+jours	NOM	jour
+abjects	ADJ	abject
+où	PRO:REL	où
+,	PUN	,
+séduits	VER:pper	séduire
+par	PRP	par
+la	DET:ART	le
+joie	NOM	joie
+sans	PRP	sans
+honneur	NOM	honneur
+,	PUN	,
+les	DET:ART	le
+peuples	NOM	peuple
+au	PRP:det	au
+succès	NOM	succès
+se	PRO:PER	se
+livrent	VER:pres	livrer
+,	PUN	,
+triste	ADJ	triste
+proie	NOM	proie
+du	PRP:det	du
+bonheur	NOM	bonheur
+.	SENT	.
+alors	ADV	alors
+des	PRP:det	du
+nations	NOM	nation
+,	PUN	,
+que	PRO:REL	que
+berce	VER:pres	bercer
+un	DET:ART	un
+fatal	ADJ	fatal
+songe	NOM	songe
+dans	PRP	dans
+leur	DET:POS	leur
+lit	NOM	lit
+,	PUN	,
+la	DET:ART	le
+vertu	NOM	vertu
+coule	VER:pres	couler
+et	KON	et
+tombe	VER:pres	tomber
+,	PUN	,
+ainsi	KON	ainsi
+que	KON	que
+d'	PRP	de
+une	DET:ART	un
+éponge	NOM	éponge
+l'	DET:ART	le
+eau	NOM	eau
+jaillit	VER:pres	jaillir
+.	SENT	.
+alors	ADV	alors
+,	PUN	,
+devant	PRP	devant
+le	DET:ART	le
+mal	NOM	mal
+,	PUN	,
+le	DET:ART	le
+vice	NOM	vice
+,	PUN	,
+la	DET:ART	le
+folle	NOM	folle|fou
+,	PUN	,
+les	DET:ART	le
+vivants	NOM	vivant
+imitent	VER:pres	imiter
+les	DET:ART	le
+saluts	NOM	salut
+du	PRP:det	du
+vil	ADJ	vil
+roseau	NOM	roseau
+qui	PRO:REL	qui
+plie	VER:pres	plier
+sous	PRP	sous
+les	DET:ART	le
+vents	NOM	vent
+.	SENT	.
+alors	ADV	alors
+festins	NOM	festin
+et	KON	et
+jeux	NOM	jeu
+;	PUN	;
+rien	NOM	rien
+de	PRP	de
+ce	PRO:DEM	ce
+que	PRO:REL	que
+dit	VER:pres	dire
+l'	DET:ART	le
+âme	NOM	âme
+ne	ADV	ne
+s'	PRO:PER	se
+entend	VER:pres	entendre
+;	PUN	;
+on	PRO:PER	on
+boit	VER:pres	boire
+,	PUN	,
+on	PRO:PER	on
+mange	VER:pres	manger
+,	PUN	,
+on	PRO:PER	on
+chante	VER:pres	chanter
+,	PUN	,
+on	PRO:PER	on
+danse	VER:pres	danser
+,	PUN	,
+on	PRO:PER	on
+est	VER:pres	être
+infâme	ADJ	infâme
+et	KON	et
+content	ADJ	content
+.	SENT	.
+le	DET:ART	le
+crime	NOM	crime
+heureux	ADJ	heureux
+,	PUN	,
+servi	VER:pper	servir
+par	PRP	par
+d'	PRP	de
+immondes	ADJ	immonde
+ministres	NOM	ministre
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+cieux	NOM	cieux
+rit	VER:pres	rire
+,	PUN	,
+et	KON	et
+vous	PRO:PER	vous
+frissonnez	VER:pres	frissonner
+,	PUN	,
+grands	ADJ	grand
+ossements	NOM	ossement
+sinistres	ADJ	sinistre
+des	PRP:det	du
+aïeux	NOM	aïeux
+.	SENT	.
+on	PRO:PER	on
+vit	VER:pres	vivre
+honteux	ADJ	honteux
+,	PUN	,
+les	DET:ART	le
+yeux	NOM	œil
+troubles	ADJ	trouble
+,	PUN	,
+le	DET:ART	le
+pas	ADV	pas
+oblique	ADJ	oblique
+,	PUN	,
+hébété	VER:pper	hébéter
+tout	ADV	tout
+à	PRP	à
+coup	NOM	coup
+un	DET:ART	un
+clairon	NOM	clairon
+jette	VER:pres	jeter
+aux	PRP:det	au
+vents	NOM	vent
+:	PUN	:
+république	NOM	république
+!	SENT	!
+liberté	NOM	liberté
+!	SENT	!
+et	KON	et
+le	DET:ART	le
+monde	NOM	monde
+,	PUN	,
+éveillé	VER:pper	éveiller
+par	PRP	par
+cette	PRO:DEM	ce
+âpre	ADJ	âpre
+fanfare	NOM	fanfare
+,	PUN	,
+est	VER:pres	être
+pareil	ADV	pareil
+aux	PRP:det	au
+ivrognes	ADJ	ivrogne
+de	PRP	de
+nuit	NOM	nuit
+qu'	KON	que
+en	PRP	en
+se	PRO:PER	se
+levant	VER:ppre	lever
+effare	VER:pres	effarer
+le	DET:ART	le
+soleil	NOM	soleil
+.	SENT	.

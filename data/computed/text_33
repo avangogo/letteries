@@ -1,151 +1,151 @@
-air	NOM
-breton	ADJ
-adieu	NOM
-,	PUN
-patrie	NOM
-!	SENT
-l'	DET:ART
-onde	NOM
-est	VER:pres
-en	PRP
-furie	NOM
-.	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-azur	NOM
-!	SENT
-adieu	INT
-,	PUN
-maison	NOM
-,	PUN
-treille	NOM
-au	PRP:det
-fruit	NOM
-mûr	ADJ
-,	PUN
-adieu	NOM
-,	PUN
-les	DET:ART
-fleurs	NOM
-d'	PRP
-or	NOM
-du	PRP:det
-vieux	ADJ
-mur	NOM
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-ciel	NOM
-,	PUN
-forêt	NOM
-,	PUN
-prairie	NOM
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-,	PUN
-azur	NOM
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-l'	DET:ART
-onde	NOM
-est	VER:pres
-en	PRP
-furie	NOM
-.	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-,	PUN
-azur	NOM
-!	SENT
-adieu	INT
-,	PUN
-fiancée	VER:pper
-au	PRP:det
-front	NOM
-pur	ADJ
-,	PUN
-le	DET:ART
-ciel	NOM
-est	VER:pres
-noir	ADJ
-,	PUN
-le	DET:ART
-vent	NOM
-est	VER:pres
-dur	ADJ
-.	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-lise	NOM
-,	PUN
-anna	ADJ
-,	PUN
-marie	VER:pres
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-,	PUN
-azur	NOM
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-l'	DET:ART
-onde	NOM
-est	VER:pres
-cri	NOM
-furie	NOM
-.	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-,	PUN
-azur	NOM
-!	SENT
-notre	DET:POS
-oeil	NOM
-,	PUN
-que	PRO:REL
-voile	VER:pres
-un	DET:ART
-deuil	NOM
-futur	ADJ
-,	PUN
-va	VER:pres
-du	PRP:det
-flot	NOM
-sombre	ADJ
-au	PRP:det
-sort	NOM
-obscur	ADJ
-!	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-!	SENT
-pour	KON
-toi	PRO:PER
-mon	DET:POS
-coeur	NOM
-prie	VER:pres
-.	SENT
-adieu	INT
-,	PUN
-patrie	NOM
-,	PUN
-azur	NOM
-!	SENT
+air	NOM	air
+breton	ADJ	breton
+adieu	NOM	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+l'	DET:ART	le
+onde	NOM	onde
+est	VER:pres	être
+en	PRP	en
+furie	NOM	furie
+.	SENT	.
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+azur	NOM	azur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+maison	NOM	maison
+,	PUN	,
+treille	NOM	treille
+au	PRP:det	au
+fruit	NOM	fruit
+mûr	ADJ	mûr
+,	PUN	,
+adieu	NOM	adieu
+,	PUN	,
+les	DET:ART	le
+fleurs	NOM	fleur
+d'	PRP	de
+or	NOM	or
+du	PRP:det	du
+vieux	ADJ	vieux
+mur	NOM	mur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+ciel	NOM	ciel
+,	PUN	,
+forêt	NOM	forêt
+,	PUN	,
+prairie	NOM	prairie
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+,	PUN	,
+azur	NOM	azur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+l'	DET:ART	le
+onde	NOM	onde
+est	VER:pres	être
+en	PRP	en
+furie	NOM	furie
+.	SENT	.
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+,	PUN	,
+azur	NOM	azur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+fiancée	VER:pper	fiancer
+au	PRP:det	au
+front	NOM	front
+pur	ADJ	pur
+,	PUN	,
+le	DET:ART	le
+ciel	NOM	ciel
+est	VER:pres	être
+noir	ADJ	noir
+,	PUN	,
+le	DET:ART	le
+vent	NOM	vent
+est	VER:pres	être
+dur	ADJ	dur
+.	SENT	.
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+lise	NOM	lise
+,	PUN	,
+anna	ADJ	anna
+,	PUN	,
+marie	VER:pres	marier
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+,	PUN	,
+azur	NOM	azur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+l'	DET:ART	le
+onde	NOM	onde
+est	VER:pres	être
+cri	NOM	cri
+furie	NOM	furie
+.	SENT	.
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+,	PUN	,
+azur	NOM	azur
+!	SENT	!
+notre	DET:POS	notre
+oeil	NOM	œil
+,	PUN	,
+que	PRO:REL	que
+voile	VER:pres	voiler
+un	DET:ART	un
+deuil	NOM	deuil
+futur	ADJ	futur
+,	PUN	,
+va	VER:pres	aller
+du	PRP:det	du
+flot	NOM	flot
+sombre	ADJ	sombre
+au	PRP:det	au
+sort	NOM	sort
+obscur	ADJ	obscur
+!	SENT	!
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+!	SENT	!
+pour	KON	pour
+toi	PRO:PER	toi
+mon	DET:POS	mon
+coeur	NOM	cœur
+prie	VER:pres	prier
+.	SENT	.
+adieu	INT	adieu
+,	PUN	,
+patrie	NOM	patrie
+,	PUN	,
+azur	NOM	azur
+!	SENT	!

@@ -1,361 +1,361 @@
-ces	PRO:DEM
-femmes	NOM
-,	PUN
-qu'	PRO:REL
-on	PRO:PER
-envoie	VER:pres
-aux	PRP:det
-lointaines	ADJ
-bastilles	NOM
-,	PUN
-peuple	NOM
-,	PUN
-ce	PRO:DEM
-sont	VER:pres
-tes	DET:POS
-soeurs	NOM
-,	PUN
-tes	DET:POS
-mères	NOM
-et	KON
-tes	DET:POS
-filles	NOM
-!	SENT
-ô	INT
-peuple	NOM
-,	PUN
-leur	DET:POS
-forfait	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-de	PRP
-t'	PRO:PER
-avoir	VER:infi
-aimé	VER:pper
-!	SENT
-paris	NOM
-sanglant	ADJ
-,	PUN
-courbé	VER:pper
-,	PUN
-sinistre	ADJ
-,	PUN
-inanimé	ADJ
-,	PUN
-voit	VER:pres
-ces	PRO:DEM
-horreurs	NOM
-et	KON
-garde	VER:pres
-un	DET:ART
-silence	NOM
-farouche	ADJ
-.	SENT
-celle	PRO:DEM
-ci	ADV
-,	PUN
-qu'	PRO:REL
-on	PRO:PER
-amène	VER:pres
-un	DET:ART
-bâillon	NOM
-dans	PRP
-la	DET:ART
-bouche	NOM
-,	PUN
-cria	VER:simp
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-son	DET:POS
-crime	NOM
-:	PUN
-à	PRP
-bas	ADV
-la	DET:ART
-trahison	NOM
-!	SENT
-ces	PRO:DEM
-femmes	NOM
-sont	VER:pres
-la	DET:ART
-foi	NOM
-,	PUN
-la	DET:ART
-vertu	NOM
-,	PUN
-la	DET:ART
-raison	NOM
-,	PUN
-l'	DET:ART
-équité	NOM
-,	PUN
-la	DET:ART
-pudeur	NOM
-,	PUN
-la	DET:ART
-fierté	NOM
-,	PUN
-la	DET:ART
-justice	NOM
-.	SENT
-saint	ADJ
-lazare	NOM
-il	PRO:PER
-faudra	VER:futu
-broyer	VER:infi
-cette	PRO:DEM
-bâtisse	NOM
-!	SENT
-il	PRO:PER
-n'	ADV
-en	PRO:PER
-restera	VER:futu
-pas	ADV
-pierre	NOM
-sur	PRP
-pierre	NOM
-un	DET:ART
-jour	NOM
-!	SENT
-les	PRO:PER
-reçoit	VER:pres
-,	PUN
-les	PRO:PER
-dévore	VER:pres
-,	PUN
-et	KON
-,	PUN
-quand	KON
-revient	VER:pres
-leur	DET:POS
-tour	NOM
-,	PUN
-s'	PRO:PER
-ouvre	VER:pres
-,	PUN
-et	KON
-les	PRO:PER
-revomit	VER:pres
-par	PRP
-son	DET:POS
-horrible	ADJ
-porte	NOM
-,	PUN
-et	KON
-les	PRO:PER
-jette	VER:pres
-au	PRP:det
-fourgon	NOM
-hideux	ADJ
-qui	PRO:REL
-les	PRO:PER
-emporte	VER:pres
-.	SENT
-où	PRO:REL
-vont	VER:pres
-elles	PRO:PER
-?	SENT
-l'	DET:ART
-oubli	NOM
-le	PRO:PER
-sait	VER:pres
-,	PUN
-et	KON
-le	DET:ART
-tombeau	NOM
-le	PRO:PER
-raconte	VER:pres
-au	PRP:det
-cyprès	NOM
-et	KON
-le	PRO:PER
-dit	VER:pres
-au	PRP:det
-corbeau	NOM
-.	SENT
-une	NUM
-d'	PRP
-elles	PRO:PER
-était	VER:impf
-une	DET:ART
-mère	NOM
-sacrée	ADJ
-.	SENT
-le	DET:ART
-jour	NOM
-qu'	PRO:REL
-on	PRO:PER
-l'	PRO:PER
-entraîna	VER:simp
-vers	PRP
-l'	DET:ART
-afrique	NOM
-abhorrée	VER:pper
-,	PUN
-ses	DET:POS
-enfants	NOM
-étaient	VER:impf
-là	ADV
-qui	PRO:REL
-voulaient	VER:impf
-l'	PRO:PER
-embrasser	VER:infi
-;	PUN
-on	PRO:PER
-les	PRO:PER
-chassa	VER:simp
-.	SENT
-la	DET:ART
-mère	NOM
-en	PRP
-deuil	NOM
-les	PRO:PER
-vit	VER:pres
-chasser	VER:infi
-et	KON
-dit	VER:pper
-:	PUN
-partons	VER:pres
-!	SENT
-le	DET:ART
-peuple	NOM
-en	PRP
-larmes	NOM
-criait	VER:impf
-grâce	NOM
-.	SENT
-la	DET:ART
-porte	NOM
-du	PRP:det
-fourgon	NOM
-étant	VER:ppre
-étroite	ADJ
-et	KON
-basse	ADJ
-,	PUN
-un	DET:ART
-argousin	NOM
-joyeux	ADJ
-,	PUN
-raillant	VER:ppre
-son	DET:POS
-embonpoint	NOM
-,	PUN
-la	PRO:PER
-fit	VER:simp
-entrer	VER:infi
-de	PRP
-force	NOM
-en	PRP
-la	DET:ART
-poussant	VER:ppre
-du	PRP:det
-poing	NOM
-.	SENT
-elles	PRO:PER
-s'	PRO:PER
-en	PRO:PER
-vont	VER:pres
-ainsi	ADV
-,	PUN
-malades	ADJ
-,	PUN
-verrouillées	VER:pper
-,	PUN
-dans	PRP
-le	DET:ART
-noir	ADJ
-chariot	NOM
-aux	PRP:det
-cellules	NOM
-souillées	VER:pper
-où	PRO:REL
-le	DET:ART
-captif	NOM
-,	PUN
-sans	PRP
-air	NOM
-,	PUN
-sans	PRP
-jour	NOM
-,	PUN
-sans	PRP
-pleurs	NOM
-dans	PRP
-l'	DET:ART
-oeil	NOM
-,	PUN
-n'	ADV
-est	VER:pres
-plus	ADV
-qu'	KON
-un	DET:ART
-mort	NOM
-vivant	VER:ppre
-assis	VER:pper
-dans	PRP
-son	DET:POS
-cercueil	NOM
-.	SENT
-dans	PRP
-la	DET:ART
-route	NOM
-on	PRO:PER
-entend	VER:pres
-leurs	DET:POS
-voix	NOM
-désespérées	ADJ
-.	SENT
-le	DET:ART
-peuple	NOM
-hébété	ADJ
-voit	VER:pres
-passer	VER:infi
-ces	PRO:DEM
-torturées	VER:pper
-.	SENT
-à	PRP
-toulon	NOM
-,	PUN
-le	DET:ART
-fourgon	NOM
-les	PRO:PER
-quitte	VER:pres
-,	PUN
-le	DET:ART
-ponton	NOM
-les	PRO:PER
-prend	VER:pres
-;	PUN
-sans	PRP
-vêtements	NOM
-,	PUN
-sans	PRP
-pain	NOM
-,	PUN
-sous	PRP
-le	DET:ART
-bâton	NOM
-,	PUN
-elles	PRO:PER
-passent	VER:pres
-la	DET:ART
-mer	NOM
-,	PUN
-veuves	ADJ
-,	PUN
-seules	ADJ
-au	PRP:det
-monde	NOM
-,	PUN
-mangeant	VER:ppre
-avec	PRP
-les	DET:ART
-doigts	NOM
-dans	PRP
-la	DET:ART
-gamelle	NOM
-immonde	ADJ
-.	SENT
+ces	PRO:DEM	ce
+femmes	NOM	femme
+,	PUN	,
+qu'	PRO:REL	que
+on	PRO:PER	on
+envoie	VER:pres	envoyer
+aux	PRP:det	au
+lointaines	ADJ	lointain
+bastilles	NOM	bastille
+,	PUN	,
+peuple	NOM	peuple
+,	PUN	,
+ce	PRO:DEM	ce
+sont	VER:pres	être
+tes	DET:POS	ton
+soeurs	NOM	sœur
+,	PUN	,
+tes	DET:POS	ton
+mères	NOM	mère
+et	KON	et
+tes	DET:POS	ton
+filles	NOM	fille
+!	SENT	!
+ô	INT	ô
+peuple	NOM	peuple
+,	PUN	,
+leur	DET:POS	leur
+forfait	NOM	forfait
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+de	PRP	de
+t'	PRO:PER	te
+avoir	VER:infi	avoir
+aimé	VER:pper	aimer
+!	SENT	!
+paris	NOM	pari
+sanglant	ADJ	sanglant
+,	PUN	,
+courbé	VER:pper	courber
+,	PUN	,
+sinistre	ADJ	sinistre
+,	PUN	,
+inanimé	ADJ	inanimé
+,	PUN	,
+voit	VER:pres	voir
+ces	PRO:DEM	ce
+horreurs	NOM	horreur
+et	KON	et
+garde	VER:pres	garder
+un	DET:ART	un
+silence	NOM	silence
+farouche	ADJ	farouche
+.	SENT	.
+celle	PRO:DEM	celui
+ci	ADV	ci
+,	PUN	,
+qu'	PRO:REL	que
+on	PRO:PER	on
+amène	VER:pres	amener
+un	DET:ART	un
+bâillon	NOM	bâillon
+dans	PRP	dans
+la	DET:ART	le
+bouche	NOM	bouche
+,	PUN	,
+cria	VER:simp	crier
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+son	DET:POS	son
+crime	NOM	crime
+:	PUN	:
+à	PRP	à
+bas	ADV	bas
+la	DET:ART	le
+trahison	NOM	trahison
+!	SENT	!
+ces	PRO:DEM	ce
+femmes	NOM	femme
+sont	VER:pres	être
+la	DET:ART	le
+foi	NOM	foi
+,	PUN	,
+la	DET:ART	le
+vertu	NOM	vertu
+,	PUN	,
+la	DET:ART	le
+raison	NOM	raison
+,	PUN	,
+l'	DET:ART	le
+équité	NOM	équité
+,	PUN	,
+la	DET:ART	le
+pudeur	NOM	pudeur
+,	PUN	,
+la	DET:ART	le
+fierté	NOM	fierté
+,	PUN	,
+la	DET:ART	le
+justice	NOM	justice
+.	SENT	.
+saint	ADJ	saint
+lazare	NOM	lazare
+il	PRO:PER	il
+faudra	VER:futu	falloir
+broyer	VER:infi	broyer
+cette	PRO:DEM	ce
+bâtisse	NOM	bâtisse
+!	SENT	!
+il	PRO:PER	il
+n'	ADV	ne
+en	PRO:PER	en
+restera	VER:futu	rester
+pas	ADV	pas
+pierre	NOM	pierre
+sur	PRP	sur
+pierre	NOM	pierre
+un	DET:ART	un
+jour	NOM	jour
+!	SENT	!
+les	PRO:PER	la|le
+reçoit	VER:pres	recevoir
+,	PUN	,
+les	PRO:PER	la|le
+dévore	VER:pres	dévorer
+,	PUN	,
+et	KON	et
+,	PUN	,
+quand	KON	quand
+revient	VER:pres	revenir
+leur	DET:POS	leur
+tour	NOM	tour
+,	PUN	,
+s'	PRO:PER	se
+ouvre	VER:pres	ouvrer|ouvrir
+,	PUN	,
+et	KON	et
+les	PRO:PER	la|le
+revomit	VER:pres	revomir
+par	PRP	par
+son	DET:POS	son
+horrible	ADJ	horrible
+porte	NOM	porte
+,	PUN	,
+et	KON	et
+les	PRO:PER	la|le
+jette	VER:pres	jeter
+au	PRP:det	au
+fourgon	NOM	fourgon
+hideux	ADJ	hideux
+qui	PRO:REL	qui
+les	PRO:PER	la|le
+emporte	VER:pres	emporter
+.	SENT	.
+où	PRO:REL	où
+vont	VER:pres	aller
+elles	PRO:PER	elle
+?	SENT	?
+l'	DET:ART	le
+oubli	NOM	oubli
+le	PRO:PER	le
+sait	VER:pres	savoir
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+tombeau	NOM	tombeau
+le	PRO:PER	le
+raconte	VER:pres	raconter
+au	PRP:det	au
+cyprès	NOM	cyprès
+et	KON	et
+le	PRO:PER	le
+dit	VER:pres	dire
+au	PRP:det	au
+corbeau	NOM	corbeau
+.	SENT	.
+une	NUM	un
+d'	PRP	de
+elles	PRO:PER	elle
+était	VER:impf	être
+une	DET:ART	un
+mère	NOM	mère
+sacrée	ADJ	sacré
+.	SENT	.
+le	DET:ART	le
+jour	NOM	jour
+qu'	PRO:REL	que
+on	PRO:PER	on
+l'	PRO:PER	la|le
+entraîna	VER:simp	entraîner
+vers	PRP	vers
+l'	DET:ART	le
+afrique	NOM	afrique
+abhorrée	VER:pper	abhorrer
+,	PUN	,
+ses	DET:POS	son
+enfants	NOM	enfant
+étaient	VER:impf	être
+là	ADV	là
+qui	PRO:REL	qui
+voulaient	VER:impf	vouloir
+l'	PRO:PER	la|le
+embrasser	VER:infi	embrasser
+;	PUN	;
+on	PRO:PER	on
+les	PRO:PER	la|le
+chassa	VER:simp	chasser
+.	SENT	.
+la	DET:ART	le
+mère	NOM	mère
+en	PRP	en
+deuil	NOM	deuil
+les	PRO:PER	la|le
+vit	VER:pres	vivre
+chasser	VER:infi	chasser
+et	KON	et
+dit	VER:pper	dire
+:	PUN	:
+partons	VER:pres	partir
+!	SENT	!
+le	DET:ART	le
+peuple	NOM	peuple
+en	PRP	en
+larmes	NOM	larme
+criait	VER:impf	crier
+grâce	NOM	grâce
+.	SENT	.
+la	DET:ART	le
+porte	NOM	porte
+du	PRP:det	du
+fourgon	NOM	fourgon
+étant	VER:ppre	être
+étroite	ADJ	étroit
+et	KON	et
+basse	ADJ	bas
+,	PUN	,
+un	DET:ART	un
+argousin	NOM	argousin
+joyeux	ADJ	joyeux
+,	PUN	,
+raillant	VER:ppre	railler
+son	DET:POS	son
+embonpoint	NOM	embonpoint
+,	PUN	,
+la	PRO:PER	la
+fit	VER:simp	faire
+entrer	VER:infi	entrer
+de	PRP	de
+force	NOM	force
+en	PRP	en
+la	DET:ART	le
+poussant	VER:ppre	pousser
+du	PRP:det	du
+poing	NOM	poing
+.	SENT	.
+elles	PRO:PER	elle
+s'	PRO:PER	se
+en	PRO:PER	en
+vont	VER:pres	aller
+ainsi	ADV	ainsi
+,	PUN	,
+malades	ADJ	malade
+,	PUN	,
+verrouillées	VER:pper	verrouiller
+,	PUN	,
+dans	PRP	dans
+le	DET:ART	le
+noir	ADJ	noir
+chariot	NOM	chariot
+aux	PRP:det	au
+cellules	NOM	cellule
+souillées	VER:pper	souiller
+où	PRO:REL	où
+le	DET:ART	le
+captif	NOM	captif
+,	PUN	,
+sans	PRP	sans
+air	NOM	air
+,	PUN	,
+sans	PRP	sans
+jour	NOM	jour
+,	PUN	,
+sans	PRP	sans
+pleurs	NOM	pleur|pleurs
+dans	PRP	dans
+l'	DET:ART	le
+oeil	NOM	œil
+,	PUN	,
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+qu'	KON	que
+un	DET:ART	un
+mort	NOM	mort
+vivant	VER:ppre	vivre
+assis	VER:pper	asseoir
+dans	PRP	dans
+son	DET:POS	son
+cercueil	NOM	cercueil
+.	SENT	.
+dans	PRP	dans
+la	DET:ART	le
+route	NOM	route
+on	PRO:PER	on
+entend	VER:pres	entendre
+leurs	DET:POS	leur
+voix	NOM	voix
+désespérées	ADJ	désespéré
+.	SENT	.
+le	DET:ART	le
+peuple	NOM	peuple
+hébété	ADJ	hébété
+voit	VER:pres	voir
+passer	VER:infi	passer
+ces	PRO:DEM	ce
+torturées	VER:pper	torturer
+.	SENT	.
+à	PRP	à
+toulon	NOM	toulon
+,	PUN	,
+le	DET:ART	le
+fourgon	NOM	fourgon
+les	PRO:PER	la|le
+quitte	VER:pres	quitter
+,	PUN	,
+le	DET:ART	le
+ponton	NOM	ponton
+les	PRO:PER	la|le
+prend	VER:pres	prendre
+;	PUN	;
+sans	PRP	sans
+vêtements	NOM	vêtement
+,	PUN	,
+sans	PRP	sans
+pain	NOM	pain
+,	PUN	,
+sous	PRP	sous
+le	DET:ART	le
+bâton	NOM	bâton
+,	PUN	,
+elles	PRO:PER	elle
+passent	VER:pres	passer
+la	DET:ART	le
+mer	NOM	mer
+,	PUN	,
+veuves	ADJ	veuf|veuve
+,	PUN	,
+seules	ADJ	seul
+au	PRP:det	au
+monde	NOM	monde
+,	PUN	,
+mangeant	VER:ppre	manger
+avec	PRP	avec
+les	DET:ART	le
+doigts	NOM	doigt
+dans	PRP	dans
+la	DET:ART	le
+gamelle	NOM	gamelle
+immonde	ADJ	immonde
+.	SENT	.

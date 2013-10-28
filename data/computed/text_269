@@ -1,1318 +1,1318 @@
-vraiment	ADV
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-bête	ADJ
-,	PUN
-ces	PRO:DEM
-églises	NOM
-de	PRP
-villages	NOM
-où	PRO:REL
-quinze	NUM
-laids	ADJ
-marmots	NOM
-,	PUN
-encrassant	VER:ppre
-les	DET:ART
-piliers	NOM
-,	PUN
-ecoutent	VER:pres
-,	PUN
-grasseyant	VER:ppre
-les	DET:ART
-divins	ADJ
-babillages	NOM
-,	PUN
-un	DET:ART
-noir	NOM
-grotesque	ADJ
-dont	PRO:REL
-fermentent	VER:pres
-les	DET:ART
-souliers	NOM
-.	SENT
-mais	KON
-le	DET:ART
-soleil	NOM
-éveille	VER:pres
-,	PUN
-à	PRP
-travers	NOM
-les	DET:ART
-feuillages	NOM
-,	PUN
-les	DET:ART
-vieilles	ADJ
-couleurs	NOM
-des	PRP:det
-vitraux	NOM
-ensoleillés	ADJ
-,	PUN
-la	DET:ART
-pierre	NOM
-sent	VER:pres
-toujours	ADV
-la	DET:ART
-terre	NOM
-maternelle	ADJ
-,	PUN
-vous	PRO:PER
-verrez	VER:futu
-des	PRP:det
-monceaux	NOM
-de	PRP
-ces	PRO:DEM
-cailloux	NOM
-terreux	ADJ
-dans	PRP
-la	DET:ART
-campagne	NOM
-en	PRP
-rut	NOM
-qui	PRO:REL
-frémit	VER:pres
-,	PUN
-solennelle	ADJ
-,	PUN
-portant	VER:ppre
-,	PUN
-près	ADV
-des	PRP:det
-blés	NOM
-lourds	ADJ
-,	PUN
-dans	PRP
-les	DET:ART
-sentiers	NOM
-séreux	ADJ
-,	PUN
-ces	PRO:DEM
-arbrisseaux	NOM
-brûlés	VER:pper
-où	PRO:REL
-bleuit	VER:pres
-la	DET:ART
-prunelle	NOM
-,	PUN
-des	PRP:det
-noeuds	NOM
-de	PRP
-mûriers	NOM
-noirs	ADJ
-et	KON
-de	PRP
-rosiers	NOM
-furieux	ADJ
-.	SENT
-tous	PRO:IND
-les	DET:ART
-cent	NUM
-ans	NOM
-on	PRO:PER
-rend	VER:pres
-ces	PRO:DEM
-granges	NOM
-respectables	ADJ
-par	PRP
-un	DET:ART
-badigeon	NOM
-d'	PRP
-eau	NOM
-bleue	ADJ
-et	KON
-de	PRP
-lait	NOM
-caillé	VER:pper
-.	SENT
-si	KON
-des	PRP:det
-mysticités	NOM
-grotesques	ADJ
-sont	VER:pres
-notables	ADJ
-près	ADV
-de	PRP
-la	PRO:PER
-notre	DET:POS
-dame	NOM
-ou	KON
-du	PRP:det
-saint	NOM
-empaillé	ADJ
-,	PUN
-des	PRP:det
-mouches	NOM
-sentant	VER:ppre
-bon	ADJ
-l'	DET:ART
-auberge	NOM
-et	KON
-les	DET:ART
-étables	NOM
-se	PRO:PER
-gorgent	VER:pres
-de	PRP
-cire	NOM
-au	PRP:det
-plancher	NOM
-ensoleillé	ADJ
-.	SENT
-l'	DET:ART
-enfant	NOM
-se	PRO:PER
-doit	VER:pres
-surtout	ADV
-à	PRP
-la	DET:ART
-maison	NOM
-,	PUN
-famille	NOM
-des	PRP:det
-soins	NOM
-naïfs	ADJ
-,	PUN
-des	PRP:det
-bons	ADJ
-travaux	NOM
-abrutissants	ADJ
-.	SENT
-ils	PRO:PER
-sortent	VER:pres
-,	PUN
-oubliant	VER:ppre
-que	KON
-la	DET:ART
-peau	NOM
-leur	PRO:PER
-fourmille	VER:pres
-où	ADV
-le	DET:ART
-prêtre	NOM
-du	PRP:det
-christ	NOM
-plaqua	VER:simp
-ses	DET:POS
-doigts	NOM
-puissants	ADJ
-.	SENT
-on	PRO:PER
-paie	VER:pres
-au	PRP:det
-prêtre	NOM
-un	DET:ART
-toit	NOM
-ombré	VER:pper
-d'	PRP
-une	DET:ART
-charmille	NOM
-pour	PRP
-qu'	PRO:REL
-il	PRO:PER
-laisse	VER:pres
-au	PRP:det
-soleil	NOM
-tous	PRO:IND
-ces	PRO:DEM
-fronts	NOM
-bruissants	ADJ
-.	SENT
-le	DET:ART
-premier	NUM
-habit	NOM
-noir	ADJ
-,	PUN
-le	DET:ART
-plus	ADV
-beau	ADJ
-jour	NOM
-de	PRP
-tartes	NOM
-sous	PRP
-le	DET:ART
-napoléon	NOM
-ou	KON
-le	DET:ART
-petit	ADJ
-tambour	NOM
-,	PUN
-quelque	PRO:IND
-enluminure	NOM
-où	PRO:REL
-les	DET:ART
-josephs	NOM
-et	KON
-les	DET:ART
-marthes	NOM
-tirent	VER:pres
-la	DET:ART
-langue	NOM
-avec	PRP
-un	DET:ART
-excessif	ADJ
-amour	NOM
-et	KON
-qui	PRO:REL
-joindront	VER:futu
-aux	PRP:det
-jours	NOM
-de	PRP
-science	NOM
-deux	NUM
-cartes	NOM
-,	PUN
-ces	PRO:DEM
-deux	NUM
-seuls	ADJ
-souvenirs	NOM
-lui	PRO:PER
-restent	VER:pres
-du	PRP:det
-grand	ADJ
-jour	NOM
-.	SENT
-les	DET:ART
-filles	NOM
-vont	VER:pres
-toujours	ADV
-à	PRP
-l'	DET:ART
-église	NOM
-,	PUN
-contentes	ADJ
-de	PRP
-s'	PRO:PER
-entendre	VER:infi
-appeler	VER:infi
-garces	ADJ
-par	PRP
-les	DET:ART
-garçons	NOM
-qui	PRO:REL
-font	VER:pres
-du	PRP:det
-genre	NOM
-,	PUN
-après	PRP
-messe	NOM
-et	KON
-vêpres	NOM
-chantantes	ADJ
-,	PUN
-eux	PRO:PER
-,	PUN
-qui	PRO:REL
-sont	VER:pres
-destinés	VER:pper
-au	PRP:det
-chic	NOM
-des	PRP:det
-garnisons	NOM
-,	PUN
-ils	PRO:PER
-narguent	VER:pres
-au	PRP:det
-café	NOM
-les	DET:ART
-maisons	NOM
-importantes	ADJ
-,	PUN
-blousés	VER:pper
-neuf	ADJ
-et	KON
-gueulant	VER:ppre
-d'	PRP
-effroyables	ADJ
-chansons	NOM
-.	SENT
-cependant	ADV
-le	DET:ART
-curé	NOM
-choisit	VER:pres
-,	PUN
-pour	PRP
-les	DET:ART
-enfances	NOM
-,	PUN
-des	PRP:det
-dessins	NOM
-;	PUN
-dans	PRP
-son	DET:POS
-clos	NOM
-,	PUN
-les	DET:ART
-vêpres	NOM
-dites	ADJ
-,	PUN
-quand	KON
-l'	DET:ART
-air	NOM
-s'	PRO:PER
-emplit	VER:pres
-du	PRP:det
-lointain	ADJ
-nasillement	NOM
-des	PRP:det
-danses	NOM
-,	PUN
-il	PRO:PER
-se	PRO:PER
-sent	VER:pres
-,	PUN
-en	PRP
-dépit	NOM
-des	PRP:det
-célestes	ADJ
-défenses	NOM
-.	SENT
-les	DET:ART
-doigts	NOM
-de	PRP
-pied	NOM
-ravis	VER:pper
-et	KON
-le	DET:ART
-mollet	ADJ
-marquant	ADJ
-...	PUN
-la	DET:ART
-nuit	NOM
-vient	VER:pres
-,	PUN
-noir	ADJ
-pirate	NOM
-aux	PRP:det
-ciel	NOM
-noir	ADJ
-débarquant	VER:ppre
-.	SENT
-le	DET:ART
-prêtre	NOM
-a	VER:pres
-distingué	VER:pper
-,	PUN
-parmi	PRP
-les	DET:ART
-catéchistes	NOM
-congrégés	VER:pper
-des	PRP:det
-faubourgs	NOM
-ou	KON
-des	PRP:det
-riches	ADJ
-quartiers	NOM
-,	PUN
-cette	PRO:DEM
-petite	ADJ
-fille	NOM
-inconnue	ADJ
-,	PUN
-aux	PRP:det
-yeux	NOM
-tristes	ADJ
-,	PUN
-front	NOM
-jaune	ADJ
-.	SENT
-ses	DET:POS
-parents	NOM
-semblent	VER:pres
-de	PRP
-doux	ADJ
-portiers	NOM
-.	SENT
-au	PRP:det
-grand	ADJ
-jour	NOM
-,	PUN
-la	DET:ART
-marquant	VER:ppre
-parmi	PRP
-les	DET:ART
-catéchistes	NOM
-,	PUN
-dieu	NOM
-fera	VER:futu
-,	PUN
-sur	PRP
-son	DET:POS
-front	NOM
-,	PUN
-neiger	VER:infi
-ses	DET:POS
-bénitiers	NOM
-.	SENT
-la	DET:ART
-veille	NOM
-du	PRP:det
-grand	ADJ
-jour	NOM
-,	PUN
-l'	DET:ART
-enfant	NOM
-se	PRO:PER
-fait	VER:pres
-malade	ADJ
-mieux	ADV
-qu'	KON
-à	PRP
-l'	DET:ART
-église	NOM
-haute	ADJ
-aux	PRP:det
-funèbres	ADJ
-rumeurs	NOM
-.	SENT
-d'abord	ADV
-le	DET:ART
-frisson	NOM
-vient	VER:pres
-,	PUN
-le	DET:ART
-lit	NOM
-n'	ADV
-étant	VER:ppre
-pas	ADV
-fade	ADJ
-,	PUN
-un	DET:ART
-frisson	NOM
-surhumain	ADJ
-qui	PRO:REL
-retourne	VER:pres
-:	PUN
-je	PRO:PER
-meurs	VER:pres
-...	PUN
-et	KON
-,	PUN
-comme	ADV
-un	DET:ART
-vol	NOM
-d'	PRP
-amour	NOM
-fait	VER:pper
-à	PRP
-ses	DET:POS
-soeurs	NOM
-stupides	ADJ
-,	PUN
-elle	PRO:PER
-compte	VER:pres
-,	PUN
-abattue	VER:pper
-et	KON
-les	DET:ART
-mains	NOM
-sur	PRP
-son	DET:POS
-coeur	NOM
-,	PUN
-ses	DET:POS
-anges	NOM
-,	PUN
-ses	DET:POS
-jésus	NOM
-et	KON
-ses	DET:POS
-vierges	ADJ
-nitides	NOM
-,	PUN
-et	KON
-,	PUN
-calmement	ADV
-,	PUN
-son	DET:POS
-âme	NOM
-a	VER:pres
-bu	VER:pper
-tout	PRO:IND
-son	DET:POS
-vainqueur	NOM
-.	SENT
-adonaï	NOM
-!	SENT
-...	PUN
-dans	PRP
-les	DET:ART
-terminaisons	NOM
-latines	ADJ
-des	PRP:det
-cieux	NOM
-moirés	VER:pper
-de	PRP
-vert	NOM
-baignent	VER:pres
-les	DET:ART
-fronts	NOM
-vermeils	ADJ
-et	KON
-tachés	VER:pper
-du	PRP:det
-sang	NOM
-pur	ADJ
-des	PRP:det
-célestes	ADJ
-poitrines	NOM
-,	PUN
-de	PRP
-grands	ADJ
-linges	NOM
-neigeux	ADJ
-tombent	VER:pres
-sur	PRP
-les	DET:ART
-soleils	NOM
-.	SENT
-pour	PRP
-ses	DET:POS
-virginités	NOM
-présentes	ADJ
-et	KON
-futures	ADJ
-elle	PRO:PER
-mord	VER:pres
-aux	PRP:det
-fraîcheurs	NOM
-de	PRP
-ta	DET:POS
-rémission	NOM
-;	PUN
-mais	KON
-plus	ADV
-que	KON
-les	DET:ART
-lys	NOM
-d'	PRP
-eau	NOM
-,	PUN
-plus	ADV
-que	KON
-les	DET:ART
-confitures	NOM
-tes	DET:POS
-pardons	NOM
-sont	VER:pres
-glacés	VER:pper
-,	PUN
-ô	INT
-reine	NOM
-de	PRP
-sion	NOM
-.	SENT
-puis	ADV
-la	DET:ART
-vierge	NOM
-n'	ADV
-est	VER:pres
-plus	ADV
-que	KON
-la	DET:ART
-vierge	NOM
-du	PRP:det
-livre	NOM
-;	PUN
-les	DET:ART
-mystiques	ADJ
-élans	NOM
-se	PRO:PER
-cassent	VER:pres
-quelquefois	ADV
-,	PUN
-et	KON
-vient	VER:pres
-la	DET:ART
-pauvreté	NOM
-des	PRP:det
-images	NOM
-que	PRO:REL
-cuivre	VER:pres
-l'	DET:ART
-ennui	NOM
-,	PUN
-l'	DET:ART
-enluminure	NOM
-atroce	ADJ
-et	KON
-les	DET:ART
-vieux	ADJ
-bois	NOM
-.	SENT
-des	PRP:det
-curiosités	NOM
-vaguement	ADV
-impudiques	ADJ
-épouvantent	VER:pres
-le	DET:ART
-rêve	NOM
-aux	PRP:det
-chastes	ADJ
-bleuités	NOM
-qui	PRO:REL
-sont	VER:pres
-surpris	VER:pper
-autour	ADV
-des	PRP:det
-célestes	ADJ
-tuniques	NOM
-du	PRP:det
-linge	NOM
-dont	PRO:REL
-jésus	NOM
-voile	VER:pres
-ses	DET:POS
-nudités	NOM
-.	SENT
-elle	PRO:PER
-veut	VER:pres
-,	PUN
-elle	PRO:PER
-veut	VER:pres
-pourtant	ADV
-,	PUN
-l'	DET:ART
-âme	NOM
-en	PRP
-détresse	NOM
-,	PUN
-le	DET:ART
-front	NOM
-dans	PRP
-l'	DET:ART
-oreiller	NOM
-creusé	VER:pper
-par	PRP
-les	DET:ART
-cris	NOM
-sourds	ADJ
-,	PUN
-prolonger	VER:infi
-les	DET:ART
-éclairs	NOM
-suprêmes	ADJ
-de	PRP
-tendresse	NOM
-et	KON
-bave	NOM
-...	PUN
-l'	DET:ART
-ombre	NOM
-emplit	VER:pres
-les	DET:ART
-maisons	NOM
-et	KON
-les	DET:ART
-cours	NOM
-,	PUN
-et	KON
-l'	DET:ART
-enfant	NOM
-ne	ADV
-peut	VER:pres
-plus	ADV
-.	SENT
-elle	PRO:PER
-s'	PRO:PER
-agite	VER:pres
-et	KON
-cambre	VER:pres
-les	DET:ART
-reins	NOM
-,	PUN
-et	KON
-d'	PRP
-une	DET:ART
-main	NOM
-ouvre	VER:pres
-le	DET:ART
-rideau	NOM
-bleu	ADJ
-pour	PRP
-amener	VER:infi
-un	DET:ART
-peu	ADV
-la	DET:ART
-fraîcheur	NOM
-de	PRP
-la	DET:ART
-chambre	NOM
-sous	PRP
-le	DET:ART
-drap	NOM
-,	PUN
-vers	PRP
-son	DET:POS
-ventre	NOM
-et	KON
-sa	DET:POS
-poitrine	NOM
-en	PRP
-feu	NOM
-.	SENT
-a	VER:pres
-son	DET:POS
-réveil	NOM
-,	PUN
-minuit	NOM
-,	PUN
-la	DET:ART
-fenêtre	NOM
-était	VER:impf
-blanche	ADJ
-devant	PRP
-le	DET:ART
-soleil	NOM
-bleu	ADJ
-des	PRP:det
-rideaux	NOM
-illunés	ADJ
-;	PUN
-la	DET:ART
-vision	NOM
-la	PRO:PER
-prit	VER:simp
-des	PRP:det
-langueurs	NOM
-du	PRP:det
-dimanche	NOM
-,	PUN
-elle	PRO:PER
-avait	VER:impf
-rêvé	VER:pper
-rouge	ADJ
-.	SENT
-elle	PRO:PER
-saigna	VER:simp
-du	PRP:det
-nez	NOM
-,	PUN
-et	KON
-se	PRO:PER
-sentant	VER:ppre
-bien	ADV
-chaste	ADJ
-et	KON
-pleine	ADJ
-de	PRP
-faiblesse	NOM
-,	PUN
-pour	PRP
-savourer	VER:infi
-en	PRP
-dieu	NOM
-son	DET:POS
-amour	NOM
-revenant	ADJ
-,	PUN
-elle	PRO:PER
-eut	VER:simp
-soif	NOM
-de	PRP
-la	DET:ART
-nuit	NOM
-forte	ADJ
-où	PRO:REL
-s'	PRO:PER
-exalte	VER:pres
-et	KON
-s'	PRO:PER
-abaisse	VER:pres
-le	DET:ART
-coeur	NOM
-,	PUN
-sous	PRP
-l'	DET:ART
-oeil	NOM
-des	PRP:det
-cieux	NOM
-doux	ADJ
-,	PUN
-en	PRP
-les	PRO:PER
-devinant	VER:ppre
-;	PUN
-de	PRP
-la	DET:ART
-nuit	NOM
-,	PUN
-vierge	ADJ
-mère	NOM
-impalpable	ADJ
-,	PUN
-qui	PRO:REL
-baigne	VER:pres
-tous	PRO:IND
-les	DET:ART
-jeunes	ADJ
-émois	NOM
-de	PRP
-ses	DET:POS
-silences	NOM
-gris	ADJ
-;	PUN
-elle	PRO:PER
-eut	VER:simp
-soif	NOM
-de	PRP
-la	DET:ART
-nuit	NOM
-forte	ADJ
-où	PRO:REL
-le	DET:ART
-coeur	NOM
-qui	PRO:REL
-saigne	VER:pres
-ecoute	NOM
-sans	PRP
-témoin	NOM
-sa	DET:POS
-révolte	NOM
-sans	PRP
-cris	NOM
-.	SENT
-et	KON
-,	PUN
-faisant	VER:ppre
-la	DET:ART
-victime	NOM
-et	KON
-la	DET:ART
-petite	ADJ
-épouse	NOM
-,	PUN
-son	DET:POS
-étoile	NOM
-la	DET:ART
-vit	NOM
-,	PUN
-une	DET:ART
-chandelle	NOM
-aux	PRP:det
-doigts	NOM
-,	PUN
-descendre	VER:infi
-dans	PRP
-la	DET:ART
-cour	NOM
-où	PRO:REL
-séchait	VER:impf
-une	DET:ART
-blouse	NOM
-,	PUN
-spectre	NOM
-blanc	ADJ
-,	PUN
-et	KON
-lever	VER:infi
-les	DET:ART
-spectres	NOM
-noirs	ADJ
-des	PRP:det
-toits	NOM
-.	SENT
-elle	PRO:PER
-passa	VER:simp
-sa	DET:POS
-nuit	NOM
-sainte	ADJ
-dans	PRP
-des	PRP:det
-latrines	NOM
-.	SENT
-vers	PRP
-la	DET:ART
-chandelle	NOM
-,	PUN
-aux	PRP:det
-trous	NOM
-du	PRP:det
-toit	NOM
-,	PUN
-coulait	VER:impf
-l'	DET:ART
-air	NOM
-blanc	ADJ
-,	PUN
-et	KON
-quelque	PRO:IND
-vigne	NOM
-folle	ADJ
-aux	PRP:det
-noirceurs	NOM
-purpurines	ADJ
-en	PRP
-deçà	ADV
-d'	PRP
-une	DET:ART
-cour	NOM
-voisine	ADJ
-s'	PRO:PER
-écroulant	VER:ppre
-.	SENT
-la	DET:ART
-lucarne	NOM
-faisait	VER:impf
-un	DET:ART
-coeur	NOM
-de	PRP
-lueur	NOM
-vive	ADJ
-dans	PRP
-la	DET:ART
-cour	NOM
-où	PRO:REL
-les	DET:ART
-cieux	NOM
-bas	ADJ
-plaquaient	VER:impf
-d'	PRP
-ors	NOM
-vermeils	ADJ
-les	DET:ART
-vitres	NOM
-;	PUN
-les	DET:ART
-pavés	NOM
-puant	VER:ppre
-l'	DET:ART
-eau	NOM
-de	PRP
-lessive	NOM
-souffraient	VER:impf
-l'	DET:ART
-ombre	NOM
-des	PRP:det
-toits	NOM
-bordés	VER:pper
-de	PRP
-noirs	ADJ
-sommeils	NOM
-.	SENT
-qui	PRO
-dira	VER:futu
-ces	PRO:DEM
-langueurs	NOM
-et	KON
-ces	PRO:DEM
-pitiés	NOM
-immondes	ADJ
-et	KON
-ce	PRO:DEM
-qu'	PRO:REL
-il	PRO:PER
-lui	PRO:PER
-viendra	VER:futu
-de	PRP
-haine	NOM
-,	PUN
-ô	INT
-sales	ADJ
-fous	NOM
-,	PUN
-dont	PRO:REL
-le	DET:ART
-travail	NOM
-divin	ADJ
-déforme	VER:pres
-encore	ADV
-les	DET:ART
-mondes	NOM
-quand	KON
-la	DET:ART
-lèpre	NOM
-,	PUN
-à	PRP
-la	DET:ART
-fin	NOM
-,	PUN
-rongera	VER:futu
-ce	PRO:DEM
-corps	NOM
-doux	ADJ
-,	PUN
-et	KON
-quand	KON
-,	PUN
-ayant	VER:ppre
-rentré	VER:pper
-tous	PRO:IND
-ces	PRO:DEM
-noeuds	NOM
-d'	PRP
-hystéries	NOM
-elle	PRO:PER
-verra	VER:futu
-,	PUN
-sous	PRP
-les	DET:ART
-tristesses	NOM
-du	PRP:det
-bonheur	NOM
-,	PUN
-l'	DET:ART
-amant	NOM
-rêver	VER:infi
-au	PRP:det
-blanc	ADJ
-million	NOM
-des	PRP:det
-maries	VER:pres
-au	PRP:det
-matin	NOM
-de	PRP
-la	DET:ART
-nuit	NOM
-d'	PRP
-amour	NOM
-,	PUN
-avec	PRP
-douleur	NOM
-!	SENT
-sais	VER:pres
-tu	PRO:PER
-que	PRO:REL
-je	PRO:PER
-t'	PRO:PER
-ai	VER:pres
-fait	VER:pper
-mourir	VER:infi
-?	SENT
-j'	PRO:PER
-ai	VER:pres
-pris	VER:pper
-ta	DET:POS
-bouche	NOM
-,	PUN
-ton	DET:POS
-coeur	NOM
-,	PUN
-tout	PRO:IND
-ce	PRO:DEM
-qu'	PRO:REL
-on	PRO:PER
-a	VER:pres
-,	PUN
-tout	PRO:IND
-ce	PRO:DEM
-que	PRO:REL
-vous	PRO:PER
-avez	VER:pres
-,	PUN
-et	KON
-moi	PRO:PER
-je	PRO:PER
-suis	VER:pres
-malade	ADJ
-.	SENT
-oh	INT
-!	SENT
-je	PRO:PER
-veux	VER:pres
-qu'	KON
-on	PRO:PER
-me	PRO:PER
-couche	VER:pres
-parmi	PRP
-les	DET:ART
-morts	NOM
-des	PRP:det
-eaux	NOM
-nocturnes	ADJ
-abreuvés	VER:pper
-!	SENT
-j'	PRO:PER
-étais	VER:impf
-bien	ADV
-jeune	ADJ
-,	PUN
-et	KON
-christ	NOM
-a	VER:pres
-souillé	VER:pper
-mes	DET:POS
-haleines	NOM
-,	PUN
-il	PRO:PER
-me	PRO:PER
-bonda	VER:simp
-jusqu'	PRP
-à	PRP
-la	DET:ART
-gorge	NOM
-de	PRP
-dégoûts	NOM
-;	PUN
-tu	PRO:PER
-baisais	VER:impf
-mes	DET:POS
-cheveux	NOM
-profonds	ADJ
-comme	KON
-les	DET:ART
-laines	NOM
-,	PUN
-et	KON
-je	PRO:PER
-me	PRO:PER
-laissais	VER:impf
-faire	VER:infi
-!	SENT
-...	PUN
-oh	INT
-!	SENT
-va	VER:pres
-...	PUN
-c'	PRO:DEM
-est	VER:pres
-bon	ADJ
-pour	PRP
-vous	PRO:PER
-,	PUN
-hommes	NOM
-!	SENT
-qui	PRO
-songez	VER:pres
-peu	ADV
-que	KON
-la	DET:ART
-plus	ADV
-amoureuse	ADJ
-est	VER:pres
-,	PUN
-dans	PRP
-sa	DET:POS
-conscience	NOM
-,	PUN
-aux	PRP:det
-ignobles	ADJ
-terreurs	NOM
-la	DET:ART
-plus	ADV
-prostituée	VER:pper
-et	KON
-la	DET:ART
-plus	ADV
-douloureuse	ADJ
-et	KON
-que	KON
-tous	PRO:IND
-nos	DET:POS
-élans	NOM
-vers	PRP
-vous	PRO:PER
-sont	VER:pres
-des	PRP:det
-erreurs	NOM
-.	SENT
-car	KON
-ma	DET:POS
-communion	NOM
-première	NUM
-est	VER:pres
-bien	ADV
-passée	VER:pper
-!	SENT
-tes	DET:POS
-baisers	NOM
-,	PUN
-je	PRO:PER
-ne	ADV
-puis	ADV
-jamais	ADV
-les	PRO:PER
-avoir	VER:infi
-bus	VER:pper
-.	SENT
-et	KON
-mon	DET:POS
-coeur	NOM
-et	KON
-ma	DET:POS
-chair	NOM
-par	PRP
-ta	DET:POS
-chair	NOM
-embrassée	ADJ
-fourmillent	VER:pres
-du	PRP:det
-baiser	NOM
-putride	ADJ
-de	PRP
-jésus	NOM
-...	PUN
-alors	ADV
-l'	DET:ART
-âme	NOM
-pourrie	VER:pper
-et	KON
-l'	DET:ART
-âme	NOM
-désolée	VER:pper
-sentiront	VER:futu
-ruisseler	VER:infi
-tes	DET:POS
-malédictions	NOM
-.	SENT
-ils	PRO:PER
-avaient	VER:impf
-couché	VER:pper
-sur	PRP
-ta	DET:POS
-haine	NOM
-inviolée	ADJ
-,	PUN
-echappés	VER:pper
-,	PUN
-pour	PRP
-la	DET:ART
-mort	NOM
-,	PUN
-des	PRP:det
-justes	ADJ
-passions	NOM
-.	SENT
-christ	NOM
-,	PUN
-ô	INT
-christ	NOM
-,	PUN
-éternel	NOM
-voleur	ADJ
-des	PRP:det
-énergies	NOM
-,	PUN
-dieu	NOM
-qui	PRO:REL
-,	PUN
-pour	PRP
-deux	NUM
-mille	NUM
-ans	NOM
-,	PUN
-vouas	VER:simp
-,	PUN
-à	PRP
-ta	DET:POS
-pâleur	NOM
-,	PUN
-cloués	VER:pper
-au	PRP:det
-sol	NOM
-,	PUN
-de	PRP
-honte	NOM
-et	KON
-de	PRP
-céphalalgies	NOM
-,	PUN
-ou	KON
-renversés	VER:pper
-,	PUN
-les	DET:ART
-fronts	NOM
-des	PRP:det
-femmes	NOM
-de	PRP
-douleur	NOM
-.	SENT
+vraiment	ADV	vraiment
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+bête	ADJ	bête
+,	PUN	,
+ces	PRO:DEM	ce
+églises	NOM	église
+de	PRP	de
+villages	NOM	village
+où	PRO:REL	où
+quinze	NUM	quinze
+laids	ADJ	laid
+marmots	NOM	marmot
+,	PUN	,
+encrassant	VER:ppre	encrasser
+les	DET:ART	le
+piliers	NOM	pilier
+,	PUN	,
+ecoutent	VER:pres	ecoutent
+,	PUN	,
+grasseyant	VER:ppre	grasseyer
+les	DET:ART	le
+divins	ADJ	divin
+babillages	NOM	babillage
+,	PUN	,
+un	DET:ART	un
+noir	NOM	noir
+grotesque	ADJ	grotesque
+dont	PRO:REL	dont
+fermentent	VER:pres	fermenter
+les	DET:ART	le
+souliers	NOM	soulier
+.	SENT	.
+mais	KON	mais
+le	DET:ART	le
+soleil	NOM	soleil
+éveille	VER:pres	éveiller
+,	PUN	,
+à	PRP	à
+travers	NOM	travers
+les	DET:ART	le
+feuillages	NOM	feuillage
+,	PUN	,
+les	DET:ART	le
+vieilles	ADJ	vieux
+couleurs	NOM	couleur
+des	PRP:det	du
+vitraux	NOM	vitrail
+ensoleillés	ADJ	ensoleillé
+,	PUN	,
+la	DET:ART	le
+pierre	NOM	pierre
+sent	VER:pres	sentir
+toujours	ADV	toujours
+la	DET:ART	le
+terre	NOM	terre
+maternelle	ADJ	maternel
+,	PUN	,
+vous	PRO:PER	vous
+verrez	VER:futu	voir
+des	PRP:det	du
+monceaux	NOM	monceau
+de	PRP	de
+ces	PRO:DEM	ce
+cailloux	NOM	caillou
+terreux	ADJ	terreux
+dans	PRP	dans
+la	DET:ART	le
+campagne	NOM	campagne
+en	PRP	en
+rut	NOM	rut
+qui	PRO:REL	qui
+frémit	VER:pres	frémir
+,	PUN	,
+solennelle	ADJ	solennel
+,	PUN	,
+portant	VER:ppre	porter
+,	PUN	,
+près	ADV	près
+des	PRP:det	du
+blés	NOM	blé
+lourds	ADJ	lourd
+,	PUN	,
+dans	PRP	dans
+les	DET:ART	le
+sentiers	NOM	sentier
+séreux	ADJ	séreux
+,	PUN	,
+ces	PRO:DEM	ce
+arbrisseaux	NOM	arbrisseau
+brûlés	VER:pper	brûler
+où	PRO:REL	où
+bleuit	VER:pres	bleuir
+la	DET:ART	le
+prunelle	NOM	prunelle
+,	PUN	,
+des	PRP:det	du
+noeuds	NOM	nœud
+de	PRP	de
+mûriers	NOM	mûrier
+noirs	ADJ	noir
+et	KON	et
+de	PRP	de
+rosiers	NOM	rosier
+furieux	ADJ	furieux
+.	SENT	.
+tous	PRO:IND	tout
+les	DET:ART	le
+cent	NUM	cent
+ans	NOM	an
+on	PRO:PER	on
+rend	VER:pres	rendre
+ces	PRO:DEM	ce
+granges	NOM	grange
+respectables	ADJ	respectable
+par	PRP	par
+un	DET:ART	un
+badigeon	NOM	badigeon
+d'	PRP	de
+eau	NOM	eau
+bleue	ADJ	bleu
+et	KON	et
+de	PRP	de
+lait	NOM	lait
+caillé	VER:pper	cailler
+.	SENT	.
+si	KON	si
+des	PRP:det	du
+mysticités	NOM	mysticité
+grotesques	ADJ	grotesque
+sont	VER:pres	être
+notables	ADJ	notable
+près	ADV	près
+de	PRP	de
+la	PRO:PER	la
+notre	DET:POS	notre
+dame	NOM	dame
+ou	KON	ou
+du	PRP:det	du
+saint	NOM	saint
+empaillé	ADJ	empaillé
+,	PUN	,
+des	PRP:det	du
+mouches	NOM	mouche
+sentant	VER:ppre	sentir
+bon	ADJ	bon
+l'	DET:ART	le
+auberge	NOM	auberge
+et	KON	et
+les	DET:ART	le
+étables	NOM	étable
+se	PRO:PER	se
+gorgent	VER:pres	gorger
+de	PRP	de
+cire	NOM	cire
+au	PRP:det	au
+plancher	NOM	plancher
+ensoleillé	ADJ	ensoleillé
+.	SENT	.
+l'	DET:ART	le
+enfant	NOM	enfant
+se	PRO:PER	se
+doit	VER:pres	devoir
+surtout	ADV	surtout
+à	PRP	à
+la	DET:ART	le
+maison	NOM	maison
+,	PUN	,
+famille	NOM	famille
+des	PRP:det	du
+soins	NOM	soin
+naïfs	ADJ	naïf
+,	PUN	,
+des	PRP:det	du
+bons	ADJ	bon
+travaux	NOM	travail
+abrutissants	ADJ	abrutissant
+.	SENT	.
+ils	PRO:PER	il
+sortent	VER:pres	sortir
+,	PUN	,
+oubliant	VER:ppre	oublier
+que	KON	que
+la	DET:ART	le
+peau	NOM	peau
+leur	PRO:PER	lui
+fourmille	VER:pres	fourmiller
+où	ADV	où
+le	DET:ART	le
+prêtre	NOM	prêtre
+du	PRP:det	du
+christ	NOM	christ
+plaqua	VER:simp	plaquer
+ses	DET:POS	son
+doigts	NOM	doigt
+puissants	ADJ	puissant
+.	SENT	.
+on	PRO:PER	on
+paie	VER:pres	payer
+au	PRP:det	au
+prêtre	NOM	prêtre
+un	DET:ART	un
+toit	NOM	toit
+ombré	VER:pper	ombrer
+d'	PRP	de
+une	DET:ART	un
+charmille	NOM	charmille
+pour	PRP	pour
+qu'	PRO:REL	que
+il	PRO:PER	il
+laisse	VER:pres	laisser
+au	PRP:det	au
+soleil	NOM	soleil
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+fronts	NOM	front
+bruissants	ADJ	bruissant
+.	SENT	.
+le	DET:ART	le
+premier	NUM	premier
+habit	NOM	habit
+noir	ADJ	noir
+,	PUN	,
+le	DET:ART	le
+plus	ADV	plus
+beau	ADJ	beau
+jour	NOM	jour
+de	PRP	de
+tartes	NOM	tarte
+sous	PRP	sous
+le	DET:ART	le
+napoléon	NOM	napoléon
+ou	KON	ou
+le	DET:ART	le
+petit	ADJ	petit
+tambour	NOM	tambour
+,	PUN	,
+quelque	PRO:IND	quelque
+enluminure	NOM	enluminure
+où	PRO:REL	où
+les	DET:ART	le
+josephs	NOM	joseph
+et	KON	et
+les	DET:ART	le
+marthes	NOM	marthes
+tirent	VER:pres	tirer
+la	DET:ART	le
+langue	NOM	langue
+avec	PRP	avec
+un	DET:ART	un
+excessif	ADJ	excessif
+amour	NOM	amour
+et	KON	et
+qui	PRO:REL	qui
+joindront	VER:futu	joindre
+aux	PRP:det	au
+jours	NOM	jour
+de	PRP	de
+science	NOM	science
+deux	NUM	deux
+cartes	NOM	carte
+,	PUN	,
+ces	PRO:DEM	ce
+deux	NUM	deux
+seuls	ADJ	seul
+souvenirs	NOM	souvenir
+lui	PRO:PER	lui
+restent	VER:pres	rester
+du	PRP:det	du
+grand	ADJ	grand
+jour	NOM	jour
+.	SENT	.
+les	DET:ART	le
+filles	NOM	fille
+vont	VER:pres	aller
+toujours	ADV	toujours
+à	PRP	à
+l'	DET:ART	le
+église	NOM	église
+,	PUN	,
+contentes	ADJ	content
+de	PRP	de
+s'	PRO:PER	se
+entendre	VER:infi	entendre
+appeler	VER:infi	appeler
+garces	ADJ	garce
+par	PRP	par
+les	DET:ART	le
+garçons	NOM	garçon
+qui	PRO:REL	qui
+font	VER:pres	faire
+du	PRP:det	du
+genre	NOM	genre
+,	PUN	,
+après	PRP	après
+messe	NOM	messe
+et	KON	et
+vêpres	NOM	vêpre|vêpres
+chantantes	ADJ	chantant
+,	PUN	,
+eux	PRO:PER	eux
+,	PUN	,
+qui	PRO:REL	qui
+sont	VER:pres	être
+destinés	VER:pper	destiner
+au	PRP:det	au
+chic	NOM	chic
+des	PRP:det	du
+garnisons	NOM	garnison
+,	PUN	,
+ils	PRO:PER	il
+narguent	VER:pres	narguer
+au	PRP:det	au
+café	NOM	café
+les	DET:ART	le
+maisons	NOM	maison
+importantes	ADJ	important
+,	PUN	,
+blousés	VER:pper	blouser
+neuf	ADJ	neuf
+et	KON	et
+gueulant	VER:ppre	gueuler
+d'	PRP	de
+effroyables	ADJ	effroyable
+chansons	NOM	chanson
+.	SENT	.
+cependant	ADV	cependant
+le	DET:ART	le
+curé	NOM	curé
+choisit	VER:pres	choisir
+,	PUN	,
+pour	PRP	pour
+les	DET:ART	le
+enfances	NOM	enfance
+,	PUN	,
+des	PRP:det	du
+dessins	NOM	dessin
+;	PUN	;
+dans	PRP	dans
+son	DET:POS	son
+clos	NOM	clos
+,	PUN	,
+les	DET:ART	le
+vêpres	NOM	vêpre|vêpres
+dites	ADJ	dit
+,	PUN	,
+quand	KON	quand
+l'	DET:ART	le
+air	NOM	air
+s'	PRO:PER	se
+emplit	VER:pres	emplir
+du	PRP:det	du
+lointain	ADJ	lointain
+nasillement	NOM	nasillement
+des	PRP:det	du
+danses	NOM	danse
+,	PUN	,
+il	PRO:PER	il
+se	PRO:PER	se
+sent	VER:pres	sentir
+,	PUN	,
+en	PRP	en
+dépit	NOM	dépit
+des	PRP:det	du
+célestes	ADJ	céleste
+défenses	NOM	défense
+.	SENT	.
+les	DET:ART	le
+doigts	NOM	doigt
+de	PRP	de
+pied	NOM	pied
+ravis	VER:pper	ravir
+et	KON	et
+le	DET:ART	le
+mollet	ADJ	mollet
+marquant	ADJ	marquant
+...	PUN	...
+la	DET:ART	le
+nuit	NOM	nuit
+vient	VER:pres	venir
+,	PUN	,
+noir	ADJ	noir
+pirate	NOM	pirate
+aux	PRP:det	au
+ciel	NOM	ciel
+noir	ADJ	noir
+débarquant	VER:ppre	débarquer
+.	SENT	.
+le	DET:ART	le
+prêtre	NOM	prêtre
+a	VER:pres	avoir
+distingué	VER:pper	distinguer
+,	PUN	,
+parmi	PRP	parmi
+les	DET:ART	le
+catéchistes	NOM	catéchiste
+congrégés	VER:pper	congrégés
+des	PRP:det	du
+faubourgs	NOM	faubourg
+ou	KON	ou
+des	PRP:det	du
+riches	ADJ	riche
+quartiers	NOM	quartier
+,	PUN	,
+cette	PRO:DEM	ce
+petite	ADJ	petit
+fille	NOM	fille
+inconnue	ADJ	inconnu
+,	PUN	,
+aux	PRP:det	au
+yeux	NOM	œil
+tristes	ADJ	triste
+,	PUN	,
+front	NOM	front
+jaune	ADJ	jaune
+.	SENT	.
+ses	DET:POS	son
+parents	NOM	parent|parents
+semblent	VER:pres	sembler
+de	PRP	de
+doux	ADJ	doux
+portiers	NOM	portier
+.	SENT	.
+au	PRP:det	au
+grand	ADJ	grand
+jour	NOM	jour
+,	PUN	,
+la	DET:ART	le
+marquant	VER:ppre	marquer
+parmi	PRP	parmi
+les	DET:ART	le
+catéchistes	NOM	catéchiste
+,	PUN	,
+dieu	NOM	dieu
+fera	VER:futu	faire
+,	PUN	,
+sur	PRP	sur
+son	DET:POS	son
+front	NOM	front
+,	PUN	,
+neiger	VER:infi	neiger
+ses	DET:POS	son
+bénitiers	NOM	bénitier
+.	SENT	.
+la	DET:ART	le
+veille	NOM	veille
+du	PRP:det	du
+grand	ADJ	grand
+jour	NOM	jour
+,	PUN	,
+l'	DET:ART	le
+enfant	NOM	enfant
+se	PRO:PER	se
+fait	VER:pres	faire
+malade	ADJ	malade
+mieux	ADV	mieux
+qu'	KON	que
+à	PRP	à
+l'	DET:ART	le
+église	NOM	église
+haute	ADJ	haut
+aux	PRP:det	au
+funèbres	ADJ	funèbre
+rumeurs	NOM	rumeur
+.	SENT	.
+d'abord	ADV	d'abord
+le	DET:ART	le
+frisson	NOM	frisson
+vient	VER:pres	venir
+,	PUN	,
+le	DET:ART	le
+lit	NOM	lit
+n'	ADV	ne
+étant	VER:ppre	être
+pas	ADV	pas
+fade	ADJ	fade
+,	PUN	,
+un	DET:ART	un
+frisson	NOM	frisson
+surhumain	ADJ	surhumain
+qui	PRO:REL	qui
+retourne	VER:pres	retourner
+:	PUN	:
+je	PRO:PER	je
+meurs	VER:pres	mourir
+...	PUN	...
+et	KON	et
+,	PUN	,
+comme	ADV	comme
+un	DET:ART	un
+vol	NOM	vol
+d'	PRP	de
+amour	NOM	amour
+fait	VER:pper	faire
+à	PRP	à
+ses	DET:POS	son
+soeurs	NOM	sœur
+stupides	ADJ	stupide
+,	PUN	,
+elle	PRO:PER	elle
+compte	VER:pres	compter
+,	PUN	,
+abattue	VER:pper	abattre
+et	KON	et
+les	DET:ART	le
+mains	NOM	main
+sur	PRP	sur
+son	DET:POS	son
+coeur	NOM	cœur
+,	PUN	,
+ses	DET:POS	son
+anges	NOM	ange
+,	PUN	,
+ses	DET:POS	son
+jésus	NOM	jésus
+et	KON	et
+ses	DET:POS	son
+vierges	ADJ	vierge
+nitides	NOM	nitides
+,	PUN	,
+et	KON	et
+,	PUN	,
+calmement	ADV	calmement
+,	PUN	,
+son	DET:POS	son
+âme	NOM	âme
+a	VER:pres	avoir
+bu	VER:pper	boire
+tout	PRO:IND	tout
+son	DET:POS	son
+vainqueur	NOM	vainqueur
+.	SENT	.
+adonaï	NOM	adonaï
+!	SENT	!
+...	PUN	...
+dans	PRP	dans
+les	DET:ART	le
+terminaisons	NOM	terminaison
+latines	ADJ	latin
+des	PRP:det	du
+cieux	NOM	cieux
+moirés	VER:pper	moirer
+de	PRP	de
+vert	NOM	vert
+baignent	VER:pres	baigner
+les	DET:ART	le
+fronts	NOM	front
+vermeils	ADJ	vermeil
+et	KON	et
+tachés	VER:pper	tacher
+du	PRP:det	du
+sang	NOM	sang
+pur	ADJ	pur
+des	PRP:det	du
+célestes	ADJ	céleste
+poitrines	NOM	poitrine
+,	PUN	,
+de	PRP	de
+grands	ADJ	grand
+linges	NOM	linge
+neigeux	ADJ	neigeux
+tombent	VER:pres	tomber
+sur	PRP	sur
+les	DET:ART	le
+soleils	NOM	soleil
+.	SENT	.
+pour	PRP	pour
+ses	DET:POS	son
+virginités	NOM	virginité
+présentes	ADJ	présent
+et	KON	et
+futures	ADJ	futur
+elle	PRO:PER	elle
+mord	VER:pres	mordre
+aux	PRP:det	au
+fraîcheurs	NOM	fraîcheur
+de	PRP	de
+ta	DET:POS	ton
+rémission	NOM	rémission
+;	PUN	;
+mais	KON	mais
+plus	ADV	plus
+que	KON	que
+les	DET:ART	le
+lys	NOM	lys
+d'	PRP	de
+eau	NOM	eau
+,	PUN	,
+plus	ADV	plus
+que	KON	que
+les	DET:ART	le
+confitures	NOM	confiture
+tes	DET:POS	ton
+pardons	NOM	pardon
+sont	VER:pres	être
+glacés	VER:pper	glacer
+,	PUN	,
+ô	INT	ô
+reine	NOM	reine
+de	PRP	de
+sion	NOM	sion
+.	SENT	.
+puis	ADV	puis
+la	DET:ART	le
+vierge	NOM	vierge
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+que	KON	que
+la	DET:ART	le
+vierge	NOM	vierge
+du	PRP:det	du
+livre	NOM	livre
+;	PUN	;
+les	DET:ART	le
+mystiques	ADJ	mystique
+élans	NOM	élan
+se	PRO:PER	se
+cassent	VER:pres	casser
+quelquefois	ADV	quelquefois
+,	PUN	,
+et	KON	et
+vient	VER:pres	venir
+la	DET:ART	le
+pauvreté	NOM	pauvreté
+des	PRP:det	du
+images	NOM	image
+que	PRO:REL	que
+cuivre	VER:pres	cuivrer
+l'	DET:ART	le
+ennui	NOM	ennui
+,	PUN	,
+l'	DET:ART	le
+enluminure	NOM	enluminure
+atroce	ADJ	atroce
+et	KON	et
+les	DET:ART	le
+vieux	ADJ	vieux
+bois	NOM	bois
+.	SENT	.
+des	PRP:det	du
+curiosités	NOM	curiosité
+vaguement	ADV	vaguement
+impudiques	ADJ	impudique
+épouvantent	VER:pres	épouvanter
+le	DET:ART	le
+rêve	NOM	rêve
+aux	PRP:det	au
+chastes	ADJ	chaste
+bleuités	NOM	bleuité
+qui	PRO:REL	qui
+sont	VER:pres	être
+surpris	VER:pper	surprendre
+autour	ADV	autour
+des	PRP:det	du
+célestes	ADJ	céleste
+tuniques	NOM	tunique
+du	PRP:det	du
+linge	NOM	linge
+dont	PRO:REL	dont
+jésus	NOM	jésus
+voile	VER:pres	voiler
+ses	DET:POS	son
+nudités	NOM	nudité
+.	SENT	.
+elle	PRO:PER	elle
+veut	VER:pres	vouloir
+,	PUN	,
+elle	PRO:PER	elle
+veut	VER:pres	vouloir
+pourtant	ADV	pourtant
+,	PUN	,
+l'	DET:ART	le
+âme	NOM	âme
+en	PRP	en
+détresse	NOM	détresse
+,	PUN	,
+le	DET:ART	le
+front	NOM	front
+dans	PRP	dans
+l'	DET:ART	le
+oreiller	NOM	oreiller
+creusé	VER:pper	creuser
+par	PRP	par
+les	DET:ART	le
+cris	NOM	cri
+sourds	ADJ	sourd
+,	PUN	,
+prolonger	VER:infi	prolonger
+les	DET:ART	le
+éclairs	NOM	éclair
+suprêmes	ADJ	suprême
+de	PRP	de
+tendresse	NOM	tendresse
+et	KON	et
+bave	NOM	bave
+...	PUN	...
+l'	DET:ART	le
+ombre	NOM	ombre
+emplit	VER:pres	emplir
+les	DET:ART	le
+maisons	NOM	maison
+et	KON	et
+les	DET:ART	le
+cours	NOM	cour|cours
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+enfant	NOM	enfant
+ne	ADV	ne
+peut	VER:pres	pouvoir
+plus	ADV	plus
+.	SENT	.
+elle	PRO:PER	elle
+s'	PRO:PER	se
+agite	VER:pres	agiter
+et	KON	et
+cambre	VER:pres	cambrer
+les	DET:ART	le
+reins	NOM	rein
+,	PUN	,
+et	KON	et
+d'	PRP	de
+une	DET:ART	un
+main	NOM	main
+ouvre	VER:pres	ouvrer|ouvrir
+le	DET:ART	le
+rideau	NOM	rideau
+bleu	ADJ	bleu
+pour	PRP	pour
+amener	VER:infi	amener
+un	DET:ART	un
+peu	ADV	peu
+la	DET:ART	le
+fraîcheur	NOM	fraîcheur
+de	PRP	de
+la	DET:ART	le
+chambre	NOM	chambre
+sous	PRP	sous
+le	DET:ART	le
+drap	NOM	drap
+,	PUN	,
+vers	PRP	vers
+son	DET:POS	son
+ventre	NOM	ventre
+et	KON	et
+sa	DET:POS	son
+poitrine	NOM	poitrine
+en	PRP	en
+feu	NOM	feu
+.	SENT	.
+a	VER:pres	avoir
+son	DET:POS	son
+réveil	NOM	réveil
+,	PUN	,
+minuit	NOM	minuit
+,	PUN	,
+la	DET:ART	le
+fenêtre	NOM	fenêtre
+était	VER:impf	être
+blanche	ADJ	blanc
+devant	PRP	devant
+le	DET:ART	le
+soleil	NOM	soleil
+bleu	ADJ	bleu
+des	PRP:det	du
+rideaux	NOM	rideau
+illunés	ADJ	illuné
+;	PUN	;
+la	DET:ART	le
+vision	NOM	vision
+la	PRO:PER	la
+prit	VER:simp	prendre
+des	PRP:det	du
+langueurs	NOM	langueur
+du	PRP:det	du
+dimanche	NOM	dimanche
+,	PUN	,
+elle	PRO:PER	elle
+avait	VER:impf	avoir
+rêvé	VER:pper	rêver
+rouge	ADJ	rouge
+.	SENT	.
+elle	PRO:PER	elle
+saigna	VER:simp	saigner
+du	PRP:det	du
+nez	NOM	nez
+,	PUN	,
+et	KON	et
+se	PRO:PER	se
+sentant	VER:ppre	sentir
+bien	ADV	bien
+chaste	ADJ	chaste
+et	KON	et
+pleine	ADJ	plein
+de	PRP	de
+faiblesse	NOM	faiblesse
+,	PUN	,
+pour	PRP	pour
+savourer	VER:infi	savourer
+en	PRP	en
+dieu	NOM	dieu
+son	DET:POS	son
+amour	NOM	amour
+revenant	ADJ	revenant
+,	PUN	,
+elle	PRO:PER	elle
+eut	VER:simp	avoir
+soif	NOM	soif
+de	PRP	de
+la	DET:ART	le
+nuit	NOM	nuit
+forte	ADJ	fort
+où	PRO:REL	où
+s'	PRO:PER	se
+exalte	VER:pres	exalter
+et	KON	et
+s'	PRO:PER	se
+abaisse	VER:pres	abaisser
+le	DET:ART	le
+coeur	NOM	cœur
+,	PUN	,
+sous	PRP	sous
+l'	DET:ART	le
+oeil	NOM	œil
+des	PRP:det	du
+cieux	NOM	cieux
+doux	ADJ	doux
+,	PUN	,
+en	PRP	en
+les	PRO:PER	la|le
+devinant	VER:ppre	deviner
+;	PUN	;
+de	PRP	de
+la	DET:ART	le
+nuit	NOM	nuit
+,	PUN	,
+vierge	ADJ	vierge
+mère	NOM	mère
+impalpable	ADJ	impalpable
+,	PUN	,
+qui	PRO:REL	qui
+baigne	VER:pres	baigner
+tous	PRO:IND	tout
+les	DET:ART	le
+jeunes	ADJ	jeune
+émois	NOM	émoi
+de	PRP	de
+ses	DET:POS	son
+silences	NOM	silence
+gris	ADJ	gris
+;	PUN	;
+elle	PRO:PER	elle
+eut	VER:simp	avoir
+soif	NOM	soif
+de	PRP	de
+la	DET:ART	le
+nuit	NOM	nuit
+forte	ADJ	fort
+où	PRO:REL	où
+le	DET:ART	le
+coeur	NOM	cœur
+qui	PRO:REL	qui
+saigne	VER:pres	saigner
+ecoute	NOM	ecoute
+sans	PRP	sans
+témoin	NOM	témoin
+sa	DET:POS	son
+révolte	NOM	révolte
+sans	PRP	sans
+cris	NOM	cri
+.	SENT	.
+et	KON	et
+,	PUN	,
+faisant	VER:ppre	faire
+la	DET:ART	le
+victime	NOM	victime
+et	KON	et
+la	DET:ART	le
+petite	ADJ	petit
+épouse	NOM	épouse
+,	PUN	,
+son	DET:POS	son
+étoile	NOM	étoile
+la	DET:ART	le
+vit	NOM	vit
+,	PUN	,
+une	DET:ART	un
+chandelle	NOM	chandelle
+aux	PRP:det	au
+doigts	NOM	doigt
+,	PUN	,
+descendre	VER:infi	descendre
+dans	PRP	dans
+la	DET:ART	le
+cour	NOM	cour
+où	PRO:REL	où
+séchait	VER:impf	sécher
+une	DET:ART	un
+blouse	NOM	blouse
+,	PUN	,
+spectre	NOM	spectre
+blanc	ADJ	blanc
+,	PUN	,
+et	KON	et
+lever	VER:infi	lever
+les	DET:ART	le
+spectres	NOM	spectre
+noirs	ADJ	noir
+des	PRP:det	du
+toits	NOM	toit
+.	SENT	.
+elle	PRO:PER	elle
+passa	VER:simp	passer
+sa	DET:POS	son
+nuit	NOM	nuit
+sainte	ADJ	saint
+dans	PRP	dans
+des	PRP:det	du
+latrines	NOM	latrines
+.	SENT	.
+vers	PRP	vers
+la	DET:ART	le
+chandelle	NOM	chandelle
+,	PUN	,
+aux	PRP:det	au
+trous	NOM	trou
+du	PRP:det	du
+toit	NOM	toit
+,	PUN	,
+coulait	VER:impf	couler
+l'	DET:ART	le
+air	NOM	air
+blanc	ADJ	blanc
+,	PUN	,
+et	KON	et
+quelque	PRO:IND	quelque
+vigne	NOM	vigne
+folle	ADJ	folle|fou
+aux	PRP:det	au
+noirceurs	NOM	noirceur
+purpurines	ADJ	purpurin
+en	PRP	en
+deçà	ADV	deçà
+d'	PRP	de
+une	DET:ART	un
+cour	NOM	cour
+voisine	ADJ	voisin
+s'	PRO:PER	se
+écroulant	VER:ppre	écrouler
+.	SENT	.
+la	DET:ART	le
+lucarne	NOM	lucarne
+faisait	VER:impf	faire
+un	DET:ART	un
+coeur	NOM	cœur
+de	PRP	de
+lueur	NOM	lueur
+vive	ADJ	vif
+dans	PRP	dans
+la	DET:ART	le
+cour	NOM	cour
+où	PRO:REL	où
+les	DET:ART	le
+cieux	NOM	cieux
+bas	ADJ	bas
+plaquaient	VER:impf	plaquer
+d'	PRP	de
+ors	NOM	or
+vermeils	ADJ	vermeil
+les	DET:ART	le
+vitres	NOM	vitre
+;	PUN	;
+les	DET:ART	le
+pavés	NOM	pavé
+puant	VER:ppre	puer
+l'	DET:ART	le
+eau	NOM	eau
+de	PRP	de
+lessive	NOM	lessive
+souffraient	VER:impf	souffrir
+l'	DET:ART	le
+ombre	NOM	ombre
+des	PRP:det	du
+toits	NOM	toit
+bordés	VER:pper	border
+de	PRP	de
+noirs	ADJ	noir
+sommeils	NOM	sommeil
+.	SENT	.
+qui	PRO	qui
+dira	VER:futu	dire
+ces	PRO:DEM	ce
+langueurs	NOM	langueur
+et	KON	et
+ces	PRO:DEM	ce
+pitiés	NOM	pitié
+immondes	ADJ	immonde
+et	KON	et
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+lui	PRO:PER	lui
+viendra	VER:futu	venir
+de	PRP	de
+haine	NOM	haine
+,	PUN	,
+ô	INT	ô
+sales	ADJ	sale
+fous	NOM	fou
+,	PUN	,
+dont	PRO:REL	dont
+le	DET:ART	le
+travail	NOM	travail
+divin	ADJ	divin
+déforme	VER:pres	déformer
+encore	ADV	encore
+les	DET:ART	le
+mondes	NOM	monde
+quand	KON	quand
+la	DET:ART	le
+lèpre	NOM	lèpre
+,	PUN	,
+à	PRP	à
+la	DET:ART	le
+fin	NOM	fin
+,	PUN	,
+rongera	VER:futu	ronger
+ce	PRO:DEM	ce
+corps	NOM	corps
+doux	ADJ	doux
+,	PUN	,
+et	KON	et
+quand	KON	quand
+,	PUN	,
+ayant	VER:ppre	avoir
+rentré	VER:pper	rentrer
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+noeuds	NOM	nœud
+d'	PRP	de
+hystéries	NOM	hystérie
+elle	PRO:PER	elle
+verra	VER:futu	voir
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+tristesses	NOM	tristesse
+du	PRP:det	du
+bonheur	NOM	bonheur
+,	PUN	,
+l'	DET:ART	le
+amant	NOM	amant
+rêver	VER:infi	rêver
+au	PRP:det	au
+blanc	ADJ	blanc
+million	NOM	million
+des	PRP:det	du
+maries	VER:pres	marier
+au	PRP:det	au
+matin	NOM	matin
+de	PRP	de
+la	DET:ART	le
+nuit	NOM	nuit
+d'	PRP	de
+amour	NOM	amour
+,	PUN	,
+avec	PRP	avec
+douleur	NOM	douleur
+!	SENT	!
+sais	VER:pres	savoir
+tu	PRO:PER	tu
+que	PRO:REL	que
+je	PRO:PER	je
+t'	PRO:PER	te
+ai	VER:pres	avoir
+fait	VER:pper	faire
+mourir	VER:infi	mourir
+?	SENT	?
+j'	PRO:PER	je
+ai	VER:pres	avoir
+pris	VER:pper	prendre
+ta	DET:POS	ton
+bouche	NOM	bouche
+,	PUN	,
+ton	DET:POS	ton
+coeur	NOM	cœur
+,	PUN	,
+tout	PRO:IND	tout
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+on	PRO:PER	on
+a	VER:pres	avoir
+,	PUN	,
+tout	PRO:IND	tout
+ce	PRO:DEM	ce
+que	PRO:REL	que
+vous	PRO:PER	vous
+avez	VER:pres	avoir
+,	PUN	,
+et	KON	et
+moi	PRO:PER	moi
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+malade	ADJ	malade
+.	SENT	.
+oh	INT	oh
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+qu'	KON	que
+on	PRO:PER	on
+me	PRO:PER	me
+couche	VER:pres	coucher
+parmi	PRP	parmi
+les	DET:ART	le
+morts	NOM	mort
+des	PRP:det	du
+eaux	NOM	eau
+nocturnes	ADJ	nocturne
+abreuvés	VER:pper	abreuver
+!	SENT	!
+j'	PRO:PER	je
+étais	VER:impf	être
+bien	ADV	bien
+jeune	ADJ	jeune
+,	PUN	,
+et	KON	et
+christ	NOM	christ
+a	VER:pres	avoir
+souillé	VER:pper	souiller
+mes	DET:POS	mon
+haleines	NOM	haleine
+,	PUN	,
+il	PRO:PER	il
+me	PRO:PER	me
+bonda	VER:simp	bonder
+jusqu'	PRP	jusque
+à	PRP	à
+la	DET:ART	le
+gorge	NOM	gorge
+de	PRP	de
+dégoûts	NOM	dégoût
+;	PUN	;
+tu	PRO:PER	tu
+baisais	VER:impf	baiser
+mes	DET:POS	mon
+cheveux	NOM	cheveu
+profonds	ADJ	profond
+comme	KON	comme
+les	DET:ART	le
+laines	NOM	laine
+,	PUN	,
+et	KON	et
+je	PRO:PER	je
+me	PRO:PER	me
+laissais	VER:impf	laisser
+faire	VER:infi	faire
+!	SENT	!
+...	PUN	...
+oh	INT	oh
+!	SENT	!
+va	VER:pres	aller
+...	PUN	...
+c'	PRO:DEM	ce
+est	VER:pres	être
+bon	ADJ	bon
+pour	PRP	pour
+vous	PRO:PER	vous
+,	PUN	,
+hommes	NOM	homme
+!	SENT	!
+qui	PRO	qui
+songez	VER:pres	songer
+peu	ADV	peu
+que	KON	que
+la	DET:ART	le
+plus	ADV	plus
+amoureuse	ADJ	amoureux
+est	VER:pres	être
+,	PUN	,
+dans	PRP	dans
+sa	DET:POS	son
+conscience	NOM	conscience
+,	PUN	,
+aux	PRP:det	au
+ignobles	ADJ	ignoble
+terreurs	NOM	terreur
+la	DET:ART	le
+plus	ADV	plus
+prostituée	VER:pper	prostituer
+et	KON	et
+la	DET:ART	le
+plus	ADV	plus
+douloureuse	ADJ	douloureux
+et	KON	et
+que	KON	que
+tous	PRO:IND	tout
+nos	DET:POS	notre
+élans	NOM	élan
+vers	PRP	vers
+vous	PRO:PER	vous
+sont	VER:pres	être
+des	PRP:det	du
+erreurs	NOM	erreur
+.	SENT	.
+car	KON	car
+ma	DET:POS	mon
+communion	NOM	communion
+première	NUM	premier
+est	VER:pres	être
+bien	ADV	bien
+passée	VER:pper	passer
+!	SENT	!
+tes	DET:POS	ton
+baisers	NOM	baiser
+,	PUN	,
+je	PRO:PER	je
+ne	ADV	ne
+puis	ADV	puis
+jamais	ADV	jamais
+les	PRO:PER	la|le
+avoir	VER:infi	avoir
+bus	VER:pper	boire
+.	SENT	.
+et	KON	et
+mon	DET:POS	mon
+coeur	NOM	cœur
+et	KON	et
+ma	DET:POS	mon
+chair	NOM	chair
+par	PRP	par
+ta	DET:POS	ton
+chair	NOM	chair
+embrassée	ADJ	embrassé
+fourmillent	VER:pres	fourmiller
+du	PRP:det	du
+baiser	NOM	baiser
+putride	ADJ	putride
+de	PRP	de
+jésus	NOM	jésus
+...	PUN	...
+alors	ADV	alors
+l'	DET:ART	le
+âme	NOM	âme
+pourrie	VER:pper	pourrir
+et	KON	et
+l'	DET:ART	le
+âme	NOM	âme
+désolée	VER:pper	désoler
+sentiront	VER:futu	sentir
+ruisseler	VER:infi	ruisseler
+tes	DET:POS	ton
+malédictions	NOM	malédiction
+.	SENT	.
+ils	PRO:PER	il
+avaient	VER:impf	avoir
+couché	VER:pper	coucher
+sur	PRP	sur
+ta	DET:POS	ton
+haine	NOM	haine
+inviolée	ADJ	inviolé
+,	PUN	,
+echappés	VER:pper	echappés
+,	PUN	,
+pour	PRP	pour
+la	DET:ART	le
+mort	NOM	mort
+,	PUN	,
+des	PRP:det	du
+justes	ADJ	juste
+passions	NOM	passion
+.	SENT	.
+christ	NOM	christ
+,	PUN	,
+ô	INT	ô
+christ	NOM	christ
+,	PUN	,
+éternel	NOM	éternel
+voleur	ADJ	voleur
+des	PRP:det	du
+énergies	NOM	énergie
+,	PUN	,
+dieu	NOM	dieu
+qui	PRO:REL	qui
+,	PUN	,
+pour	PRP	pour
+deux	NUM	deux
+mille	NUM	mille
+ans	NOM	an
+,	PUN	,
+vouas	VER:simp	vouer
+,	PUN	,
+à	PRP	à
+ta	DET:POS	ton
+pâleur	NOM	pâleur
+,	PUN	,
+cloués	VER:pper	clouer
+au	PRP:det	au
+sol	NOM	sol
+,	PUN	,
+de	PRP	de
+honte	NOM	honte
+et	KON	et
+de	PRP	de
+céphalalgies	NOM	céphalalgie
+,	PUN	,
+ou	KON	ou
+renversés	VER:pper	renverser
+,	PUN	,
+les	DET:ART	le
+fronts	NOM	front
+des	PRP:det	du
+femmes	NOM	femme
+de	PRP	de
+douleur	NOM	douleur
+.	SENT	.

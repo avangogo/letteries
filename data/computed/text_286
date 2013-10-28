@@ -1,13 +1,13 @@
-exhume	VER:pres
-les	DET:ART
-ombres	NOM
-et	KON
-chavire	VER:pres
-les	DET:ART
-étoiles	NOM
-,	PUN
-éclats	NOM
-endoloris	VER:pper
-du	PRP:det
-soleil	NOM
-.	SENT
+exhume	VER:pres	exhumer
+les	DET:ART	le
+ombres	NOM	ombre
+et	KON	et
+chavire	VER:pres	chavirer
+les	DET:ART	le
+étoiles	NOM	étoile
+,	PUN	,
+éclats	NOM	éclat
+endoloris	VER:pper	endolorir
+du	PRP:det	du
+soleil	NOM	soleil
+.	SENT	.

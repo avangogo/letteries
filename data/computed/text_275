@@ -1,200 +1,200 @@
-aux	PRP:det
-branches	NOM
-claires	ADJ
-des	PRP:det
-tilleuls	NOM
-meurt	VER:pres
-un	DET:ART
-maladif	ADJ
-hallali	NOM
-.	SENT
-mais	KON
-des	PRP:det
-chansons	NOM
-spirituelles	ADJ
-voltigent	VER:pres
-partout	ADV
-les	DET:ART
-groseilles	NOM
-.	SENT
-que	KON
-notre	DET:POS
-sang	NOM
-rie	VER:subp
-en	PRP
-nos	DET:POS
-veines	NOM
-,	PUN
-voici	ADV
-s'	PRO:PER
-enchevêtrer	VER:infi
-les	DET:ART
-vignes	NOM
-.	SENT
-le	DET:ART
-ciel	NOM
-est	VER:pres
-joli	ADJ
-comme	KON
-un	DET:ART
-ange	NOM
-,	PUN
-azur	NOM
-et	KON
-onde	NOM
-communient	VER:pres
-.	SENT
-je	PRO:PER
-sors	VER:pres
-!	SENT
-si	KON
-un	DET:ART
-rayon	NOM
-me	PRO:PER
-blesse	VER:pres
-,	PUN
-je	PRO:PER
-succomberai	VER:futu
-sur	PRP
-la	DET:ART
-mousse	NOM
-.	SENT
-qu'	KON
-on	PRO:PER
-patiente	VER:pres
-et	KON
-qu'	KON
-on	PRO:PER
-s'	PRO:PER
-ennuie	VER:pres
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-si	ADV
-simple	ADJ
-!	SENT
-...	PUN
-fi	NOM
-de	PRP
-ces	PRO:DEM
-peines	NOM
-!	SENT
-je	PRO:PER
-veux	VER:pres
-que	KON
-l'	DET:ART
-été	NOM
-dramatique	ADJ
-me	PRO:PER
-lie	VER:pres
-à	PRP
-son	DET:POS
-char	NOM
-de	PRP
-fortune	NOM
-.	SENT
-que	KON
-par	PRP
-toi	PRO:PER
-beaucoup	ADV
-,	PUN
-ô	INT
-nature	NOM
-,	PUN
-ah	INT
-!	SENT
-moins	ADV
-nul	ADJ
-et	KON
-moins	ADV
-seul	ADJ
-!	SENT
-je	PRO:PER
-meure	VER:subp
-.	SENT
-au	PRP:det
-lieu	NOM
-que	KON
-les	DET:ART
-bergers	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-drôle	ADJ
-,	PUN
-meurent	VER:pres
-à	PRP
-peu	ADV
-près	ADV
-par	PRP
-le	DET:ART
-monde	NOM
-.	SENT
-je	PRO:PER
-veux	VER:pres
-bien	ADV
-que	KON
-les	DET:ART
-saisons	NOM
-m'	PRO:PER
-usent	VER:pres
-.	SENT
-a	VER:pres
-toi	PRO:PER
-,	PUN
-nature	NOM
-!	SENT
-je	PRO:PER
-me	PRO:PER
-rends	VER:pres
-,	PUN
-et	KON
-ma	DET:POS
-faim	NOM
-et	KON
-toute	PRO:IND
-ma	DET:POS
-soif	NOM
-;	PUN
-et	KON
-,	PUN
-s'	KON
-il	PRO:PER
-te	PRO:PER
-plaît	VER:pres
-,	PUN
-nourris	VER:pper
-,	PUN
-abreuve	VER:pres
-.	SENT
-rien	NOM
-de	PRP
-rien	NOM
-ne	ADV
-m'	PRO:PER
-illusionne	VER:pres
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-rire	VER:infi
-aux	PRP:det
-parents	NOM
-qu'	KON
-au	PRP:det
-soleil	NOM
-;	PUN
-mais	KON
-moi	PRO:PER
-je	PRO:PER
-ne	ADV
-veux	VER:pres
-rire	VER:infi
-à	PRP
-rien	NOM
-,	PUN
-et	KON
-libre	ADJ
-soit	KON
-cette	PRO:DEM
-infortune	NOM
-.	SENT
+aux	PRP:det	au
+branches	NOM	branche
+claires	ADJ	clair
+des	PRP:det	du
+tilleuls	NOM	tilleul
+meurt	VER:pres	mourir
+un	DET:ART	un
+maladif	ADJ	maladif
+hallali	NOM	hallali
+.	SENT	.
+mais	KON	mais
+des	PRP:det	du
+chansons	NOM	chanson
+spirituelles	ADJ	spirituel
+voltigent	VER:pres	voltiger
+partout	ADV	partout
+les	DET:ART	le
+groseilles	NOM	groseille
+.	SENT	.
+que	KON	que
+notre	DET:POS	notre
+sang	NOM	sang
+rie	VER:subp	rire
+en	PRP	en
+nos	DET:POS	notre
+veines	NOM	veine
+,	PUN	,
+voici	ADV	voici
+s'	PRO:PER	se
+enchevêtrer	VER:infi	enchevêtrer
+les	DET:ART	le
+vignes	NOM	vigne
+.	SENT	.
+le	DET:ART	le
+ciel	NOM	ciel
+est	VER:pres	être
+joli	ADJ	joli
+comme	KON	comme
+un	DET:ART	un
+ange	NOM	ange
+,	PUN	,
+azur	NOM	azur
+et	KON	et
+onde	NOM	onde
+communient	VER:pres	communier
+.	SENT	.
+je	PRO:PER	je
+sors	VER:pres	sortir
+!	SENT	!
+si	KON	si
+un	DET:ART	un
+rayon	NOM	rayon
+me	PRO:PER	me
+blesse	VER:pres	blesser
+,	PUN	,
+je	PRO:PER	je
+succomberai	VER:futu	succomber
+sur	PRP	sur
+la	DET:ART	le
+mousse	NOM	mousse
+.	SENT	.
+qu'	KON	que
+on	PRO:PER	on
+patiente	VER:pres	patienter
+et	KON	et
+qu'	KON	que
+on	PRO:PER	on
+s'	PRO:PER	se
+ennuie	VER:pres	ennuyer
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+si	ADV	si
+simple	ADJ	simple
+!	SENT	!
+...	PUN	...
+fi	NOM	fi
+de	PRP	de
+ces	PRO:DEM	ce
+peines	NOM	peine
+!	SENT	!
+je	PRO:PER	je
+veux	VER:pres	vouloir
+que	KON	que
+l'	DET:ART	le
+été	NOM	été
+dramatique	ADJ	dramatique
+me	PRO:PER	me
+lie	VER:pres	lier
+à	PRP	à
+son	DET:POS	son
+char	NOM	char
+de	PRP	de
+fortune	NOM	fortune
+.	SENT	.
+que	KON	que
+par	PRP	par
+toi	PRO:PER	toi
+beaucoup	ADV	beaucoup
+,	PUN	,
+ô	INT	ô
+nature	NOM	nature
+,	PUN	,
+ah	INT	ah
+!	SENT	!
+moins	ADV	moins
+nul	ADJ	nul
+et	KON	et
+moins	ADV	moins
+seul	ADJ	seul
+!	SENT	!
+je	PRO:PER	je
+meure	VER:subp	mourir
+.	SENT	.
+au	PRP:det	au
+lieu	NOM	lieu
+que	KON	que
+les	DET:ART	le
+bergers	NOM	berger
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+drôle	ADJ	drôle
+,	PUN	,
+meurent	VER:pres	mourir
+à	PRP	à
+peu	ADV	peu
+près	ADV	près
+par	PRP	par
+le	DET:ART	le
+monde	NOM	monde
+.	SENT	.
+je	PRO:PER	je
+veux	VER:pres	vouloir
+bien	ADV	bien
+que	KON	que
+les	DET:ART	le
+saisons	NOM	saison
+m'	PRO:PER	me
+usent	VER:pres	user
+.	SENT	.
+a	VER:pres	avoir
+toi	PRO:PER	toi
+,	PUN	,
+nature	NOM	nature
+!	SENT	!
+je	PRO:PER	je
+me	PRO:PER	me
+rends	VER:pres	rendre
+,	PUN	,
+et	KON	et
+ma	DET:POS	mon
+faim	NOM	faim
+et	KON	et
+toute	PRO:IND	tout
+ma	DET:POS	mon
+soif	NOM	soif
+;	PUN	;
+et	KON	et
+,	PUN	,
+s'	KON	si
+il	PRO:PER	il
+te	PRO:PER	te
+plaît	VER:pres	plaire
+,	PUN	,
+nourris	VER:pper	nourrir
+,	PUN	,
+abreuve	VER:pres	abreuver
+.	SENT	.
+rien	NOM	rien
+de	PRP	de
+rien	NOM	rien
+ne	ADV	ne
+m'	PRO:PER	me
+illusionne	VER:pres	illusionner
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+rire	VER:infi	rire
+aux	PRP:det	au
+parents	NOM	parent|parents
+qu'	KON	que
+au	PRP:det	au
+soleil	NOM	soleil
+;	PUN	;
+mais	KON	mais
+moi	PRO:PER	moi
+je	PRO:PER	je
+ne	ADV	ne
+veux	VER:pres	vouloir
+rire	VER:infi	rire
+à	PRP	à
+rien	NOM	rien
+,	PUN	,
+et	KON	et
+libre	ADJ	libre
+soit	KON	soit
+cette	PRO:DEM	ce
+infortune	NOM	infortune
+.	SENT	.

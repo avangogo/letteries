@@ -1,137 +1,137 @@
-au	PRP:det
-pays	NOM
-parfumé	VER:pper
-que	KON
-le	DET:ART
-soleil	NOM
-caresse	VER:pres
-,	PUN
-j'	PRO:PER
-ai	VER:pres
-connu	VER:pper
-,	PUN
-sous	PRP
-un	DET:ART
-dais	NOM
-d'	PRP
-arbres	NOM
-tout	ADV
-empourprés	VER:pper
-et	KON
-de	PRP
-palmiers	NOM
-d'	PRP
-où	PRO:REL
-pleut	VER:pres
-sur	PRP
-les	DET:ART
-yeux	NOM
-la	DET:ART
-paresse	NOM
-,	PUN
-une	DET:ART
-dame	NOM
-créole	ADJ
-aux	PRP:det
-charmes	NOM
-ignorés	ADJ
-.	SENT
-son	DET:POS
-teint	NOM
-est	VER:pres
-pâle	ADJ
-et	KON
-chaud	ADJ
-;	PUN
-la	DET:ART
-brune	NOM
-enchanteresse	ADJ
-a	VER:pres
-dans	PRP
-le	DET:ART
-col	NOM
-des	PRP:det
-airs	NOM
-noblement	ADV
-maniérés	VER:pper
-;	PUN
-grande	ADJ
-et	KON
-svelte	ADJ
-en	PRP
-marchant	VER:ppre
-comme	ADV
-une	DET:ART
-chasseresse	NOM
-,	PUN
-son	DET:POS
-sourire	NOM
-est	VER:pres
-tranquille	ADJ
-et	KON
-ses	DET:POS
-yeux	NOM
-assurés	VER:pper
-.	SENT
-si	KON
-vous	PRO:PER
-alliez	VER:subp
-,	PUN
-madame	NOM
-,	PUN
-au	PRP:det
-vrai	ADJ
-pays	NOM
-de	PRP
-gloire	NOM
-,	PUN
-sur	PRP
-les	DET:ART
-bords	NOM
-de	PRP
-la	DET:ART
-seine	NOM
-ou	KON
-de	PRP
-la	DET:ART
-verte	ADJ
-loire	NOM
-,	PUN
-belle	ADJ
-digne	ADJ
-d'	PRP
-orner	VER:infi
-les	DET:ART
-antiques	ADJ
-manoirs	NOM
-,	PUN
-vous	PRO:PER
-feriez	VER:cond
-,	PUN
-à	PRP
-l'	DET:ART
-abri	NOM
-des	PRP:det
-ombreuses	ADJ
-retraites	NOM
-,	PUN
-germer	VER:infi
-mille	NUM
-sonnets	NOM
-dans	PRP
-le	DET:ART
-coeur	NOM
-des	PRP:det
-poëtes	NOM
-,	PUN
-que	KON
-vos	DET:POS
-grands	ADJ
-yeux	NOM
-rendraient	VER:cond
-plus	ADV
-soumis	VER:pper
-que	KON
-vos	DET:POS
-noirs	NOM
-.	SENT
+au	PRP:det	au
+pays	NOM	pays
+parfumé	VER:pper	parfumer
+que	KON	que
+le	DET:ART	le
+soleil	NOM	soleil
+caresse	VER:pres	caresser
+,	PUN	,
+j'	PRO:PER	je
+ai	VER:pres	avoir
+connu	VER:pper	connaître
+,	PUN	,
+sous	PRP	sous
+un	DET:ART	un
+dais	NOM	dais
+d'	PRP	de
+arbres	NOM	arbre
+tout	ADV	tout
+empourprés	VER:pper	empourprer
+et	KON	et
+de	PRP	de
+palmiers	NOM	palmier
+d'	PRP	de
+où	PRO:REL	où
+pleut	VER:pres	pleuvoir
+sur	PRP	sur
+les	DET:ART	le
+yeux	NOM	œil
+la	DET:ART	le
+paresse	NOM	paresse
+,	PUN	,
+une	DET:ART	un
+dame	NOM	dame
+créole	ADJ	créole
+aux	PRP:det	au
+charmes	NOM	charme
+ignorés	ADJ	ignoré
+.	SENT	.
+son	DET:POS	son
+teint	NOM	teint
+est	VER:pres	être
+pâle	ADJ	pâle
+et	KON	et
+chaud	ADJ	chaud
+;	PUN	;
+la	DET:ART	le
+brune	NOM	brun|brune
+enchanteresse	ADJ	enchanteur
+a	VER:pres	avoir
+dans	PRP	dans
+le	DET:ART	le
+col	NOM	col
+des	PRP:det	du
+airs	NOM	air
+noblement	ADV	noblement
+maniérés	VER:pper	maniérer
+;	PUN	;
+grande	ADJ	grand
+et	KON	et
+svelte	ADJ	svelte
+en	PRP	en
+marchant	VER:ppre	marcher
+comme	ADV	comme
+une	DET:ART	un
+chasseresse	NOM	chasseresse
+,	PUN	,
+son	DET:POS	son
+sourire	NOM	sourire
+est	VER:pres	être
+tranquille	ADJ	tranquille
+et	KON	et
+ses	DET:POS	son
+yeux	NOM	œil
+assurés	VER:pper	assurer
+.	SENT	.
+si	KON	si
+vous	PRO:PER	vous
+alliez	VER:subp	aller
+,	PUN	,
+madame	NOM	madame
+,	PUN	,
+au	PRP:det	au
+vrai	ADJ	vrai
+pays	NOM	pays
+de	PRP	de
+gloire	NOM	gloire
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+bords	NOM	bord
+de	PRP	de
+la	DET:ART	le
+seine	NOM	seine
+ou	KON	ou
+de	PRP	de
+la	DET:ART	le
+verte	ADJ	vert
+loire	NOM	loire
+,	PUN	,
+belle	ADJ	beau
+digne	ADJ	digne
+d'	PRP	de
+orner	VER:infi	orner
+les	DET:ART	le
+antiques	ADJ	antique
+manoirs	NOM	manoir
+,	PUN	,
+vous	PRO:PER	vous
+feriez	VER:cond	faire
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+abri	NOM	abri
+des	PRP:det	du
+ombreuses	ADJ	ombreux
+retraites	NOM	retraite
+,	PUN	,
+germer	VER:infi	germer
+mille	NUM	mille
+sonnets	NOM	sonnet
+dans	PRP	dans
+le	DET:ART	le
+coeur	NOM	cœur
+des	PRP:det	du
+poëtes	NOM	poëtes
+,	PUN	,
+que	KON	que
+vos	DET:POS	votre
+grands	ADJ	grand
+yeux	NOM	œil
+rendraient	VER:cond	rendre
+plus	ADV	plus
+soumis	VER:pper	soumettre
+que	KON	que
+vos	DET:POS	votre
+noirs	NOM	noir
+.	SENT	.

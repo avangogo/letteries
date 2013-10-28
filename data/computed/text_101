@@ -1,165 +1,165 @@
-la	DET:ART
-chair	NOM
-est	VER:pres
-triste	ADJ
-,	PUN
-hélas	INT
-!	SENT
-et	KON
-j'	PRO:PER
-ai	VER:pres
-lu	VER:pper
-tous	PRO:IND
-les	DET:ART
-livres	NOM
-.	SENT
-fuir	VER:infi
-!	SENT
-là	ADV
-bas	ADV
-fuir	VER:infi
-!	SENT
-je	PRO:PER
-sens	VER:pres
-que	KON
-des	PRP:det
-oiseaux	NOM
-sont	VER:pres
-ivres	ADJ
-d'	PRP
-être	VER:infi
-parmi	PRP
-l'	DET:ART
-écume	NOM
-inconnue	ADJ
-et	KON
-les	DET:ART
-cieux	NOM
-!	SENT
-rien	ADV
-,	PUN
-ni	KON
-les	DET:ART
-vieux	ADJ
-jardins	NOM
-reflétés	VER:pper
-par	PRP
-les	DET:ART
-yeux	NOM
-ne	ADV
-retiendra	VER:futu
-ce	PRO:DEM
-coeur	NOM
-qui	PRO:REL
-dans	PRP
-la	DET:ART
-mer	NOM
-se	PRO:PER
-trempe	VER:pres
-ô	INT
-nuits	NOM
-!	SENT
-ni	KON
-la	DET:ART
-clarté	NOM
-déserte	ADJ
-de	PRP
-ma	DET:POS
-lampe	NOM
-sur	PRP
-le	DET:ART
-vide	ADJ
-papier	NOM
-que	KON
-la	DET:ART
-blancheur	NOM
-défend	VER:pres
-et	KON
-ni	KON
-la	DET:ART
-jeune	ADJ
-femme	NOM
-allaitant	VER:ppre
-son	DET:POS
-enfant	NOM
-.	SENT
-je	PRO:PER
-partirai	VER:futu
-!	SENT
-steamer	NOM
-balançant	VER:ppre
-ta	DET:POS
-mâture	NOM
-,	PUN
-lève	VER:pres
-l'	DET:ART
-ancre	NOM
-pour	PRP
-une	DET:ART
-exotique	ADJ
-nature	NOM
-!	SENT
-un	DET:ART
-ennui	NOM
-,	PUN
-désolé	VER:pper
-par	PRP
-les	DET:ART
-cruels	ADJ
-espoirs	NOM
-,	PUN
-croit	VER:pres
-encore	ADV
-à	PRP
-l'	DET:ART
-adieu	NOM
-suprême	ADJ
-des	PRP:det
-mouchoirs	NOM
-!	SENT
-et	KON
-,	PUN
-peut	VER:pres
-être	VER:infi
-,	PUN
-les	DET:ART
-mâts	NOM
-,	PUN
-invitant	VER:ppre
-les	DET:ART
-orages	NOM
-sont	VER:pres
-ils	PRO:PER
-de	PRP
-ceux	PRO:DEM
-qu'	PRO:REL
-un	DET:ART
-vent	NOM
-penche	VER:pres
-sur	PRP
-les	DET:ART
-naufrages	NOM
-perdus	ADJ
-,	PUN
-sans	PRP
-mâts	NOM
-,	PUN
-sans	PRP
-mâts	NOM
-,	PUN
-ni	KON
-fertiles	ADJ
-îlots	NOM
-...	PUN
-mais	KON
-,	PUN
-ô	INT
-mon	DET:POS
-coeur	NOM
-,	PUN
-entends	VER:pres
-le	DET:ART
-chant	NOM
-des	PRP:det
-matelots	NOM
-!	SENT
+la	DET:ART	le
+chair	NOM	chair
+est	VER:pres	être
+triste	ADJ	triste
+,	PUN	,
+hélas	INT	hélas
+!	SENT	!
+et	KON	et
+j'	PRO:PER	je
+ai	VER:pres	avoir
+lu	VER:pper	lire
+tous	PRO:IND	tout
+les	DET:ART	le
+livres	NOM	livre
+.	SENT	.
+fuir	VER:infi	fuir
+!	SENT	!
+là	ADV	là
+bas	ADV	bas
+fuir	VER:infi	fuir
+!	SENT	!
+je	PRO:PER	je
+sens	VER:pres	sentir
+que	KON	que
+des	PRP:det	du
+oiseaux	NOM	oiseau
+sont	VER:pres	être
+ivres	ADJ	ivre
+d'	PRP	de
+être	VER:infi	être
+parmi	PRP	parmi
+l'	DET:ART	le
+écume	NOM	écume
+inconnue	ADJ	inconnu
+et	KON	et
+les	DET:ART	le
+cieux	NOM	cieux
+!	SENT	!
+rien	ADV	rien
+,	PUN	,
+ni	KON	ni
+les	DET:ART	le
+vieux	ADJ	vieux
+jardins	NOM	jardin
+reflétés	VER:pper	refléter
+par	PRP	par
+les	DET:ART	le
+yeux	NOM	œil
+ne	ADV	ne
+retiendra	VER:futu	retenir
+ce	PRO:DEM	ce
+coeur	NOM	cœur
+qui	PRO:REL	qui
+dans	PRP	dans
+la	DET:ART	le
+mer	NOM	mer
+se	PRO:PER	se
+trempe	VER:pres	tremper
+ô	INT	ô
+nuits	NOM	nuit
+!	SENT	!
+ni	KON	ni
+la	DET:ART	le
+clarté	NOM	clarté
+déserte	ADJ	désert
+de	PRP	de
+ma	DET:POS	mon
+lampe	NOM	lampe
+sur	PRP	sur
+le	DET:ART	le
+vide	ADJ	vide
+papier	NOM	papier
+que	KON	que
+la	DET:ART	le
+blancheur	NOM	blancheur
+défend	VER:pres	défendre
+et	KON	et
+ni	KON	ni
+la	DET:ART	le
+jeune	ADJ	jeune
+femme	NOM	femme
+allaitant	VER:ppre	allaiter
+son	DET:POS	son
+enfant	NOM	enfant
+.	SENT	.
+je	PRO:PER	je
+partirai	VER:futu	partir
+!	SENT	!
+steamer	NOM	steamer
+balançant	VER:ppre	balancer
+ta	DET:POS	ton
+mâture	NOM	mâture
+,	PUN	,
+lève	VER:pres	lever
+l'	DET:ART	le
+ancre	NOM	ancre
+pour	PRP	pour
+une	DET:ART	un
+exotique	ADJ	exotique
+nature	NOM	nature
+!	SENT	!
+un	DET:ART	un
+ennui	NOM	ennui
+,	PUN	,
+désolé	VER:pper	désoler
+par	PRP	par
+les	DET:ART	le
+cruels	ADJ	cruel
+espoirs	NOM	espoir
+,	PUN	,
+croit	VER:pres	croire
+encore	ADV	encore
+à	PRP	à
+l'	DET:ART	le
+adieu	NOM	adieu
+suprême	ADJ	suprême
+des	PRP:det	du
+mouchoirs	NOM	mouchoir
+!	SENT	!
+et	KON	et
+,	PUN	,
+peut	VER:pres	pouvoir
+être	VER:infi	être
+,	PUN	,
+les	DET:ART	le
+mâts	NOM	mât
+,	PUN	,
+invitant	VER:ppre	inviter
+les	DET:ART	le
+orages	NOM	orage
+sont	VER:pres	être
+ils	PRO:PER	il
+de	PRP	de
+ceux	PRO:DEM	celui
+qu'	PRO:REL	que
+un	DET:ART	un
+vent	NOM	vent
+penche	VER:pres	pencher
+sur	PRP	sur
+les	DET:ART	le
+naufrages	NOM	naufrage
+perdus	ADJ	perdu
+,	PUN	,
+sans	PRP	sans
+mâts	NOM	mât
+,	PUN	,
+sans	PRP	sans
+mâts	NOM	mât
+,	PUN	,
+ni	KON	ni
+fertiles	ADJ	fertile
+îlots	NOM	îlot
+...	PUN	...
+mais	KON	mais
+,	PUN	,
+ô	INT	ô
+mon	DET:POS	mon
+coeur	NOM	cœur
+,	PUN	,
+entends	VER:pres	entendre
+le	DET:ART	le
+chant	NOM	chant
+des	PRP:det	du
+matelots	NOM	matelot
+!	SENT	!

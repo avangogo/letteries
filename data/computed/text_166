@@ -1,143 +1,143 @@
-on	PRO:PER
-dirait	VER:cond
-ton	DET:POS
-regard	NOM
-d'	PRP
-une	DET:ART
-vapeur	NOM
-couvert	ADJ
-;	PUN
-ton	DET:POS
-oeil	NOM
-mystérieux	ADJ
-est	VER:pres
-il	PRO:PER
-bleu	ADJ
-,	PUN
-gris	ADJ
-ou	KON
-vert	ADJ
-?	SENT
-alternativement	ADV
-tendre	ADJ
-,	PUN
-rêveur	ADJ
-,	PUN
-cruel	ADJ
-réfléchit	VER:pres
-l'	DET:ART
-indolence	NOM
-et	KON
-la	DET:ART
-pâleur	NOM
-du	PRP:det
-ciel	NOM
-.	SENT
-tu	PRO:PER
-rappelles	VER:pres
-ces	PRO:DEM
-jours	NOM
-blancs	ADJ
-,	PUN
-tièdes	ADJ
-et	KON
-voilés	VER:pper
-,	PUN
-qui	PRO:REL
-font	VER:pres
-se	PRO:PER
-fondre	VER:infi
-en	PRP
-pleurs	NOM
-les	DET:ART
-coeurs	NOM
-ensorcelés	VER:pper
-,	PUN
-quand	KON
-,	PUN
-agités	VER:pper
-d'	PRP
-un	DET:ART
-mal	NOM
-inconnu	ADJ
-qui	PRO:REL
-les	PRO:PER
-tord	VER:pres
-,	PUN
-les	DET:ART
-nerfs	NOM
-trop	ADV
-éveillés	VER:pper
-raillent	VER:pres
-l'	DET:ART
-esprit	NOM
-qui	PRO:REL
-dort	VER:pres
-.	SENT
-tu	PRO:PER
-ressembles	VER:pres
-parfois	ADV
-à	PRP
-ces	PRO:DEM
-beaux	ADJ
-horizons	NOM
-qu'	PRO:REL
-allument	VER:pres
-les	DET:ART
-soleils	NOM
-des	PRP:det
-brumeuses	ADJ
-saisons	NOM
-...	PUN
-comme	KON
-tu	PRO:PER
-resplendis	VER:pres
-,	PUN
-paysage	NOM
-mouillé	ADJ
-qu'	PRO:REL
-enflamment	VER:pres
-les	DET:ART
-rayons	NOM
-tombant	VER:ppre
-d'	PRP
-un	DET:ART
-ciel	NOM
-brouillé	VER:pper
-!	SENT
-ô	INT
-femme	NOM
-dangereuse	ADJ
-,	PUN
-ô	INT
-séduisants	ADJ
-climats	NOM
-!	SENT
-adorerai	VER:futu
-je	PRO:PER
-aussi	ADV
-ta	DET:POS
-neige	NOM
-et	KON
-vos	DET:POS
-frimas	NOM
-,	PUN
-et	KON
-saurai	VER:simp
-je	PRO:PER
-tirer	VER:infi
-de	PRP
-l'	DET:ART
-implacable	ADJ
-hiver	NOM
-des	PRP:det
-plaisirs	NOM
-plus	ADV
-aigus	ADJ
-que	KON
-la	DET:ART
-glace	NOM
-et	KON
-le	DET:ART
-fer	NOM
-?	SENT
+on	PRO:PER	on
+dirait	VER:cond	dire
+ton	DET:POS	ton
+regard	NOM	regard
+d'	PRP	de
+une	DET:ART	un
+vapeur	NOM	vapeur
+couvert	ADJ	couvert
+;	PUN	;
+ton	DET:POS	ton
+oeil	NOM	œil
+mystérieux	ADJ	mystérieux
+est	VER:pres	être
+il	PRO:PER	il
+bleu	ADJ	bleu
+,	PUN	,
+gris	ADJ	gris
+ou	KON	ou
+vert	ADJ	vert
+?	SENT	?
+alternativement	ADV	alternativement
+tendre	ADJ	tendre
+,	PUN	,
+rêveur	ADJ	rêveur
+,	PUN	,
+cruel	ADJ	cruel
+réfléchit	VER:pres	réfléchir
+l'	DET:ART	le
+indolence	NOM	indolence
+et	KON	et
+la	DET:ART	le
+pâleur	NOM	pâleur
+du	PRP:det	du
+ciel	NOM	ciel
+.	SENT	.
+tu	PRO:PER	tu
+rappelles	VER:pres	rappeler
+ces	PRO:DEM	ce
+jours	NOM	jour
+blancs	ADJ	blanc
+,	PUN	,
+tièdes	ADJ	tiède
+et	KON	et
+voilés	VER:pper	voiler
+,	PUN	,
+qui	PRO:REL	qui
+font	VER:pres	faire
+se	PRO:PER	se
+fondre	VER:infi	fondre
+en	PRP	en
+pleurs	NOM	pleur|pleurs
+les	DET:ART	le
+coeurs	NOM	cœur
+ensorcelés	VER:pper	ensorceler
+,	PUN	,
+quand	KON	quand
+,	PUN	,
+agités	VER:pper	agiter
+d'	PRP	de
+un	DET:ART	un
+mal	NOM	mal
+inconnu	ADJ	inconnu
+qui	PRO:REL	qui
+les	PRO:PER	la|le
+tord	VER:pres	tordre
+,	PUN	,
+les	DET:ART	le
+nerfs	NOM	nerf
+trop	ADV	trop
+éveillés	VER:pper	éveiller
+raillent	VER:pres	railler
+l'	DET:ART	le
+esprit	NOM	esprit
+qui	PRO:REL	qui
+dort	VER:pres	dormir
+.	SENT	.
+tu	PRO:PER	tu
+ressembles	VER:pres	ressembler
+parfois	ADV	parfois
+à	PRP	à
+ces	PRO:DEM	ce
+beaux	ADJ	beau
+horizons	NOM	horizon
+qu'	PRO:REL	que
+allument	VER:pres	allumer
+les	DET:ART	le
+soleils	NOM	soleil
+des	PRP:det	du
+brumeuses	ADJ	brumeux
+saisons	NOM	saison
+...	PUN	...
+comme	KON	comme
+tu	PRO:PER	tu
+resplendis	VER:pres	resplendir
+,	PUN	,
+paysage	NOM	paysage
+mouillé	ADJ	mouillé
+qu'	PRO:REL	que
+enflamment	VER:pres	enflammer
+les	DET:ART	le
+rayons	NOM	rayon
+tombant	VER:ppre	tomber
+d'	PRP	de
+un	DET:ART	un
+ciel	NOM	ciel
+brouillé	VER:pper	brouiller
+!	SENT	!
+ô	INT	ô
+femme	NOM	femme
+dangereuse	ADJ	dangereux
+,	PUN	,
+ô	INT	ô
+séduisants	ADJ	séduisant
+climats	NOM	climat
+!	SENT	!
+adorerai	VER:futu	adorer
+je	PRO:PER	je
+aussi	ADV	aussi
+ta	DET:POS	ton
+neige	NOM	neige
+et	KON	et
+vos	DET:POS	votre
+frimas	NOM	frimas
+,	PUN	,
+et	KON	et
+saurai	VER:simp	saurer
+je	PRO:PER	je
+tirer	VER:infi	tirer
+de	PRP	de
+l'	DET:ART	le
+implacable	ADJ	implacable
+hiver	NOM	hiver
+des	PRP:det	du
+plaisirs	NOM	plaisir
+plus	ADV	plus
+aigus	ADJ	aigu
+que	KON	que
+la	DET:ART	le
+glace	NOM	glace
+et	KON	et
+le	DET:ART	le
+fer	NOM	fer
+?	SENT	?

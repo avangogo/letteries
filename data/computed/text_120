@@ -1,22 +1,22 @@
-le	DET:ART
-pur	ADJ
-soleil	NOM
-qui	PRO:REL
-remise	VER:pper
-trop	ADV
-d'	PRP
-éclat	NOM
-pour	PRP
-l'	DET:ART
-y	PRO:PER
-trier	VER:infi
-ote	NOM
-ébloui	VER:pper
-sa	DET:POS
-chemise	NOM
-sur	PRP
-le	DET:ART
-dos	NOM
-du	PRP:det
-vitrier	NOM
-.	SENT
+le	DET:ART	le
+pur	ADJ	pur
+soleil	NOM	soleil
+qui	PRO:REL	qui
+remise	VER:pper	remettre
+trop	ADV	trop
+d'	PRP	de
+éclat	NOM	éclat
+pour	PRP	pour
+l'	DET:ART	le
+y	PRO:PER	y
+trier	VER:infi	trier
+ote	NOM	ote
+ébloui	VER:pper	éblouir
+sa	DET:POS	son
+chemise	NOM	chemise
+sur	PRP	sur
+le	DET:ART	le
+dos	NOM	dos
+du	PRP:det	du
+vitrier	NOM	vitrier
+.	SENT	.

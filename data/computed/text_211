@@ -1,127 +1,127 @@
-les	DET:ART
-amoureux	NOM
-fervents	ADJ
-et	KON
-les	DET:ART
-savants	NOM
-austères	ADJ
-aiment	VER:pres
-également	ADV
-,	PUN
-dans	PRP
-leur	DET:POS
-mûre	ADJ
-saison	NOM
-,	PUN
-les	DET:ART
-chats	NOM
-puissants	ADJ
-et	KON
-doux	ADJ
-,	PUN
-orgueil	NOM
-de	PRP
-la	DET:ART
-maison	NOM
-,	PUN
-qui	PRO:REL
-comme	ADV
-eux	PRO:PER
-sont	VER:pres
-frileux	ADJ
-et	KON
-comme	KON
-eux	PRO:PER
-sédentaires	ADJ
-.	SENT
-amis	NOM
-de	PRP
-la	DET:ART
-science	NOM
-et	KON
-de	PRP
-la	DET:ART
-volupté	NOM
-,	PUN
-ils	PRO:PER
-cherchent	VER:pres
-le	DET:ART
-silence	NOM
-et	KON
-l'	DET:ART
-horreur	NOM
-des	PRP:det
-ténèbres	NOM
-;	PUN
-l'	DET:ART
-érèbe	NOM
-les	PRO:PER
-eût	VER:subi
-pris	VER:pper
-pour	PRP
-ses	DET:POS
-coursiers	NOM
-funèbres	ADJ
-,	PUN
-s'	PRO:PER
-ils	PRO:PER
-pouvaient	VER:impf
-au	PRP:det
-servage	NOM
-incliner	VER:infi
-leur	DET:POS
-fierté	NOM
-.	SENT
-ils	PRO:PER
-prennent	VER:pres
-en	PRP
-songeant	VER:ppre
-les	DET:ART
-nobles	ADJ
-attitudes	NOM
-des	PRP:det
-grands	ADJ
-sphinx	NOM
-allongés	VER:pper
-au	PRP:det
-fond	NOM
-des	PRP:det
-solitudes	NOM
-,	PUN
-qui	PRO:REL
-semblent	VER:pres
-s'	PRO:PER
-endormir	VER:infi
-dans	PRP
-un	DET:ART
-rêve	NOM
-sans	PRP
-fin	NOM
-;	PUN
-leurs	DET:POS
-reins	NOM
-féconds	ADJ
-sont	VER:pres
-pleins	ADJ
-d'	PRP
-étincelles	NOM
-magiques	ADJ
-,	PUN
-et	KON
-des	PRP:det
-parcelles	NOM
-d'	PRP
-or	NOM
-,	PUN
-ainsi	KON
-qu'	KON
-un	DET:ART
-sable	NOM
-fin	ADJ
-,	PUN
-étoilent	VER:pres
-vaguement	ADV
-leurs	DET:POS
-prunelles	NOM
-mystiques	ADJ
-.	SENT
+les	DET:ART	le
+amoureux	NOM	amoureux
+fervents	ADJ	fervent
+et	KON	et
+les	DET:ART	le
+savants	NOM	savant
+austères	ADJ	austère
+aiment	VER:pres	aimer
+également	ADV	également
+,	PUN	,
+dans	PRP	dans
+leur	DET:POS	leur
+mûre	ADJ	mûr
+saison	NOM	saison
+,	PUN	,
+les	DET:ART	le
+chats	NOM	chat
+puissants	ADJ	puissant
+et	KON	et
+doux	ADJ	doux
+,	PUN	,
+orgueil	NOM	orgueil
+de	PRP	de
+la	DET:ART	le
+maison	NOM	maison
+,	PUN	,
+qui	PRO:REL	qui
+comme	ADV	comme
+eux	PRO:PER	eux
+sont	VER:pres	être
+frileux	ADJ	frileux
+et	KON	et
+comme	KON	comme
+eux	PRO:PER	eux
+sédentaires	ADJ	sédentaire
+.	SENT	.
+amis	NOM	ami
+de	PRP	de
+la	DET:ART	le
+science	NOM	science
+et	KON	et
+de	PRP	de
+la	DET:ART	le
+volupté	NOM	volupté
+,	PUN	,
+ils	PRO:PER	il
+cherchent	VER:pres	chercher
+le	DET:ART	le
+silence	NOM	silence
+et	KON	et
+l'	DET:ART	le
+horreur	NOM	horreur
+des	PRP:det	du
+ténèbres	NOM	ténèbre
+;	PUN	;
+l'	DET:ART	le
+érèbe	NOM	érèbe
+les	PRO:PER	la|le
+eût	VER:subi	avoir
+pris	VER:pper	prendre
+pour	PRP	pour
+ses	DET:POS	son
+coursiers	NOM	coursier
+funèbres	ADJ	funèbre
+,	PUN	,
+s'	PRO:PER	se
+ils	PRO:PER	il
+pouvaient	VER:impf	pouvoir
+au	PRP:det	au
+servage	NOM	servage
+incliner	VER:infi	incliner
+leur	DET:POS	leur
+fierté	NOM	fierté
+.	SENT	.
+ils	PRO:PER	il
+prennent	VER:pres	prendre
+en	PRP	en
+songeant	VER:ppre	songer
+les	DET:ART	le
+nobles	ADJ	noble
+attitudes	NOM	attitude
+des	PRP:det	du
+grands	ADJ	grand
+sphinx	NOM	sphinx
+allongés	VER:pper	allonger
+au	PRP:det	au
+fond	NOM	fond
+des	PRP:det	du
+solitudes	NOM	solitude
+,	PUN	,
+qui	PRO:REL	qui
+semblent	VER:pres	sembler
+s'	PRO:PER	se
+endormir	VER:infi	endormir
+dans	PRP	dans
+un	DET:ART	un
+rêve	NOM	rêve
+sans	PRP	sans
+fin	NOM	fin
+;	PUN	;
+leurs	DET:POS	leur
+reins	NOM	rein
+féconds	ADJ	fécond
+sont	VER:pres	être
+pleins	ADJ	plein
+d'	PRP	de
+étincelles	NOM	étincelle
+magiques	ADJ	magique
+,	PUN	,
+et	KON	et
+des	PRP:det	du
+parcelles	NOM	parcelle
+d'	PRP	de
+or	NOM	or
+,	PUN	,
+ainsi	KON	ainsi
+qu'	KON	que
+un	DET:ART	un
+sable	NOM	sable
+fin	ADJ	fin
+,	PUN	,
+étoilent	VER:pres	étoiler
+vaguement	ADV	vaguement
+leurs	DET:POS	leur
+prunelles	NOM	prunelle
+mystiques	ADJ	mystique
+.	SENT	.

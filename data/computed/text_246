@@ -1,397 +1,397 @@
-au	PRP:det
-gibet	NOM
-noir	ADJ
-,	PUN
-manchot	NOM
-aimable	ADJ
-,	PUN
-dansent	VER:pres
-,	PUN
-dansent	VER:pres
-les	DET:ART
-paladins	NOM
-les	DET:ART
-maigres	ADJ
-paladins	NOM
-du	PRP:det
-diable	NOM
-,	PUN
-les	DET:ART
-squelettes	NOM
-de	PRP
-saladins	NOM
-.	SENT
-messire	NOM
-belzébuth	NOM
-tire	VER:pres
-par	PRP
-la	DET:ART
-cravate	NOM
-ses	DET:POS
-petits	ADJ
-pantins	NOM
-noirs	ADJ
-grimaçant	VER:ppre
-sur	PRP
-le	DET:ART
-ciel	NOM
-,	PUN
-et	KON
-,	PUN
-leur	PRO:PER
-claquant	VER:ppre
-au	PRP:det
-front	NOM
-un	DET:ART
-revers	NOM
-de	PRP
-savate	NOM
-,	PUN
-les	PRO:PER
-fait	VER:pres
-danser	VER:infi
-,	PUN
-danser	VER:infi
-aux	PRP:det
-sons	NOM
-d'	PRP
-un	DET:ART
-vieux	ADJ
-noël	NOM
-!	SENT
-et	KON
-les	DET:ART
-pantins	NOM
-choqués	VER:pper
-enlacent	VER:pres
-leurs	DET:POS
-bras	NOM
-grêles	ADJ
-:	PUN
-comme	ADV
-des	PRP:det
-orgues	NOM
-noirs	ADJ
-,	PUN
-les	DET:ART
-poitrines	NOM
-à	PRP
-jour	NOM
-que	PRO:REL
-serraient	VER:impf
-autrefois	ADV
-les	DET:ART
-gentes	ADJ
-damoiselles	NOM
-,	PUN
-se	PRO:PER
-heurtent	VER:pres
-longuement	ADV
-dans	PRP
-un	DET:ART
-hideux	ADJ
-amour	NOM
-.	SENT
-hurrah	NOM
-!	SENT
-les	DET:ART
-gais	ADJ
-danseurs	NOM
-,	PUN
-qui	PRO:REL
-n'	ADV
-avez	VER:pres
-plus	ADV
-de	PRP
-panse	NOM
-!	SENT
-on	PRO:PER
-peut	VER:pres
-cabrioler	VER:infi
-,	PUN
-les	DET:ART
-tréteaux	NOM
-sont	VER:pres
-si	ADV
-longs	ADJ
-!	SENT
-hop	INT
-!	SENT
-qu'	KON
-on	PRO:PER
-ne	ADV
-sache	VER:subp
-plus	ADV
-si	KON
-c'	PRO:DEM
-est	VER:pres
-bataille	NOM
-ou	KON
-danse	NOM
-!	SENT
-belzébuth	NOM
-enragé	ADJ
-râcle	VER:subp
-ses	DET:POS
-violons	NOM
-!	SENT
-ô	INT
-durs	ADJ
-talons	NOM
-,	PUN
-jamais	ADV
-on	PRO:PER
-n'	ADV
-use	VER:pres
-sa	DET:POS
-sandale	NOM
-!	SENT
-presque	ADV
-tous	PRO:IND
-ont	VER:pres
-quitté	VER:pper
-la	DET:ART
-chemise	NOM
-de	PRP
-peau	NOM
-;	PUN
-le	DET:ART
-reste	NOM
-est	VER:pres
-peu	ADV
-gênant	ADJ
-et	KON
-se	PRO:PER
-voit	VER:pres
-sans	PRP
-scandale	NOM
-.	SENT
-sur	PRP
-les	DET:ART
-crânes	NOM
-,	PUN
-la	DET:ART
-neige	NOM
-applique	VER:pres
-un	DET:ART
-blanc	ADJ
-chapeau	NOM
-:	PUN
-le	DET:ART
-corbeau	NOM
-fait	VER:pres
-panache	NOM
-à	PRP
-ces	PRO:DEM
-têtes	NOM
-fêlées	ADJ
-,	PUN
-un	DET:ART
-morceau	NOM
-de	PRP
-chair	NOM
-tremble	VER:pres
-à	PRP
-leur	DET:POS
-maigre	ADJ
-menton	NOM
-:	PUN
-on	PRO:PER
-dirait	VER:cond
-,	PUN
-tournoyant	VER:ppre
-dans	PRP
-les	DET:ART
-sombres	ADJ
-mêlées	NOM
-,	PUN
-des	PRP:det
-preux	NOM
-,	PUN
-raides	ADJ
-,	PUN
-heurtant	VER:ppre
-armures	NOM
-de	PRP
-carton	NOM
-.	SENT
-hurrah	NOM
-!	SENT
-la	DET:ART
-bise	NOM
-siffle	VER:pres
-au	PRP:det
-grand	ADJ
-bal	NOM
-des	PRP:det
-squelettes	NOM
-!	SENT
-le	DET:ART
-gibet	NOM
-noir	ADJ
-mugit	VER:pres
-comme	ADV
-un	DET:ART
-orgue	NOM
-de	PRP
-fer	NOM
-!	SENT
-les	DET:ART
-loups	NOM
-vont	VER:pres
-répondant	NOM
-des	PRP:det
-forêts	NOM
-violettes	ADJ
-:	PUN
-a	VER:pres
-l'	DET:ART
-horizon	NOM
-,	PUN
-le	DET:ART
-ciel	NOM
-est	VER:pres
-d'	PRP
-un	DET:ART
-rouge	NOM
-d'	PRP
-enfer	NOM
-...	PUN
-holà	NOM
-,	PUN
-secouez	VER:pres
-moi	PRO:PER
-ces	PRO:DEM
-capitans	NOM
-funèbres	ADJ
-qui	PRO:REL
-défilent	VER:pres
-,	PUN
-sournois	ADJ
-,	PUN
-de	PRP
-leurs	DET:POS
-gros	ADJ
-doigts	NOM
-cassés	VER:pper
-un	DET:ART
-chapelet	NOM
-d'	PRP
-amour	NOM
-sur	PRP
-leurs	DET:POS
-pâles	ADJ
-vertèbres	NOM
-:	PUN
-ce	PRO:DEM
-n'	ADV
-est	VER:pres
-pas	ADV
-un	DET:ART
-moustier	NOM
-ici	ADV
-,	PUN
-les	DET:ART
-trépassés	NOM
-!	SENT
-oh	INT
-!	SENT
-voilà	ADV
-qu'	KON
-au	PRP:det
-milieu	NOM
-de	PRP
-la	DET:ART
-danse	NOM
-macabre	ADJ
-bondit	VER:pres
-dans	PRP
-le	DET:ART
-ciel	NOM
-rouge	ADJ
-un	DET:ART
-grand	ADJ
-squelette	NOM
-fou	ADJ
-emporté	VER:pper
-par	PRP
-l'	DET:ART
-élan	NOM
-,	PUN
-comme	KON
-un	DET:ART
-cheval	NOM
-se	PRO:PER
-cabre	VER:pres
-:	PUN
-et	KON
-,	PUN
-se	PRO:PER
-sentant	VER:ppre
-encor	ADV
-la	DET:ART
-corde	NOM
-raide	ADJ
-au	PRP:det
-cou	NOM
-,	PUN
-crispe	VER:pres
-ses	DET:POS
-petits	ADJ
-doigts	NOM
-sur	PRP
-son	DET:POS
-fémur	NOM
-qui	PRO:REL
-craque	VER:pres
-avec	PRP
-des	PRP:det
-cris	NOM
-pareils	ADJ
-à	PRP
-des	PRP:det
-ricanements	NOM
-,	PUN
-et	KON
-,	PUN
-comme	ADV
-un	DET:ART
-baladin	NOM
-rentre	VER:pres
-dans	PRP
-la	DET:ART
-baraque	NOM
-,	PUN
-rebondit	VER:pres
-dans	PRP
-le	DET:ART
-bal	NOM
-au	PRP:det
-chant	NOM
-des	PRP:det
-ossements	NOM
-.	SENT
-au	PRP:det
-gibet	NOM
-noir	ADJ
-,	PUN
-manchot	NOM
-aimable	ADJ
-,	PUN
-dansent	VER:pres
-,	PUN
-dansent	VER:pres
-les	DET:ART
-paladins	NOM
-,	PUN
-les	DET:ART
-maigres	ADJ
-paladins	NOM
-du	PRP:det
-diable	NOM
-,	PUN
-les	DET:ART
-squelettes	NOM
-de	PRP
-saladins	NOM
-.	SENT
+au	PRP:det	au
+gibet	NOM	gibet
+noir	ADJ	noir
+,	PUN	,
+manchot	NOM	manchot
+aimable	ADJ	aimable
+,	PUN	,
+dansent	VER:pres	danser
+,	PUN	,
+dansent	VER:pres	danser
+les	DET:ART	le
+paladins	NOM	paladin
+les	DET:ART	le
+maigres	ADJ	maigre
+paladins	NOM	paladin
+du	PRP:det	du
+diable	NOM	diable
+,	PUN	,
+les	DET:ART	le
+squelettes	NOM	squelette
+de	PRP	de
+saladins	NOM	saladins
+.	SENT	.
+messire	NOM	messire
+belzébuth	NOM	belzébuth
+tire	VER:pres	tirer
+par	PRP	par
+la	DET:ART	le
+cravate	NOM	cravate
+ses	DET:POS	son
+petits	ADJ	petit
+pantins	NOM	pantin
+noirs	ADJ	noir
+grimaçant	VER:ppre	grimacer
+sur	PRP	sur
+le	DET:ART	le
+ciel	NOM	ciel
+,	PUN	,
+et	KON	et
+,	PUN	,
+leur	PRO:PER	lui
+claquant	VER:ppre	claquer
+au	PRP:det	au
+front	NOM	front
+un	DET:ART	un
+revers	NOM	revers
+de	PRP	de
+savate	NOM	savate
+,	PUN	,
+les	PRO:PER	la|le
+fait	VER:pres	faire
+danser	VER:infi	danser
+,	PUN	,
+danser	VER:infi	danser
+aux	PRP:det	au
+sons	NOM	son
+d'	PRP	de
+un	DET:ART	un
+vieux	ADJ	vieux
+noël	NOM	noël
+!	SENT	!
+et	KON	et
+les	DET:ART	le
+pantins	NOM	pantin
+choqués	VER:pper	choquer
+enlacent	VER:pres	enlacer
+leurs	DET:POS	leur
+bras	NOM	bras
+grêles	ADJ	grêle
+:	PUN	:
+comme	ADV	comme
+des	PRP:det	du
+orgues	NOM	orgue
+noirs	ADJ	noir
+,	PUN	,
+les	DET:ART	le
+poitrines	NOM	poitrine
+à	PRP	à
+jour	NOM	jour
+que	PRO:REL	que
+serraient	VER:impf	serrer
+autrefois	ADV	autrefois
+les	DET:ART	le
+gentes	ADJ	gent
+damoiselles	NOM	damoiselle
+,	PUN	,
+se	PRO:PER	se
+heurtent	VER:pres	heurter
+longuement	ADV	longuement
+dans	PRP	dans
+un	DET:ART	un
+hideux	ADJ	hideux
+amour	NOM	amour
+.	SENT	.
+hurrah	NOM	hurrah
+!	SENT	!
+les	DET:ART	le
+gais	ADJ	gai
+danseurs	NOM	danseur
+,	PUN	,
+qui	PRO:REL	qui
+n'	ADV	ne
+avez	VER:pres	avoir
+plus	ADV	plus
+de	PRP	de
+panse	NOM	panse
+!	SENT	!
+on	PRO:PER	on
+peut	VER:pres	pouvoir
+cabrioler	VER:infi	cabrioler
+,	PUN	,
+les	DET:ART	le
+tréteaux	NOM	tréteau
+sont	VER:pres	être
+si	ADV	si
+longs	ADJ	long
+!	SENT	!
+hop	INT	hop
+!	SENT	!
+qu'	KON	que
+on	PRO:PER	on
+ne	ADV	ne
+sache	VER:subp	savoir
+plus	ADV	plus
+si	KON	si
+c'	PRO:DEM	ce
+est	VER:pres	être
+bataille	NOM	bataille
+ou	KON	ou
+danse	NOM	danse
+!	SENT	!
+belzébuth	NOM	belzébuth
+enragé	ADJ	enragé
+râcle	VER:subp	râcle
+ses	DET:POS	son
+violons	NOM	violon
+!	SENT	!
+ô	INT	ô
+durs	ADJ	dur
+talons	NOM	talon
+,	PUN	,
+jamais	ADV	jamais
+on	PRO:PER	on
+n'	ADV	ne
+use	VER:pres	user
+sa	DET:POS	son
+sandale	NOM	sandale
+!	SENT	!
+presque	ADV	presque
+tous	PRO:IND	tout
+ont	VER:pres	avoir
+quitté	VER:pper	quitter
+la	DET:ART	le
+chemise	NOM	chemise
+de	PRP	de
+peau	NOM	peau
+;	PUN	;
+le	DET:ART	le
+reste	NOM	reste
+est	VER:pres	être
+peu	ADV	peu
+gênant	ADJ	gênant
+et	KON	et
+se	PRO:PER	se
+voit	VER:pres	voir
+sans	PRP	sans
+scandale	NOM	scandale
+.	SENT	.
+sur	PRP	sur
+les	DET:ART	le
+crânes	NOM	crâne
+,	PUN	,
+la	DET:ART	le
+neige	NOM	neige
+applique	VER:pres	appliquer
+un	DET:ART	un
+blanc	ADJ	blanc
+chapeau	NOM	chapeau
+:	PUN	:
+le	DET:ART	le
+corbeau	NOM	corbeau
+fait	VER:pres	faire
+panache	NOM	panache
+à	PRP	à
+ces	PRO:DEM	ce
+têtes	NOM	tête
+fêlées	ADJ	fêlé
+,	PUN	,
+un	DET:ART	un
+morceau	NOM	morceau
+de	PRP	de
+chair	NOM	chair
+tremble	VER:pres	trembler
+à	PRP	à
+leur	DET:POS	leur
+maigre	ADJ	maigre
+menton	NOM	menton
+:	PUN	:
+on	PRO:PER	on
+dirait	VER:cond	dire
+,	PUN	,
+tournoyant	VER:ppre	tournoyer
+dans	PRP	dans
+les	DET:ART	le
+sombres	ADJ	sombre
+mêlées	NOM	mêlée
+,	PUN	,
+des	PRP:det	du
+preux	NOM	preux
+,	PUN	,
+raides	ADJ	raide
+,	PUN	,
+heurtant	VER:ppre	heurter
+armures	NOM	armure
+de	PRP	de
+carton	NOM	carton
+.	SENT	.
+hurrah	NOM	hurrah
+!	SENT	!
+la	DET:ART	le
+bise	NOM	bise
+siffle	VER:pres	siffler
+au	PRP:det	au
+grand	ADJ	grand
+bal	NOM	bal
+des	PRP:det	du
+squelettes	NOM	squelette
+!	SENT	!
+le	DET:ART	le
+gibet	NOM	gibet
+noir	ADJ	noir
+mugit	VER:pres	mugir
+comme	ADV	comme
+un	DET:ART	un
+orgue	NOM	orgue
+de	PRP	de
+fer	NOM	fer
+!	SENT	!
+les	DET:ART	le
+loups	NOM	loup
+vont	VER:pres	aller
+répondant	NOM	répondant
+des	PRP:det	du
+forêts	NOM	forêt
+violettes	ADJ	violet
+:	PUN	:
+a	VER:pres	avoir
+l'	DET:ART	le
+horizon	NOM	horizon
+,	PUN	,
+le	DET:ART	le
+ciel	NOM	ciel
+est	VER:pres	être
+d'	PRP	de
+un	DET:ART	un
+rouge	NOM	rouge
+d'	PRP	de
+enfer	NOM	enfer
+...	PUN	...
+holà	NOM	holà
+,	PUN	,
+secouez	VER:pres	secouer
+moi	PRO:PER	moi
+ces	PRO:DEM	ce
+capitans	NOM	capitan
+funèbres	ADJ	funèbre
+qui	PRO:REL	qui
+défilent	VER:pres	défiler
+,	PUN	,
+sournois	ADJ	sournois
+,	PUN	,
+de	PRP	de
+leurs	DET:POS	leur
+gros	ADJ	gros
+doigts	NOM	doigt
+cassés	VER:pper	casser
+un	DET:ART	un
+chapelet	NOM	chapelet
+d'	PRP	de
+amour	NOM	amour
+sur	PRP	sur
+leurs	DET:POS	leur
+pâles	ADJ	pâle
+vertèbres	NOM	vertèbre
+:	PUN	:
+ce	PRO:DEM	ce
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+un	DET:ART	un
+moustier	NOM	moustier
+ici	ADV	ici
+,	PUN	,
+les	DET:ART	le
+trépassés	NOM	trépassé
+!	SENT	!
+oh	INT	oh
+!	SENT	!
+voilà	ADV	voilà
+qu'	KON	que
+au	PRP:det	au
+milieu	NOM	milieu
+de	PRP	de
+la	DET:ART	le
+danse	NOM	danse
+macabre	ADJ	macabre
+bondit	VER:pres	bondir
+dans	PRP	dans
+le	DET:ART	le
+ciel	NOM	ciel
+rouge	ADJ	rouge
+un	DET:ART	un
+grand	ADJ	grand
+squelette	NOM	squelette
+fou	ADJ	fou
+emporté	VER:pper	emporter
+par	PRP	par
+l'	DET:ART	le
+élan	NOM	élan
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+cheval	NOM	cheval
+se	PRO:PER	se
+cabre	VER:pres	cabrer
+:	PUN	:
+et	KON	et
+,	PUN	,
+se	PRO:PER	se
+sentant	VER:ppre	sentir
+encor	ADV	encor
+la	DET:ART	le
+corde	NOM	corde
+raide	ADJ	raide
+au	PRP:det	au
+cou	NOM	cou
+,	PUN	,
+crispe	VER:pres	crisper
+ses	DET:POS	son
+petits	ADJ	petit
+doigts	NOM	doigt
+sur	PRP	sur
+son	DET:POS	son
+fémur	NOM	fémur
+qui	PRO:REL	qui
+craque	VER:pres	craquer
+avec	PRP	avec
+des	PRP:det	du
+cris	NOM	cri
+pareils	ADJ	pareil
+à	PRP	à
+des	PRP:det	du
+ricanements	NOM	ricanement
+,	PUN	,
+et	KON	et
+,	PUN	,
+comme	ADV	comme
+un	DET:ART	un
+baladin	NOM	baladin
+rentre	VER:pres	rentrer
+dans	PRP	dans
+la	DET:ART	le
+baraque	NOM	baraque
+,	PUN	,
+rebondit	VER:pres	rebondir
+dans	PRP	dans
+le	DET:ART	le
+bal	NOM	bal
+au	PRP:det	au
+chant	NOM	chant
+des	PRP:det	du
+ossements	NOM	ossement
+.	SENT	.
+au	PRP:det	au
+gibet	NOM	gibet
+noir	ADJ	noir
+,	PUN	,
+manchot	NOM	manchot
+aimable	ADJ	aimable
+,	PUN	,
+dansent	VER:pres	danser
+,	PUN	,
+dansent	VER:pres	danser
+les	DET:ART	le
+paladins	NOM	paladin
+,	PUN	,
+les	DET:ART	le
+maigres	ADJ	maigre
+paladins	NOM	paladin
+du	PRP:det	du
+diable	NOM	diable
+,	PUN	,
+les	DET:ART	le
+squelettes	NOM	squelette
+de	PRP	de
+saladins	NOM	saladins
+.	SENT	.

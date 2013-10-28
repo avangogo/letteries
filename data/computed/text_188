@@ -1,86 +1,86 @@
-ah	INT
-!	SENT
-ne	ADV
-ralentis	VER:simp
-pas	ADV
-tes	DET:POS
-flammes	NOM
-;	PUN
-réchauffe	VER:pres
-mon	DET:POS
-coeur	NOM
-engourdi	VER:pper
-,	PUN
-volupté	NOM
-,	PUN
-torture	NOM
-des	PRP:det
-âmes	NOM
-!	SENT
-diva	NOM
-!	SENT
-supplicem	NOM
-exaudî	ADJ
-!	SENT
-déesse	NOM
-dans	PRP
-l'	DET:ART
-air	NOM
-répandue	VER:pper
-,	PUN
-flamme	NOM
-dans	PRP
-notre	DET:POS
-souterrain	NOM
-!	SENT
-exauce	VER:pres
-une	DET:ART
-âme	NOM
-morfondue	VER:pper
-,	PUN
-qui	PRO:REL
-te	PRO:PER
-consacre	VER:pres
-un	DET:ART
-chant	NOM
-d'	PRP
-airain	NOM
-.	SENT
-volupté	NOM
-,	PUN
-sois	VER:subp
-toujours	ADV
-ma	DET:POS
-reine	NOM
-!	SENT
-prends	VER:pres
-le	DET:ART
-masque	NOM
-d'	PRP
-une	DET:ART
-sirène	NOM
-faite	VER:pper
-de	PRP
-chair	NOM
-et	KON
-de	PRP
-velours	NOM
-,	PUN
-ou	KON
-verse	VER:subp
-moi	PRO:PER
-tes	DET:POS
-sommeils	NOM
-lourds	ADJ
-dans	PRP
-le	DET:ART
-vin	NOM
-informe	ADJ
-et	KON
-mystique	ADJ
-,	PUN
-volupté	NOM
-,	PUN
-fantôme	NOM
-élastique	ADJ
-!	SENT
+ah	INT	ah
+!	SENT	!
+ne	ADV	ne
+ralentis	VER:simp	ralentir
+pas	ADV	pas
+tes	DET:POS	ton
+flammes	NOM	flamme
+;	PUN	;
+réchauffe	VER:pres	réchauffer
+mon	DET:POS	mon
+coeur	NOM	cœur
+engourdi	VER:pper	engourdir
+,	PUN	,
+volupté	NOM	volupté
+,	PUN	,
+torture	NOM	torture
+des	PRP:det	du
+âmes	NOM	âme
+!	SENT	!
+diva	NOM	diva
+!	SENT	!
+supplicem	NOM	supplicem
+exaudî	ADJ	exaudî
+!	SENT	!
+déesse	NOM	déesse
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+répandue	VER:pper	répandre
+,	PUN	,
+flamme	NOM	flamme
+dans	PRP	dans
+notre	DET:POS	notre
+souterrain	NOM	souterrain
+!	SENT	!
+exauce	VER:pres	exaucer
+une	DET:ART	un
+âme	NOM	âme
+morfondue	VER:pper	morfondre
+,	PUN	,
+qui	PRO:REL	qui
+te	PRO:PER	te
+consacre	VER:pres	consacrer
+un	DET:ART	un
+chant	NOM	chant
+d'	PRP	de
+airain	NOM	airain
+.	SENT	.
+volupté	NOM	volupté
+,	PUN	,
+sois	VER:subp	être
+toujours	ADV	toujours
+ma	DET:POS	mon
+reine	NOM	reine
+!	SENT	!
+prends	VER:pres	prendre
+le	DET:ART	le
+masque	NOM	masque
+d'	PRP	de
+une	DET:ART	un
+sirène	NOM	sirène
+faite	VER:pper	faire
+de	PRP	de
+chair	NOM	chair
+et	KON	et
+de	PRP	de
+velours	NOM	velours
+,	PUN	,
+ou	KON	ou
+verse	VER:subp	verser
+moi	PRO:PER	moi
+tes	DET:POS	ton
+sommeils	NOM	sommeil
+lourds	ADJ	lourd
+dans	PRP	dans
+le	DET:ART	le
+vin	NOM	vin
+informe	ADJ	informe
+et	KON	et
+mystique	ADJ	mystique
+,	PUN	,
+volupté	NOM	volupté
+,	PUN	,
+fantôme	NOM	fantôme
+élastique	ADJ	élastique
+!	SENT	!

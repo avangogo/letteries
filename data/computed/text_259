@@ -1,152 +1,152 @@
-mon	DET:POS
-pauvre	ADJ
-coeur	NOM
-bave	VER:pres
-à	PRP
-la	DET:ART
-poupe	NOM
-,	PUN
-mon	DET:POS
-coeur	NOM
-est	VER:pres
-plein	ADJ
-de	PRP
-caporal	NOM
-;	PUN
-ils	PRO:PER
-lui	PRO:PER
-lancent	VER:pres
-des	PRP:det
-jets	NOM
-de	PRP
-soupe	NOM
-,	PUN
-mon	DET:POS
-triste	ADJ
-coeur	NOM
-bave	VER:pres
-à	PRP
-la	DET:ART
-poupe	NOM
-:	PUN
-sous	PRP
-les	DET:ART
-quolibets	NOM
-de	PRP
-la	DET:ART
-troupe	NOM
-qui	PRO:REL
-pousse	VER:pres
-un	DET:ART
-rire	NOM
-général	ADJ
-,	PUN
-mon	DET:POS
-triste	ADJ
-coeur	NOM
-bave	VER:pres
-à	PRP
-la	DET:ART
-poupe	NOM
-mon	DET:POS
-coeur	NOM
-est	VER:pres
-plein	ADJ
-de	PRP
-caporal	NOM
-!	SENT
-ithyphalliques	ADJ
-et	KON
-pioupiesques	NOM
-,	PUN
-leurs	DET:POS
-insultes	NOM
-l'	PRO:PER
-ont	VER:pres
-dépravé	VER:pper
-.	SENT
-à	PRP
-la	DET:ART
-vesprée	NOM
-,	PUN
-ils	PRO:PER
-font	VER:pres
-des	PRP:det
-fresques	NOM
-ithyphalliques	ADJ
-et	KON
-pioupiesques	NOM
-,	PUN
-o	VER:simp
-flots	NOM
-abracadabrantesques	ADJ
-prenez	VER:pres
-mon	DET:POS
-coeur	NOM
-,	PUN
-qu'	PRO:REL
-il	PRO:PER
-soit	VER:subp
-sauvé	VER:pper
-!	SENT
-ithyphalliques	ADJ
-et	KON
-pioupiesques	NOM
-leurs	DET:POS
-insultes	NOM
-l'	PRO:PER
-ont	VER:pres
-dépravé	VER:pper
-!	SENT
-quand	KON
-ils	PRO:PER
-auront	VER:futu
-tari	VER:pper
-leurs	DET:POS
-chiques	NOM
-,	PUN
-comment	ADV
-agir	VER:infi
-,	PUN
-ô	INT
-coeur	NOM
-volé	VER:pper
-?	SENT
-ce	PRO:DEM
-seront	VER:futu
-des	PRP:det
-refrains	NOM
-bachiques	ADJ
-quand	KON
-ils	PRO:PER
-auront	VER:futu
-tari	VER:pper
-leurs	DET:POS
-chiques	NOM
-:	PUN
-j'	PRO:PER
-aurai	VER:futu
-des	PRP:det
-sursauts	NOM
-stomachiques	ADJ
-si	KON
-mon	DET:POS
-coeur	NOM
-triste	ADJ
-est	VER:pres
-ravalé	VER:pper
-:	PUN
-quand	KON
-ils	PRO:PER
-auront	VER:futu
-tari	VER:pper
-leurs	DET:POS
-chiques	NOM
-,	PUN
-comment	ADV
-agir	VER:infi
-,	PUN
-ô	INT
-coeur	NOM
-volé	VER:pper
-?	SENT
+mon	DET:POS	mon
+pauvre	ADJ	pauvre
+coeur	NOM	cœur
+bave	VER:pres	baver
+à	PRP	à
+la	DET:ART	le
+poupe	NOM	poupe
+,	PUN	,
+mon	DET:POS	mon
+coeur	NOM	cœur
+est	VER:pres	être
+plein	ADJ	plein
+de	PRP	de
+caporal	NOM	caporal
+;	PUN	;
+ils	PRO:PER	il
+lui	PRO:PER	lui
+lancent	VER:pres	lancer
+des	PRP:det	du
+jets	NOM	jet
+de	PRP	de
+soupe	NOM	soupe
+,	PUN	,
+mon	DET:POS	mon
+triste	ADJ	triste
+coeur	NOM	cœur
+bave	VER:pres	baver
+à	PRP	à
+la	DET:ART	le
+poupe	NOM	poupe
+:	PUN	:
+sous	PRP	sous
+les	DET:ART	le
+quolibets	NOM	quolibet
+de	PRP	de
+la	DET:ART	le
+troupe	NOM	troupe
+qui	PRO:REL	qui
+pousse	VER:pres	pousser
+un	DET:ART	un
+rire	NOM	rire
+général	ADJ	général
+,	PUN	,
+mon	DET:POS	mon
+triste	ADJ	triste
+coeur	NOM	cœur
+bave	VER:pres	baver
+à	PRP	à
+la	DET:ART	le
+poupe	NOM	poupe
+mon	DET:POS	mon
+coeur	NOM	cœur
+est	VER:pres	être
+plein	ADJ	plein
+de	PRP	de
+caporal	NOM	caporal
+!	SENT	!
+ithyphalliques	ADJ	ithyphallique
+et	KON	et
+pioupiesques	NOM	pioupiesques
+,	PUN	,
+leurs	DET:POS	leur
+insultes	NOM	insulte
+l'	PRO:PER	la|le
+ont	VER:pres	avoir
+dépravé	VER:pper	dépraver
+.	SENT	.
+à	PRP	à
+la	DET:ART	le
+vesprée	NOM	vesprée
+,	PUN	,
+ils	PRO:PER	il
+font	VER:pres	faire
+des	PRP:det	du
+fresques	NOM	fresque
+ithyphalliques	ADJ	ithyphallique
+et	KON	et
+pioupiesques	NOM	pioupiesques
+,	PUN	,
+o	VER:simp	o
+flots	NOM	flot
+abracadabrantesques	ADJ	abracadabrantesque
+prenez	VER:pres	prendre
+mon	DET:POS	mon
+coeur	NOM	cœur
+,	PUN	,
+qu'	PRO:REL	que
+il	PRO:PER	il
+soit	VER:subp	être
+sauvé	VER:pper	sauver
+!	SENT	!
+ithyphalliques	ADJ	ithyphallique
+et	KON	et
+pioupiesques	NOM	pioupiesques
+leurs	DET:POS	leur
+insultes	NOM	insulte
+l'	PRO:PER	la|le
+ont	VER:pres	avoir
+dépravé	VER:pper	dépraver
+!	SENT	!
+quand	KON	quand
+ils	PRO:PER	il
+auront	VER:futu	avoir
+tari	VER:pper	tarir
+leurs	DET:POS	leur
+chiques	NOM	chique
+,	PUN	,
+comment	ADV	comment
+agir	VER:infi	agir
+,	PUN	,
+ô	INT	ô
+coeur	NOM	cœur
+volé	VER:pper	voler
+?	SENT	?
+ce	PRO:DEM	ce
+seront	VER:futu	être
+des	PRP:det	du
+refrains	NOM	refrain
+bachiques	ADJ	bachique
+quand	KON	quand
+ils	PRO:PER	il
+auront	VER:futu	avoir
+tari	VER:pper	tarir
+leurs	DET:POS	leur
+chiques	NOM	chique
+:	PUN	:
+j'	PRO:PER	je
+aurai	VER:futu	avoir
+des	PRP:det	du
+sursauts	NOM	sursaut
+stomachiques	ADJ	stomachique
+si	KON	si
+mon	DET:POS	mon
+coeur	NOM	cœur
+triste	ADJ	triste
+est	VER:pres	être
+ravalé	VER:pper	ravaler
+:	PUN	:
+quand	KON	quand
+ils	PRO:PER	il
+auront	VER:futu	avoir
+tari	VER:pper	tarir
+leurs	DET:POS	leur
+chiques	NOM	chique
+,	PUN	,
+comment	ADV	comment
+agir	VER:infi	agir
+,	PUN	,
+ô	INT	ô
+coeur	NOM	cœur
+volé	VER:pper	voler
+?	SENT	?

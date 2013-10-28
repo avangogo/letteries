@@ -1,517 +1,517 @@
-non	ADV
-,	PUN
-liberté	NOM
-!	SENT
-non	ADV
-,	PUN
-peuple	NOM
-,	PUN
-il	PRO:PER
-ne	ADV
-faut	VER:pres
-pas	ADV
-qu'	KON
-il	PRO:PER
-meure	VER:subp
-!	SENT
-oh	INT
-!	SENT
-certes	ADV
-,	PUN
-ce	PRO:DEM
-serait	VER:cond
-trop	ADV
-simple	ADJ
-,	PUN
-en	PRP
-vérité	NOM
-,	PUN
-qu'	KON
-après	PRP
-avoir	VER:infi
-brisé	VER:pper
-les	DET:ART
-lois	NOM
-,	PUN
-et	KON
-sonné	VER:pper
-l'	DET:ART
-heure	NOM
-où	PRO:REL
-la	DET:ART
-sainte	ADJ
-pudeur	NOM
-au	PRP:det
-ciel	NOM
-a	VER:pres
-remonté	VER:pper
-;	PUN
-qu'	KON
-après	PRP
-avoir	VER:infi
-gagné	VER:pper
-sa	DET:POS
-sanglante	ADJ
-gageure	NOM
-,	PUN
-et	KON
-vaincu	VER:pper
-par	PRP
-l'	DET:ART
-embûche	NOM
-et	KON
-le	DET:ART
-glaive	NOM
-et	KON
-le	DET:ART
-feu	NOM
-;	PUN
-qu'	KON
-après	PRP
-son	DET:POS
-guet	NOM
-apens	ADJ
-,	PUN
-ses	DET:POS
-meurtres	NOM
-,	PUN
-son	DET:POS
-parjure	NOM
-,	PUN
-son	DET:POS
-faux	ADJ
-serment	NOM
-,	PUN
-soufflet	NOM
-sur	PRP
-la	DET:ART
-face	NOM
-de	PRP
-dieu	NOM
-;	PUN
-qu'	KON
-après	PRP
-avoir	VER:infi
-traîné	VER:pper
-la	DET:ART
-france	NOM
-,	PUN
-au	PRP:det
-coeur	NOM
-frappée	ADJ
-,	PUN
-et	KON
-par	PRP
-les	DET:ART
-pieds	NOM
-liée	VER:pper
-,	PUN
-à	PRP
-son	DET:POS
-immonde	ADJ
-char	NOM
-,	PUN
-cet	PRO:DEM
-infâme	ADJ
-en	PRP
-fût	NOM
-quitte	VER:pres
-avec	PRP
-un	DET:ART
-coup	NOM
-d'	PRP
-épée	NOM
-au	PRP:det
-cou	NOM
-comme	ADV
-pompée	VER:pper
-,	PUN
-au	PRP:det
-flanc	NOM
-comme	KON
-césar	NOM
-!	SENT
-non	INT
-!	SENT
-il	PRO:PER
-est	VER:pres
-l'	DET:ART
-assassin	NOM
-qui	PRO:REL
-rôde	VER:pres
-dans	PRP
-les	DET:ART
-plaines	NOM
-;	PUN
-il	PRO:PER
-a	VER:pres
-tué	VER:pper
-,	PUN
-sabré	VER:pper
-,	PUN
-mitraillé	VER:pper
-sans	PRP
-remords	NOM
-,	PUN
-il	PRO:PER
-fit	VER:simp
-la	DET:ART
-maison	NOM
-vide	ADJ
-,	PUN
-il	PRO:PER
-fit	VER:simp
-les	DET:ART
-tombes	NOM
-pleines	ADJ
-,	PUN
-il	PRO:PER
-marche	VER:pres
-,	PUN
-il	PRO:PER
-va	VER:pres
-,	PUN
-suivi	VER:pper
-par	PRP
-l'	DET:ART
-oeil	NOM
-fixe	ADJ
-des	PRP:det
-morts	NOM
-;	PUN
-à	PRP
-cause	NOM
-de	PRP
-cet	PRO:DEM
-homme	NOM
-,	PUN
-empereur	NOM
-éphémère	ADJ
-,	PUN
-le	DET:ART
-fils	NOM
-n'	ADV
-a	VER:pres
-plus	ADV
-de	PRP
-père	NOM
-et	KON
-l'	DET:ART
-enfant	NOM
-plus	ADV
-d'	PRP
-espoir	NOM
-,	PUN
-la	DET:ART
-veuve	NOM
-à	PRP
-genoux	NOM
-pleure	NOM
-et	KON
-sanglote	VER:pres
-,	PUN
-et	KON
-la	DET:ART
-mère	NOM
-n'	ADV
-est	VER:pres
-plus	ADV
-qu'	KON
-un	DET:ART
-spectre	NOM
-assis	VER:pper
-sous	PRP
-un	DET:ART
-long	ADJ
-voile	NOM
-noir	ADJ
-;	PUN
-pour	PRP
-filer	VER:infi
-ses	DET:POS
-habits	NOM
-royaux	ADJ
-,	PUN
-sur	PRP
-les	DET:ART
-navettes	NOM
-on	PRO:PER
-met	VER:pres
-du	PRP:det
-fil	NOM
-trempé	VER:pper
-dans	PRP
-le	DET:ART
-sang	NOM
-qui	PRO:REL
-coula	VER:simp
-;	PUN
-le	DET:ART
-boulevard	NOM
-montmartre	ADJ
-a	VER:pres
-fourni	VER:pper
-ses	DET:POS
-cuvettes	NOM
-,	PUN
-et	KON
-l'	PRO:PER
-on	PRO:PER
-teint	VER:pres
-son	DET:POS
-manteau	NOM
-dans	PRP
-cette	PRO:DEM
-pourpre	NOM
-là	ADV
-;	PUN
-il	PRO:PER
-vous	PRO:PER
-jette	VER:pres
-à	PRP
-cayenne	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-afrique	NOM
-,	PUN
-aux	PRP:det
-sentines	NOM
-,	PUN
-martyrs	NOM
-,	PUN
-héros	NOM
-d'	PRP
-hier	NOM
-et	KON
-forçats	NOM
-d'	PRP
-aujourd'hui	ADV
-!	SENT
-le	DET:ART
-couteau	NOM
-ruisselant	VER:ppre
-des	PRP:det
-rouges	ADJ
-guillotines	NOM
-laisse	VER:pres
-tomber	VER:infi
-le	DET:ART
-sang	NOM
-goutte	VER:pres
-à	PRP
-goutte	NOM
-sur	PRP
-lui	PRO:PER
-;	PUN
-lorsque	KON
-la	DET:ART
-trahison	NOM
-,	PUN
-sa	DET:POS
-complice	NOM
-livide	ADJ
-,	PUN
-vient	VER:pres
-et	KON
-frappe	VER:pres
-à	PRP
-sa	DET:POS
-porte	NOM
-,	PUN
-il	PRO:PER
-fait	VER:pres
-signe	NOM
-d'	PRP
-ouvrir	VER:infi
-;	PUN
-il	PRO:PER
-est	VER:pres
-le	DET:ART
-fratricide	NOM
-!	SENT
-il	PRO:PER
-est	VER:pres
-le	DET:ART
-parricide	NOM
-!	SENT
-peuples	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-pour	PRP
-cela	PRO:DEM
-qu'	PRO:REL
-il	PRO:PER
-ne	ADV
-doit	VER:pres
-pas	ADV
-mourir	VER:infi
-!	SENT
-gardons	VER:pres
-l'	DET:ART
-homme	NOM
-vivant	ADJ
-.	SENT
-oh	INT
-!	SENT
-châtiment	NOM
-superbe	ADJ
-!	SENT
-oh	INT
-!	SENT
-s'	PRO:PER
-il	PRO:PER
-pouvait	VER:impf
-un	DET:ART
-jour	NOM
-passer	VER:infi
-par	PRP
-le	DET:ART
-chemin	NOM
-,	PUN
-nu	NOM
-,	PUN
-courbé	VER:pper
-,	PUN
-frissonnant	ADJ
-,	PUN
-comme	ADV
-au	PRP:det
-vent	NOM
-tremble	VER:pres
-l'	DET:ART
-herbe	NOM
-.	SENT
-sous	PRP
-l'	DET:ART
-exécration	NOM
-de	PRP
-tout	PRO:IND
-le	DET:ART
-genre	NOM
-humain	ADJ
-!	SENT
-étreint	VER:pper
-par	PRP
-son	DET:POS
-passé	NOM
-tout	ADV
-rempli	VER:pper
-de	PRP
-ses	DET:POS
-crimes	NOM
-,	PUN
-comme	ADV
-par	PRP
-un	DET:ART
-carcan	NOM
-tout	ADV
-hérissé	ADJ
-de	PRP
-clous	NOM
-,	PUN
-cherchant	VER:ppre
-les	DET:ART
-lieux	NOM
-profonds	ADJ
-,	PUN
-les	DET:ART
-forêts	NOM
-,	PUN
-les	DET:ART
-abîmes	NOM
-,	PUN
-pâle	ADJ
-,	PUN
-horrible	ADJ
-,	PUN
-effaré	VER:pper
-,	PUN
-reconnu	VER:pper
-par	PRP
-les	DET:ART
-loups	NOM
-;	PUN
-dans	PRP
-quelque	PRO:IND
-bagne	NOM
-vil	ADJ
-n'	ADV
-entendant	VER:ppre
-que	KON
-sa	DET:POS
-chaîne	NOM
-,	PUN
-seul	ADJ
-,	PUN
-toujours	ADV
-seul	ADJ
-,	PUN
-parlant	VER:ppre
-en	PRP
-vain	ADJ
-aux	PRP:det
-rochers	NOM
-sourds	ADJ
-,	PUN
-voyant	VER:ppre
-autour	ADV
-de	PRP
-lui	PRO:PER
-le	DET:ART
-silence	NOM
-et	KON
-la	DET:ART
-haine	NOM
-,	PUN
-des	PRP:det
-hommes	NOM
-nulle	ADJ
-part	NOM
-et	KON
-des	PRP:det
-spectres	NOM
-toujours	ADV
-;	PUN
-vieillissant	VER:ppre
-,	PUN
-rejeté	VER:pper
-par	PRP
-la	DET:ART
-mort	NOM
-comme	ADV
-indigne	ADJ
-,	PUN
-tremblant	VER:ppre
-sous	PRP
-la	DET:ART
-nuit	NOM
-noire	ADJ
-,	PUN
-affreux	ADJ
-sous	PRP
-le	DET:ART
-ciel	NOM
-bleu	ADJ
-...	PUN
-peuples	NOM
-,	PUN
-écartez	VER:pres
-vous	PRO:PER
-!	SENT
-cet	PRO:DEM
-homme	NOM
-porte	VER:pres
-un	DET:ART
-signe	NOM
-:	PUN
-laissez	VER:pres
-passer	VER:infi
-caïn	NOM
-!	SENT
-il	PRO:PER
-appartient	VER:pres
-à	PRP
-dieu	NOM
-.	SENT
+non	ADV	non
+,	PUN	,
+liberté	NOM	liberté
+!	SENT	!
+non	ADV	non
+,	PUN	,
+peuple	NOM	peuple
+,	PUN	,
+il	PRO:PER	il
+ne	ADV	ne
+faut	VER:pres	falloir
+pas	ADV	pas
+qu'	KON	que
+il	PRO:PER	il
+meure	VER:subp	mourir
+!	SENT	!
+oh	INT	oh
+!	SENT	!
+certes	ADV	certes
+,	PUN	,
+ce	PRO:DEM	ce
+serait	VER:cond	être
+trop	ADV	trop
+simple	ADJ	simple
+,	PUN	,
+en	PRP	en
+vérité	NOM	vérité
+,	PUN	,
+qu'	KON	que
+après	PRP	après
+avoir	VER:infi	avoir
+brisé	VER:pper	briser
+les	DET:ART	le
+lois	NOM	loi
+,	PUN	,
+et	KON	et
+sonné	VER:pper	sonner
+l'	DET:ART	le
+heure	NOM	heure
+où	PRO:REL	où
+la	DET:ART	le
+sainte	ADJ	saint
+pudeur	NOM	pudeur
+au	PRP:det	au
+ciel	NOM	ciel
+a	VER:pres	avoir
+remonté	VER:pper	remonter
+;	PUN	;
+qu'	KON	que
+après	PRP	après
+avoir	VER:infi	avoir
+gagné	VER:pper	gagner
+sa	DET:POS	son
+sanglante	ADJ	sanglant
+gageure	NOM	gageure
+,	PUN	,
+et	KON	et
+vaincu	VER:pper	vaincre
+par	PRP	par
+l'	DET:ART	le
+embûche	NOM	embûche
+et	KON	et
+le	DET:ART	le
+glaive	NOM	glaive
+et	KON	et
+le	DET:ART	le
+feu	NOM	feu
+;	PUN	;
+qu'	KON	que
+après	PRP	après
+son	DET:POS	son
+guet	NOM	guet
+apens	ADJ	apens
+,	PUN	,
+ses	DET:POS	son
+meurtres	NOM	meurtre
+,	PUN	,
+son	DET:POS	son
+parjure	NOM	parjure
+,	PUN	,
+son	DET:POS	son
+faux	ADJ	faux
+serment	NOM	serment
+,	PUN	,
+soufflet	NOM	soufflet
+sur	PRP	sur
+la	DET:ART	le
+face	NOM	face
+de	PRP	de
+dieu	NOM	dieu
+;	PUN	;
+qu'	KON	que
+après	PRP	après
+avoir	VER:infi	avoir
+traîné	VER:pper	traîner
+la	DET:ART	le
+france	NOM	france
+,	PUN	,
+au	PRP:det	au
+coeur	NOM	cœur
+frappée	ADJ	frappé
+,	PUN	,
+et	KON	et
+par	PRP	par
+les	DET:ART	le
+pieds	NOM	pied
+liée	VER:pper	lier
+,	PUN	,
+à	PRP	à
+son	DET:POS	son
+immonde	ADJ	immonde
+char	NOM	char
+,	PUN	,
+cet	PRO:DEM	ce
+infâme	ADJ	infâme
+en	PRP	en
+fût	NOM	fût
+quitte	VER:pres	quitter
+avec	PRP	avec
+un	DET:ART	un
+coup	NOM	coup
+d'	PRP	de
+épée	NOM	épée
+au	PRP:det	au
+cou	NOM	cou
+comme	ADV	comme
+pompée	VER:pper	pomper
+,	PUN	,
+au	PRP:det	au
+flanc	NOM	flanc
+comme	KON	comme
+césar	NOM	césar
+!	SENT	!
+non	INT	non
+!	SENT	!
+il	PRO:PER	il
+est	VER:pres	être
+l'	DET:ART	le
+assassin	NOM	assassin
+qui	PRO:REL	qui
+rôde	VER:pres	rôder
+dans	PRP	dans
+les	DET:ART	le
+plaines	NOM	plaine
+;	PUN	;
+il	PRO:PER	il
+a	VER:pres	avoir
+tué	VER:pper	tuer
+,	PUN	,
+sabré	VER:pper	sabrer
+,	PUN	,
+mitraillé	VER:pper	mitrailler
+sans	PRP	sans
+remords	NOM	remords
+,	PUN	,
+il	PRO:PER	il
+fit	VER:simp	faire
+la	DET:ART	le
+maison	NOM	maison
+vide	ADJ	vide
+,	PUN	,
+il	PRO:PER	il
+fit	VER:simp	faire
+les	DET:ART	le
+tombes	NOM	tombe
+pleines	ADJ	plein
+,	PUN	,
+il	PRO:PER	il
+marche	VER:pres	marcher
+,	PUN	,
+il	PRO:PER	il
+va	VER:pres	aller
+,	PUN	,
+suivi	VER:pper	suivre
+par	PRP	par
+l'	DET:ART	le
+oeil	NOM	œil
+fixe	ADJ	fixe
+des	PRP:det	du
+morts	NOM	mort
+;	PUN	;
+à	PRP	à
+cause	NOM	cause
+de	PRP	de
+cet	PRO:DEM	ce
+homme	NOM	homme
+,	PUN	,
+empereur	NOM	empereur
+éphémère	ADJ	éphémère
+,	PUN	,
+le	DET:ART	le
+fils	NOM	fil|fils
+n'	ADV	ne
+a	VER:pres	avoir
+plus	ADV	plus
+de	PRP	de
+père	NOM	père
+et	KON	et
+l'	DET:ART	le
+enfant	NOM	enfant
+plus	ADV	plus
+d'	PRP	de
+espoir	NOM	espoir
+,	PUN	,
+la	DET:ART	le
+veuve	NOM	veuf|veuve
+à	PRP	à
+genoux	NOM	genou
+pleure	NOM	pleure
+et	KON	et
+sanglote	VER:pres	sangloter
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+mère	NOM	mère
+n'	ADV	ne
+est	VER:pres	être
+plus	ADV	plus
+qu'	KON	que
+un	DET:ART	un
+spectre	NOM	spectre
+assis	VER:pper	asseoir
+sous	PRP	sous
+un	DET:ART	un
+long	ADJ	long
+voile	NOM	voile
+noir	ADJ	noir
+;	PUN	;
+pour	PRP	pour
+filer	VER:infi	filer
+ses	DET:POS	son
+habits	NOM	habit
+royaux	ADJ	royal
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+navettes	NOM	navette
+on	PRO:PER	on
+met	VER:pres	mettre
+du	PRP:det	du
+fil	NOM	fil
+trempé	VER:pper	tremper
+dans	PRP	dans
+le	DET:ART	le
+sang	NOM	sang
+qui	PRO:REL	qui
+coula	VER:simp	couler
+;	PUN	;
+le	DET:ART	le
+boulevard	NOM	boulevard
+montmartre	ADJ	montmartre
+a	VER:pres	avoir
+fourni	VER:pper	fournir
+ses	DET:POS	son
+cuvettes	NOM	cuvette
+,	PUN	,
+et	KON	et
+l'	PRO:PER	la|le
+on	PRO:PER	on
+teint	VER:pres	teindre
+son	DET:POS	son
+manteau	NOM	manteau
+dans	PRP	dans
+cette	PRO:DEM	ce
+pourpre	NOM	pourpre
+là	ADV	là
+;	PUN	;
+il	PRO:PER	il
+vous	PRO:PER	vous
+jette	VER:pres	jeter
+à	PRP	à
+cayenne	NOM	cayenne
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+afrique	NOM	afrique
+,	PUN	,
+aux	PRP:det	au
+sentines	NOM	sentine
+,	PUN	,
+martyrs	NOM	martyr
+,	PUN	,
+héros	NOM	héro|héros
+d'	PRP	de
+hier	NOM	hier
+et	KON	et
+forçats	NOM	forçat
+d'	PRP	de
+aujourd'hui	ADV	aujourd'hui
+!	SENT	!
+le	DET:ART	le
+couteau	NOM	couteau
+ruisselant	VER:ppre	ruisseler
+des	PRP:det	du
+rouges	ADJ	rouge
+guillotines	NOM	guillotine
+laisse	VER:pres	laisser
+tomber	VER:infi	tomber
+le	DET:ART	le
+sang	NOM	sang
+goutte	VER:pres	goutter
+à	PRP	à
+goutte	NOM	goutte
+sur	PRP	sur
+lui	PRO:PER	lui
+;	PUN	;
+lorsque	KON	lorsque
+la	DET:ART	le
+trahison	NOM	trahison
+,	PUN	,
+sa	DET:POS	son
+complice	NOM	complice
+livide	ADJ	livide
+,	PUN	,
+vient	VER:pres	venir
+et	KON	et
+frappe	VER:pres	frapper
+à	PRP	à
+sa	DET:POS	son
+porte	NOM	porte
+,	PUN	,
+il	PRO:PER	il
+fait	VER:pres	faire
+signe	NOM	signe
+d'	PRP	de
+ouvrir	VER:infi	ouvrir
+;	PUN	;
+il	PRO:PER	il
+est	VER:pres	être
+le	DET:ART	le
+fratricide	NOM	fratricide
+!	SENT	!
+il	PRO:PER	il
+est	VER:pres	être
+le	DET:ART	le
+parricide	NOM	parricide
+!	SENT	!
+peuples	NOM	peuple
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+pour	PRP	pour
+cela	PRO:DEM	cela
+qu'	PRO:REL	que
+il	PRO:PER	il
+ne	ADV	ne
+doit	VER:pres	devoir
+pas	ADV	pas
+mourir	VER:infi	mourir
+!	SENT	!
+gardons	VER:pres	garder
+l'	DET:ART	le
+homme	NOM	homme
+vivant	ADJ	vivant
+.	SENT	.
+oh	INT	oh
+!	SENT	!
+châtiment	NOM	châtiment
+superbe	ADJ	superbe
+!	SENT	!
+oh	INT	oh
+!	SENT	!
+s'	PRO:PER	se
+il	PRO:PER	il
+pouvait	VER:impf	pouvoir
+un	DET:ART	un
+jour	NOM	jour
+passer	VER:infi	passer
+par	PRP	par
+le	DET:ART	le
+chemin	NOM	chemin
+,	PUN	,
+nu	NOM	nu
+,	PUN	,
+courbé	VER:pper	courber
+,	PUN	,
+frissonnant	ADJ	frissonnant
+,	PUN	,
+comme	ADV	comme
+au	PRP:det	au
+vent	NOM	vent
+tremble	VER:pres	trembler
+l'	DET:ART	le
+herbe	NOM	herbe
+.	SENT	.
+sous	PRP	sous
+l'	DET:ART	le
+exécration	NOM	exécration
+de	PRP	de
+tout	PRO:IND	tout
+le	DET:ART	le
+genre	NOM	genre
+humain	ADJ	humain
+!	SENT	!
+étreint	VER:pper	étreindre
+par	PRP	par
+son	DET:POS	son
+passé	NOM	passé
+tout	ADV	tout
+rempli	VER:pper	remplir
+de	PRP	de
+ses	DET:POS	son
+crimes	NOM	crime
+,	PUN	,
+comme	ADV	comme
+par	PRP	par
+un	DET:ART	un
+carcan	NOM	carcan
+tout	ADV	tout
+hérissé	ADJ	hérissé
+de	PRP	de
+clous	NOM	clou
+,	PUN	,
+cherchant	VER:ppre	chercher
+les	DET:ART	le
+lieux	NOM	lieu
+profonds	ADJ	profond
+,	PUN	,
+les	DET:ART	le
+forêts	NOM	forêt
+,	PUN	,
+les	DET:ART	le
+abîmes	NOM	abîme
+,	PUN	,
+pâle	ADJ	pâle
+,	PUN	,
+horrible	ADJ	horrible
+,	PUN	,
+effaré	VER:pper	effarer
+,	PUN	,
+reconnu	VER:pper	reconnaître
+par	PRP	par
+les	DET:ART	le
+loups	NOM	loup
+;	PUN	;
+dans	PRP	dans
+quelque	PRO:IND	quelque
+bagne	NOM	bagne
+vil	ADJ	vil
+n'	ADV	ne
+entendant	VER:ppre	entendre
+que	KON	que
+sa	DET:POS	son
+chaîne	NOM	chaîne
+,	PUN	,
+seul	ADJ	seul
+,	PUN	,
+toujours	ADV	toujours
+seul	ADJ	seul
+,	PUN	,
+parlant	VER:ppre	parler
+en	PRP	en
+vain	ADJ	vain
+aux	PRP:det	au
+rochers	NOM	rocher
+sourds	ADJ	sourd
+,	PUN	,
+voyant	VER:ppre	voir
+autour	ADV	autour
+de	PRP	de
+lui	PRO:PER	lui
+le	DET:ART	le
+silence	NOM	silence
+et	KON	et
+la	DET:ART	le
+haine	NOM	haine
+,	PUN	,
+des	PRP:det	du
+hommes	NOM	homme
+nulle	ADJ	nul
+part	NOM	part
+et	KON	et
+des	PRP:det	du
+spectres	NOM	spectre
+toujours	ADV	toujours
+;	PUN	;
+vieillissant	VER:ppre	vieillir
+,	PUN	,
+rejeté	VER:pper	rejeter
+par	PRP	par
+la	DET:ART	le
+mort	NOM	mort
+comme	ADV	comme
+indigne	ADJ	indigne
+,	PUN	,
+tremblant	VER:ppre	trembler
+sous	PRP	sous
+la	DET:ART	le
+nuit	NOM	nuit
+noire	ADJ	noir
+,	PUN	,
+affreux	ADJ	affreux
+sous	PRP	sous
+le	DET:ART	le
+ciel	NOM	ciel
+bleu	ADJ	bleu
+...	PUN	...
+peuples	NOM	peuple
+,	PUN	,
+écartez	VER:pres	écarter
+vous	PRO:PER	vous
+!	SENT	!
+cet	PRO:DEM	ce
+homme	NOM	homme
+porte	VER:pres	porter
+un	DET:ART	un
+signe	NOM	signe
+:	PUN	:
+laissez	VER:pres	laisser
+passer	VER:infi	passer
+caïn	NOM	caïn
+!	SENT	!
+il	PRO:PER	il
+appartient	VER:pres	appartenir
+à	PRP	à
+dieu	NOM	dieu
+.	SENT	.

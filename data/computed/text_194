@@ -1,287 +1,287 @@
-dans	PRP
-ma	DET:POS
-cervelle	NOM
-se	PRO:PER
-promène	VER:pres
-,	PUN
-ainsi	KON
-qu'	KON
-en	PRP
-son	DET:POS
-appartement	NOM
-,	PUN
-un	DET:ART
-beau	ADJ
-chat	NOM
-,	PUN
-fort	ADJ
-,	PUN
-doux	ADJ
-et	KON
-charmant	ADJ
-.	SENT
-quand	KON
-il	PRO:PER
-miaule	VER:pres
-,	PUN
-on	PRO:PER
-l'	PRO:PER
-entend	VER:pres
-à	PRP
-peine	NOM
-,	PUN
-tant	ADV
-son	DET:POS
-timbre	NOM
-est	VER:pres
-tendre	ADJ
-et	KON
-discret	ADJ
-;	PUN
-mais	KON
-que	KON
-sa	DET:POS
-voix	NOM
-s'	PRO:PER
-apaise	VER:pres
-ou	KON
-gronde	NOM
-,	PUN
-elle	PRO:PER
-est	VER:pres
-toujours	ADV
-riche	ADJ
-et	KON
-profonde	ADJ
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-là	ADV
-son	DET:POS
-charme	NOM
-et	KON
-son	DET:POS
-secret	NOM
-.	SENT
-cette	PRO:DEM
-voix	NOM
-,	PUN
-qui	PRO:REL
-perle	NOM
-et	KON
-qui	PRO:REL
-filtre	VER:pres
-dans	PRP
-mon	DET:POS
-fond	NOM
-le	DET:ART
-plus	ADV
-ténébreux	ADJ
-,	PUN
-me	PRO:PER
-remplit	VER:pres
-comme	ADV
-un	DET:ART
-vers	NOM
-nombreux	ADJ
-et	KON
-me	PRO:PER
-réjouit	VER:pres
-comme	ADV
-un	DET:ART
-philtre	NOM
-.	SENT
-elle	PRO:PER
-endort	VER:pres
-les	DET:ART
-plus	ADV
-cruels	ADJ
-maux	NOM
-et	KON
-contient	VER:pres
-toutes	PRO:IND
-les	DET:ART
-extases	NOM
-;	PUN
-pour	PRP
-dire	VER:infi
-les	DET:ART
-plus	ADV
-longues	ADJ
-phrases	NOM
-,	PUN
-elle	PRO:PER
-n'	ADV
-a	VER:pres
-pas	ADV
-besoin	NOM
-de	PRP
-mots	NOM
-.	SENT
-non	ADV
-,	PUN
-il	PRO:PER
-n'	ADV
-est	VER:pres
-pas	ADV
-d'	PRP
-archet	NOM
-qui	PRO:REL
-morde	VER:subp
-sur	PRP
-mon	DET:POS
-coeur	NOM
-,	PUN
-parfait	ADJ
-instrument	NOM
-,	PUN
-et	KON
-fasse	VER:subp
-plus	ADV
-royalement	ADV
-chanter	VER:infi
-sa	DET:POS
-plus	ADV
-vibrante	ADJ
-corde	NOM
-,	PUN
-que	KON
-ta	DET:POS
-voix	NOM
-,	PUN
-chat	NOM
-mystérieux	ADJ
-,	PUN
-chat	NOM
-séraphique	ADJ
-,	PUN
-chat	NOM
-étrange	ADJ
-,	PUN
-en	PRP
-qui	PRO:REL
-tout	ADV
-est	VER:pres
-,	PUN
-comme	ADV
-en	PRP
-un	DET:ART
-ange	NOM
-,	PUN
-aussi	ADV
-subtil	ADJ
-qu'	KON
-harmonieux	ADJ
-!	SENT
-de	PRP
-sa	DET:POS
-fourrure	NOM
-blonde	ADJ
-et	KON
-brune	ADJ
-sort	VER:pres
-un	DET:ART
-parfum	NOM
-si	ADV
-doux	ADJ
-,	PUN
-qu'	KON
-un	DET:ART
-soir	NOM
-j'	PRO:PER
-en	PRO:PER
-fus	VER:simp
-embaumé	VER:pper
-,	PUN
-pour	PRP
-l'	PRO:PER
-avoir	VER:infi
-caressée	VER:pper
-une	DET:ART
-fois	NOM
-,	PUN
-rien	ADV
-qu'	KON
-une	NUM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-esprit	NOM
-familier	ADJ
-du	PRP:det
-lieu	NOM
-;	PUN
-il	PRO:PER
-juge	VER:pres
-,	PUN
-il	PRO:PER
-préside	VER:pres
-,	PUN
-il	PRO:PER
-inspire	VER:pres
-toutes	PRO:IND
-choses	NOM
-dans	PRP
-son	DET:POS
-empire	NOM
-;	PUN
-peut	VER:pres
-être	VER:infi
-est	VER:pres
-il	PRO:PER
-fée	NOM
-,	PUN
-est	VER:pres
-il	PRO:PER
-dieu	NOM
-.	SENT
-quand	KON
-mes	DET:POS
-yeux	NOM
-,	PUN
-vers	PRP
-ce	PRO:DEM
-chat	NOM
-que	PRO:REL
-j'	PRO:PER
-aime	VER:pres
-tirés	VER:pper
-comme	ADV
-par	PRP
-un	DET:ART
-aimant	NOM
-,	PUN
-se	PRO:PER
-retournent	VER:pres
-docilement	ADV
-et	KON
-que	PRO:REL
-je	PRO:PER
-regarde	VER:pres
-en	PRP
-moi	PRO:PER
-même	ADV
-,	PUN
-je	PRO:PER
-vois	VER:pres
-avec	PRP
-étonnement	NOM
-le	DET:ART
-feu	NOM
-de	PRP
-ses	DET:POS
-prunelles	NOM
-pâles	ADJ
-,	PUN
-clairs	ADJ
-fanaux	NOM
-,	PUN
-vivantes	ADJ
-opales	NOM
-,	PUN
-qui	PRO:REL
-me	PRO:PER
-contemplent	VER:pres
-fixement	ADV
-.	SENT
+dans	PRP	dans
+ma	DET:POS	mon
+cervelle	NOM	cervelle
+se	PRO:PER	se
+promène	VER:pres	promener
+,	PUN	,
+ainsi	KON	ainsi
+qu'	KON	que
+en	PRP	en
+son	DET:POS	son
+appartement	NOM	appartement
+,	PUN	,
+un	DET:ART	un
+beau	ADJ	beau
+chat	NOM	chat
+,	PUN	,
+fort	ADJ	fort
+,	PUN	,
+doux	ADJ	doux
+et	KON	et
+charmant	ADJ	charmant
+.	SENT	.
+quand	KON	quand
+il	PRO:PER	il
+miaule	VER:pres	miauler
+,	PUN	,
+on	PRO:PER	on
+l'	PRO:PER	la|le
+entend	VER:pres	entendre
+à	PRP	à
+peine	NOM	peine
+,	PUN	,
+tant	ADV	tant
+son	DET:POS	son
+timbre	NOM	timbre
+est	VER:pres	être
+tendre	ADJ	tendre
+et	KON	et
+discret	ADJ	discret
+;	PUN	;
+mais	KON	mais
+que	KON	que
+sa	DET:POS	son
+voix	NOM	voix
+s'	PRO:PER	se
+apaise	VER:pres	apaiser
+ou	KON	ou
+gronde	NOM	gronde
+,	PUN	,
+elle	PRO:PER	elle
+est	VER:pres	être
+toujours	ADV	toujours
+riche	ADJ	riche
+et	KON	et
+profonde	ADJ	profond
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+là	ADV	là
+son	DET:POS	son
+charme	NOM	charme
+et	KON	et
+son	DET:POS	son
+secret	NOM	secret
+.	SENT	.
+cette	PRO:DEM	ce
+voix	NOM	voix
+,	PUN	,
+qui	PRO:REL	qui
+perle	NOM	perle
+et	KON	et
+qui	PRO:REL	qui
+filtre	VER:pres	filtrer
+dans	PRP	dans
+mon	DET:POS	mon
+fond	NOM	fond
+le	DET:ART	le
+plus	ADV	plus
+ténébreux	ADJ	ténébreux
+,	PUN	,
+me	PRO:PER	me
+remplit	VER:pres	remplir
+comme	ADV	comme
+un	DET:ART	un
+vers	NOM	ver|vers
+nombreux	ADJ	nombreux
+et	KON	et
+me	PRO:PER	me
+réjouit	VER:pres	réjouir
+comme	ADV	comme
+un	DET:ART	un
+philtre	NOM	philtre
+.	SENT	.
+elle	PRO:PER	elle
+endort	VER:pres	endormir
+les	DET:ART	le
+plus	ADV	plus
+cruels	ADJ	cruel
+maux	NOM	mal
+et	KON	et
+contient	VER:pres	contenir
+toutes	PRO:IND	tout
+les	DET:ART	le
+extases	NOM	extase
+;	PUN	;
+pour	PRP	pour
+dire	VER:infi	dire
+les	DET:ART	le
+plus	ADV	plus
+longues	ADJ	longue
+phrases	NOM	phrase
+,	PUN	,
+elle	PRO:PER	elle
+n'	ADV	ne
+a	VER:pres	avoir
+pas	ADV	pas
+besoin	NOM	besoin
+de	PRP	de
+mots	NOM	mot
+.	SENT	.
+non	ADV	non
+,	PUN	,
+il	PRO:PER	il
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+d'	PRP	de
+archet	NOM	archet
+qui	PRO:REL	qui
+morde	VER:subp	mordre
+sur	PRP	sur
+mon	DET:POS	mon
+coeur	NOM	cœur
+,	PUN	,
+parfait	ADJ	parfait
+instrument	NOM	instrument
+,	PUN	,
+et	KON	et
+fasse	VER:subp	faire
+plus	ADV	plus
+royalement	ADV	royalement
+chanter	VER:infi	chanter
+sa	DET:POS	son
+plus	ADV	plus
+vibrante	ADJ	vibrant
+corde	NOM	corde
+,	PUN	,
+que	KON	que
+ta	DET:POS	ton
+voix	NOM	voix
+,	PUN	,
+chat	NOM	chat
+mystérieux	ADJ	mystérieux
+,	PUN	,
+chat	NOM	chat
+séraphique	ADJ	séraphique
+,	PUN	,
+chat	NOM	chat
+étrange	ADJ	étrange
+,	PUN	,
+en	PRP	en
+qui	PRO:REL	qui
+tout	ADV	tout
+est	VER:pres	être
+,	PUN	,
+comme	ADV	comme
+en	PRP	en
+un	DET:ART	un
+ange	NOM	ange
+,	PUN	,
+aussi	ADV	aussi
+subtil	ADJ	subtil
+qu'	KON	que
+harmonieux	ADJ	harmonieux
+!	SENT	!
+de	PRP	de
+sa	DET:POS	son
+fourrure	NOM	fourrure
+blonde	ADJ	blond
+et	KON	et
+brune	ADJ	brun
+sort	VER:pres	sortir
+un	DET:ART	un
+parfum	NOM	parfum
+si	ADV	si
+doux	ADJ	doux
+,	PUN	,
+qu'	KON	que
+un	DET:ART	un
+soir	NOM	soir
+j'	PRO:PER	je
+en	PRO:PER	en
+fus	VER:simp	être
+embaumé	VER:pper	embaumer
+,	PUN	,
+pour	PRP	pour
+l'	PRO:PER	la|le
+avoir	VER:infi	avoir
+caressée	VER:pper	caresser
+une	DET:ART	un
+fois	NOM	foi|fois
+,	PUN	,
+rien	ADV	rien
+qu'	KON	que
+une	NUM	un
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+esprit	NOM	esprit
+familier	ADJ	familier
+du	PRP:det	du
+lieu	NOM	lieu
+;	PUN	;
+il	PRO:PER	il
+juge	VER:pres	juger
+,	PUN	,
+il	PRO:PER	il
+préside	VER:pres	présider
+,	PUN	,
+il	PRO:PER	il
+inspire	VER:pres	inspirer
+toutes	PRO:IND	tout
+choses	NOM	chose
+dans	PRP	dans
+son	DET:POS	son
+empire	NOM	empire
+;	PUN	;
+peut	VER:pres	pouvoir
+être	VER:infi	être
+est	VER:pres	être
+il	PRO:PER	il
+fée	NOM	fée
+,	PUN	,
+est	VER:pres	être
+il	PRO:PER	il
+dieu	NOM	dieu
+.	SENT	.
+quand	KON	quand
+mes	DET:POS	mon
+yeux	NOM	œil
+,	PUN	,
+vers	PRP	vers
+ce	PRO:DEM	ce
+chat	NOM	chat
+que	PRO:REL	que
+j'	PRO:PER	je
+aime	VER:pres	aimer
+tirés	VER:pper	tirer
+comme	ADV	comme
+par	PRP	par
+un	DET:ART	un
+aimant	NOM	aimant
+,	PUN	,
+se	PRO:PER	se
+retournent	VER:pres	retourner
+docilement	ADV	docilement
+et	KON	et
+que	PRO:REL	que
+je	PRO:PER	je
+regarde	VER:pres	regarder
+en	PRP	en
+moi	PRO:PER	moi
+même	ADV	même
+,	PUN	,
+je	PRO:PER	je
+vois	VER:pres	voir
+avec	PRP	avec
+étonnement	NOM	étonnement
+le	DET:ART	le
+feu	NOM	feu
+de	PRP	de
+ses	DET:POS	son
+prunelles	NOM	prunelle
+pâles	ADJ	pâle
+,	PUN	,
+clairs	ADJ	clair
+fanaux	NOM	fanal
+,	PUN	,
+vivantes	ADJ	vivant
+opales	NOM	opale
+,	PUN	,
+qui	PRO:REL	qui
+me	PRO:PER	me
+contemplent	VER:pres	contempler
+fixement	ADV	fixement
+.	SENT	.

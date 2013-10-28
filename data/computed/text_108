@@ -1,25 +1,25 @@
-la	DET:ART
-femme	NOM
-,	PUN
-l'	DET:ART
-enfant	NOM
-,	PUN
-la	DET:ART
-soupe	NOM
-en	PRP
-chemin	NOM
-pour	PRP
-le	DET:ART
-carrier	NOM
-le	PRO:PER
-complimentent	VER:pres
-qu'	KON
-il	PRO:PER
-coupe	VER:pres
-dans	PRP
-l'	DET:ART
-us	NOM
-de	PRP
-se	PRO:PER
-marier	VER:infi
-.	SENT
+la	DET:ART	le
+femme	NOM	femme
+,	PUN	,
+l'	DET:ART	le
+enfant	NOM	enfant
+,	PUN	,
+la	DET:ART	le
+soupe	NOM	soupe
+en	PRP	en
+chemin	NOM	chemin
+pour	PRP	pour
+le	DET:ART	le
+carrier	NOM	carrier
+le	PRO:PER	le
+complimentent	VER:pres	complimenter
+qu'	KON	que
+il	PRO:PER	il
+coupe	VER:pres	couper
+dans	PRP	dans
+l'	DET:ART	le
+us	NOM	us
+de	PRP	de
+se	PRO:PER	se
+marier	VER:infi	marier
+.	SENT	.

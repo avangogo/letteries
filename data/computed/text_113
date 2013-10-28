@@ -1,607 +1,607 @@
-au	PRP:det
-dessus	NOM
-du	PRP:det
-bétail	NOM
-ahuri	VER:pper
-des	PRP:det
-humains	NOM
-bondissaient	VER:impf
-en	PRP
-clartés	NOM
-les	DET:ART
-sauvages	ADJ
-crinières	NOM
-des	PRP:det
-mendieurs	NOM
-d'	PRP
-azur	NOM
-le	DET:ART
-pied	NOM
-dans	PRP
-nos	DET:POS
-chemins	NOM
-.	SENT
-un	DET:ART
-noir	ADJ
-vent	NOM
-sur	PRP
-leur	DET:POS
-marche	NOM
-éployé	VER:pper
-pour	PRP
-bannières	NOM
-la	PRO:PER
-flagellait	VER:impf
-de	PRP
-froid	ADJ
-tel	PRO:DEM
-jusque	PRP
-dans	PRP
-la	DET:ART
-chair	NOM
-,	PUN
-qu'	KON
-il	PRO:PER
-y	PRO:PER
-creusait	VER:impf
-aussi	ADV
-d'	PRP
-irritables	ADJ
-ornières	NOM
-.	SENT
-toujours	ADV
-avec	PRP
-l'	DET:ART
-espoir	NOM
-de	PRP
-rencontrer	VER:infi
-la	DET:ART
-mer	NOM
-,	PUN
-ils	PRO:PER
-voyageaient	VER:impf
-sans	PRP
-pain	NOM
-,	PUN
-sans	PRP
-bâtons	NOM
-et	KON
-sans	PRP
-urnes	NOM
-,	PUN
-mordant	VER:ppre
-au	PRP:det
-citron	NOM
-d'	PRP
-or	NOM
-de	PRP
-l'	DET:ART
-idéal	ADJ
-amer	NOM
-.	SENT
-la	DET:ART
-plupart	NOM
-râla	VER:simp
-dans	PRP
-les	DET:ART
-défilés	NOM
-nocturnes	ADJ
-,	PUN
-s'	PRO:PER
-enivrant	VER:ppre
-du	PRP:det
-bonheur	NOM
-de	PRP
-voir	VER:infi
-couler	VER:infi
-son	DET:POS
-sang	NOM
-,	PUN
-ô	INT
-mort	NOM
-le	DET:ART
-seul	ADJ
-baiser	NOM
-aux	PRP:det
-bouches	NOM
-taciturnes	ADJ
-!	SENT
-leur	DET:POS
-défaite	NOM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-par	PRP
-un	DET:ART
-ange	NOM
-très	ADV
-puissant	ADJ
-debout	ADV
-à	PRP
-l'	DET:ART
-horizon	NOM
-dans	PRP
-le	DET:ART
-nu	NOM
-de	PRP
-son	DET:POS
-glaive	NOM
-:	PUN
-une	DET:ART
-pourpre	NOM
-se	PRO:PER
-caille	VER:pres
-au	PRP:det
-sein	NOM
-reconnaissant	ADJ
-.	SENT
-ils	PRO:PER
-tettent	VER:subp
-la	DET:ART
-douleur	NOM
-comme	KON
-ils	PRO:PER
-tétaient	VER:impf
-le	DET:ART
-rêve	NOM
-et	KON
-quand	KON
-ils	PRO:PER
-vont	VER:pres
-rythmant	VER:ppre
-des	PRP:det
-pleurs	NOM
-voluptueux	ADJ
-le	DET:ART
-peuple	NOM
-s'	PRO:PER
-agenouille	VER:pres
-et	KON
-leur	DET:POS
-mère	NOM
-se	PRO:PER
-lève	VER:pres
-.	SENT
-ceux	PRO:DEM
-là	ADV
-sont	VER:pres
-consolés	VER:pper
-,	PUN
-sûrs	ADJ
-et	KON
-majestueux	ADJ
-;	PUN
-mais	KON
-traînent	VER:pres
-à	PRP
-leurs	DET:POS
-pas	NOM
-cent	NUM
-frères	NOM
-qu'	PRO:REL
-on	PRO:PER
-bafoue	VER:pres
-,	PUN
-dérisoires	ADJ
-martyrs	NOM
-de	PRP
-hasards	NOM
-tortueux	ADJ
-.	SENT
-le	DET:ART
-sel	NOM
-pareil	ADJ
-des	PRP:det
-pleurs	NOM
-ronge	VER:pres
-leur	DET:POS
-douce	ADJ
-joue	NOM
-,	PUN
-ils	PRO:PER
-mangent	VER:pres
-de	PRP
-la	DET:ART
-cendre	NOM
-avec	PRP
-le	DET:ART
-même	ADJ
-amour	NOM
-,	PUN
-mais	KON
-vulgaire	ADJ
-ou	KON
-bouffon	ADJ
-le	DET:ART
-destin	NOM
-qui	PRO:REL
-les	DET:ART
-roue	NOM
-.	SENT
-ils	PRO:PER
-pouvaient	VER:impf
-exciter	VER:infi
-aussi	ADV
-comme	ADV
-un	DET:ART
-tambour	NOM
-la	DET:ART
-servile	ADJ
-pitié	NOM
-des	PRP:det
-races	NOM
-à	PRP
-voix	NOM
-ternes	ADJ
-,	PUN
-égaux	ADJ
-de	PRP
-prométhée	ADJ
-à	PRP
-qui	PRO:REL
-manque	VER:pres
-un	DET:ART
-vautour	NOM
-!	SENT
-non	ADV
-,	PUN
-vils	ADJ
-et	KON
-fréquentant	VER:ppre
-les	DET:ART
-déserts	NOM
-sans	PRP
-citerne	NOM
-,	PUN
-ils	PRO:PER
-courent	VER:pres
-sous	PRP
-le	DET:ART
-fouet	NOM
-d'	PRP
-un	DET:ART
-monarque	NOM
-rageur	ADJ
-,	PUN
-le	DET:ART
-guignon	NOM
-,	PUN
-dont	PRO:REL
-le	DET:ART
-rire	NOM
-inouï	ADJ
-les	PRO:PER
-prosterne	VER:pres
-.	SENT
-amants	NOM
-,	PUN
-il	PRO:PER
-saute	VER:pres
-en	PRP
-croupe	NOM
-à	PRP
-trois	NUM
-,	PUN
-le	DET:ART
-partageur	NOM
-!	SENT
-puis	ADV
-le	DET:ART
-torrent	NOM
-franchi	VER:pper
-,	PUN
-vous	PRO:PER
-plonge	VER:pres
-en	PRP
-une	DET:ART
-mare	NOM
-et	KON
-laisse	VER:pres
-un	DET:ART
-bloc	NOM
-boueux	ADJ
-du	PRP:det
-blanc	ADJ
-couple	NOM
-nageur	ADJ
-.	SENT
-grâce	NOM
-à	PRP
-lui	PRO:PER
-,	PUN
-si	KON
-l'	DET:ART
-un	NUM
-souffle	NOM
-à	PRP
-son	DET:POS
-buccin	NOM
-bizarre	ADJ
-,	PUN
-des	PRP:det
-enfants	NOM
-nous	PRO:PER
-tordront	VER:futu
-en	PRP
-un	DET:ART
-rire	NOM
-obstiné	ADJ
-qui	PRO:REL
-,	PUN
-le	DET:ART
-poing	NOM
-à	PRP
-leur	DET:POS
-cul	NOM
-,	PUN
-singeront	VER:futu
-sa	DET:POS
-fanfare	NOM
-.	SENT
-grâce	NOM
-à	PRP
-lui	PRO:PER
-,	PUN
-si	KON
-l'	DET:ART
-une	NUM
-orne	NOM
-à	PRP
-point	NOM
-un	DET:ART
-sein	NOM
-fané	VER:pper
-par	PRP
-une	DET:ART
-rose	NOM
-qui	PRO:REL
-nubile	ADJ
-le	PRO:PER
-rallume	VER:pres
-,	PUN
-de	PRP
-la	DET:ART
-bave	NOM
-luira	VER:futu
-sur	PRP
-son	DET:POS
-bouquet	NOM
-damné	VER:pper
-.	SENT
-et	KON
-ce	PRO:DEM
-squelette	NOM
-nain	ADJ
-,	PUN
-coiffé	VER:pper
-d'	PRP
-un	DET:ART
-feutre	NOM
-à	PRP
-plume	NOM
-et	KON
-botté	VER:pper
-,	PUN
-dont	PRO:REL
-l'	DET:ART
-aisselle	NOM
-a	VER:pres
-pour	PRP
-poils	NOM
-vrais	ADJ
-des	PRP:det
-vers	NOM
-,	PUN
-est	VER:pres
-pour	PRP
-eux	PRO:PER
-l'	DET:ART
-infini	NOM
-de	PRP
-la	DET:ART
-vaste	ADJ
-amertume	NOM
-.	SENT
-vexés	VER:pper
-ne	ADV
-vont	VER:pres
-ils	PRO:PER
-pas	ADV
-provoquer	VER:infi
-le	DET:ART
-pervers	ADJ
-,	PUN
-leur	DET:POS
-rapière	NOM
-grinçant	ADJ
-suit	VER:pres
-le	DET:ART
-rayon	NOM
-de	PRP
-lune	NOM
-qui	PRO:REL
-neige	NOM
-en	PRP
-sa	DET:POS
-carcasse	NOM
-et	KON
-qui	PRO:REL
-passe	VER:pres
-au	PRP:det
-travers	NOM
-.	SENT
-désolés	VER:pper
-sans	PRP
-l'	DET:ART
-orgueil	NOM
-qui	PRO:REL
-sacre	VER:pres
-l'	DET:ART
-infortune	NOM
-,	PUN
-et	KON
-tristes	ADJ
-de	PRP
-venger	VER:infi
-leurs	DET:POS
-os	NOM
-de	PRP
-coups	NOM
-de	PRP
-bec	NOM
-,	PUN
-ils	PRO:PER
-convoitent	VER:pres
-la	DET:ART
-haine	NOM
-,	PUN
-au	PRP:det
-lieu	NOM
-de	PRP
-la	DET:ART
-rancune	NOM
-.	SENT
-ils	PRO:PER
-sont	VER:pres
-l'	DET:ART
-amusement	NOM
-des	PRP:det
-racleurs	NOM
-de	PRP
-rebec	NOM
-,	PUN
-des	PRP:det
-marmots	NOM
-,	PUN
-des	PRP:det
-putains	NOM
-et	KON
-de	PRP
-la	DET:ART
-vieille	ADJ
-engeance	NOM
-des	PRP:det
-loqueteux	ADJ
-dansant	ADJ
-quand	KON
-le	DET:ART
-broc	NOM
-est	VER:pres
-à	PRP
-sec	ADJ
-.	SENT
-les	DET:ART
-poëtes	NOM
-bons	ADJ
-pour	PRP
-l'	DET:ART
-aumône	NOM
-ou	KON
-la	DET:ART
-vengeance	NOM
-,	PUN
-ne	ADV
-connaissant	VER:ppre
-le	DET:ART
-mal	NOM
-de	PRP
-ces	PRO:DEM
-dieux	NOM
-effacés	VER:pper
-,	PUN
-les	PRO:PER
-disent	VER:pres
-ennuyeux	ADJ
-et	KON
-sans	PRP
-intelligence	NOM
-.	SENT
-ils	PRO:PER
-peuvent	VER:pres
-fuir	VER:infi
-ayant	VER:ppre
-de	PRP
-chaque	PRO:IND
-exploit	NOM
-assez	ADV
-,	PUN
-comme	KON
-un	DET:ART
-vierge	ADJ
-cheval	NOM
-écume	VER:pres
-de	PRP
-tempête	NOM
-plutôt	ADV
-que	KON
-de	PRP
-partir	VER:infi
-en	PRP
-galops	NOM
-cuirassés	VER:pper
-.	SENT
-nous	PRO:PER
-soûlerons	VER:futu
-d'	PRP
-encens	NOM
-le	DET:ART
-vainqueur	NOM
-dans	PRP
-la	DET:ART
-fête	NOM
-:	PUN
-mais	KON
-eux	PRO:PER
-,	PUN
-pourquoi	ADV
-n'	ADV
-endosser	VER:infi
-pas	ADV
-,	PUN
-ces	PRO:DEM
-baladins	NOM
-,	PUN
-d'	PRP
-écarlate	ADJ
-haillon	NOM
-hurlant	ADJ
-que	PRO:REL
-l'	DET:ART
-on	PRO:PER
-s'	PRO:PER
-arrête	VER:pres
-!	SENT
-quand	KON
-en	PRP
-face	NOM
-tous	PRO:IND
-leur	PRO:PER
-ont	VER:pres
-craché	VER:pper
-les	DET:ART
-dédains	NOM
-,	PUN
-nuls	ADJ
-et	KON
-la	DET:ART
-barbe	NOM
-à	PRP
-mots	NOM
-bas	ADJ
-priant	VER:ppre
-le	DET:ART
-tonnerre	NOM
-,	PUN
-ces	PRO:DEM
-héros	NOM
-excédés	VER:pper
-de	PRP
-malaises	ADJ
-badins	NOM
-vont	VER:pres
-ridiculement	ADV
-se	PRO:PER
-pendre	VER:infi
-au	PRP:det
-réverbère	NOM
-.	SENT
+au	PRP:det	au
+dessus	NOM	dessus
+du	PRP:det	du
+bétail	NOM	bétail
+ahuri	VER:pper	ahurir
+des	PRP:det	du
+humains	NOM	humain
+bondissaient	VER:impf	bondir
+en	PRP	en
+clartés	NOM	clarté
+les	DET:ART	le
+sauvages	ADJ	sauvage
+crinières	NOM	crinière
+des	PRP:det	du
+mendieurs	NOM	mendieur
+d'	PRP	de
+azur	NOM	azur
+le	DET:ART	le
+pied	NOM	pied
+dans	PRP	dans
+nos	DET:POS	notre
+chemins	NOM	chemin
+.	SENT	.
+un	DET:ART	un
+noir	ADJ	noir
+vent	NOM	vent
+sur	PRP	sur
+leur	DET:POS	leur
+marche	NOM	marche
+éployé	VER:pper	éployer
+pour	PRP	pour
+bannières	NOM	bannière
+la	PRO:PER	la
+flagellait	VER:impf	flageller
+de	PRP	de
+froid	ADJ	froid
+tel	PRO:DEM	tel
+jusque	PRP	jusque
+dans	PRP	dans
+la	DET:ART	le
+chair	NOM	chair
+,	PUN	,
+qu'	KON	que
+il	PRO:PER	il
+y	PRO:PER	y
+creusait	VER:impf	creuser
+aussi	ADV	aussi
+d'	PRP	de
+irritables	ADJ	irritable
+ornières	NOM	ornière
+.	SENT	.
+toujours	ADV	toujours
+avec	PRP	avec
+l'	DET:ART	le
+espoir	NOM	espoir
+de	PRP	de
+rencontrer	VER:infi	rencontrer
+la	DET:ART	le
+mer	NOM	mer
+,	PUN	,
+ils	PRO:PER	il
+voyageaient	VER:impf	voyager
+sans	PRP	sans
+pain	NOM	pain
+,	PUN	,
+sans	PRP	sans
+bâtons	NOM	bâton
+et	KON	et
+sans	PRP	sans
+urnes	NOM	urne
+,	PUN	,
+mordant	VER:ppre	mordre
+au	PRP:det	au
+citron	NOM	citron
+d'	PRP	de
+or	NOM	or
+de	PRP	de
+l'	DET:ART	le
+idéal	ADJ	idéal
+amer	NOM	amer
+.	SENT	.
+la	DET:ART	le
+plupart	NOM	plupart
+râla	VER:simp	râler
+dans	PRP	dans
+les	DET:ART	le
+défilés	NOM	défilé
+nocturnes	ADJ	nocturne
+,	PUN	,
+s'	PRO:PER	se
+enivrant	VER:ppre	enivrer
+du	PRP:det	du
+bonheur	NOM	bonheur
+de	PRP	de
+voir	VER:infi	voir
+couler	VER:infi	couler
+son	DET:POS	son
+sang	NOM	sang
+,	PUN	,
+ô	INT	ô
+mort	NOM	mort
+le	DET:ART	le
+seul	ADJ	seul
+baiser	NOM	baiser
+aux	PRP:det	au
+bouches	NOM	bouche
+taciturnes	ADJ	taciturne
+!	SENT	!
+leur	DET:POS	leur
+défaite	NOM	défaite
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+par	PRP	par
+un	DET:ART	un
+ange	NOM	ange
+très	ADV	très
+puissant	ADJ	puissant
+debout	ADV	debout
+à	PRP	à
+l'	DET:ART	le
+horizon	NOM	horizon
+dans	PRP	dans
+le	DET:ART	le
+nu	NOM	nu
+de	PRP	de
+son	DET:POS	son
+glaive	NOM	glaive
+:	PUN	:
+une	DET:ART	un
+pourpre	NOM	pourpre
+se	PRO:PER	se
+caille	VER:pres	cailler
+au	PRP:det	au
+sein	NOM	sein
+reconnaissant	ADJ	reconnaissant
+.	SENT	.
+ils	PRO:PER	il
+tettent	VER:subp	tettent
+la	DET:ART	le
+douleur	NOM	douleur
+comme	KON	comme
+ils	PRO:PER	il
+tétaient	VER:impf	téter
+le	DET:ART	le
+rêve	NOM	rêve
+et	KON	et
+quand	KON	quand
+ils	PRO:PER	il
+vont	VER:pres	aller
+rythmant	VER:ppre	rythmer
+des	PRP:det	du
+pleurs	NOM	pleur|pleurs
+voluptueux	ADJ	voluptueux
+le	DET:ART	le
+peuple	NOM	peuple
+s'	PRO:PER	se
+agenouille	VER:pres	agenouiller
+et	KON	et
+leur	DET:POS	leur
+mère	NOM	mère
+se	PRO:PER	se
+lève	VER:pres	lever
+.	SENT	.
+ceux	PRO:DEM	celui
+là	ADV	là
+sont	VER:pres	être
+consolés	VER:pper	consoler
+,	PUN	,
+sûrs	ADJ	sûr
+et	KON	et
+majestueux	ADJ	majestueux
+;	PUN	;
+mais	KON	mais
+traînent	VER:pres	traîner
+à	PRP	à
+leurs	DET:POS	leur
+pas	NOM	pas
+cent	NUM	cent
+frères	NOM	frère
+qu'	PRO:REL	que
+on	PRO:PER	on
+bafoue	VER:pres	bafouer
+,	PUN	,
+dérisoires	ADJ	dérisoire
+martyrs	NOM	martyr
+de	PRP	de
+hasards	NOM	hasard
+tortueux	ADJ	tortueux
+.	SENT	.
+le	DET:ART	le
+sel	NOM	sel
+pareil	ADJ	pareil
+des	PRP:det	du
+pleurs	NOM	pleur|pleurs
+ronge	VER:pres	ronger
+leur	DET:POS	leur
+douce	ADJ	doux
+joue	NOM	joue
+,	PUN	,
+ils	PRO:PER	il
+mangent	VER:pres	manger
+de	PRP	de
+la	DET:ART	le
+cendre	NOM	cendre
+avec	PRP	avec
+le	DET:ART	le
+même	ADJ	même
+amour	NOM	amour
+,	PUN	,
+mais	KON	mais
+vulgaire	ADJ	vulgaire
+ou	KON	ou
+bouffon	ADJ	bouffon
+le	DET:ART	le
+destin	NOM	destin
+qui	PRO:REL	qui
+les	DET:ART	le
+roue	NOM	roue
+.	SENT	.
+ils	PRO:PER	il
+pouvaient	VER:impf	pouvoir
+exciter	VER:infi	exciter
+aussi	ADV	aussi
+comme	ADV	comme
+un	DET:ART	un
+tambour	NOM	tambour
+la	DET:ART	le
+servile	ADJ	servile
+pitié	NOM	pitié
+des	PRP:det	du
+races	NOM	race
+à	PRP	à
+voix	NOM	voix
+ternes	ADJ	terne
+,	PUN	,
+égaux	ADJ	égal
+de	PRP	de
+prométhée	ADJ	prométhée
+à	PRP	à
+qui	PRO:REL	qui
+manque	VER:pres	manquer
+un	DET:ART	un
+vautour	NOM	vautour
+!	SENT	!
+non	ADV	non
+,	PUN	,
+vils	ADJ	vil
+et	KON	et
+fréquentant	VER:ppre	fréquenter
+les	DET:ART	le
+déserts	NOM	désert
+sans	PRP	sans
+citerne	NOM	citerne
+,	PUN	,
+ils	PRO:PER	il
+courent	VER:pres	courir
+sous	PRP	sous
+le	DET:ART	le
+fouet	NOM	fouet
+d'	PRP	de
+un	DET:ART	un
+monarque	NOM	monarque
+rageur	ADJ	rageur
+,	PUN	,
+le	DET:ART	le
+guignon	NOM	guignon
+,	PUN	,
+dont	PRO:REL	dont
+le	DET:ART	le
+rire	NOM	rire
+inouï	ADJ	inouï
+les	PRO:PER	la|le
+prosterne	VER:pres	prosterner
+.	SENT	.
+amants	NOM	amant
+,	PUN	,
+il	PRO:PER	il
+saute	VER:pres	sauter
+en	PRP	en
+croupe	NOM	croupe
+à	PRP	à
+trois	NUM	trois
+,	PUN	,
+le	DET:ART	le
+partageur	NOM	partageur
+!	SENT	!
+puis	ADV	puis
+le	DET:ART	le
+torrent	NOM	torrent
+franchi	VER:pper	franchir
+,	PUN	,
+vous	PRO:PER	vous
+plonge	VER:pres	plonger
+en	PRP	en
+une	DET:ART	un
+mare	NOM	mare
+et	KON	et
+laisse	VER:pres	laisser
+un	DET:ART	un
+bloc	NOM	bloc
+boueux	ADJ	boueux
+du	PRP:det	du
+blanc	ADJ	blanc
+couple	NOM	couple
+nageur	ADJ	nageur
+.	SENT	.
+grâce	NOM	grâce
+à	PRP	à
+lui	PRO:PER	lui
+,	PUN	,
+si	KON	si
+l'	DET:ART	le
+un	NUM	un
+souffle	NOM	souffle
+à	PRP	à
+son	DET:POS	son
+buccin	NOM	buccin
+bizarre	ADJ	bizarre
+,	PUN	,
+des	PRP:det	du
+enfants	NOM	enfant
+nous	PRO:PER	nous
+tordront	VER:futu	tordre
+en	PRP	en
+un	DET:ART	un
+rire	NOM	rire
+obstiné	ADJ	obstiné
+qui	PRO:REL	qui
+,	PUN	,
+le	DET:ART	le
+poing	NOM	poing
+à	PRP	à
+leur	DET:POS	leur
+cul	NOM	cul
+,	PUN	,
+singeront	VER:futu	singer
+sa	DET:POS	son
+fanfare	NOM	fanfare
+.	SENT	.
+grâce	NOM	grâce
+à	PRP	à
+lui	PRO:PER	lui
+,	PUN	,
+si	KON	si
+l'	DET:ART	le
+une	NUM	un
+orne	NOM	orne
+à	PRP	à
+point	NOM	point
+un	DET:ART	un
+sein	NOM	sein
+fané	VER:pper	faner
+par	PRP	par
+une	DET:ART	un
+rose	NOM	rose
+qui	PRO:REL	qui
+nubile	ADJ	nubile
+le	PRO:PER	le
+rallume	VER:pres	rallumer
+,	PUN	,
+de	PRP	de
+la	DET:ART	le
+bave	NOM	bave
+luira	VER:futu	luire
+sur	PRP	sur
+son	DET:POS	son
+bouquet	NOM	bouquet
+damné	VER:pper	damner
+.	SENT	.
+et	KON	et
+ce	PRO:DEM	ce
+squelette	NOM	squelette
+nain	ADJ	nain
+,	PUN	,
+coiffé	VER:pper	coiffer
+d'	PRP	de
+un	DET:ART	un
+feutre	NOM	feutre
+à	PRP	à
+plume	NOM	plume
+et	KON	et
+botté	VER:pper	botter
+,	PUN	,
+dont	PRO:REL	dont
+l'	DET:ART	le
+aisselle	NOM	aisselle
+a	VER:pres	avoir
+pour	PRP	pour
+poils	NOM	poil
+vrais	ADJ	vrai
+des	PRP:det	du
+vers	NOM	ver|vers
+,	PUN	,
+est	VER:pres	être
+pour	PRP	pour
+eux	PRO:PER	eux
+l'	DET:ART	le
+infini	NOM	infini
+de	PRP	de
+la	DET:ART	le
+vaste	ADJ	vaste
+amertume	NOM	amertume
+.	SENT	.
+vexés	VER:pper	vexer
+ne	ADV	ne
+vont	VER:pres	aller
+ils	PRO:PER	il
+pas	ADV	pas
+provoquer	VER:infi	provoquer
+le	DET:ART	le
+pervers	ADJ	pervers
+,	PUN	,
+leur	DET:POS	leur
+rapière	NOM	rapière
+grinçant	ADJ	grinçant
+suit	VER:pres	suivre
+le	DET:ART	le
+rayon	NOM	rayon
+de	PRP	de
+lune	NOM	lune
+qui	PRO:REL	qui
+neige	NOM	neige
+en	PRP	en
+sa	DET:POS	son
+carcasse	NOM	carcasse
+et	KON	et
+qui	PRO:REL	qui
+passe	VER:pres	passer
+au	PRP:det	au
+travers	NOM	travers
+.	SENT	.
+désolés	VER:pper	désoler
+sans	PRP	sans
+l'	DET:ART	le
+orgueil	NOM	orgueil
+qui	PRO:REL	qui
+sacre	VER:pres	sacrer
+l'	DET:ART	le
+infortune	NOM	infortune
+,	PUN	,
+et	KON	et
+tristes	ADJ	triste
+de	PRP	de
+venger	VER:infi	venger
+leurs	DET:POS	leur
+os	NOM	os
+de	PRP	de
+coups	NOM	coup
+de	PRP	de
+bec	NOM	bec
+,	PUN	,
+ils	PRO:PER	il
+convoitent	VER:pres	convoiter
+la	DET:ART	le
+haine	NOM	haine
+,	PUN	,
+au	PRP:det	au
+lieu	NOM	lieu
+de	PRP	de
+la	DET:ART	le
+rancune	NOM	rancune
+.	SENT	.
+ils	PRO:PER	il
+sont	VER:pres	être
+l'	DET:ART	le
+amusement	NOM	amusement
+des	PRP:det	du
+racleurs	NOM	racleur
+de	PRP	de
+rebec	NOM	rebec
+,	PUN	,
+des	PRP:det	du
+marmots	NOM	marmot
+,	PUN	,
+des	PRP:det	du
+putains	NOM	putain
+et	KON	et
+de	PRP	de
+la	DET:ART	le
+vieille	ADJ	vieux
+engeance	NOM	engeance
+des	PRP:det	du
+loqueteux	ADJ	loqueteux
+dansant	ADJ	dansant
+quand	KON	quand
+le	DET:ART	le
+broc	NOM	broc
+est	VER:pres	être
+à	PRP	à
+sec	ADJ	sec
+.	SENT	.
+les	DET:ART	le
+poëtes	NOM	poëtes
+bons	ADJ	bon
+pour	PRP	pour
+l'	DET:ART	le
+aumône	NOM	aumône
+ou	KON	ou
+la	DET:ART	le
+vengeance	NOM	vengeance
+,	PUN	,
+ne	ADV	ne
+connaissant	VER:ppre	connaître
+le	DET:ART	le
+mal	NOM	mal
+de	PRP	de
+ces	PRO:DEM	ce
+dieux	NOM	dieu
+effacés	VER:pper	effacer
+,	PUN	,
+les	PRO:PER	la|le
+disent	VER:pres	dire
+ennuyeux	ADJ	ennuyeux
+et	KON	et
+sans	PRP	sans
+intelligence	NOM	intelligence
+.	SENT	.
+ils	PRO:PER	il
+peuvent	VER:pres	pouvoir
+fuir	VER:infi	fuir
+ayant	VER:ppre	avoir
+de	PRP	de
+chaque	PRO:IND	chaque
+exploit	NOM	exploit
+assez	ADV	assez
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+vierge	ADJ	vierge
+cheval	NOM	cheval
+écume	VER:pres	écumer
+de	PRP	de
+tempête	NOM	tempête
+plutôt	ADV	plutôt
+que	KON	que
+de	PRP	de
+partir	VER:infi	partir
+en	PRP	en
+galops	NOM	galop
+cuirassés	VER:pper	cuirasser
+.	SENT	.
+nous	PRO:PER	nous
+soûlerons	VER:futu	soûler
+d'	PRP	de
+encens	NOM	encens
+le	DET:ART	le
+vainqueur	NOM	vainqueur
+dans	PRP	dans
+la	DET:ART	le
+fête	NOM	fête
+:	PUN	:
+mais	KON	mais
+eux	PRO:PER	eux
+,	PUN	,
+pourquoi	ADV	pourquoi
+n'	ADV	ne
+endosser	VER:infi	endosser
+pas	ADV	pas
+,	PUN	,
+ces	PRO:DEM	ce
+baladins	NOM	baladin
+,	PUN	,
+d'	PRP	de
+écarlate	ADJ	écarlate
+haillon	NOM	haillon
+hurlant	ADJ	hurlant
+que	PRO:REL	que
+l'	DET:ART	le
+on	PRO:PER	on
+s'	PRO:PER	se
+arrête	VER:pres	arrêter
+!	SENT	!
+quand	KON	quand
+en	PRP	en
+face	NOM	face
+tous	PRO:IND	tout
+leur	PRO:PER	lui
+ont	VER:pres	avoir
+craché	VER:pper	cracher
+les	DET:ART	le
+dédains	NOM	dédain
+,	PUN	,
+nuls	ADJ	nul
+et	KON	et
+la	DET:ART	le
+barbe	NOM	barbe
+à	PRP	à
+mots	NOM	mot
+bas	ADJ	bas
+priant	VER:ppre	prier
+le	DET:ART	le
+tonnerre	NOM	tonnerre
+,	PUN	,
+ces	PRO:DEM	ce
+héros	NOM	héro|héros
+excédés	VER:pper	excéder
+de	PRP	de
+malaises	ADJ	malais
+badins	NOM	badin
+vont	VER:pres	aller
+ridiculement	ADV	ridiculement
+se	PRO:PER	se
+pendre	VER:infi	pendre
+au	PRP:det	au
+réverbère	NOM	réverbère
+.	SENT	.

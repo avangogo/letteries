@@ -1,202 +1,202 @@
-que	KON
-j'	PRO:PER
-aime	VER:pres
-voir	VER:infi
-,	PUN
-chère	NOM
-indolente	ADJ
-,	PUN
-de	PRP
-ton	DET:POS
-corps	NOM
-si	ADV
-beau	ADJ
-,	PUN
-comme	KON
-une	DET:ART
-étoile	NOM
-vacillante	ADJ
-,	PUN
-miroiter	VER:infi
-la	DET:ART
-peau	NOM
-!	SENT
-sur	PRP
-ta	DET:POS
-chevelure	NOM
-profonde	ADJ
-aux	PRP:det
-âcres	ADJ
-parfums	NOM
-,	PUN
-mer	NOM
-odorante	ADJ
-et	KON
-vagabonde	ADJ
-aux	PRP:det
-flots	NOM
-bleus	ADJ
-et	KON
-bruns	ADJ
-,	PUN
-comme	KON
-un	DET:ART
-navire	NOM
-qui	PRO:REL
-s'	PRO:PER
-éveille	VER:pres
-au	PRP:det
-vent	NOM
-du	PRP:det
-matin	NOM
-,	PUN
-mon	DET:POS
-âme	NOM
-rêveuse	ADJ
-appareille	VER:pres
-pour	PRP
-un	DET:ART
-ciel	NOM
-lointain	ADJ
-.	SENT
-tes	DET:POS
-yeux	NOM
-,	PUN
-où	PRO:REL
-rien	NOM
-ne	ADV
-se	PRO:PER
-révèle	VER:pres
-de	PRP
-doux	ADJ
-ni	KON
-d'	PRP
-amer	NOM
-,	PUN
-sont	VER:pres
-deux	NUM
-bijoux	NOM
-froids	ADJ
-où	PRO:REL
-se	PRO:PER
-mêle	VER:pres
-l'	DET:ART
-or	NOM
-avec	PRP
-le	DET:ART
-fer	NOM
-.	SENT
-à	PRP
-te	PRO:PER
-voir	VER:infi
-marcher	VER:infi
-en	PRP
-cadence	NOM
-,	PUN
-belle	ADJ
-d'	PRP
-abandon	NOM
-,	PUN
-on	PRO:PER
-dirait	VER:cond
-un	DET:ART
-serpent	NOM
-qui	PRO:REL
-danse	VER:pres
-au	PRP:det
-bout	NOM
-d'	PRP
-un	DET:ART
-bâton	NOM
-.	SENT
-sous	PRP
-le	DET:ART
-fardeau	NOM
-de	PRP
-ta	DET:POS
-paresse	NOM
-ta	DET:POS
-tête	NOM
-d'	PRP
-enfant	NOM
-se	PRO:PER
-balance	VER:pres
-avec	PRP
-la	DET:ART
-mollesse	NOM
-d'	PRP
-un	DET:ART
-jeune	ADJ
-éléphant	NOM
-,	PUN
-et	KON
-ton	DET:POS
-corps	NOM
-se	PRO:PER
-penche	VER:pres
-et	KON
-s'	PRO:PER
-allonge	VER:pres
-comme	ADV
-un	DET:ART
-fin	ADJ
-vaisseau	NOM
-qui	PRO:REL
-roule	VER:pres
-bord	NOM
-sur	PRP
-bord	NOM
-et	KON
-plonge	VER:pres
-ses	DET:POS
-vergues	NOM
-dans	PRP
-l'	DET:ART
-eau	NOM
-.	SENT
-comme	ADV
-un	DET:ART
-flot	NOM
-grossi	VER:pper
-par	PRP
-la	DET:ART
-fonte	NOM
-des	PRP:det
-glaciers	NOM
-grondants	ADJ
-,	PUN
-quand	KON
-l'	DET:ART
-eau	NOM
-de	PRP
-ta	DET:POS
-bouche	NOM
-remonte	VER:pres
-au	PRP:det
-bord	NOM
-de	PRP
-tes	DET:POS
-dents	NOM
-,	PUN
-je	PRO:PER
-crois	VER:pres
-boire	VER:infi
-un	DET:ART
-vin	NOM
-de	PRP
-bohême	NOM
-,	PUN
-amer	ADJ
-et	KON
-vainqueur	NOM
-,	PUN
-un	DET:ART
-ciel	NOM
-liquide	ADJ
-qui	PRO:REL
-parsème	VER:pres
-d'	PRP
-étoiles	NOM
-mon	DET:POS
-coeur	NOM
-!	SENT
+que	KON	que
+j'	PRO:PER	je
+aime	VER:pres	aimer
+voir	VER:infi	voir
+,	PUN	,
+chère	NOM	chère
+indolente	ADJ	indolent
+,	PUN	,
+de	PRP	de
+ton	DET:POS	ton
+corps	NOM	corps
+si	ADV	si
+beau	ADJ	beau
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+étoile	NOM	étoile
+vacillante	ADJ	vacillant
+,	PUN	,
+miroiter	VER:infi	miroiter
+la	DET:ART	le
+peau	NOM	peau
+!	SENT	!
+sur	PRP	sur
+ta	DET:POS	ton
+chevelure	NOM	chevelure
+profonde	ADJ	profond
+aux	PRP:det	au
+âcres	ADJ	âcre
+parfums	NOM	parfum
+,	PUN	,
+mer	NOM	mer
+odorante	ADJ	odorant
+et	KON	et
+vagabonde	ADJ	vagabond
+aux	PRP:det	au
+flots	NOM	flot
+bleus	ADJ	bleu
+et	KON	et
+bruns	ADJ	brun
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+navire	NOM	navire
+qui	PRO:REL	qui
+s'	PRO:PER	se
+éveille	VER:pres	éveiller
+au	PRP:det	au
+vent	NOM	vent
+du	PRP:det	du
+matin	NOM	matin
+,	PUN	,
+mon	DET:POS	mon
+âme	NOM	âme
+rêveuse	ADJ	rêveur
+appareille	VER:pres	appareiller
+pour	PRP	pour
+un	DET:ART	un
+ciel	NOM	ciel
+lointain	ADJ	lointain
+.	SENT	.
+tes	DET:POS	ton
+yeux	NOM	œil
+,	PUN	,
+où	PRO:REL	où
+rien	NOM	rien
+ne	ADV	ne
+se	PRO:PER	se
+révèle	VER:pres	révéler
+de	PRP	de
+doux	ADJ	doux
+ni	KON	ni
+d'	PRP	de
+amer	NOM	amer
+,	PUN	,
+sont	VER:pres	être
+deux	NUM	deux
+bijoux	NOM	bijou
+froids	ADJ	froid
+où	PRO:REL	où
+se	PRO:PER	se
+mêle	VER:pres	mêler
+l'	DET:ART	le
+or	NOM	or
+avec	PRP	avec
+le	DET:ART	le
+fer	NOM	fer
+.	SENT	.
+à	PRP	à
+te	PRO:PER	te
+voir	VER:infi	voir
+marcher	VER:infi	marcher
+en	PRP	en
+cadence	NOM	cadence
+,	PUN	,
+belle	ADJ	beau
+d'	PRP	de
+abandon	NOM	abandon
+,	PUN	,
+on	PRO:PER	on
+dirait	VER:cond	dire
+un	DET:ART	un
+serpent	NOM	serpent
+qui	PRO:REL	qui
+danse	VER:pres	danser
+au	PRP:det	au
+bout	NOM	bout
+d'	PRP	de
+un	DET:ART	un
+bâton	NOM	bâton
+.	SENT	.
+sous	PRP	sous
+le	DET:ART	le
+fardeau	NOM	fardeau
+de	PRP	de
+ta	DET:POS	ton
+paresse	NOM	paresse
+ta	DET:POS	ton
+tête	NOM	tête
+d'	PRP	de
+enfant	NOM	enfant
+se	PRO:PER	se
+balance	VER:pres	balancer
+avec	PRP	avec
+la	DET:ART	le
+mollesse	NOM	mollesse
+d'	PRP	de
+un	DET:ART	un
+jeune	ADJ	jeune
+éléphant	NOM	éléphant
+,	PUN	,
+et	KON	et
+ton	DET:POS	ton
+corps	NOM	corps
+se	PRO:PER	se
+penche	VER:pres	pencher
+et	KON	et
+s'	PRO:PER	se
+allonge	VER:pres	allonger
+comme	ADV	comme
+un	DET:ART	un
+fin	ADJ	fin
+vaisseau	NOM	vaisseau
+qui	PRO:REL	qui
+roule	VER:pres	rouler
+bord	NOM	bord
+sur	PRP	sur
+bord	NOM	bord
+et	KON	et
+plonge	VER:pres	plonger
+ses	DET:POS	son
+vergues	NOM	vergue
+dans	PRP	dans
+l'	DET:ART	le
+eau	NOM	eau
+.	SENT	.
+comme	ADV	comme
+un	DET:ART	un
+flot	NOM	flot
+grossi	VER:pper	grossir
+par	PRP	par
+la	DET:ART	le
+fonte	NOM	fonte
+des	PRP:det	du
+glaciers	NOM	glacier
+grondants	ADJ	grondant
+,	PUN	,
+quand	KON	quand
+l'	DET:ART	le
+eau	NOM	eau
+de	PRP	de
+ta	DET:POS	ton
+bouche	NOM	bouche
+remonte	VER:pres	remonter
+au	PRP:det	au
+bord	NOM	bord
+de	PRP	de
+tes	DET:POS	ton
+dents	NOM	dent
+,	PUN	,
+je	PRO:PER	je
+crois	VER:pres	croire
+boire	VER:infi	boire
+un	DET:ART	un
+vin	NOM	vin
+de	PRP	de
+bohême	NOM	bohême
+,	PUN	,
+amer	ADJ	amer
+et	KON	et
+vainqueur	NOM	vainqueur
+,	PUN	,
+un	DET:ART	un
+ciel	NOM	ciel
+liquide	ADJ	liquide
+qui	PRO:REL	qui
+parsème	VER:pres	parsemer
+d'	PRP	de
+étoiles	NOM	étoile
+mon	DET:POS	mon
+coeur	NOM	cœur
+!	SENT	!

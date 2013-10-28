@@ -1,26 +1,26 @@
-ces	PRO:DEM
-cailloux	NOM
-,	PUN
-tu	PRO:PER
-les	DET:ART
-nivelles	NOM
-et	KON
-c'	PRO:DEM
-est	VER:pres
-,	PUN
-comme	ADV
-troubadour	NOM
-,	PUN
-un	DET:ART
-cube	NOM
-aussi	ADV
-de	PRP
-cervelles	NOM
-qu'	PRO:REL
-il	PRO:PER
-me	PRO:PER
-faut	VER:pres
-ouvrir	VER:infi
-par	PRP
-jour	NOM
-.	SENT
+ces	PRO:DEM	ce
+cailloux	NOM	caillou
+,	PUN	,
+tu	PRO:PER	tu
+les	DET:ART	le
+nivelles	NOM	nivelle
+et	KON	et
+c'	PRO:DEM	ce
+est	VER:pres	être
+,	PUN	,
+comme	ADV	comme
+troubadour	NOM	troubadour
+,	PUN	,
+un	DET:ART	un
+cube	NOM	cube
+aussi	ADV	aussi
+de	PRP	de
+cervelles	NOM	cervelle
+qu'	PRO:REL	que
+il	PRO:PER	il
+me	PRO:PER	me
+faut	VER:pres	falloir
+ouvrir	VER:infi	ouvrir
+par	PRP	par
+jour	NOM	jour
+.	SENT	.

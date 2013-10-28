@@ -1,222 +1,222 @@
-noirs	NOM
-dans	PRP
-la	DET:ART
-neige	NOM
-et	KON
-dans	PRP
-la	DET:ART
-brume	NOM
-,	PUN
-au	PRP:det
-grand	ADJ
-soupirail	NOM
-qui	PRO:REL
-s'	PRO:PER
-allume	VER:pres
-,	PUN
-leurs	DET:POS
-culs	NOM
-en	PRP
-rond	NOM
-,	PUN
-a	VER:pres
-genoux	NOM
-,	PUN
-cinq	NUM
-petits	NOM
-,	PUN
-misère	NOM
-!	SENT
-regardent	VER:pres
-le	PRO:PER
-boulanger	VER:infi
-faire	VER:infi
-le	DET:ART
-lourd	ADJ
-pain	NOM
-blond	ADJ
-...	PUN
-ils	PRO:PER
-voient	VER:pres
-le	DET:ART
-fort	ADJ
-bras	NOM
-blanc	ADJ
-qui	PRO:REL
-tourne	VER:pres
-la	DET:ART
-pâte	NOM
-grise	ADJ
-,	PUN
-et	KON
-qui	PRO:REL
-l'	PRO:PER
-enfourne	VER:pres
-dans	PRP
-un	DET:ART
-trou	NOM
-clair	ADJ
-.	SENT
-ils	PRO:PER
-écoutent	VER:pres
-le	DET:ART
-bon	ADJ
-pain	NOM
-cuire	VER:infi
-.	SENT
-le	DET:ART
-boulanger	NOM
-au	PRP:det
-gras	ADJ
-sourire	NOM
-chante	VER:pres
-un	DET:ART
-vieil	ADJ
-air	NOM
-.	SENT
-ils	PRO:PER
-sont	VER:pres
-blottis	VER:pper
-,	PUN
-pas	ADV
-un	DET:ART
-ne	ADV
-bouge	NOM
-,	PUN
-au	PRP:det
-souffle	NOM
-du	PRP:det
-soupirail	NOM
-rouge	ADJ
-,	PUN
-chaud	ADJ
-comme	KON
-un	DET:ART
-sein	NOM
-.	SENT
-et	KON
-quand	KON
-,	PUN
-pendant	VER:ppre
-que	KON
-minuit	NOM
-sonne	VER:pres
-,	PUN
-façonné	VER:pper
-,	PUN
-pétillant	VER:ppre
-et	KON
-jaune	ADJ
-,	PUN
-on	PRO:PER
-sort	VER:pres
-le	DET:ART
-pain	NOM
-;	PUN
-quand	KON
-,	PUN
-sous	PRP
-les	DET:ART
-poutres	NOM
-enfumées	VER:pper
-,	PUN
-chantent	VER:pres
-les	DET:ART
-croûtes	NOM
-parfumées	VER:pper
-,	PUN
-et	KON
-les	DET:ART
-grillons	NOM
-;	PUN
-quand	KON
-ce	PRO:DEM
-trou	NOM
-chaud	ADJ
-souffle	VER:pres
-la	DET:ART
-vie	NOM
-;	PUN
-ils	PRO:PER
-ont	VER:pres
-leur	DET:POS
-âme	NOM
-si	KON
-ravie	VER:pper
-sous	PRP
-leurs	DET:POS
-haillons	NOM
-,	PUN
-ils	PRO:PER
-se	PRO:PER
-ressentent	VER:pres
-si	ADV
-bien	ADV
-vivre	VER:infi
-,	PUN
-les	DET:ART
-pauvres	NOM
-petits	ADJ
-pleins	ADJ
-de	PRP
-givre	NOM
-!	SENT
-qu'	KON
-ils	PRO:PER
-sont	VER:pres
-là	ADV
-,	PUN
-tous	PRO:IND
-,	PUN
-collant	VER:ppre
-leurs	DET:POS
-petits	ADJ
-museaux	NOM
-roses	ADJ
-au	PRP:det
-grillage	NOM
-,	PUN
-chantant	VER:ppre
-des	PRP:det
-choses	NOM
-,	PUN
-entre	PRP
-les	DET:ART
-trous	NOM
-,	PUN
-mais	KON
-bien	ADV
-bas	ADJ
-,	PUN
-comme	KON
-une	DET:ART
-prière	NOM
-...	PUN
-repliés	VER:pper
-vers	PRP
-cette	PRO:DEM
-lumière	NOM
-du	PRP:det
-ciel	NOM
-rouvert	VER:pper
-,	PUN
-si	ADV
-fort	ADJ
-,	PUN
-qu'	PRO:REL
-ils	PRO:PER
-crèvent	VER:pres
-leur	DET:POS
-culotte	NOM
-,	PUN
-et	KON
-que	KON
-leur	DET:POS
-lange	NOM
-blanc	ADJ
-tremblotte	VER:subp
-au	PRP:det
-vent	NOM
-d'	PRP
-hiver	NOM
-...	PUN
+noirs	NOM	noir
+dans	PRP	dans
+la	DET:ART	le
+neige	NOM	neige
+et	KON	et
+dans	PRP	dans
+la	DET:ART	le
+brume	NOM	brume
+,	PUN	,
+au	PRP:det	au
+grand	ADJ	grand
+soupirail	NOM	soupirail
+qui	PRO:REL	qui
+s'	PRO:PER	se
+allume	VER:pres	allumer
+,	PUN	,
+leurs	DET:POS	leur
+culs	NOM	cul
+en	PRP	en
+rond	NOM	rond
+,	PUN	,
+a	VER:pres	avoir
+genoux	NOM	genou
+,	PUN	,
+cinq	NUM	cinq
+petits	NOM	petit
+,	PUN	,
+misère	NOM	misère
+!	SENT	!
+regardent	VER:pres	regarder
+le	PRO:PER	le
+boulanger	VER:infi	boulanger
+faire	VER:infi	faire
+le	DET:ART	le
+lourd	ADJ	lourd
+pain	NOM	pain
+blond	ADJ	blond
+...	PUN	...
+ils	PRO:PER	il
+voient	VER:pres	voir
+le	DET:ART	le
+fort	ADJ	fort
+bras	NOM	bras
+blanc	ADJ	blanc
+qui	PRO:REL	qui
+tourne	VER:pres	tourner
+la	DET:ART	le
+pâte	NOM	pâte
+grise	ADJ	gris
+,	PUN	,
+et	KON	et
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+enfourne	VER:pres	enfourner
+dans	PRP	dans
+un	DET:ART	un
+trou	NOM	trou
+clair	ADJ	clair
+.	SENT	.
+ils	PRO:PER	il
+écoutent	VER:pres	écouter
+le	DET:ART	le
+bon	ADJ	bon
+pain	NOM	pain
+cuire	VER:infi	cuire
+.	SENT	.
+le	DET:ART	le
+boulanger	NOM	boulanger
+au	PRP:det	au
+gras	ADJ	gras
+sourire	NOM	sourire
+chante	VER:pres	chanter
+un	DET:ART	un
+vieil	ADJ	vieux
+air	NOM	air
+.	SENT	.
+ils	PRO:PER	il
+sont	VER:pres	être
+blottis	VER:pper	blottir
+,	PUN	,
+pas	ADV	pas
+un	DET:ART	un
+ne	ADV	ne
+bouge	NOM	bouge
+,	PUN	,
+au	PRP:det	au
+souffle	NOM	souffle
+du	PRP:det	du
+soupirail	NOM	soupirail
+rouge	ADJ	rouge
+,	PUN	,
+chaud	ADJ	chaud
+comme	KON	comme
+un	DET:ART	un
+sein	NOM	sein
+.	SENT	.
+et	KON	et
+quand	KON	quand
+,	PUN	,
+pendant	VER:ppre	pendre
+que	KON	que
+minuit	NOM	minuit
+sonne	VER:pres	sonner
+,	PUN	,
+façonné	VER:pper	façonner
+,	PUN	,
+pétillant	VER:ppre	pétiller
+et	KON	et
+jaune	ADJ	jaune
+,	PUN	,
+on	PRO:PER	on
+sort	VER:pres	sortir
+le	DET:ART	le
+pain	NOM	pain
+;	PUN	;
+quand	KON	quand
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+poutres	NOM	poutre
+enfumées	VER:pper	enfumer
+,	PUN	,
+chantent	VER:pres	chanter
+les	DET:ART	le
+croûtes	NOM	croûte
+parfumées	VER:pper	parfumer
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+grillons	NOM	grillon
+;	PUN	;
+quand	KON	quand
+ce	PRO:DEM	ce
+trou	NOM	trou
+chaud	ADJ	chaud
+souffle	VER:pres	souffler
+la	DET:ART	le
+vie	NOM	vie
+;	PUN	;
+ils	PRO:PER	il
+ont	VER:pres	avoir
+leur	DET:POS	leur
+âme	NOM	âme
+si	KON	si
+ravie	VER:pper	ravir
+sous	PRP	sous
+leurs	DET:POS	leur
+haillons	NOM	haillon
+,	PUN	,
+ils	PRO:PER	il
+se	PRO:PER	se
+ressentent	VER:pres	ressentir
+si	ADV	si
+bien	ADV	bien
+vivre	VER:infi	vivre
+,	PUN	,
+les	DET:ART	le
+pauvres	NOM	pauvre
+petits	ADJ	petit
+pleins	ADJ	plein
+de	PRP	de
+givre	NOM	givre
+!	SENT	!
+qu'	KON	que
+ils	PRO:PER	il
+sont	VER:pres	être
+là	ADV	là
+,	PUN	,
+tous	PRO:IND	tout
+,	PUN	,
+collant	VER:ppre	coller
+leurs	DET:POS	leur
+petits	ADJ	petit
+museaux	NOM	museau
+roses	ADJ	rose
+au	PRP:det	au
+grillage	NOM	grillage
+,	PUN	,
+chantant	VER:ppre	chanter
+des	PRP:det	du
+choses	NOM	chose
+,	PUN	,
+entre	PRP	entre
+les	DET:ART	le
+trous	NOM	trou
+,	PUN	,
+mais	KON	mais
+bien	ADV	bien
+bas	ADJ	bas
+,	PUN	,
+comme	KON	comme
+une	DET:ART	un
+prière	NOM	prière
+...	PUN	...
+repliés	VER:pper	replier
+vers	PRP	vers
+cette	PRO:DEM	ce
+lumière	NOM	lumière
+du	PRP:det	du
+ciel	NOM	ciel
+rouvert	VER:pper	rouvrir
+,	PUN	,
+si	ADV	si
+fort	ADJ	fort
+,	PUN	,
+qu'	PRO:REL	que
+ils	PRO:PER	il
+crèvent	VER:pres	crever
+leur	DET:POS	leur
+culotte	NOM	culotte
+,	PUN	,
+et	KON	et
+que	KON	que
+leur	DET:POS	leur
+lange	NOM	lange
+blanc	ADJ	blanc
+tremblotte	VER:subp	tremblotte
+au	PRP:det	au
+vent	NOM	vent
+d'	PRP	de
+hiver	NOM	hiver
+...	PUN	...

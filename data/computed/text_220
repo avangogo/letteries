@@ -1,147 +1,147 @@
-d'	PRP
-où	PRO:REL
-vous	PRO:PER
-vient	VER:pres
-,	PUN
-disiez	VER:impf
-vous	PRO:PER
-,	PUN
-cette	PRO:DEM
-tristesse	NOM
-étrange	ADJ
-,	PUN
-montant	VER:ppre
-comme	ADV
-la	DET:ART
-mer	NOM
-sur	PRP
-le	DET:ART
-roc	NOM
-noir	ADJ
-et	KON
-nu	NOM
-?	SENT
-quand	KON
-notre	DET:POS
-coeur	NOM
-a	VER:pres
-fait	VER:pper
-une	DET:ART
-fois	NOM
-sa	DET:POS
-vendange	NOM
-,	PUN
-vivre	VER:infi
-est	VER:pres
-un	DET:ART
-mal	NOM
-!	SENT
-c'	PRO:DEM
-est	VER:pres
-un	DET:ART
-secret	NOM
-de	PRP
-tous	PRO:IND
-connu	VER:pper
-,	PUN
-une	DET:ART
-douleur	NOM
-très	ADV
-simple	ADJ
-et	KON
-non	ADV
-mystérieuse	ADJ
-,	PUN
-et	KON
-,	PUN
-comme	ADV
-votre	DET:POS
-joie	NOM
-,	PUN
-éclatante	ADJ
-pour	PRP
-tous	PRO:IND
-.	SENT
-cessez	VER:pres
-donc	ADV
-de	PRP
-chercher	VER:infi
-,	PUN
-ô	INT
-belle	ADJ
-curieuse	NOM
-!	SENT
-et	KON
-,	PUN
-bien	ADV
-que	KON
-votre	DET:POS
-voix	NOM
-soit	KON
-douce	ADJ
-,	PUN
-taisez	VER:pres
-vous	PRO:PER
-!	SENT
-taisez	VER:pres
-vous	PRO:PER
-,	PUN
-ignorante	ADJ
-!	SENT
-âme	NOM
-toujours	ADV
-ravie	VER:pper
-!	SENT
-bouche	NOM
-au	PRP:det
-rire	NOM
-enfantin	ADJ
-!	SENT
-plus	ADV
-encor	ADV
-que	KON
-la	DET:ART
-vie	NOM
-,	PUN
-la	DET:ART
-mort	NOM
-nous	PRO:PER
-tient	VER:pres
-souvent	ADV
-par	PRP
-des	PRP:det
-liens	NOM
-subtils	ADJ
-.	SENT
-laissez	VER:pres
-,	PUN
-laissez	VER:pres
-mon	DET:POS
-coeur	NOM
-s'	PRO:PER
-enivrer	VER:infi
-d'	PRP
-un	DET:ART
-mensonge	NOM
-,	PUN
-plonger	VER:infi
-dans	PRP
-vos	DET:POS
-beaux	ADJ
-yeux	NOM
-comme	KON
-dans	PRP
-un	DET:ART
-beau	ADJ
-songe	NOM
-,	PUN
-et	KON
-sommeiller	VER:infi
-longtemps	ADV
-à	PRP
-l'	DET:ART
-ombre	NOM
-de	PRP
-vos	DET:POS
-cils	NOM
-!	SENT
+d'	PRP	de
+où	PRO:REL	où
+vous	PRO:PER	vous
+vient	VER:pres	venir
+,	PUN	,
+disiez	VER:impf	dire
+vous	PRO:PER	vous
+,	PUN	,
+cette	PRO:DEM	ce
+tristesse	NOM	tristesse
+étrange	ADJ	étrange
+,	PUN	,
+montant	VER:ppre	monter
+comme	ADV	comme
+la	DET:ART	le
+mer	NOM	mer
+sur	PRP	sur
+le	DET:ART	le
+roc	NOM	roc
+noir	ADJ	noir
+et	KON	et
+nu	NOM	nu
+?	SENT	?
+quand	KON	quand
+notre	DET:POS	notre
+coeur	NOM	cœur
+a	VER:pres	avoir
+fait	VER:pper	faire
+une	DET:ART	un
+fois	NOM	foi|fois
+sa	DET:POS	son
+vendange	NOM	vendange
+,	PUN	,
+vivre	VER:infi	vivre
+est	VER:pres	être
+un	DET:ART	un
+mal	NOM	mal
+!	SENT	!
+c'	PRO:DEM	ce
+est	VER:pres	être
+un	DET:ART	un
+secret	NOM	secret
+de	PRP	de
+tous	PRO:IND	tout
+connu	VER:pper	connaître
+,	PUN	,
+une	DET:ART	un
+douleur	NOM	douleur
+très	ADV	très
+simple	ADJ	simple
+et	KON	et
+non	ADV	non
+mystérieuse	ADJ	mystérieux
+,	PUN	,
+et	KON	et
+,	PUN	,
+comme	ADV	comme
+votre	DET:POS	votre
+joie	NOM	joie
+,	PUN	,
+éclatante	ADJ	éclatant
+pour	PRP	pour
+tous	PRO:IND	tout
+.	SENT	.
+cessez	VER:pres	cesser
+donc	ADV	donc
+de	PRP	de
+chercher	VER:infi	chercher
+,	PUN	,
+ô	INT	ô
+belle	ADJ	beau
+curieuse	NOM	curieux
+!	SENT	!
+et	KON	et
+,	PUN	,
+bien	ADV	bien
+que	KON	que
+votre	DET:POS	votre
+voix	NOM	voix
+soit	KON	soit
+douce	ADJ	doux
+,	PUN	,
+taisez	VER:pres	taire
+vous	PRO:PER	vous
+!	SENT	!
+taisez	VER:pres	taire
+vous	PRO:PER	vous
+,	PUN	,
+ignorante	ADJ	ignorant
+!	SENT	!
+âme	NOM	âme
+toujours	ADV	toujours
+ravie	VER:pper	ravir
+!	SENT	!
+bouche	NOM	bouche
+au	PRP:det	au
+rire	NOM	rire
+enfantin	ADJ	enfantin
+!	SENT	!
+plus	ADV	plus
+encor	ADV	encor
+que	KON	que
+la	DET:ART	le
+vie	NOM	vie
+,	PUN	,
+la	DET:ART	le
+mort	NOM	mort
+nous	PRO:PER	nous
+tient	VER:pres	tenir
+souvent	ADV	souvent
+par	PRP	par
+des	PRP:det	du
+liens	NOM	lien
+subtils	ADJ	subtil
+.	SENT	.
+laissez	VER:pres	laisser
+,	PUN	,
+laissez	VER:pres	laisser
+mon	DET:POS	mon
+coeur	NOM	cœur
+s'	PRO:PER	se
+enivrer	VER:infi	enivrer
+d'	PRP	de
+un	DET:ART	un
+mensonge	NOM	mensonge
+,	PUN	,
+plonger	VER:infi	plonger
+dans	PRP	dans
+vos	DET:POS	votre
+beaux	ADJ	beau
+yeux	NOM	œil
+comme	KON	comme
+dans	PRP	dans
+un	DET:ART	un
+beau	ADJ	beau
+songe	NOM	songe
+,	PUN	,
+et	KON	et
+sommeiller	VER:infi	sommeiller
+longtemps	ADV	longtemps
+à	PRP	à
+l'	DET:ART	le
+ombre	NOM	ombre
+de	PRP	de
+vos	DET:POS	votre
+cils	NOM	cil
+!	SENT	!

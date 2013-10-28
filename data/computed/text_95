@@ -1,287 +1,287 @@
-en	PRP
-descendant	NOM
-de	PRP
-la	DET:ART
-tribune	NOM
-ces	PRO:DEM
-hommes	NOM
-qui	PRO:REL
-mourront	VER:futu
-,	PUN
-foule	NOM
-abjecte	ADJ
-et	KON
-grossière	ADJ
-,	PUN
-sont	VER:pres
-de	PRP
-la	DET:ART
-boue	NOM
-avant	PRP
-d'	PRP
-être	VER:infi
-de	PRP
-la	DET:ART
-poussière	NOM
-.	SENT
-oui	INT
-,	PUN
-certe	ADJ
-,	PUN
-ils	PRO:PER
-passeront	VER:futu
-et	KON
-mourront	VER:futu
-.	SENT
-aujourd'hui	ADV
-leur	DET:POS
-vue	NOM
-à	PRP
-l'	DET:ART
-honnête	ADJ
-homme	NOM
-inspire	VER:pres
-un	DET:ART
-mâle	ADJ
-ennui	NOM
-.	SENT
-envieux	ADJ
-,	PUN
-consumés	VER:pper
-de	PRP
-rages	NOM
-puériles	ADJ
-,	PUN
-d'autant	ADV
-plus	ADV
-furieux	ADJ
-qu'	KON
-ils	PRO:PER
-se	PRO:PER
-sentent	VER:pres
-stériles	ADJ
-,	PUN
-ils	PRO:PER
-mordent	VER:pres
-les	DET:ART
-talons	NOM
-de	PRP
-qui	PRO:REL
-marche	NOM
-en	PRP
-avant	NOM
-.	SENT
-ils	PRO:PER
-sont	VER:pres
-humiliés	VER:pper
-d'	PRP
-aboyer	VER:infi
-,	PUN
-ne	ADV
-pouvant	VER:ppre
-jusqu'	PRP
-au	PRP:det
-rugissement	NOM
-hausser	VER:infi
-leur	DET:POS
-petitesse	NOM
-,	PUN
-ils	PRO:PER
-courent	VER:pres
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-à	PRP
-qui	PRO:REL
-gagnera	VER:futu
-de	PRP
-vitesse	NOM
-,	PUN
-la	DET:ART
-proie	NOM
-est	VER:pres
-là	ADV
-!	SENT
-hurlant	VER:ppre
-et	KON
-jappant	VER:ppre
-à	PRP
-la	DET:ART
-fois	NOM
-,	PUN
-lancés	VER:pper
-dans	PRP
-le	DET:ART
-sénat	NOM
-ainsi	KON
-que	KON
-dans	PRP
-un	DET:ART
-bois	NOM
-,	PUN
-tous	PRO:IND
-confondus	VER:pper
-,	PUN
-traitant	VER:ppre
-,	PUN
-magistrat	NOM
-,	PUN
-soldat	NOM
-,	PUN
-prêtre	NOM
-,	PUN
-meute	NOM
-autour	ADV
-du	PRP:det
-lion	NOM
-,	PUN
-chenil	NOM
-aux	PRP:det
-pieds	NOM
-du	PRP:det
-maître	NOM
-,	PUN
-ils	PRO:PER
-sont	VER:pres
-à	PRP
-qui	PRO:REL
-les	PRO:PER
-veut	VER:pres
-,	PUN
-du	PRP:det
-premier	NOM
-au	PRP:det
-dernier	ADJ
-,	PUN
-aujourd'hui	ADV
-bonaparte	NOM
-et	KON
-demain	ADV
-changarnier	ADJ
-!	SENT
-ils	PRO:PER
-couvrent	VER:pres
-de	PRP
-leur	DET:POS
-bave	NOM
-honneur	NOM
-,	PUN
-droit	NOM
-,	PUN
-république	NOM
-,	PUN
-la	DET:ART
-charte	NOM
-populaire	ADJ
-et	KON
-l'	DET:ART
-oeuvre	NOM
-évangélique	ADJ
-,	PUN
-le	DET:ART
-progrès	NOM
-,	PUN
-ferme	ADJ
-espoir	NOM
-des	PRP:det
-peuples	NOM
-désolés	VER:pper
-ils	PRO:PER
-sont	VER:pres
-odieux	ADJ
-.	SENT
-bien	ADV
-.	SENT
-continuez	VER:pres
-,	PUN
-allez	VER:pres
-!	SENT
-quand	KON
-l'	DET:ART
-austère	ADJ
-penseur	NOM
-qui	PRO:REL
-,	PUN
-loin	ADV
-des	PRP:det
-multitudes	NOM
-,	PUN
-rêvait	VER:impf
-hier	ADV
-encore	ADV
-au	PRP:det
-fond	NOM
-des	PRP:det
-solitudes	NOM
-,	PUN
-apparaissant	VER:ppre
-soudain	ADV
-dans	PRP
-sa	DET:POS
-tranquillité	NOM
-,	PUN
-vient	VER:pres
-au	PRP:det
-milieu	NOM
-de	PRP
-vous	PRO:PER
-dire	VER:infi
-la	DET:ART
-vérité	NOM
-,	PUN
-défendre	VER:infi
-les	DET:ART
-vaincus	VER:pper
-,	PUN
-rassurer	VER:infi
-la	DET:ART
-patrie	NOM
-,	PUN
-eclatez	VER:pres
-!	SENT
-répandez	VER:pres
-cris	NOM
-,	PUN
-injures	NOM
-,	PUN
-furie	NOM
-,	PUN
-ruez	VER:pres
-vous	PRO:PER
-sur	PRP
-son	DET:POS
-nom	NOM
-comme	KON
-sur	PRP
-un	DET:ART
-butin	NOM
-!	SENT
-vous	PRO:PER
-n'	ADV
-obtiendrez	VER:futu
-de	PRP
-lui	PRO:PER
-qu'	KON
-un	DET:ART
-sourire	NOM
-hautain	ADJ
-,	PUN
-et	KON
-pas	ADV
-même	ADV
-un	DET:ART
-regard	NOM
-!	SENT
-car	KON
-cette	PRO:DEM
-âme	NOM
-sereine	ADJ
-,	PUN
-méprisant	VER:ppre
-votre	DET:POS
-estime	NOM
-,	PUN
-estime	VER:pres
-votre	DET:POS
-haine	NOM
-.	SENT
+en	PRP	en
+descendant	NOM	descendant
+de	PRP	de
+la	DET:ART	le
+tribune	NOM	tribune
+ces	PRO:DEM	ce
+hommes	NOM	homme
+qui	PRO:REL	qui
+mourront	VER:futu	mourir
+,	PUN	,
+foule	NOM	foule
+abjecte	ADJ	abject
+et	KON	et
+grossière	ADJ	grossier
+,	PUN	,
+sont	VER:pres	être
+de	PRP	de
+la	DET:ART	le
+boue	NOM	boue
+avant	PRP	avant
+d'	PRP	de
+être	VER:infi	être
+de	PRP	de
+la	DET:ART	le
+poussière	NOM	poussière
+.	SENT	.
+oui	INT	oui
+,	PUN	,
+certe	ADJ	certe
+,	PUN	,
+ils	PRO:PER	il
+passeront	VER:futu	passer
+et	KON	et
+mourront	VER:futu	mourir
+.	SENT	.
+aujourd'hui	ADV	aujourd'hui
+leur	DET:POS	leur
+vue	NOM	vue
+à	PRP	à
+l'	DET:ART	le
+honnête	ADJ	honnête
+homme	NOM	homme
+inspire	VER:pres	inspirer
+un	DET:ART	un
+mâle	ADJ	mâle
+ennui	NOM	ennui
+.	SENT	.
+envieux	ADJ	envieux
+,	PUN	,
+consumés	VER:pper	consumer
+de	PRP	de
+rages	NOM	rage
+puériles	ADJ	puéril
+,	PUN	,
+d'autant	ADV	d'autant
+plus	ADV	plus
+furieux	ADJ	furieux
+qu'	KON	que
+ils	PRO:PER	il
+se	PRO:PER	se
+sentent	VER:pres	sentir
+stériles	ADJ	stérile
+,	PUN	,
+ils	PRO:PER	il
+mordent	VER:pres	mordre
+les	DET:ART	le
+talons	NOM	talon
+de	PRP	de
+qui	PRO:REL	qui
+marche	NOM	marche
+en	PRP	en
+avant	NOM	avant
+.	SENT	.
+ils	PRO:PER	il
+sont	VER:pres	être
+humiliés	VER:pper	humilier
+d'	PRP	de
+aboyer	VER:infi	aboyer
+,	PUN	,
+ne	ADV	ne
+pouvant	VER:ppre	pouvoir
+jusqu'	PRP	jusque
+au	PRP:det	au
+rugissement	NOM	rugissement
+hausser	VER:infi	hausser
+leur	DET:POS	leur
+petitesse	NOM	petitesse
+,	PUN	,
+ils	PRO:PER	il
+courent	VER:pres	courir
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+à	PRP	à
+qui	PRO:REL	qui
+gagnera	VER:futu	gagner
+de	PRP	de
+vitesse	NOM	vitesse
+,	PUN	,
+la	DET:ART	le
+proie	NOM	proie
+est	VER:pres	être
+là	ADV	là
+!	SENT	!
+hurlant	VER:ppre	hurler
+et	KON	et
+jappant	VER:ppre	japper
+à	PRP	à
+la	DET:ART	le
+fois	NOM	foi|fois
+,	PUN	,
+lancés	VER:pper	lancer
+dans	PRP	dans
+le	DET:ART	le
+sénat	NOM	sénat
+ainsi	KON	ainsi
+que	KON	que
+dans	PRP	dans
+un	DET:ART	un
+bois	NOM	bois
+,	PUN	,
+tous	PRO:IND	tout
+confondus	VER:pper	confondre
+,	PUN	,
+traitant	VER:ppre	traiter
+,	PUN	,
+magistrat	NOM	magistrat
+,	PUN	,
+soldat	NOM	soldat
+,	PUN	,
+prêtre	NOM	prêtre
+,	PUN	,
+meute	NOM	meute
+autour	ADV	autour
+du	PRP:det	du
+lion	NOM	lion
+,	PUN	,
+chenil	NOM	chenil
+aux	PRP:det	au
+pieds	NOM	pied
+du	PRP:det	du
+maître	NOM	maître
+,	PUN	,
+ils	PRO:PER	il
+sont	VER:pres	être
+à	PRP	à
+qui	PRO:REL	qui
+les	PRO:PER	la|le
+veut	VER:pres	vouloir
+,	PUN	,
+du	PRP:det	du
+premier	NOM	premier
+au	PRP:det	au
+dernier	ADJ	dernier
+,	PUN	,
+aujourd'hui	ADV	aujourd'hui
+bonaparte	NOM	bonaparte
+et	KON	et
+demain	ADV	demain
+changarnier	ADJ	changarnier
+!	SENT	!
+ils	PRO:PER	il
+couvrent	VER:pres	couvrir
+de	PRP	de
+leur	DET:POS	leur
+bave	NOM	bave
+honneur	NOM	honneur
+,	PUN	,
+droit	NOM	droit
+,	PUN	,
+république	NOM	république
+,	PUN	,
+la	DET:ART	le
+charte	NOM	charte
+populaire	ADJ	populaire
+et	KON	et
+l'	DET:ART	le
+oeuvre	NOM	œuvre
+évangélique	ADJ	évangélique
+,	PUN	,
+le	DET:ART	le
+progrès	NOM	progrès
+,	PUN	,
+ferme	ADJ	ferme
+espoir	NOM	espoir
+des	PRP:det	du
+peuples	NOM	peuple
+désolés	VER:pper	désoler
+ils	PRO:PER	il
+sont	VER:pres	être
+odieux	ADJ	odieux
+.	SENT	.
+bien	ADV	bien
+.	SENT	.
+continuez	VER:pres	continuer
+,	PUN	,
+allez	VER:pres	aller
+!	SENT	!
+quand	KON	quand
+l'	DET:ART	le
+austère	ADJ	austère
+penseur	NOM	penseur
+qui	PRO:REL	qui
+,	PUN	,
+loin	ADV	loin
+des	PRP:det	du
+multitudes	NOM	multitude
+,	PUN	,
+rêvait	VER:impf	rêver
+hier	ADV	hier
+encore	ADV	encore
+au	PRP:det	au
+fond	NOM	fond
+des	PRP:det	du
+solitudes	NOM	solitude
+,	PUN	,
+apparaissant	VER:ppre	apparaître
+soudain	ADV	soudain
+dans	PRP	dans
+sa	DET:POS	son
+tranquillité	NOM	tranquillité
+,	PUN	,
+vient	VER:pres	venir
+au	PRP:det	au
+milieu	NOM	milieu
+de	PRP	de
+vous	PRO:PER	vous
+dire	VER:infi	dire
+la	DET:ART	le
+vérité	NOM	vérité
+,	PUN	,
+défendre	VER:infi	défendre
+les	DET:ART	le
+vaincus	VER:pper	vaincre
+,	PUN	,
+rassurer	VER:infi	rassurer
+la	DET:ART	le
+patrie	NOM	patrie
+,	PUN	,
+eclatez	VER:pres	eclatez
+!	SENT	!
+répandez	VER:pres	répandre
+cris	NOM	cri
+,	PUN	,
+injures	NOM	injure
+,	PUN	,
+furie	NOM	furie
+,	PUN	,
+ruez	VER:pres	ruer
+vous	PRO:PER	vous
+sur	PRP	sur
+son	DET:POS	son
+nom	NOM	nom
+comme	KON	comme
+sur	PRP	sur
+un	DET:ART	un
+butin	NOM	butin
+!	SENT	!
+vous	PRO:PER	vous
+n'	ADV	ne
+obtiendrez	VER:futu	obtenir
+de	PRP	de
+lui	PRO:PER	lui
+qu'	KON	que
+un	DET:ART	un
+sourire	NOM	sourire
+hautain	ADJ	hautain
+,	PUN	,
+et	KON	et
+pas	ADV	pas
+même	ADV	même
+un	DET:ART	un
+regard	NOM	regard
+!	SENT	!
+car	KON	car
+cette	PRO:DEM	ce
+âme	NOM	âme
+sereine	ADJ	serein
+,	PUN	,
+méprisant	VER:ppre	mépriser
+votre	DET:POS	votre
+estime	NOM	estime
+,	PUN	,
+estime	VER:pres	estimer
+votre	DET:POS	votre
+haine	NOM	haine
+.	SENT	.

@@ -1,297 +1,297 @@
-mère	NOM
-des	PRP:det
-souvenirs	NOM
-,	PUN
-maîtresse	NOM
-des	PRP:det
-maîtresses	NOM
-,	PUN
-ô	INT
-toi	PRO:PER
-,	PUN
-tous	PRO:IND
-mes	DET:POS
-plaisirs	NOM
-!	SENT
-ô	INT
-toi	PRO:PER
-,	PUN
-tous	PRO:IND
-mes	DET:POS
-devoirs	NOM
-!	SENT
-tu	PRO:PER
-te	PRO:PER
-rappelleras	VER:futu
-la	DET:ART
-beauté	NOM
-des	PRP:det
-caresses	NOM
-,	PUN
-la	DET:ART
-douceur	NOM
-du	PRP:det
-foyer	NOM
-et	KON
-le	DET:ART
-charme	NOM
-des	PRP:det
-soirs	NOM
-,	PUN
-mère	NOM
-des	PRP:det
-souvenirs	NOM
-,	PUN
-maîtresse	NOM
-des	PRP:det
-maîtresses	NOM
-!	SENT
-les	DET:ART
-soirs	NOM
-illuminés	VER:pper
-par	PRP
-l'	DET:ART
-ardeur	NOM
-du	PRP:det
-charbon	NOM
-,	PUN
-et	KON
-les	DET:ART
-soirs	NOM
-au	PRP:det
-balcon	NOM
-,	PUN
-voilés	VER:pper
-de	PRP
-vapeurs	NOM
-roses	ADJ
-.	SENT
-que	KON
-ton	DET:POS
-sein	NOM
-m'	PRO:PER
-était	VER:impf
-doux	ADJ
-!	SENT
-que	KON
-ton	DET:POS
-coeur	NOM
-m'	PRO:PER
-était	VER:impf
-bon	ADJ
-!	SENT
-nous	PRO:PER
-avons	VER:pres
-dit	VER:pper
-souvent	ADV
-d'	PRP
-impérissables	ADJ
-choses	NOM
-les	DET:ART
-soirs	NOM
-illuminés	VER:pper
-par	PRP
-l'	DET:ART
-ardeur	NOM
-du	PRP:det
-charbon	NOM
-.	SENT
-que	KON
-les	DET:ART
-soleils	NOM
-sont	VER:pres
-beaux	ADJ
-dans	PRP
-les	DET:ART
-chaudes	ADJ
-soirées	NOM
-!	SENT
-que	KON
-l'	DET:ART
-espace	NOM
-est	VER:pres
-profond	ADJ
-!	SENT
-que	KON
-le	DET:ART
-coeur	NOM
-est	VER:pres
-puissant	ADJ
-!	SENT
-en	PRP
-me	PRO:PER
-penchant	VER:ppre
-vers	PRP
-toi	PRO:PER
-,	PUN
-reine	NOM
-des	PRP:det
-adorées	VER:pper
-,	PUN
-je	PRO:PER
-croyais	VER:impf
-respirer	VER:infi
-le	DET:ART
-parfum	NOM
-de	PRP
-ton	DET:POS
-sang	NOM
-.	SENT
-que	KON
-les	DET:ART
-soleils	NOM
-sont	VER:pres
-beaux	ADJ
-dans	PRP
-les	DET:ART
-chaudes	ADJ
-soirées	NOM
-!	SENT
-la	DET:ART
-nuit	NOM
-s'	PRO:PER
-épaississait	VER:impf
-ainsi	ADV
-qu'	KON
-une	DET:ART
-cloison	NOM
-,	PUN
-et	KON
-mes	DET:POS
-yeux	NOM
-dans	PRP
-le	DET:ART
-noir	NOM
-devinaient	VER:impf
-tes	DET:POS
-prunelles	NOM
-,	PUN
-et	KON
-je	PRO:PER
-buvais	VER:impf
-ton	DET:POS
-souffle	NOM
-,	PUN
-ô	INT
-douceur	NOM
-,	PUN
-ô	INT
-poison	NOM
-!	SENT
-et	KON
-tes	DET:POS
-pieds	NOM
-s'	PRO:PER
-endormaient	VER:impf
-dans	PRP
-mes	DET:POS
-mains	NOM
-fraternelles	ADJ
-.	SENT
-la	DET:ART
-nuit	NOM
-s'	PRO:PER
-épaississait	VER:impf
-ainsi	ADV
-qu'	KON
-une	DET:ART
-cloison	NOM
-.	SENT
-je	PRO:PER
-sais	VER:pres
-l'	DET:ART
-art	NOM
-d'	PRP
-évoquer	VER:infi
-les	DET:ART
-minutes	NOM
-heureuses	ADJ
-,	PUN
-et	KON
-revis	VER:pres
-mon	DET:POS
-passé	NOM
-blotti	VER:pper
-dans	PRP
-tes	DET:POS
-genoux	NOM
-.	SENT
-car	KON
-à	PRP
-quoi	PRO
-bon	ADV
-chercher	VER:infi
-tes	DET:POS
-beautés	NOM
-langoureuses	ADJ
-ailleurs	ADV
-qu'	KON
-en	PRP
-ton	DET:POS
-cher	ADJ
-corps	NOM
-et	KON
-qu'	KON
-en	PRP
-ton	DET:POS
-coeur	NOM
-si	ADV
-doux	ADJ
-?	SENT
-je	PRO:PER
-sais	VER:pres
-l'	DET:ART
-art	NOM
-d'	PRP
-évoquer	VER:infi
-les	DET:ART
-minutes	NOM
-heureuses	ADJ
-!	SENT
-ces	PRO:DEM
-serments	NOM
-,	PUN
-ces	PRO:DEM
-parfums	NOM
-,	PUN
-ces	PRO:DEM
-baisers	NOM
-infinis	ADJ
-,	PUN
-renaîtront	VER:futu
-ils	PRO:PER
-d'	PRP
-un	DET:ART
-gouffre	NOM
-interdit	VER:pper
-à	PRP
-nos	DET:POS
-sondes	NOM
-,	PUN
-comme	KON
-montent	VER:pres
-au	PRP:det
-ciel	NOM
-les	DET:ART
-soleils	NOM
-rajeunis	VER:pper
-après	PRP
-s'	PRO:PER
-être	VER:infi
-lavés	VER:pper
-au	PRP:det
-fond	NOM
-des	PRP:det
-mers	NOM
-profondes	ADJ
-?	SENT
-ô	INT
-serments	NOM
-!	SENT
-ô	INT
-parfums	NOM
-!	SENT
-ô	INT
-baisers	NOM
-infinis	ADJ
-!	SENT
+mère	NOM	mère
+des	PRP:det	du
+souvenirs	NOM	souvenir
+,	PUN	,
+maîtresse	NOM	maître|maîtresse
+des	PRP:det	du
+maîtresses	NOM	maître|maîtresse
+,	PUN	,
+ô	INT	ô
+toi	PRO:PER	toi
+,	PUN	,
+tous	PRO:IND	tout
+mes	DET:POS	mon
+plaisirs	NOM	plaisir
+!	SENT	!
+ô	INT	ô
+toi	PRO:PER	toi
+,	PUN	,
+tous	PRO:IND	tout
+mes	DET:POS	mon
+devoirs	NOM	devoir
+!	SENT	!
+tu	PRO:PER	tu
+te	PRO:PER	te
+rappelleras	VER:futu	rappeler
+la	DET:ART	le
+beauté	NOM	beauté
+des	PRP:det	du
+caresses	NOM	caresse
+,	PUN	,
+la	DET:ART	le
+douceur	NOM	douceur
+du	PRP:det	du
+foyer	NOM	foyer
+et	KON	et
+le	DET:ART	le
+charme	NOM	charme
+des	PRP:det	du
+soirs	NOM	soir
+,	PUN	,
+mère	NOM	mère
+des	PRP:det	du
+souvenirs	NOM	souvenir
+,	PUN	,
+maîtresse	NOM	maître|maîtresse
+des	PRP:det	du
+maîtresses	NOM	maître|maîtresse
+!	SENT	!
+les	DET:ART	le
+soirs	NOM	soir
+illuminés	VER:pper	illuminer
+par	PRP	par
+l'	DET:ART	le
+ardeur	NOM	ardeur
+du	PRP:det	du
+charbon	NOM	charbon
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+soirs	NOM	soir
+au	PRP:det	au
+balcon	NOM	balcon
+,	PUN	,
+voilés	VER:pper	voiler
+de	PRP	de
+vapeurs	NOM	vapeur
+roses	ADJ	rose
+.	SENT	.
+que	KON	que
+ton	DET:POS	ton
+sein	NOM	sein
+m'	PRO:PER	me
+était	VER:impf	être
+doux	ADJ	doux
+!	SENT	!
+que	KON	que
+ton	DET:POS	ton
+coeur	NOM	cœur
+m'	PRO:PER	me
+était	VER:impf	être
+bon	ADJ	bon
+!	SENT	!
+nous	PRO:PER	nous
+avons	VER:pres	avoir
+dit	VER:pper	dire
+souvent	ADV	souvent
+d'	PRP	de
+impérissables	ADJ	impérissable
+choses	NOM	chose
+les	DET:ART	le
+soirs	NOM	soir
+illuminés	VER:pper	illuminer
+par	PRP	par
+l'	DET:ART	le
+ardeur	NOM	ardeur
+du	PRP:det	du
+charbon	NOM	charbon
+.	SENT	.
+que	KON	que
+les	DET:ART	le
+soleils	NOM	soleil
+sont	VER:pres	être
+beaux	ADJ	beau
+dans	PRP	dans
+les	DET:ART	le
+chaudes	ADJ	chaud
+soirées	NOM	soirée
+!	SENT	!
+que	KON	que
+l'	DET:ART	le
+espace	NOM	espace
+est	VER:pres	être
+profond	ADJ	profond
+!	SENT	!
+que	KON	que
+le	DET:ART	le
+coeur	NOM	cœur
+est	VER:pres	être
+puissant	ADJ	puissant
+!	SENT	!
+en	PRP	en
+me	PRO:PER	me
+penchant	VER:ppre	pencher
+vers	PRP	vers
+toi	PRO:PER	toi
+,	PUN	,
+reine	NOM	reine
+des	PRP:det	du
+adorées	VER:pper	adorer
+,	PUN	,
+je	PRO:PER	je
+croyais	VER:impf	croire
+respirer	VER:infi	respirer
+le	DET:ART	le
+parfum	NOM	parfum
+de	PRP	de
+ton	DET:POS	ton
+sang	NOM	sang
+.	SENT	.
+que	KON	que
+les	DET:ART	le
+soleils	NOM	soleil
+sont	VER:pres	être
+beaux	ADJ	beau
+dans	PRP	dans
+les	DET:ART	le
+chaudes	ADJ	chaud
+soirées	NOM	soirée
+!	SENT	!
+la	DET:ART	le
+nuit	NOM	nuit
+s'	PRO:PER	se
+épaississait	VER:impf	épaissir
+ainsi	ADV	ainsi
+qu'	KON	que
+une	DET:ART	un
+cloison	NOM	cloison
+,	PUN	,
+et	KON	et
+mes	DET:POS	mon
+yeux	NOM	œil
+dans	PRP	dans
+le	DET:ART	le
+noir	NOM	noir
+devinaient	VER:impf	deviner
+tes	DET:POS	ton
+prunelles	NOM	prunelle
+,	PUN	,
+et	KON	et
+je	PRO:PER	je
+buvais	VER:impf	boire
+ton	DET:POS	ton
+souffle	NOM	souffle
+,	PUN	,
+ô	INT	ô
+douceur	NOM	douceur
+,	PUN	,
+ô	INT	ô
+poison	NOM	poison
+!	SENT	!
+et	KON	et
+tes	DET:POS	ton
+pieds	NOM	pied
+s'	PRO:PER	se
+endormaient	VER:impf	endormir
+dans	PRP	dans
+mes	DET:POS	mon
+mains	NOM	main
+fraternelles	ADJ	fraternel
+.	SENT	.
+la	DET:ART	le
+nuit	NOM	nuit
+s'	PRO:PER	se
+épaississait	VER:impf	épaissir
+ainsi	ADV	ainsi
+qu'	KON	que
+une	DET:ART	un
+cloison	NOM	cloison
+.	SENT	.
+je	PRO:PER	je
+sais	VER:pres	savoir
+l'	DET:ART	le
+art	NOM	art
+d'	PRP	de
+évoquer	VER:infi	évoquer
+les	DET:ART	le
+minutes	NOM	minute
+heureuses	ADJ	heureux
+,	PUN	,
+et	KON	et
+revis	VER:pres	revivre
+mon	DET:POS	mon
+passé	NOM	passé
+blotti	VER:pper	blottir
+dans	PRP	dans
+tes	DET:POS	ton
+genoux	NOM	genou
+.	SENT	.
+car	KON	car
+à	PRP	à
+quoi	PRO	quoi
+bon	ADV	bon
+chercher	VER:infi	chercher
+tes	DET:POS	ton
+beautés	NOM	beauté
+langoureuses	ADJ	langoureux
+ailleurs	ADV	ailleurs
+qu'	KON	que
+en	PRP	en
+ton	DET:POS	ton
+cher	ADJ	cher
+corps	NOM	corps
+et	KON	et
+qu'	KON	que
+en	PRP	en
+ton	DET:POS	ton
+coeur	NOM	cœur
+si	ADV	si
+doux	ADJ	doux
+?	SENT	?
+je	PRO:PER	je
+sais	VER:pres	savoir
+l'	DET:ART	le
+art	NOM	art
+d'	PRP	de
+évoquer	VER:infi	évoquer
+les	DET:ART	le
+minutes	NOM	minute
+heureuses	ADJ	heureux
+!	SENT	!
+ces	PRO:DEM	ce
+serments	NOM	serment
+,	PUN	,
+ces	PRO:DEM	ce
+parfums	NOM	parfum
+,	PUN	,
+ces	PRO:DEM	ce
+baisers	NOM	baiser
+infinis	ADJ	infini
+,	PUN	,
+renaîtront	VER:futu	renaître
+ils	PRO:PER	il
+d'	PRP	de
+un	DET:ART	un
+gouffre	NOM	gouffre
+interdit	VER:pper	interdire
+à	PRP	à
+nos	DET:POS	notre
+sondes	NOM	sonde
+,	PUN	,
+comme	KON	comme
+montent	VER:pres	monter
+au	PRP:det	au
+ciel	NOM	ciel
+les	DET:ART	le
+soleils	NOM	soleil
+rajeunis	VER:pper	rajeunir
+après	PRP	après
+s'	PRO:PER	se
+être	VER:infi	être
+lavés	VER:pper	laver
+au	PRP:det	au
+fond	NOM	fond
+des	PRP:det	du
+mers	NOM	mer
+profondes	ADJ	profond
+?	SENT	?
+ô	INT	ô
+serments	NOM	serment
+!	SENT	!
+ô	INT	ô
+parfums	NOM	parfum
+!	SENT	!
+ô	INT	ô
+baisers	NOM	baiser
+infinis	ADJ	infini
+!	SENT	!

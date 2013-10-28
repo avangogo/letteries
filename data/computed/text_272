@@ -1,221 +1,221 @@
-un	DET:ART
-hydrolat	NOM
-lacrymal	ADJ
-lave	VER:pres
-les	DET:ART
-cieux	NOM
-vert	ADJ
-chou	NOM
-:	PUN
-sous	PRP
-l'	DET:ART
-arbre	NOM
-tendronnier	ADJ
-qui	PRO:REL
-bave	VER:pres
-,	PUN
-vos	DET:POS
-caoutchoucs	NOM
-.	SENT
-blancs	NOM
-de	PRP
-lunes	NOM
-particulières	ADJ
-aux	PRP:det
-pialats	NOM
-ronds	ADJ
-,	PUN
-entrechoquez	VER:pres
-vos	DET:POS
-genouillères	NOM
-,	PUN
-mes	DET:POS
-laiderons	NOM
-!	SENT
-nous	PRO:PER
-nous	PRO:PER
-aimions	VER:impf
-à	PRP
-cette	PRO:DEM
-époque	NOM
-,	PUN
-bleu	ADJ
-laideron	NOM
-:	PUN
-on	PRO:PER
-mangeait	VER:impf
-des	PRP:det
-oeufs	NOM
-à	PRP
-la	DET:ART
-coque	NOM
-et	KON
-du	PRP:det
-mouron	NOM
-!	SENT
-un	DET:ART
-soir	NOM
-,	PUN
-tu	PRO:PER
-me	PRO:PER
-sacras	VER:simp
-poète	ADJ
-,	PUN
-blond	ADJ
-laideron	NOM
-.	SENT
-descends	VER:pres
-ici	ADV
-que	KON
-je	PRO:PER
-te	PRO:PER
-fouette	VER:pres
-en	PRP
-mon	DET:POS
-giron	NOM
-;	PUN
-j'	PRO:PER
-ai	VER:pres
-dégueulé	VER:pper
-ta	DET:POS
-bandoline	NOM
-noir	ADJ
-laideron	ADJ
-;	PUN
-tu	PRO:PER
-couperais	VER:cond
-ma	DET:POS
-mandoline	NOM
-au	PRP:det
-fil	NOM
-du	PRP:det
-front	NOM
-.	SENT
-pouah	INT
-!	SENT
-mes	DET:POS
-salives	NOM
-desséchées	VER:pper
-roux	ADJ
-laideron	NOM
-,	PUN
-infectent	VER:pres
-encor	ADV
-les	DET:ART
-tranchées	NOM
-de	PRP
-ton	DET:POS
-sein	NOM
-rond	ADJ
-!	SENT
-o	VER:cond
-mes	DET:POS
-petites	ADJ
-amoureuses	NOM
-,	PUN
-que	KON
-je	PRO:PER
-vous	PRO:PER
-haïs	VER:pper
-!	SENT
-plaquez	VER:pres
-de	PRP
-fouffes	NOM
-douloureuses	ADJ
-,	PUN
-vos	DET:POS
-tétons	NOM
-laids	ADJ
-!	SENT
-piétinez	VER:pres
-mes	DET:POS
-vieilles	ADJ
-terrines	NOM
-de	PRP
-sentiment	NOM
-;	PUN
-hop	INT
-donc	ADV
-soyez	VER:subp
-moi	PRO:PER
-ballerines	NOM
-pour	PRP
-un	DET:ART
-moment	NOM
-!	SENT
-...	PUN
-vos	DET:POS
-omoplates	NOM
-se	PRO:PER
-déboîtent	VER:pres
-,	PUN
-o	VER:pper
-mes	DET:POS
-amours	NOM
-!	SENT
-une	DET:ART
-étoile	NOM
-à	PRP
-vos	DET:POS
-reins	NOM
-qui	PRO:REL
-boitent	VER:pres
-tournez	VER:pres
-vos	DET:POS
-tours	NOM
-.	SENT
-et	KON
-c'	PRO:DEM
-est	VER:pres
-pourtant	ADV
-pour	PRP
-ces	PRO:DEM
-éclanches	NOM
-que	PRO:REL
-j'	PRO:PER
-ai	VER:pres
-rimé	VER:pper
-!	SENT
-je	PRO:PER
-voudrais	VER:cond
-vous	PRO:PER
-casser	VER:infi
-les	DET:ART
-hanches	NOM
-d'	PRP
-avoir	VER:infi
-aimé	VER:pper
-!	SENT
-fade	ADJ
-amas	NOM
-d'	PRP
-étoiles	NOM
-ratées	VER:pper
-,	PUN
-comblez	VER:pres
-les	DET:ART
-coins	NOM
-vous	PRO:PER
-creverez	VER:futu
-en	PRP
-dieu	NOM
-,	PUN
-bâtées	VER:pper
-d'	PRP
-ignobles	ADJ
-soins	NOM
-!	SENT
-sous	PRP
-les	DET:ART
-lunes	NOM
-particulières	ADJ
-aux	PRP:det
-pialats	NOM
-ronds	ADJ
-entrechoquez	VER:pres
-vos	DET:POS
-genouillères	NOM
-,	PUN
-mes	DET:POS
-laiderons	NOM
-!	SENT
+un	DET:ART	un
+hydrolat	NOM	hydrolat
+lacrymal	ADJ	lacrymal
+lave	VER:pres	laver
+les	DET:ART	le
+cieux	NOM	cieux
+vert	ADJ	vert
+chou	NOM	chou
+:	PUN	:
+sous	PRP	sous
+l'	DET:ART	le
+arbre	NOM	arbre
+tendronnier	ADJ	tendronnier
+qui	PRO:REL	qui
+bave	VER:pres	baver
+,	PUN	,
+vos	DET:POS	votre
+caoutchoucs	NOM	caoutchouc
+.	SENT	.
+blancs	NOM	blanc
+de	PRP	de
+lunes	NOM	lune
+particulières	ADJ	particulier
+aux	PRP:det	au
+pialats	NOM	pialats
+ronds	ADJ	rond
+,	PUN	,
+entrechoquez	VER:pres	entrechoquer
+vos	DET:POS	votre
+genouillères	NOM	genouillère
+,	PUN	,
+mes	DET:POS	mon
+laiderons	NOM	laideron
+!	SENT	!
+nous	PRO:PER	nous
+nous	PRO:PER	nous
+aimions	VER:impf	aimer
+à	PRP	à
+cette	PRO:DEM	ce
+époque	NOM	époque
+,	PUN	,
+bleu	ADJ	bleu
+laideron	NOM	laideron
+:	PUN	:
+on	PRO:PER	on
+mangeait	VER:impf	manger
+des	PRP:det	du
+oeufs	NOM	œuf
+à	PRP	à
+la	DET:ART	le
+coque	NOM	coque
+et	KON	et
+du	PRP:det	du
+mouron	NOM	mouron
+!	SENT	!
+un	DET:ART	un
+soir	NOM	soir
+,	PUN	,
+tu	PRO:PER	tu
+me	PRO:PER	me
+sacras	VER:simp	sacrer
+poète	ADJ	poète
+,	PUN	,
+blond	ADJ	blond
+laideron	NOM	laideron
+.	SENT	.
+descends	VER:pres	descendre
+ici	ADV	ici
+que	KON	que
+je	PRO:PER	je
+te	PRO:PER	te
+fouette	VER:pres	fouetter
+en	PRP	en
+mon	DET:POS	mon
+giron	NOM	giron
+;	PUN	;
+j'	PRO:PER	je
+ai	VER:pres	avoir
+dégueulé	VER:pper	dégueuler
+ta	DET:POS	ton
+bandoline	NOM	bandoline
+noir	ADJ	noir
+laideron	ADJ	laideron
+;	PUN	;
+tu	PRO:PER	tu
+couperais	VER:cond	couper
+ma	DET:POS	mon
+mandoline	NOM	mandoline
+au	PRP:det	au
+fil	NOM	fil
+du	PRP:det	du
+front	NOM	front
+.	SENT	.
+pouah	INT	pouah
+!	SENT	!
+mes	DET:POS	mon
+salives	NOM	salive
+desséchées	VER:pper	dessécher
+roux	ADJ	roux
+laideron	NOM	laideron
+,	PUN	,
+infectent	VER:pres	infecter
+encor	ADV	encor
+les	DET:ART	le
+tranchées	NOM	tranchée|tranchées
+de	PRP	de
+ton	DET:POS	ton
+sein	NOM	sein
+rond	ADJ	rond
+!	SENT	!
+o	VER:cond	o
+mes	DET:POS	mon
+petites	ADJ	petit
+amoureuses	NOM	amoureux
+,	PUN	,
+que	KON	que
+je	PRO:PER	je
+vous	PRO:PER	vous
+haïs	VER:pper	haïr
+!	SENT	!
+plaquez	VER:pres	plaquer
+de	PRP	de
+fouffes	NOM	fouffes
+douloureuses	ADJ	douloureux
+,	PUN	,
+vos	DET:POS	votre
+tétons	NOM	téton
+laids	ADJ	laid
+!	SENT	!
+piétinez	VER:pres	piétiner
+mes	DET:POS	mon
+vieilles	ADJ	vieux
+terrines	NOM	terrine
+de	PRP	de
+sentiment	NOM	sentiment
+;	PUN	;
+hop	INT	hop
+donc	ADV	donc
+soyez	VER:subp	être
+moi	PRO:PER	moi
+ballerines	NOM	ballerine
+pour	PRP	pour
+un	DET:ART	un
+moment	NOM	moment
+!	SENT	!
+...	PUN	...
+vos	DET:POS	votre
+omoplates	NOM	omoplate
+se	PRO:PER	se
+déboîtent	VER:pres	déboîter
+,	PUN	,
+o	VER:pper	o
+mes	DET:POS	mon
+amours	NOM	amour
+!	SENT	!
+une	DET:ART	un
+étoile	NOM	étoile
+à	PRP	à
+vos	DET:POS	votre
+reins	NOM	rein
+qui	PRO:REL	qui
+boitent	VER:pres	boiter
+tournez	VER:pres	tourner
+vos	DET:POS	votre
+tours	NOM	tour
+.	SENT	.
+et	KON	et
+c'	PRO:DEM	ce
+est	VER:pres	être
+pourtant	ADV	pourtant
+pour	PRP	pour
+ces	PRO:DEM	ce
+éclanches	NOM	éclanche
+que	PRO:REL	que
+j'	PRO:PER	je
+ai	VER:pres	avoir
+rimé	VER:pper	rimer
+!	SENT	!
+je	PRO:PER	je
+voudrais	VER:cond	vouloir
+vous	PRO:PER	vous
+casser	VER:infi	casser
+les	DET:ART	le
+hanches	NOM	hanche
+d'	PRP	de
+avoir	VER:infi	avoir
+aimé	VER:pper	aimer
+!	SENT	!
+fade	ADJ	fade
+amas	NOM	amas
+d'	PRP	de
+étoiles	NOM	étoile
+ratées	VER:pper	rater
+,	PUN	,
+comblez	VER:pres	combler
+les	DET:ART	le
+coins	NOM	coin
+vous	PRO:PER	vous
+creverez	VER:futu	creverez
+en	PRP	en
+dieu	NOM	dieu
+,	PUN	,
+bâtées	VER:pper	bâter
+d'	PRP	de
+ignobles	ADJ	ignoble
+soins	NOM	soin
+!	SENT	!
+sous	PRP	sous
+les	DET:ART	le
+lunes	NOM	lune
+particulières	ADJ	particulier
+aux	PRP:det	au
+pialats	NOM	pialats
+ronds	ADJ	rond
+entrechoquez	VER:pres	entrechoquer
+vos	DET:POS	votre
+genouillères	NOM	genouillère
+,	PUN	,
+mes	DET:POS	mon
+laiderons	NOM	laideron
+!	SENT	!

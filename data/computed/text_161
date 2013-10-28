@@ -1,91 +1,91 @@
-c'	PRO:DEM
-est	VER:pres
-ici	ADV
-la	DET:ART
-case	NOM
-sacrée	ADJ
-où	PRO:REL
-cette	PRO:DEM
-fille	NOM
-très	ADV
-parée	VER:pper
-,	PUN
-tranquille	ADJ
-et	KON
-toujours	ADV
-préparée	VER:pper
-,	PUN
-d'	PRP
-une	DET:ART
-main	NOM
-éventant	VER:ppre
-ses	DET:POS
-seins	NOM
-,	PUN
-et	KON
-son	DET:POS
-coude	NOM
-dans	PRP
-les	DET:ART
-coussins	NOM
-,	PUN
-écoute	VER:pres
-pleurer	VER:infi
-les	DET:ART
-bassins	NOM
-:	PUN
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-chambre	NOM
-de	PRP
-dorothée	NAM
-.	SENT
-la	DET:ART
-brise	NOM
-et	KON
-l'	DET:ART
-eau	NOM
-chantent	VER:pres
-au	PRP:det
-loin	ADV
-leur	DET:POS
-chanson	NOM
-de	PRP
-sanglots	NOM
-heurtée	VER:pper
-pour	PRP
-bercer	VER:infi
-cette	PRO:DEM
-enfant	NOM
-gâtée	ADJ
-.	SENT
-du	PRP:det
-haut	NOM
-en	PRP
-bas	NOM
-,	PUN
-avec	PRP
-grand	ADJ
-soin	NOM
-,	PUN
-sa	DET:POS
-peau	NOM
-délicate	ADJ
-est	VER:pres
-frottée	VER:pper
-d'	PRP
-huile	NOM
-odorante	ADJ
-et	KON
-de	PRP
-benjoin	NOM
-.	SENT
-des	PRP:det
-fleurs	NOM
-se	PRO:PER
-pâment	VER:pres
-dans	PRP
-un	DET:ART
-coin	NOM
-.	SENT
+c'	PRO:DEM	ce
+est	VER:pres	être
+ici	ADV	ici
+la	DET:ART	le
+case	NOM	case
+sacrée	ADJ	sacré
+où	PRO:REL	où
+cette	PRO:DEM	ce
+fille	NOM	fille
+très	ADV	très
+parée	VER:pper	parer
+,	PUN	,
+tranquille	ADJ	tranquille
+et	KON	et
+toujours	ADV	toujours
+préparée	VER:pper	préparer
+,	PUN	,
+d'	PRP	de
+une	DET:ART	un
+main	NOM	main
+éventant	VER:ppre	éventer
+ses	DET:POS	son
+seins	NOM	sein
+,	PUN	,
+et	KON	et
+son	DET:POS	son
+coude	NOM	coude
+dans	PRP	dans
+les	DET:ART	le
+coussins	NOM	coussin
+,	PUN	,
+écoute	VER:pres	écouter
+pleurer	VER:infi	pleurer
+les	DET:ART	le
+bassins	NOM	bassin
+:	PUN	:
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+chambre	NOM	chambre
+de	PRP	de
+dorothée	NAM	Dorothée
+.	SENT	.
+la	DET:ART	le
+brise	NOM	brise
+et	KON	et
+l'	DET:ART	le
+eau	NOM	eau
+chantent	VER:pres	chanter
+au	PRP:det	au
+loin	ADV	loin
+leur	DET:POS	leur
+chanson	NOM	chanson
+de	PRP	de
+sanglots	NOM	sanglot
+heurtée	VER:pper	heurter
+pour	PRP	pour
+bercer	VER:infi	bercer
+cette	PRO:DEM	ce
+enfant	NOM	enfant
+gâtée	ADJ	gâté
+.	SENT	.
+du	PRP:det	du
+haut	NOM	haut
+en	PRP	en
+bas	NOM	bas
+,	PUN	,
+avec	PRP	avec
+grand	ADJ	grand
+soin	NOM	soin
+,	PUN	,
+sa	DET:POS	son
+peau	NOM	peau
+délicate	ADJ	délicat
+est	VER:pres	être
+frottée	VER:pper	frotter
+d'	PRP	de
+huile	NOM	huile
+odorante	ADJ	odorant
+et	KON	et
+de	PRP	de
+benjoin	NOM	benjoin
+.	SENT	.
+des	PRP:det	du
+fleurs	NOM	fleur
+se	PRO:PER	se
+pâment	VER:pres	pâmer
+dans	PRP	dans
+un	DET:ART	un
+coin	NOM	coin
+.	SENT	.

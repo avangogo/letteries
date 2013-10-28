@@ -1,127 +1,127 @@
-du	PRP:det
-temps	NOM
-que	KON
-la	DET:ART
-nature	NOM
-en	PRP
-sa	DET:POS
-verve	NOM
-puissante	ADJ
-concevait	VER:impf
-chaque	PRO:IND
-jour	NOM
-des	PRP:det
-enfants	NOM
-monstrueux	ADJ
-,	PUN
-j'	PRO:PER
-eusse	VER:subi
-aimé	VER:pper
-vivre	VER:infi
-auprès	ADV
-d'	PRP
-une	DET:ART
-jeune	ADJ
-géante	NOM
-,	PUN
-comme	ADV
-aux	PRP:det
-pieds	NOM
-d'	PRP
-une	DET:ART
-reine	NOM
-un	DET:ART
-chat	NOM
-voluptueux	ADJ
-.	SENT
-j'	PRO:PER
-eusse	VER:subi
-aimé	VER:pper
-voir	VER:infi
-son	DET:POS
-corps	NOM
-fleurir	VER:infi
-avec	PRP
-son	DET:POS
-âme	NOM
-et	KON
-grandir	VER:infi
-librement	ADV
-dans	PRP
-ses	DET:POS
-terribles	ADJ
-jeux	NOM
-;	PUN
-deviner	VER:infi
-si	KON
-son	DET:POS
-coeur	NOM
-couve	VER:pres
-une	DET:ART
-sombre	ADJ
-flamme	NOM
-aux	PRP:det
-humides	ADJ
-brouillards	NOM
-qui	PRO:REL
-nagent	VER:pres
-dans	PRP
-ses	DET:POS
-yeux	NOM
-;	PUN
-parcourir	VER:infi
-à	PRP
-loisir	NOM
-ses	DET:POS
-magnifiques	ADJ
-formes	NOM
-;	PUN
-ramper	VER:infi
-sur	PRP
-le	DET:ART
-versant	NOM
-de	PRP
-ses	DET:POS
-genoux	NOM
-énormes	ADJ
-,	PUN
-et	KON
-parfois	ADV
-en	PRP
-été	NOM
-,	PUN
-quand	KON
-les	DET:ART
-soleils	NOM
-malsains	ADJ
-,	PUN
-lasse	ADJ
-,	PUN
-la	PRO:PER
-font	VER:pres
-s'	PRO:PER
-étendre	VER:infi
-à	PRP
-travers	NOM
-la	DET:ART
-campagne	NOM
-,	PUN
-dormir	VER:infi
-nonchalamment	ADV
-à	PRP
-l'	DET:ART
-ombre	NOM
-de	PRP
-ses	DET:POS
-seins	NOM
-,	PUN
-comme	KON
-un	DET:ART
-hameau	NOM
-paisible	ADJ
-au	PRP:det
-pied	NOM
-d'	PRP
-une	DET:ART
-montagne	NOM
-.	SENT
+du	PRP:det	du
+temps	NOM	temps
+que	KON	que
+la	DET:ART	le
+nature	NOM	nature
+en	PRP	en
+sa	DET:POS	son
+verve	NOM	verve
+puissante	ADJ	puissant
+concevait	VER:impf	concevoir
+chaque	PRO:IND	chaque
+jour	NOM	jour
+des	PRP:det	du
+enfants	NOM	enfant
+monstrueux	ADJ	monstrueux
+,	PUN	,
+j'	PRO:PER	je
+eusse	VER:subi	avoir
+aimé	VER:pper	aimer
+vivre	VER:infi	vivre
+auprès	ADV	auprès
+d'	PRP	de
+une	DET:ART	un
+jeune	ADJ	jeune
+géante	NOM	géant
+,	PUN	,
+comme	ADV	comme
+aux	PRP:det	au
+pieds	NOM	pied
+d'	PRP	de
+une	DET:ART	un
+reine	NOM	reine
+un	DET:ART	un
+chat	NOM	chat
+voluptueux	ADJ	voluptueux
+.	SENT	.
+j'	PRO:PER	je
+eusse	VER:subi	avoir
+aimé	VER:pper	aimer
+voir	VER:infi	voir
+son	DET:POS	son
+corps	NOM	corps
+fleurir	VER:infi	fleurir
+avec	PRP	avec
+son	DET:POS	son
+âme	NOM	âme
+et	KON	et
+grandir	VER:infi	grandir
+librement	ADV	librement
+dans	PRP	dans
+ses	DET:POS	son
+terribles	ADJ	terrible
+jeux	NOM	jeu
+;	PUN	;
+deviner	VER:infi	deviner
+si	KON	si
+son	DET:POS	son
+coeur	NOM	cœur
+couve	VER:pres	couver
+une	DET:ART	un
+sombre	ADJ	sombre
+flamme	NOM	flamme
+aux	PRP:det	au
+humides	ADJ	humide
+brouillards	NOM	brouillard
+qui	PRO:REL	qui
+nagent	VER:pres	nager
+dans	PRP	dans
+ses	DET:POS	son
+yeux	NOM	œil
+;	PUN	;
+parcourir	VER:infi	parcourir
+à	PRP	à
+loisir	NOM	loisir
+ses	DET:POS	son
+magnifiques	ADJ	magnifique
+formes	NOM	forme
+;	PUN	;
+ramper	VER:infi	ramper
+sur	PRP	sur
+le	DET:ART	le
+versant	NOM	versant
+de	PRP	de
+ses	DET:POS	son
+genoux	NOM	genou
+énormes	ADJ	énorme
+,	PUN	,
+et	KON	et
+parfois	ADV	parfois
+en	PRP	en
+été	NOM	été
+,	PUN	,
+quand	KON	quand
+les	DET:ART	le
+soleils	NOM	soleil
+malsains	ADJ	malsain
+,	PUN	,
+lasse	ADJ	las
+,	PUN	,
+la	PRO:PER	la
+font	VER:pres	faire
+s'	PRO:PER	se
+étendre	VER:infi	étendre
+à	PRP	à
+travers	NOM	travers
+la	DET:ART	le
+campagne	NOM	campagne
+,	PUN	,
+dormir	VER:infi	dormir
+nonchalamment	ADV	nonchalamment
+à	PRP	à
+l'	DET:ART	le
+ombre	NOM	ombre
+de	PRP	de
+ses	DET:POS	son
+seins	NOM	sein
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+hameau	NOM	hameau
+paisible	ADJ	paisible
+au	PRP:det	au
+pied	NOM	pied
+d'	PRP	de
+une	DET:ART	un
+montagne	NOM	montagne
+.	SENT	.

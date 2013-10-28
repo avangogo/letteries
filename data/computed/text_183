@@ -1,339 +1,339 @@
-ô	INT
-toison	NOM
-,	PUN
-moutonnant	VER:ppre
-jusque	PRP
-sur	PRP
-l'	DET:ART
-encolure	NOM
-!	SENT
-ô	INT
-boucles	NOM
-!	SENT
-ô	INT
-parfum	NOM
-chargé	VER:pper
-de	PRP
-nonchaloir	NOM
-!	SENT
-extase	NOM
-!	SENT
-pour	PRP
-peupler	VER:infi
-ce	PRO:DEM
-soir	NOM
-l'	DET:ART
-alcôve	NOM
-obscure	ADJ
-des	PRP:det
-souvenirs	NOM
-dormant	VER:ppre
-dans	PRP
-cette	PRO:DEM
-chevelure	NOM
-,	PUN
-je	PRO:PER
-la	PRO:PER
-veux	VER:pres
-agiter	VER:infi
-dans	PRP
-l'	DET:ART
-air	NOM
-comme	KON
-un	DET:ART
-mouchoir	NOM
-!	SENT
-la	DET:ART
-langoureuse	ADJ
-asie	NOM
-et	KON
-la	DET:ART
-brûlante	ADJ
-afrique	NOM
-,	PUN
-tout	PRO:IND
-un	DET:ART
-monde	NOM
-lointain	ADJ
-,	PUN
-absent	ADJ
-,	PUN
-presque	ADV
-défunt	ADJ
-,	PUN
-vit	VER:pres
-dans	PRP
-tes	DET:POS
-profondeurs	NOM
-,	PUN
-forêt	NOM
-aromatique	ADJ
-!	SENT
-comme	KON
-d'	PRP
-autres	ADJ
-esprits	NOM
-voguent	VER:pres
-sur	PRP
-la	DET:ART
-musique	NOM
-,	PUN
-le	PRO:PER
-mien	PRO:POS
-,	PUN
-ô	INT
-mon	DET:POS
-amour	NOM
-!	SENT
-nage	NOM
-sur	PRP
-ton	DET:POS
-parfum	NOM
-.	SENT
-j'	PRO:PER
-irai	VER:futu
-là	ADV
-bas	ADJ
-où	PRO:REL
-l'	DET:ART
-arbre	NOM
-et	KON
-l'	DET:ART
-homme	NOM
-,	PUN
-pleins	ADJ
-de	PRP
-sève	NOM
-,	PUN
-se	PRO:PER
-pâment	VER:pres
-longuement	ADV
-sous	PRP
-l'	DET:ART
-ardeur	NOM
-des	PRP:det
-climats	NOM
-;	PUN
-fortes	ADJ
-tresses	NOM
-,	PUN
-soyez	VER:subp
-la	DET:ART
-houle	NOM
-qui	PRO:REL
-m'	PRO:PER
-enlève	VER:pres
-!	SENT
-tu	PRO:PER
-contiens	VER:pres
-,	PUN
-mer	NOM
-d'	PRP
-ébène	NOM
-,	PUN
-un	DET:ART
-éblouissant	ADJ
-rêve	NOM
-de	PRP
-voiles	NOM
-,	PUN
-de	PRP
-rameurs	NOM
-,	PUN
-de	PRP
-flammes	NOM
-et	KON
-de	PRP
-mâts	NOM
-:	PUN
-un	DET:ART
-port	NOM
-retentissant	ADJ
-où	PRO:REL
-mon	DET:POS
-âme	NOM
-peut	VER:pres
-boire	VER:infi
-à	PRP
-grands	ADJ
-flots	NOM
-le	DET:ART
-parfum	NOM
-,	PUN
-le	DET:ART
-son	NOM
-et	KON
-la	DET:ART
-couleur	NOM
-;	PUN
-où	PRO:REL
-les	DET:ART
-vaisseaux	NOM
-,	PUN
-glissant	VER:ppre
-dans	PRP
-l'	DET:ART
-or	NOM
-et	KON
-dans	PRP
-la	DET:ART
-moire	NOM
-,	PUN
-ouvrent	VER:pres
-leurs	DET:POS
-vastes	ADJ
-bras	NOM
-pour	PRP
-embrasser	VER:infi
-la	DET:ART
-gloire	NOM
-d'	PRP
-un	DET:ART
-ciel	NOM
-pur	ADJ
-où	PRO:REL
-frémit	VER:pres
-l'	DET:ART
-éternelle	ADJ
-chaleur	NOM
-.	SENT
-je	PRO:PER
-plongerai	VER:futu
-ma	DET:POS
-tête	NOM
-amoureuse	ADJ
-d'	PRP
-ivresse	NOM
-dans	PRP
-ce	PRO:DEM
-noir	ADJ
-océan	NOM
-où	PRO:REL
-l'	DET:ART
-autre	ADJ
-est	VER:pres
-enfermé	VER:pper
-;	PUN
-et	KON
-mon	DET:POS
-esprit	NOM
-subtil	ADJ
-que	KON
-le	DET:ART
-roulis	NOM
-caresse	VER:pres
-saura	VER:simp
-vous	PRO:PER
-retrouver	VER:infi
-,	PUN
-ô	INT
-féconde	ADJ
-paresse	NOM
-,	PUN
-infinis	ADJ
-bercements	NOM
-du	PRP:det
-loisir	NOM
-embaumé	VER:pper
-!	SENT
-cheveux	NOM
-bleus	ADJ
-,	PUN
-pavillon	NOM
-de	PRP
-ténèbres	NOM
-tendues	VER:pper
-,	PUN
-vous	PRO:PER
-me	PRO:PER
-rendez	VER:pres
-l'	DET:ART
-azur	NOM
-du	PRP:det
-ciel	NOM
-immense	ADJ
-et	KON
-rond	ADJ
-;	PUN
-sur	PRP
-les	DET:ART
-bords	NOM
-duvetés	VER:pper
-de	PRP
-vos	DET:POS
-mèches	NOM
-tordues	ADJ
-je	PRO:PER
-m'	PRO:PER
-enivre	VER:pres
-ardemment	ADV
-des	PRP:det
-senteurs	NOM
-confondues	VER:pper
-de	PRP
-l'	DET:ART
-huile	NOM
-de	PRP
-coco	NOM
-,	PUN
-du	PRP:det
-musc	NOM
-et	KON
-du	PRP:det
-goudron	NOM
-.	SENT
-longtemps	ADV
-!	SENT
-toujours	ADV
-!	SENT
-ma	DET:POS
-main	NOM
-dans	PRP
-ta	DET:POS
-crinière	NOM
-lourde	ADJ
-sèmera	VER:futu
-le	DET:ART
-rubis	NOM
-,	PUN
-la	DET:ART
-perle	NOM
-et	KON
-le	DET:ART
-saphir	NOM
-,	PUN
-afin	KON
-qu'	KON
-à	PRP
-mon	DET:POS
-désir	NOM
-tu	PRO:PER
-ne	ADV
-sois	VER:subp
-jamais	ADV
-sourde	ADJ
-!	SENT
-n'	ADV
-es	VER:pres
-tu	PRO:PER
-pas	ADV
-l'	DET:ART
-oasis	NOM
-où	PRO:REL
-je	PRO:PER
-rêve	VER:pres
-,	PUN
-et	KON
-la	DET:ART
-gourde	NOM
-où	PRO:REL
-je	PRO:PER
-hume	VER:pres
-à	PRP
-longs	ADJ
-traits	NOM
-le	DET:ART
-vin	NOM
-du	PRP:det
-souvenir	NOM
-?	SENT
+ô	INT	ô
+toison	NOM	toison
+,	PUN	,
+moutonnant	VER:ppre	moutonner
+jusque	PRP	jusque
+sur	PRP	sur
+l'	DET:ART	le
+encolure	NOM	encolure
+!	SENT	!
+ô	INT	ô
+boucles	NOM	boucle
+!	SENT	!
+ô	INT	ô
+parfum	NOM	parfum
+chargé	VER:pper	charger
+de	PRP	de
+nonchaloir	NOM	nonchaloir
+!	SENT	!
+extase	NOM	extase
+!	SENT	!
+pour	PRP	pour
+peupler	VER:infi	peupler
+ce	PRO:DEM	ce
+soir	NOM	soir
+l'	DET:ART	le
+alcôve	NOM	alcôve
+obscure	ADJ	obscur
+des	PRP:det	du
+souvenirs	NOM	souvenir
+dormant	VER:ppre	dormir
+dans	PRP	dans
+cette	PRO:DEM	ce
+chevelure	NOM	chevelure
+,	PUN	,
+je	PRO:PER	je
+la	PRO:PER	la
+veux	VER:pres	vouloir
+agiter	VER:infi	agiter
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+comme	KON	comme
+un	DET:ART	un
+mouchoir	NOM	mouchoir
+!	SENT	!
+la	DET:ART	le
+langoureuse	ADJ	langoureux
+asie	NOM	asie
+et	KON	et
+la	DET:ART	le
+brûlante	ADJ	brûlant
+afrique	NOM	afrique
+,	PUN	,
+tout	PRO:IND	tout
+un	DET:ART	un
+monde	NOM	monde
+lointain	ADJ	lointain
+,	PUN	,
+absent	ADJ	absent
+,	PUN	,
+presque	ADV	presque
+défunt	ADJ	défunt
+,	PUN	,
+vit	VER:pres	vivre
+dans	PRP	dans
+tes	DET:POS	ton
+profondeurs	NOM	profondeur
+,	PUN	,
+forêt	NOM	forêt
+aromatique	ADJ	aromatique
+!	SENT	!
+comme	KON	comme
+d'	PRP	de
+autres	ADJ	autre
+esprits	NOM	esprit
+voguent	VER:pres	voguer
+sur	PRP	sur
+la	DET:ART	le
+musique	NOM	musique
+,	PUN	,
+le	PRO:PER	le
+mien	PRO:POS	mien
+,	PUN	,
+ô	INT	ô
+mon	DET:POS	mon
+amour	NOM	amour
+!	SENT	!
+nage	NOM	nage
+sur	PRP	sur
+ton	DET:POS	ton
+parfum	NOM	parfum
+.	SENT	.
+j'	PRO:PER	je
+irai	VER:futu	aller
+là	ADV	là
+bas	ADJ	bas
+où	PRO:REL	où
+l'	DET:ART	le
+arbre	NOM	arbre
+et	KON	et
+l'	DET:ART	le
+homme	NOM	homme
+,	PUN	,
+pleins	ADJ	plein
+de	PRP	de
+sève	NOM	sève
+,	PUN	,
+se	PRO:PER	se
+pâment	VER:pres	pâmer
+longuement	ADV	longuement
+sous	PRP	sous
+l'	DET:ART	le
+ardeur	NOM	ardeur
+des	PRP:det	du
+climats	NOM	climat
+;	PUN	;
+fortes	ADJ	fort
+tresses	NOM	tresse
+,	PUN	,
+soyez	VER:subp	être
+la	DET:ART	le
+houle	NOM	houle
+qui	PRO:REL	qui
+m'	PRO:PER	me
+enlève	VER:pres	enlever
+!	SENT	!
+tu	PRO:PER	tu
+contiens	VER:pres	contenir
+,	PUN	,
+mer	NOM	mer
+d'	PRP	de
+ébène	NOM	ébène
+,	PUN	,
+un	DET:ART	un
+éblouissant	ADJ	éblouissant
+rêve	NOM	rêve
+de	PRP	de
+voiles	NOM	voile
+,	PUN	,
+de	PRP	de
+rameurs	NOM	rameur
+,	PUN	,
+de	PRP	de
+flammes	NOM	flamme
+et	KON	et
+de	PRP	de
+mâts	NOM	mât
+:	PUN	:
+un	DET:ART	un
+port	NOM	port
+retentissant	ADJ	retentissant
+où	PRO:REL	où
+mon	DET:POS	mon
+âme	NOM	âme
+peut	VER:pres	pouvoir
+boire	VER:infi	boire
+à	PRP	à
+grands	ADJ	grand
+flots	NOM	flot
+le	DET:ART	le
+parfum	NOM	parfum
+,	PUN	,
+le	DET:ART	le
+son	NOM	son
+et	KON	et
+la	DET:ART	le
+couleur	NOM	couleur
+;	PUN	;
+où	PRO:REL	où
+les	DET:ART	le
+vaisseaux	NOM	vaisseau
+,	PUN	,
+glissant	VER:ppre	glisser
+dans	PRP	dans
+l'	DET:ART	le
+or	NOM	or
+et	KON	et
+dans	PRP	dans
+la	DET:ART	le
+moire	NOM	moire
+,	PUN	,
+ouvrent	VER:pres	ouvrer|ouvrir
+leurs	DET:POS	leur
+vastes	ADJ	vaste
+bras	NOM	bras
+pour	PRP	pour
+embrasser	VER:infi	embrasser
+la	DET:ART	le
+gloire	NOM	gloire
+d'	PRP	de
+un	DET:ART	un
+ciel	NOM	ciel
+pur	ADJ	pur
+où	PRO:REL	où
+frémit	VER:pres	frémir
+l'	DET:ART	le
+éternelle	ADJ	éternel
+chaleur	NOM	chaleur
+.	SENT	.
+je	PRO:PER	je
+plongerai	VER:futu	plonger
+ma	DET:POS	mon
+tête	NOM	tête
+amoureuse	ADJ	amoureux
+d'	PRP	de
+ivresse	NOM	ivresse
+dans	PRP	dans
+ce	PRO:DEM	ce
+noir	ADJ	noir
+océan	NOM	océan
+où	PRO:REL	où
+l'	DET:ART	le
+autre	ADJ	autre
+est	VER:pres	être
+enfermé	VER:pper	enfermer
+;	PUN	;
+et	KON	et
+mon	DET:POS	mon
+esprit	NOM	esprit
+subtil	ADJ	subtil
+que	KON	que
+le	DET:ART	le
+roulis	NOM	roulis
+caresse	VER:pres	caresser
+saura	VER:simp	saurer
+vous	PRO:PER	vous
+retrouver	VER:infi	retrouver
+,	PUN	,
+ô	INT	ô
+féconde	ADJ	fécond
+paresse	NOM	paresse
+,	PUN	,
+infinis	ADJ	infini
+bercements	NOM	bercement
+du	PRP:det	du
+loisir	NOM	loisir
+embaumé	VER:pper	embaumer
+!	SENT	!
+cheveux	NOM	cheveu
+bleus	ADJ	bleu
+,	PUN	,
+pavillon	NOM	pavillon
+de	PRP	de
+ténèbres	NOM	ténèbre
+tendues	VER:pper	tendre
+,	PUN	,
+vous	PRO:PER	vous
+me	PRO:PER	me
+rendez	VER:pres	rendre
+l'	DET:ART	le
+azur	NOM	azur
+du	PRP:det	du
+ciel	NOM	ciel
+immense	ADJ	immense
+et	KON	et
+rond	ADJ	rond
+;	PUN	;
+sur	PRP	sur
+les	DET:ART	le
+bords	NOM	bord
+duvetés	VER:pper	duveter
+de	PRP	de
+vos	DET:POS	votre
+mèches	NOM	mèche
+tordues	ADJ	tordu
+je	PRO:PER	je
+m'	PRO:PER	me
+enivre	VER:pres	enivrer
+ardemment	ADV	ardemment
+des	PRP:det	du
+senteurs	NOM	senteur
+confondues	VER:pper	confondre
+de	PRP	de
+l'	DET:ART	le
+huile	NOM	huile
+de	PRP	de
+coco	NOM	coco
+,	PUN	,
+du	PRP:det	du
+musc	NOM	musc
+et	KON	et
+du	PRP:det	du
+goudron	NOM	goudron
+.	SENT	.
+longtemps	ADV	longtemps
+!	SENT	!
+toujours	ADV	toujours
+!	SENT	!
+ma	DET:POS	mon
+main	NOM	main
+dans	PRP	dans
+ta	DET:POS	ton
+crinière	NOM	crinière
+lourde	ADJ	lourd
+sèmera	VER:futu	semer
+le	DET:ART	le
+rubis	NOM	rubis
+,	PUN	,
+la	DET:ART	le
+perle	NOM	perle
+et	KON	et
+le	DET:ART	le
+saphir	NOM	saphir
+,	PUN	,
+afin	KON	afin
+qu'	KON	que
+à	PRP	à
+mon	DET:POS	mon
+désir	NOM	désir
+tu	PRO:PER	tu
+ne	ADV	ne
+sois	VER:subp	être
+jamais	ADV	jamais
+sourde	ADJ	sourd
+!	SENT	!
+n'	ADV	ne
+es	VER:pres	être
+tu	PRO:PER	tu
+pas	ADV	pas
+l'	DET:ART	le
+oasis	NOM	oasis
+où	PRO:REL	où
+je	PRO:PER	je
+rêve	VER:pres	rêver
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+gourde	NOM	gourde
+où	PRO:REL	où
+je	PRO:PER	je
+hume	VER:pres	humer
+à	PRP	à
+longs	ADJ	long
+traits	NOM	trait
+le	DET:ART	le
+vin	NOM	vin
+du	PRP:det	du
+souvenir	NOM	souvenir
+?	SENT	?

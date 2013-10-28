@@ -1,243 +1,243 @@
-patria	ADJ
-musique	NOM
-de	PRP
-beethoven	ADJ
-là	ADV
-haut	ADJ
-qui	PRO:REL
-sourit	VER:pres
-?	SENT
-est	VER:pres
-ce	PRO:DEM
-un	NUM
-esprit	NOM
-?	SENT
-est	VER:pres
-ce	PRO:DEM
-une	NUM
-femme	NOM
-?	SENT
-quel	PRO:REL
-front	NOM
-sombre	ADJ
-et	KON
-doux	ADJ
-!	SENT
-peuple	NOM
-,	PUN
-à	PRP
-genoux	NOM
-!	SENT
-est	VER:pres
-ce	PRO:DEM
-notre	DET:POS
-âme	NOM
-qui	PRO:REL
-vient	VER:pres
-à	PRP
-nous	PRO:PER
-?	SENT
-cette	PRO:DEM
-figure	VER:pres
-en	PRP
-deuil	NOM
-paraît	VER:pres
-sur	PRP
-notre	DET:POS
-seuil	NOM
-,	PUN
-et	KON
-notre	DET:POS
-antique	ADJ
-orgueil	NOM
-sort	VER:pres
-du	PRP:det
-cercueil	NOM
-.	SENT
-ses	DET:POS
-fiers	ADJ
-regards	NOM
-vainqueurs	NOM
-réveillent	VER:pres
-tous	PRO:IND
-les	DET:ART
-coeurs	NOM
-,	PUN
-les	DET:ART
-nids	NOM
-dans	PRP
-les	DET:ART
-buissons	NOM
-,	PUN
-et	KON
-les	DET:ART
-chansons	NOM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-ange	NOM
-du	PRP:det
-jour	NOM
-;	PUN
-l'	DET:ART
-espoir	NOM
-,	PUN
-l'	DET:ART
-amour	NOM
-du	PRP:det
-coeur	NOM
-qui	PRO:REL
-pense	VER:pres
-du	PRP:det
-monde	NOM
-enchanté	VER:pper
-c'	PRO:DEM
-est	VER:pres
-la	DET:ART
-clarté	NOM
-.	SENT
-son	DET:POS
-nom	NOM
-est	VER:pres
-france	NOM
-ou	KON
-vérité	NOM
-.	SENT
-bel	ADJ
-ange	NOM
-,	PUN
-à	PRP
-ton	DET:POS
-miroir	NOM
-quand	KON
-s'	PRO:PER
-offre	VER:pres
-un	DET:ART
-vil	ADJ
-pouvoir	NOM
-,	PUN
-tu	PRO:PER
-viens	VER:pres
-,	PUN
-terrible	ADJ
-à	PRP
-voir	VER:infi
-,	PUN
-sous	PRP
-le	DET:ART
-ciel	NOM
-noir	ADJ
-.	SENT
-tu	PRO:PER
-dis	VER:pres
-au	PRP:det
-monde	NOM
-:	PUN
-allons	INT
-!	SENT
-formez	VER:pres
-vos	DET:POS
-bataillons	NOM
-!	SENT
-et	KON
-le	DET:ART
-monde	NOM
-ébloui	VER:pper
-te	PRO:PER
-répond	VER:pres
-:	PUN
-oui	INT
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-ange	NOM
-de	PRP
-nuit	NOM
-.	SENT
-rois	NOM
-,	PUN
-il	PRO:PER
-vous	PRO:PER
-suit	VER:pres
-,	PUN
-marquant	VER:ppre
-d'	PRP
-avance	NOM
-le	DET:ART
-fatal	ADJ
-moment	NOM
-au	PRP:det
-firmament	NOM
-.	SENT
-son	DET:POS
-nom	NOM
-est	VER:pres
-france	NOM
-ou	KON
-châtiment	NOM
-.	SENT
-ainsi	ADV
-que	KON
-nous	PRO:PER
-voyons	VER:pres
-en	PRP
-mai	NOM
-les	DET:ART
-alcyons	NOM
-,	PUN
-voguez	VER:pres
-,	PUN
-ô	INT
-nations	NOM
-,	PUN
-dans	PRP
-ses	DET:POS
-rayons	NOM
-!	SENT
-son	DET:POS
-bras	NOM
-aux	PRP:det
-cieux	NOM
-dressé	VER:pper
-ferme	ADV
-le	DET:ART
-noir	NOM
-passé	VER:pper
-et	KON
-les	DET:ART
-portes	NOM
-de	PRP
-fer	NOM
-du	PRP:det
-sombre	ADJ
-enfer	NOM
-.	SENT
-c'	PRO:DEM
-est	VER:pres
-l'	DET:ART
-ange	NOM
-de	PRP
-dieu	NOM
-.	SENT
-dans	PRP
-le	DET:ART
-ciel	NOM
-bleu	ADJ
-son	DET:POS
-aile	NOM
-immense	ADJ
-couvre	VER:pres
-avec	PRP
-fierté	NOM
-l'	DET:ART
-humanité	NOM
-.	SENT
-son	DET:POS
-nom	NOM
-est	VER:pres
-france	NOM
-ou	KON
-liberté	NOM
-!	SENT
+patria	ADJ	patria
+musique	NOM	musique
+de	PRP	de
+beethoven	ADJ	beethoven
+là	ADV	là
+haut	ADJ	haut
+qui	PRO:REL	qui
+sourit	VER:pres	sourire
+?	SENT	?
+est	VER:pres	être
+ce	PRO:DEM	ce
+un	NUM	un
+esprit	NOM	esprit
+?	SENT	?
+est	VER:pres	être
+ce	PRO:DEM	ce
+une	NUM	un
+femme	NOM	femme
+?	SENT	?
+quel	PRO:REL	quel
+front	NOM	front
+sombre	ADJ	sombre
+et	KON	et
+doux	ADJ	doux
+!	SENT	!
+peuple	NOM	peuple
+,	PUN	,
+à	PRP	à
+genoux	NOM	genou
+!	SENT	!
+est	VER:pres	être
+ce	PRO:DEM	ce
+notre	DET:POS	notre
+âme	NOM	âme
+qui	PRO:REL	qui
+vient	VER:pres	venir
+à	PRP	à
+nous	PRO:PER	nous
+?	SENT	?
+cette	PRO:DEM	ce
+figure	VER:pres	figurer
+en	PRP	en
+deuil	NOM	deuil
+paraît	VER:pres	paraître
+sur	PRP	sur
+notre	DET:POS	notre
+seuil	NOM	seuil
+,	PUN	,
+et	KON	et
+notre	DET:POS	notre
+antique	ADJ	antique
+orgueil	NOM	orgueil
+sort	VER:pres	sortir
+du	PRP:det	du
+cercueil	NOM	cercueil
+.	SENT	.
+ses	DET:POS	son
+fiers	ADJ	fier
+regards	NOM	regard
+vainqueurs	NOM	vainqueur
+réveillent	VER:pres	réveiller
+tous	PRO:IND	tout
+les	DET:ART	le
+coeurs	NOM	cœur
+,	PUN	,
+les	DET:ART	le
+nids	NOM	nid
+dans	PRP	dans
+les	DET:ART	le
+buissons	NOM	buisson
+,	PUN	,
+et	KON	et
+les	DET:ART	le
+chansons	NOM	chanson
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+ange	NOM	ange
+du	PRP:det	du
+jour	NOM	jour
+;	PUN	;
+l'	DET:ART	le
+espoir	NOM	espoir
+,	PUN	,
+l'	DET:ART	le
+amour	NOM	amour
+du	PRP:det	du
+coeur	NOM	cœur
+qui	PRO:REL	qui
+pense	VER:pres	penser
+du	PRP:det	du
+monde	NOM	monde
+enchanté	VER:pper	enchanter
+c'	PRO:DEM	ce
+est	VER:pres	être
+la	DET:ART	le
+clarté	NOM	clarté
+.	SENT	.
+son	DET:POS	son
+nom	NOM	nom
+est	VER:pres	être
+france	NOM	france
+ou	KON	ou
+vérité	NOM	vérité
+.	SENT	.
+bel	ADJ	beau
+ange	NOM	ange
+,	PUN	,
+à	PRP	à
+ton	DET:POS	ton
+miroir	NOM	miroir
+quand	KON	quand
+s'	PRO:PER	se
+offre	VER:pres	offrir
+un	DET:ART	un
+vil	ADJ	vil
+pouvoir	NOM	pouvoir
+,	PUN	,
+tu	PRO:PER	tu
+viens	VER:pres	venir
+,	PUN	,
+terrible	ADJ	terrible
+à	PRP	à
+voir	VER:infi	voir
+,	PUN	,
+sous	PRP	sous
+le	DET:ART	le
+ciel	NOM	ciel
+noir	ADJ	noir
+.	SENT	.
+tu	PRO:PER	tu
+dis	VER:pres	dire
+au	PRP:det	au
+monde	NOM	monde
+:	PUN	:
+allons	INT	allons
+!	SENT	!
+formez	VER:pres	former
+vos	DET:POS	votre
+bataillons	NOM	bataillon
+!	SENT	!
+et	KON	et
+le	DET:ART	le
+monde	NOM	monde
+ébloui	VER:pper	éblouir
+te	PRO:PER	te
+répond	VER:pres	répondre
+:	PUN	:
+oui	INT	oui
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+ange	NOM	ange
+de	PRP	de
+nuit	NOM	nuit
+.	SENT	.
+rois	NOM	roi
+,	PUN	,
+il	PRO:PER	il
+vous	PRO:PER	vous
+suit	VER:pres	suivre
+,	PUN	,
+marquant	VER:ppre	marquer
+d'	PRP	de
+avance	NOM	avance
+le	DET:ART	le
+fatal	ADJ	fatal
+moment	NOM	moment
+au	PRP:det	au
+firmament	NOM	firmament
+.	SENT	.
+son	DET:POS	son
+nom	NOM	nom
+est	VER:pres	être
+france	NOM	france
+ou	KON	ou
+châtiment	NOM	châtiment
+.	SENT	.
+ainsi	ADV	ainsi
+que	KON	que
+nous	PRO:PER	nous
+voyons	VER:pres	voir
+en	PRP	en
+mai	NOM	mai
+les	DET:ART	le
+alcyons	NOM	alcyon
+,	PUN	,
+voguez	VER:pres	voguer
+,	PUN	,
+ô	INT	ô
+nations	NOM	nation
+,	PUN	,
+dans	PRP	dans
+ses	DET:POS	son
+rayons	NOM	rayon
+!	SENT	!
+son	DET:POS	son
+bras	NOM	bras
+aux	PRP:det	au
+cieux	NOM	cieux
+dressé	VER:pper	dresser
+ferme	ADV	ferme
+le	DET:ART	le
+noir	NOM	noir
+passé	VER:pper	passer
+et	KON	et
+les	DET:ART	le
+portes	NOM	porte
+de	PRP	de
+fer	NOM	fer
+du	PRP:det	du
+sombre	ADJ	sombre
+enfer	NOM	enfer
+.	SENT	.
+c'	PRO:DEM	ce
+est	VER:pres	être
+l'	DET:ART	le
+ange	NOM	ange
+de	PRP	de
+dieu	NOM	dieu
+.	SENT	.
+dans	PRP	dans
+le	DET:ART	le
+ciel	NOM	ciel
+bleu	ADJ	bleu
+son	DET:POS	son
+aile	NOM	aile
+immense	ADJ	immense
+couvre	VER:pres	couvrir
+avec	PRP	avec
+fierté	NOM	fierté
+l'	DET:ART	le
+humanité	NOM	humanité
+.	SENT	.
+son	DET:POS	son
+nom	NOM	nom
+est	VER:pres	être
+france	NOM	france
+ou	KON	ou
+liberté	NOM	liberté
+!	SENT	!

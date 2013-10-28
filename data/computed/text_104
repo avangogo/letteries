@@ -1,79 +1,79 @@
-tout	ADV
-à	PRP
-coup	NOM
-et	KON
-comme	ADV
-par	PRP
-jeu	NOM
-mademoiselle	NOM
-qui	PRO:REL
-voulûtes	VER:simp
-ouïr	VER:infi
-se	PRO:PER
-révéler	VER:infi
-un	DET:ART
-peu	ADV
-le	DET:ART
-bois	NOM
-de	PRP
-mes	DET:POS
-diverses	ADJ
-flûtes	NOM
-il	PRO:PER
-me	PRO:PER
-semble	VER:pres
-que	KON
-cet	PRO:DEM
-essai	NOM
-tenté	VER:pper
-devant	PRP
-un	DET:ART
-paysage	NOM
-a	VER:pres
-du	PRP:det
-bon	ADJ
-quand	KON
-je	PRO:PER
-le	PRO:PER
-cessai	VER:simp
-pour	PRP
-vous	PRO:PER
-regarder	VER:infi
-au	PRP:det
-visage	NOM
-oui	INT
-ce	PRO:DEM
-vain	ADJ
-souffle	NOM
-que	PRO:REL
-j'	PRO:PER
-exclus	VER:pper
-jusqu'	PRP
-à	PRP
-la	DET:ART
-dernière	ADJ
-limite	NOM
-selon	PRP
-mes	DET:POS
-quelques	PRO:IND
-doigts	NOM
-perclus	ADJ
-manque	VER:pres
-de	PRP
-moyens	NOM
-s'	PRO:PER
-il	PRO:PER
-imite	VER:pres
-votre	DET:POS
-très	ADV
-naturel	ADJ
-et	KON
-clair	ADJ
-rire	NOM
-d'	PRP
-enfant	NOM
-qui	PRO:REL
-charme	VER:pres
-l'	DET:ART
-air	NOM
-.	SENT
+tout	ADV	tout
+à	PRP	à
+coup	NOM	coup
+et	KON	et
+comme	ADV	comme
+par	PRP	par
+jeu	NOM	jeu
+mademoiselle	NOM	mademoiselle
+qui	PRO:REL	qui
+voulûtes	VER:simp	vouloir
+ouïr	VER:infi	ouïr
+se	PRO:PER	se
+révéler	VER:infi	révéler
+un	DET:ART	un
+peu	ADV	peu
+le	DET:ART	le
+bois	NOM	bois
+de	PRP	de
+mes	DET:POS	mon
+diverses	ADJ	divers
+flûtes	NOM	flûte
+il	PRO:PER	il
+me	PRO:PER	me
+semble	VER:pres	sembler
+que	KON	que
+cet	PRO:DEM	ce
+essai	NOM	essai
+tenté	VER:pper	tenter
+devant	PRP	devant
+un	DET:ART	un
+paysage	NOM	paysage
+a	VER:pres	avoir
+du	PRP:det	du
+bon	ADJ	bon
+quand	KON	quand
+je	PRO:PER	je
+le	PRO:PER	le
+cessai	VER:simp	cesser
+pour	PRP	pour
+vous	PRO:PER	vous
+regarder	VER:infi	regarder
+au	PRP:det	au
+visage	NOM	visage
+oui	INT	oui
+ce	PRO:DEM	ce
+vain	ADJ	vain
+souffle	NOM	souffle
+que	PRO:REL	que
+j'	PRO:PER	je
+exclus	VER:pper	exclure
+jusqu'	PRP	jusque
+à	PRP	à
+la	DET:ART	le
+dernière	ADJ	dernier
+limite	NOM	limite
+selon	PRP	selon
+mes	DET:POS	mon
+quelques	PRO:IND	quelque
+doigts	NOM	doigt
+perclus	ADJ	perclus
+manque	VER:pres	manquer
+de	PRP	de
+moyens	NOM	moyen
+s'	PRO:PER	se
+il	PRO:PER	il
+imite	VER:pres	imiter
+votre	DET:POS	votre
+très	ADV	très
+naturel	ADJ	naturel
+et	KON	et
+clair	ADJ	clair
+rire	NOM	rire
+d'	PRP	de
+enfant	NOM	enfant
+qui	PRO:REL	qui
+charme	VER:pres	charmer
+l'	DET:ART	le
+air	NOM	air
+.	SENT	.

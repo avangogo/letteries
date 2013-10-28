@@ -1,128 +1,128 @@
-apportez	VER:pres
-vos	DET:POS
-chaudrons	NOM
-,	PUN
-sorcières	NOM
-de	PRP
-shakespeare	NAM
-,	PUN
-sorcières	NOM
-de	PRP
-macbeth	NOM
-,	PUN
-prenez	VER:pres
-moi	PRO:PER
-tout	ADV
-l'	DET:ART
-empire	NOM
-,	PUN
-l'	DET:ART
-ancien	ADJ
-et	KON
-le	DET:ART
-nouveau	ADJ
-;	PUN
-sur	PRP
-le	DET:ART
-même	ADJ
-réchaud	NOM
-mettez	VER:pres
-le	DET:ART
-gros	ADJ
-berger	NOM
-et	KON
-le	DET:ART
-comte	NOM
-frochot	NOM
-,	PUN
-maupas	VER:simp
-avec	PRP
-réal	NOM
-,	PUN
-hullin	ADJ
-sur	PRP
-espinasse	NOM
-,	PUN
-la	DET:ART
-saint	ADJ
-napoléon	NOM
-avec	PRP
-la	DET:ART
-saint	NOM
-ignace	ADJ
-,	PUN
-fould	NOM
-et	KON
-maret	NOM
-,	PUN
-fouché	NOM
-gâté	ADJ
-,	PUN
-troplong	NOM
-pourri	ADJ
-,	PUN
-retirez	VER:pres
-austerlitz	NAM
-,	PUN
-ajoutez	VER:pres
-satory	NOM
-,	PUN
-penchez	VER:pres
-vous	PRO:PER
-,	PUN
-crins	NOM
-épars	ADJ
-,	PUN
-oeil	NOM
-ardent	ADJ
-,	PUN
-gorge	VER:pres
-nue	NOM
-,	PUN
-soufflez	VER:pres
-à	PRP
-pleins	ADJ
-poumons	NOM
-le	DET:ART
-feu	NOM
-sous	PRP
-la	DET:ART
-cornue	NOM
-;	PUN
-regardez	VER:pres
-le	DET:ART
-petit	ADJ
-se	PRO:PER
-dégager	VER:infi
-du	PRP:det
-grand	ADJ
-;	PUN
-faites	VER:pres
-évaporer	VER:infi
-baroche	NOM
-et	KON
-talleyrand	NOM
-,	PUN
-le	DET:ART
-neveu	NOM
-qui	PRO:REL
-descend	VER:pres
-pendant	PRP
-que	KON
-l'	DET:ART
-oncle	NOM
-monte	VER:pres
-;	PUN
-que	KON
-reste	NOM
-t	VER:impf
-il	PRO:PER
-au	PRP:det
-fond	NOM
-de	PRP
-l'	DET:ART
-alambic	NOM
-?	SENT
-la	DET:ART
-honte	NOM
-.	SENT
+apportez	VER:pres	apporter
+vos	DET:POS	votre
+chaudrons	NOM	chaudron
+,	PUN	,
+sorcières	NOM	sorcier
+de	PRP	de
+shakespeare	NAM	Shakespeare
+,	PUN	,
+sorcières	NOM	sorcier
+de	PRP	de
+macbeth	NOM	macbeth
+,	PUN	,
+prenez	VER:pres	prendre
+moi	PRO:PER	moi
+tout	ADV	tout
+l'	DET:ART	le
+empire	NOM	empire
+,	PUN	,
+l'	DET:ART	le
+ancien	ADJ	ancien
+et	KON	et
+le	DET:ART	le
+nouveau	ADJ	nouveau
+;	PUN	;
+sur	PRP	sur
+le	DET:ART	le
+même	ADJ	même
+réchaud	NOM	réchaud
+mettez	VER:pres	mettre
+le	DET:ART	le
+gros	ADJ	gros
+berger	NOM	berger
+et	KON	et
+le	DET:ART	le
+comte	NOM	comte
+frochot	NOM	frochot
+,	PUN	,
+maupas	VER:simp	maupas
+avec	PRP	avec
+réal	NOM	réal
+,	PUN	,
+hullin	ADJ	hullin
+sur	PRP	sur
+espinasse	NOM	espinasse
+,	PUN	,
+la	DET:ART	le
+saint	ADJ	saint
+napoléon	NOM	napoléon
+avec	PRP	avec
+la	DET:ART	le
+saint	NOM	saint
+ignace	ADJ	ignace
+,	PUN	,
+fould	NOM	fould
+et	KON	et
+maret	NOM	maret
+,	PUN	,
+fouché	NOM	fouché
+gâté	ADJ	gâté
+,	PUN	,
+troplong	NOM	troplong
+pourri	ADJ	pourri
+,	PUN	,
+retirez	VER:pres	retirer
+austerlitz	NAM	Austerlitz
+,	PUN	,
+ajoutez	VER:pres	ajouter
+satory	NOM	satory
+,	PUN	,
+penchez	VER:pres	pencher
+vous	PRO:PER	vous
+,	PUN	,
+crins	NOM	crin
+épars	ADJ	épars
+,	PUN	,
+oeil	NOM	œil
+ardent	ADJ	ardent
+,	PUN	,
+gorge	VER:pres	gorger
+nue	NOM	nue
+,	PUN	,
+soufflez	VER:pres	souffler
+à	PRP	à
+pleins	ADJ	plein
+poumons	NOM	poumon
+le	DET:ART	le
+feu	NOM	feu
+sous	PRP	sous
+la	DET:ART	le
+cornue	NOM	cornue
+;	PUN	;
+regardez	VER:pres	regarder
+le	DET:ART	le
+petit	ADJ	petit
+se	PRO:PER	se
+dégager	VER:infi	dégager
+du	PRP:det	du
+grand	ADJ	grand
+;	PUN	;
+faites	VER:pres	faire
+évaporer	VER:infi	évaporer
+baroche	NOM	baroche
+et	KON	et
+talleyrand	NOM	talleyrand
+,	PUN	,
+le	DET:ART	le
+neveu	NOM	neveu
+qui	PRO:REL	qui
+descend	VER:pres	descendre
+pendant	PRP	pendant
+que	KON	que
+l'	DET:ART	le
+oncle	NOM	oncle
+monte	VER:pres	monter
+;	PUN	;
+que	KON	que
+reste	NOM	reste
+t	VER:impf	t
+il	PRO:PER	il
+au	PRP:det	au
+fond	NOM	fond
+de	PRP	de
+l'	DET:ART	le
+alambic	NOM	alambic
+?	SENT	?
+la	DET:ART	le
+honte	NOM	honte
+.	SENT	.

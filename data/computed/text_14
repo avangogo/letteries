@@ -1,124 +1,124 @@
-iv	VER:cond
-nous	PRO:PER
-nous	PRO:PER
-promenions	VER:impf
-parmi	PRP
-les	DET:ART
-décombres	NOM
-à	PRP
-rozel	ADJ
-tower	NOM
-,	PUN
-et	KON
-nous	PRO:PER
-écoutions	VER:impf
-les	DET:ART
-paroles	NOM
-sombres	ADJ
-que	PRO:REL
-disait	VER:impf
-la	DET:ART
-mer	NOM
-.	SENT
-l'	DET:ART
-énorme	ADJ
-océan	NOM
-,	PUN
-car	KON
-nous	PRO:PER
-entendîmes	VER:simp
-ses	DET:POS
-vagues	ADJ
-chansons	NOM
-,	PUN
-disait	VER:impf
-:	PUN
-paraissez	VER:pres
-,	PUN
-vérités	NOM
-sublimes	ADJ
-et	KON
-bleus	ADJ
-horizons	NOM
-!	SENT
-le	DET:ART
-monde	NOM
-captif	ADJ
-,	PUN
-sans	PRP
-lois	NOM
-et	KON
-sans	PRP
-règles	NOM
-,	PUN
-est	VER:pres
-aux	PRP:det
-oppresseurs	NOM
-volez	VER:pres
-dans	PRP
-les	DET:ART
-cieux	NOM
-,	PUN
-ailes	NOM
-des	PRP:det
-grands	ADJ
-aigles	NOM
-,	PUN
-esprits	NOM
-des	PRP:det
-penseurs	NOM
-!	SENT
-naissez	VER:pres
-,	PUN
-levez	VER:pres
-vous	PRO:PER
-sur	PRP
-les	DET:ART
-flots	NOM
-sonores	ADJ
-,	PUN
-sur	PRP
-les	DET:ART
-flots	NOM
-vermeils	ADJ
-,	PUN
-traites	VER:pper
-dans	PRP
-la	DET:ART
-nuit	NOM
-poindre	VER:infi
-vos	DET:POS
-aurores	NOM
-,	PUN
-peuples	NOM
-et	KON
-soleils	NOM
-!	SENT
-vous	PRO:PER
-,	PUN
-laissez	VER:pres
-passer	VER:infi
-la	DET:ART
-foudre	NOM
-et	KON
-la	DET:ART
-brume	NOM
-,	PUN
-les	DET:ART
-vents	NOM
-et	KON
-les	DET:ART
-cris	NOM
-,	PUN
-affrontez	VER:pres
-l'	DET:ART
-orage	NOM
-,	PUN
-affrontez	VER:pres
-l'	DET:ART
-écume	NOM
-,	PUN
-rochers	NOM
-et	KON
-proscrits	VER:pper
-!	SENT
+iv	VER:cond	iv
+nous	PRO:PER	nous
+nous	PRO:PER	nous
+promenions	VER:impf	promener
+parmi	PRP	parmi
+les	DET:ART	le
+décombres	NOM	décombre|décombres
+à	PRP	à
+rozel	ADJ	rozel
+tower	NOM	tower
+,	PUN	,
+et	KON	et
+nous	PRO:PER	nous
+écoutions	VER:impf	écouter
+les	DET:ART	le
+paroles	NOM	parole
+sombres	ADJ	sombre
+que	PRO:REL	que
+disait	VER:impf	dire
+la	DET:ART	le
+mer	NOM	mer
+.	SENT	.
+l'	DET:ART	le
+énorme	ADJ	énorme
+océan	NOM	océan
+,	PUN	,
+car	KON	car
+nous	PRO:PER	nous
+entendîmes	VER:simp	entendre
+ses	DET:POS	son
+vagues	ADJ	vague
+chansons	NOM	chanson
+,	PUN	,
+disait	VER:impf	dire
+:	PUN	:
+paraissez	VER:pres	paraître
+,	PUN	,
+vérités	NOM	vérité
+sublimes	ADJ	sublime
+et	KON	et
+bleus	ADJ	bleu
+horizons	NOM	horizon
+!	SENT	!
+le	DET:ART	le
+monde	NOM	monde
+captif	ADJ	captif
+,	PUN	,
+sans	PRP	sans
+lois	NOM	loi
+et	KON	et
+sans	PRP	sans
+règles	NOM	règle|règles
+,	PUN	,
+est	VER:pres	être
+aux	PRP:det	au
+oppresseurs	NOM	oppresseur
+volez	VER:pres	voler
+dans	PRP	dans
+les	DET:ART	le
+cieux	NOM	cieux
+,	PUN	,
+ailes	NOM	aile
+des	PRP:det	du
+grands	ADJ	grand
+aigles	NOM	aigle
+,	PUN	,
+esprits	NOM	esprit
+des	PRP:det	du
+penseurs	NOM	penseur
+!	SENT	!
+naissez	VER:pres	naître
+,	PUN	,
+levez	VER:pres	lever
+vous	PRO:PER	vous
+sur	PRP	sur
+les	DET:ART	le
+flots	NOM	flot
+sonores	ADJ	sonore
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+flots	NOM	flot
+vermeils	ADJ	vermeil
+,	PUN	,
+traites	VER:pper	traire
+dans	PRP	dans
+la	DET:ART	le
+nuit	NOM	nuit
+poindre	VER:infi	poindre
+vos	DET:POS	votre
+aurores	NOM	aurore
+,	PUN	,
+peuples	NOM	peuple
+et	KON	et
+soleils	NOM	soleil
+!	SENT	!
+vous	PRO:PER	vous
+,	PUN	,
+laissez	VER:pres	laisser
+passer	VER:infi	passer
+la	DET:ART	le
+foudre	NOM	foudre
+et	KON	et
+la	DET:ART	le
+brume	NOM	brume
+,	PUN	,
+les	DET:ART	le
+vents	NOM	vent
+et	KON	et
+les	DET:ART	le
+cris	NOM	cri
+,	PUN	,
+affrontez	VER:pres	affronter
+l'	DET:ART	le
+orage	NOM	orage
+,	PUN	,
+affrontez	VER:pres	affronter
+l'	DET:ART	le
+écume	NOM	écume
+,	PUN	,
+rochers	NOM	rocher
+et	KON	et
+proscrits	VER:pper	proscrire
+!	SENT	!

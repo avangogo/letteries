@@ -1,142 +1,142 @@
-je	PRO:PER
-suis	VER:pres
-belle	ADJ
-,	PUN
-ô	INT
-mortels	ADJ
-!	SENT
-comme	ADV
-un	DET:ART
-rêve	NOM
-de	PRP
-pierre	NOM
-,	PUN
-et	KON
-mon	DET:POS
-sein	NOM
-,	PUN
-où	PRO:REL
-chacun	PRO:IND
-s'	PRO:PER
-est	VER:pres
-meurtri	VER:pper
-tour	NOM
-à	PRP
-tour	NOM
-,	PUN
-est	VER:pres
-fait	VER:pper
-pour	PRP
-inspirer	VER:infi
-au	PRP:det
-poëte	NOM
-un	DET:ART
-amour	NOM
-éternel	ADJ
-et	KON
-muet	ADJ
-ainsi	ADV
-que	KON
-la	DET:ART
-matière	NOM
-.	SENT
-je	PRO:PER
-trône	VER:pres
-dans	PRP
-l'	DET:ART
-azur	NOM
-comme	KON
-un	DET:ART
-sphinx	NOM
-incompris	ADJ
-;	PUN
-j'	PRO:PER
-unis	VER:pres
-un	DET:ART
-coeur	NOM
-de	PRP
-neige	NOM
-à	PRP
-la	DET:ART
-blancheur	NOM
-des	PRP:det
-cygnes	NOM
-;	PUN
-je	PRO:PER
-hais	VER:pres
-le	DET:ART
-mouvement	NOM
-qui	PRO:REL
-déplace	VER:pres
-les	DET:ART
-lignes	NOM
-;	PUN
-et	KON
-jamais	ADV
-je	PRO:PER
-ne	ADV
-pleure	VER:pres
-et	KON
-jamais	ADV
-je	PRO:PER
-ne	ADV
-ris	VER:pres
-.	SENT
-les	DET:ART
-poëtes	NOM
-,	PUN
-devant	PRP
-mes	DET:POS
-grandes	ADJ
-attitudes	NOM
-,	PUN
-que	KON
-j'	PRO:PER
-ai	VER:pres
-l'	DET:ART
-air	NOM
-d'	PRP
-emprunter	VER:infi
-aux	PRP:det
-plus	ADV
-fiers	ADJ
-monuments	NOM
-,	PUN
-consumeront	VER:futu
-leurs	DET:POS
-jours	NOM
-en	PRP
-d'	DET:ART
-austères	ADJ
-études	NOM
-;	PUN
-car	KON
-j'	PRO:PER
-ai	VER:pres
-,	PUN
-pour	PRP
-fasciner	VER:infi
-ces	PRO:DEM
-dociles	ADJ
-amants	NOM
-,	PUN
-de	PRP
-purs	ADJ
-miroirs	NOM
-qui	PRO:REL
-font	VER:pres
-toutes	PRO:IND
-choses	NOM
-plus	ADV
-belles	ADJ
-:	PUN
-mes	DET:POS
-yeux	NOM
-,	PUN
-mes	DET:POS
-larges	ADJ
-yeux	NOM
-aux	PRP:det
-clartés	NOM
-éternelles	ADJ
-!	SENT
+je	PRO:PER	je
+suis	VER:pres	suivre|être
+belle	ADJ	beau
+,	PUN	,
+ô	INT	ô
+mortels	ADJ	mortel
+!	SENT	!
+comme	ADV	comme
+un	DET:ART	un
+rêve	NOM	rêve
+de	PRP	de
+pierre	NOM	pierre
+,	PUN	,
+et	KON	et
+mon	DET:POS	mon
+sein	NOM	sein
+,	PUN	,
+où	PRO:REL	où
+chacun	PRO:IND	chacun
+s'	PRO:PER	se
+est	VER:pres	être
+meurtri	VER:pper	meurtrir
+tour	NOM	tour
+à	PRP	à
+tour	NOM	tour
+,	PUN	,
+est	VER:pres	être
+fait	VER:pper	faire
+pour	PRP	pour
+inspirer	VER:infi	inspirer
+au	PRP:det	au
+poëte	NOM	poëte
+un	DET:ART	un
+amour	NOM	amour
+éternel	ADJ	éternel
+et	KON	et
+muet	ADJ	muet
+ainsi	ADV	ainsi
+que	KON	que
+la	DET:ART	le
+matière	NOM	matière
+.	SENT	.
+je	PRO:PER	je
+trône	VER:pres	trôner
+dans	PRP	dans
+l'	DET:ART	le
+azur	NOM	azur
+comme	KON	comme
+un	DET:ART	un
+sphinx	NOM	sphinx
+incompris	ADJ	incompris
+;	PUN	;
+j'	PRO:PER	je
+unis	VER:pres	unir
+un	DET:ART	un
+coeur	NOM	cœur
+de	PRP	de
+neige	NOM	neige
+à	PRP	à
+la	DET:ART	le
+blancheur	NOM	blancheur
+des	PRP:det	du
+cygnes	NOM	cygne
+;	PUN	;
+je	PRO:PER	je
+hais	VER:pres	haïr
+le	DET:ART	le
+mouvement	NOM	mouvement
+qui	PRO:REL	qui
+déplace	VER:pres	déplacer
+les	DET:ART	le
+lignes	NOM	ligne
+;	PUN	;
+et	KON	et
+jamais	ADV	jamais
+je	PRO:PER	je
+ne	ADV	ne
+pleure	VER:pres	pleurer
+et	KON	et
+jamais	ADV	jamais
+je	PRO:PER	je
+ne	ADV	ne
+ris	VER:pres	rire
+.	SENT	.
+les	DET:ART	le
+poëtes	NOM	poëtes
+,	PUN	,
+devant	PRP	devant
+mes	DET:POS	mon
+grandes	ADJ	grand
+attitudes	NOM	attitude
+,	PUN	,
+que	KON	que
+j'	PRO:PER	je
+ai	VER:pres	avoir
+l'	DET:ART	le
+air	NOM	air
+d'	PRP	de
+emprunter	VER:infi	emprunter
+aux	PRP:det	au
+plus	ADV	plus
+fiers	ADJ	fier
+monuments	NOM	monument
+,	PUN	,
+consumeront	VER:futu	consumer
+leurs	DET:POS	leur
+jours	NOM	jour
+en	PRP	en
+d'	DET:ART	de
+austères	ADJ	austère
+études	NOM	étude
+;	PUN	;
+car	KON	car
+j'	PRO:PER	je
+ai	VER:pres	avoir
+,	PUN	,
+pour	PRP	pour
+fasciner	VER:infi	fasciner
+ces	PRO:DEM	ce
+dociles	ADJ	docile
+amants	NOM	amant
+,	PUN	,
+de	PRP	de
+purs	ADJ	pur
+miroirs	NOM	miroir
+qui	PRO:REL	qui
+font	VER:pres	faire
+toutes	PRO:IND	tout
+choses	NOM	chose
+plus	ADV	plus
+belles	ADJ	beau
+:	PUN	:
+mes	DET:POS	mon
+yeux	NOM	œil
+,	PUN	,
+mes	DET:POS	mon
+larges	ADJ	large
+yeux	NOM	œil
+aux	PRP:det	au
+clartés	NOM	clarté
+éternelles	ADJ	éternel
+!	SENT	!

@@ -1,104 +1,104 @@
-le	DET:ART
-noir	ADJ
-roc	NOM
-courroucé	VER:pper
-que	KON
-la	DET:ART
-bise	NOM
-le	DET:ART
-roule	NOM
-ne	ADV
-s'	PRO:PER
-arrêtera	VER:futu
-ni	KON
-sous	PRP
-de	PRP
-pieuses	ADJ
-mains	NOM
-tâtant	VER:ppre
-sa	DET:POS
-ressemblance	NOM
-avec	PRP
-les	DET:ART
-maux	NOM
-humains	ADJ
-comme	KON
-pour	PRP
-en	PRP
-bénir	VER:infi
-quelque	PRO:IND
-funeste	ADJ
-moule	NOM
-.	SENT
-ici	ADV
-presque	ADV
-toujours	ADV
-si	KON
-le	DET:ART
-ramier	NOM
-roucoule	VER:pres
-cet	PRO:DEM
-immatériel	ADJ
-deuil	NOM
-opprime	VER:pres
-de	PRP
-maints	NOM
-nubiles	ADJ
-plis	NOM
-l'	DET:ART
-astre	NOM
-mûri	VER:pper
-des	PRP:det
-lendemains	NOM
-dont	PRO:REL
-un	DET:ART
-scintillement	NOM
-argentera	VER:futu
-la	DET:ART
-foule	NOM
-.	SENT
-qui	PRO
-cherche	VER:pres
-,	PUN
-parcourant	VER:ppre
-le	DET:ART
-solitaire	ADJ
-bond	NOM
-tantôt	ADV
-extérieur	ADJ
-de	PRP
-notre	DET:POS
-vagabond	ADJ
-verlaine	NOM
-?	SENT
-il	PRO:PER
-est	VER:pres
-caché	VER:pper
-parmi	PRP
-l'	DET:ART
-herbe	NOM
-,	PUN
-verlaine	ADJ
-a	VER:pres
-ne	ADV
-surprendre	VER:infi
-que	KON
-naïvement	ADV
-d'accord	ADV
-la	DET:ART
-lèvre	NOM
-sans	PRP
-y	PRO:PER
-boire	VER:infi
-ou	KON
-tarir	VER:infi
-son	DET:POS
-haleine	NOM
-un	DET:ART
-peu	ADV
-profond	ADJ
-ruisseau	NOM
-calomnié	VER:pper
-la	DET:ART
-mort	NOM
-.	SENT
+le	DET:ART	le
+noir	ADJ	noir
+roc	NOM	roc
+courroucé	VER:pper	courroucer
+que	KON	que
+la	DET:ART	le
+bise	NOM	bise
+le	DET:ART	le
+roule	NOM	roule
+ne	ADV	ne
+s'	PRO:PER	se
+arrêtera	VER:futu	arrêter
+ni	KON	ni
+sous	PRP	sous
+de	PRP	de
+pieuses	ADJ	pieux
+mains	NOM	main
+tâtant	VER:ppre	tâter
+sa	DET:POS	son
+ressemblance	NOM	ressemblance
+avec	PRP	avec
+les	DET:ART	le
+maux	NOM	mal
+humains	ADJ	humain
+comme	KON	comme
+pour	PRP	pour
+en	PRP	en
+bénir	VER:infi	bénir
+quelque	PRO:IND	quelque
+funeste	ADJ	funeste
+moule	NOM	moule
+.	SENT	.
+ici	ADV	ici
+presque	ADV	presque
+toujours	ADV	toujours
+si	KON	si
+le	DET:ART	le
+ramier	NOM	ramier
+roucoule	VER:pres	roucouler
+cet	PRO:DEM	ce
+immatériel	ADJ	immatériel
+deuil	NOM	deuil
+opprime	VER:pres	opprimer
+de	PRP	de
+maints	NOM	maints
+nubiles	ADJ	nubile
+plis	NOM	pli
+l'	DET:ART	le
+astre	NOM	astre
+mûri	VER:pper	mûrir
+des	PRP:det	du
+lendemains	NOM	lendemain
+dont	PRO:REL	dont
+un	DET:ART	un
+scintillement	NOM	scintillement
+argentera	VER:futu	argenter
+la	DET:ART	le
+foule	NOM	foule
+.	SENT	.
+qui	PRO	qui
+cherche	VER:pres	chercher
+,	PUN	,
+parcourant	VER:ppre	parcourir
+le	DET:ART	le
+solitaire	ADJ	solitaire
+bond	NOM	bond
+tantôt	ADV	tantôt
+extérieur	ADJ	extérieur
+de	PRP	de
+notre	DET:POS	notre
+vagabond	ADJ	vagabond
+verlaine	NOM	verlaine
+?	SENT	?
+il	PRO:PER	il
+est	VER:pres	être
+caché	VER:pper	cacher
+parmi	PRP	parmi
+l'	DET:ART	le
+herbe	NOM	herbe
+,	PUN	,
+verlaine	ADJ	verlaine
+a	VER:pres	avoir
+ne	ADV	ne
+surprendre	VER:infi	surprendre
+que	KON	que
+naïvement	ADV	naïvement
+d'accord	ADV	d'accord
+la	DET:ART	le
+lèvre	NOM	lèvre
+sans	PRP	sans
+y	PRO:PER	y
+boire	VER:infi	boire
+ou	KON	ou
+tarir	VER:infi	tarir
+son	DET:POS	son
+haleine	NOM	haleine
+un	DET:ART	un
+peu	ADV	peu
+profond	ADJ	profond
+ruisseau	NOM	ruisseau
+calomnié	VER:pper	calomnier
+la	DET:ART	le
+mort	NOM	mort
+.	SENT	.

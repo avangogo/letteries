@@ -1,131 +1,131 @@
-quand	ADV
-,	PUN
-les	DET:ART
-deux	NUM
-yeux	NOM
-fermés	VER:pper
-,	PUN
-en	PRP
-un	DET:ART
-soir	NOM
-chaud	ADJ
-d'	PRP
-automne	NOM
-,	PUN
-je	PRO:PER
-respire	VER:pres
-l'	DET:ART
-odeur	NOM
-de	PRP
-ton	DET:POS
-sein	NOM
-chaleureux	ADJ
-,	PUN
-je	PRO:PER
-vois	VER:pres
-se	PRO:PER
-dérouler	VER:infi
-des	PRP:det
-rivages	NOM
-heureux	ADJ
-qu'	PRO:REL
-éblouissent	VER:pres
-les	DET:ART
-feux	NOM
-d'	PRP
-un	DET:ART
-soleil	NOM
-monotone	ADJ
-;	PUN
-une	DET:ART
-île	NOM
-paresseuse	ADJ
-où	PRO:REL
-la	DET:ART
-nature	NOM
-donne	VER:pres
-des	PRP:det
-arbres	NOM
-singuliers	ADJ
-et	KON
-des	PRP:det
-fruits	NOM
-savoureux	ADJ
-;	PUN
-des	PRP:det
-hommes	NOM
-dont	PRO:REL
-le	DET:ART
-corps	NOM
-est	VER:pres
-mince	ADJ
-et	KON
-vigoureux	ADJ
-,	PUN
-et	KON
-des	PRP:det
-femmes	NOM
-dont	PRO:REL
-l'	DET:ART
-oeil	NOM
-par	PRP
-sa	DET:POS
-franchise	NOM
-étonne	VER:pres
-.	SENT
-guidé	VER:pper
-par	PRP
-ton	DET:POS
-odeur	NOM
-vers	PRP
-de	PRP
-charmants	ADJ
-climats	NOM
-,	PUN
-je	PRO:PER
-vois	VER:pres
-un	DET:ART
-port	NOM
-rempli	VER:pper
-de	PRP
-voiles	NOM
-et	KON
-de	PRP
-mâts	NOM
-encor	ADV
-tout	ADV
-fatigués	VER:pper
-par	PRP
-la	DET:ART
-vague	NOM
-marine	ADJ
-,	PUN
-pendant	VER:ppre
-que	KON
-le	DET:ART
-parfum	NOM
-des	PRP:det
-verts	ADJ
-tamariniers	NOM
-,	PUN
-qui	PRO:REL
-circule	VER:pres
-dans	PRP
-l'	DET:ART
-air	NOM
-et	KON
-m'	PRO:PER
-enfle	VER:pres
-la	DET:ART
-narine	NOM
-,	PUN
-se	PRO:PER
-mêle	VER:pres
-dans	PRP
-mon	DET:POS
-âme	NOM
-au	PRP:det
-chant	NOM
-des	PRP:det
-mariniers	NOM
-.	SENT
+quand	ADV	quand
+,	PUN	,
+les	DET:ART	le
+deux	NUM	deux
+yeux	NOM	œil
+fermés	VER:pper	fermer
+,	PUN	,
+en	PRP	en
+un	DET:ART	un
+soir	NOM	soir
+chaud	ADJ	chaud
+d'	PRP	de
+automne	NOM	automne
+,	PUN	,
+je	PRO:PER	je
+respire	VER:pres	respirer
+l'	DET:ART	le
+odeur	NOM	odeur
+de	PRP	de
+ton	DET:POS	ton
+sein	NOM	sein
+chaleureux	ADJ	chaleureux
+,	PUN	,
+je	PRO:PER	je
+vois	VER:pres	voir
+se	PRO:PER	se
+dérouler	VER:infi	dérouler
+des	PRP:det	du
+rivages	NOM	rivage
+heureux	ADJ	heureux
+qu'	PRO:REL	que
+éblouissent	VER:pres	éblouir
+les	DET:ART	le
+feux	NOM	feu
+d'	PRP	de
+un	DET:ART	un
+soleil	NOM	soleil
+monotone	ADJ	monotone
+;	PUN	;
+une	DET:ART	un
+île	NOM	île
+paresseuse	ADJ	paresseux
+où	PRO:REL	où
+la	DET:ART	le
+nature	NOM	nature
+donne	VER:pres	donner
+des	PRP:det	du
+arbres	NOM	arbre
+singuliers	ADJ	singulier
+et	KON	et
+des	PRP:det	du
+fruits	NOM	fruit
+savoureux	ADJ	savoureux
+;	PUN	;
+des	PRP:det	du
+hommes	NOM	homme
+dont	PRO:REL	dont
+le	DET:ART	le
+corps	NOM	corps
+est	VER:pres	être
+mince	ADJ	mince
+et	KON	et
+vigoureux	ADJ	vigoureux
+,	PUN	,
+et	KON	et
+des	PRP:det	du
+femmes	NOM	femme
+dont	PRO:REL	dont
+l'	DET:ART	le
+oeil	NOM	œil
+par	PRP	par
+sa	DET:POS	son
+franchise	NOM	franchise
+étonne	VER:pres	étonner
+.	SENT	.
+guidé	VER:pper	guider
+par	PRP	par
+ton	DET:POS	ton
+odeur	NOM	odeur
+vers	PRP	vers
+de	PRP	de
+charmants	ADJ	charmant
+climats	NOM	climat
+,	PUN	,
+je	PRO:PER	je
+vois	VER:pres	voir
+un	DET:ART	un
+port	NOM	port
+rempli	VER:pper	remplir
+de	PRP	de
+voiles	NOM	voile
+et	KON	et
+de	PRP	de
+mâts	NOM	mât
+encor	ADV	encor
+tout	ADV	tout
+fatigués	VER:pper	fatiguer
+par	PRP	par
+la	DET:ART	le
+vague	NOM	vague
+marine	ADJ	marin
+,	PUN	,
+pendant	VER:ppre	pendre
+que	KON	que
+le	DET:ART	le
+parfum	NOM	parfum
+des	PRP:det	du
+verts	ADJ	vert
+tamariniers	NOM	tamarinier
+,	PUN	,
+qui	PRO:REL	qui
+circule	VER:pres	circuler
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+et	KON	et
+m'	PRO:PER	me
+enfle	VER:pres	enfler
+la	DET:ART	le
+narine	NOM	narine
+,	PUN	,
+se	PRO:PER	se
+mêle	VER:pres	mêler
+dans	PRP	dans
+mon	DET:POS	mon
+âme	NOM	âme
+au	PRP:det	au
+chant	NOM	chant
+des	PRP:det	du
+mariniers	NOM	marinier
+.	SENT	.

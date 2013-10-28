@@ -1,105 +1,105 @@
-tout	PRO:IND
-homme	NOM
-digne	ADJ
-de	PRP
-ce	PRO:DEM
-nom	NOM
-a	VER:pres
-dans	PRP
-le	DET:ART
-coeur	NOM
-un	DET:ART
-serpent	NOM
-jaune	ADJ
-,	PUN
-installé	VER:pper
-comme	ADV
-sur	PRP
-un	DET:ART
-trône	NOM
-,	PUN
-qui	PRO:REL
-,	PUN
-s'	PRO:PER
-il	PRO:PER
-dit	VER:pres
-:	PUN
-je	PRO:PER
-veux	VER:pres
-!	SENT
-répond	VER:pres
-:	PUN
-non	ADV
-!	SENT
-plonge	VER:pres
-tes	DET:POS
-yeux	NOM
-dans	PRP
-les	DET:ART
-yeux	NOM
-fixes	ADJ
-des	PRP:det
-satyresses	NOM
-ou	KON
-des	PRP:det
-nixes	NOM
-,	PUN
-la	DET:ART
-dent	NOM
-dit	VER:pres
-:	PUN
-pense	VER:pres
-à	PRP
-ton	DET:POS
-devoir	NOM
-!	SENT
-fais	VER:pres
-des	PRP:det
-enfants	NOM
-,	PUN
-plante	NOM
-des	PRP:det
-arbres	NOM
-,	PUN
-polis	VER:pper
-des	PRP:det
-vers	NOM
-,	PUN
-sculpte	VER:pres
-des	PRP:det
-marbres	NOM
-,	PUN
-la	DET:ART
-dent	NOM
-dit	VER:pres
-:	PUN
-vivras	VER:futu
-tu	VER:pper
-ce	PRO:DEM
-soir	NOM
-?	SENT
-quoi	PRO
-qu'	KON
-il	PRO:PER
-ébauche	VER:pres
-ou	KON
-qu'	PRO:REL
-il	PRO:PER
-espère	VER:pres
-,	PUN
-l'	DET:ART
-homme	NOM
-ne	ADV
-vit	VER:pres
-pas	ADV
-un	DET:ART
-moment	NOM
-sans	PRP
-subir	VER:infi
-l'	DET:ART
-avertissement	NOM
-de	PRP
-l'	DET:ART
-insupportable	ADJ
-vipère	NOM
-.	SENT
+tout	PRO:IND	tout
+homme	NOM	homme
+digne	ADJ	digne
+de	PRP	de
+ce	PRO:DEM	ce
+nom	NOM	nom
+a	VER:pres	avoir
+dans	PRP	dans
+le	DET:ART	le
+coeur	NOM	cœur
+un	DET:ART	un
+serpent	NOM	serpent
+jaune	ADJ	jaune
+,	PUN	,
+installé	VER:pper	installer
+comme	ADV	comme
+sur	PRP	sur
+un	DET:ART	un
+trône	NOM	trône
+,	PUN	,
+qui	PRO:REL	qui
+,	PUN	,
+s'	PRO:PER	se
+il	PRO:PER	il
+dit	VER:pres	dire
+:	PUN	:
+je	PRO:PER	je
+veux	VER:pres	vouloir
+!	SENT	!
+répond	VER:pres	répondre
+:	PUN	:
+non	ADV	non
+!	SENT	!
+plonge	VER:pres	plonger
+tes	DET:POS	ton
+yeux	NOM	œil
+dans	PRP	dans
+les	DET:ART	le
+yeux	NOM	œil
+fixes	ADJ	fixe
+des	PRP:det	du
+satyresses	NOM	satyresse
+ou	KON	ou
+des	PRP:det	du
+nixes	NOM	nixe
+,	PUN	,
+la	DET:ART	le
+dent	NOM	dent
+dit	VER:pres	dire
+:	PUN	:
+pense	VER:pres	penser
+à	PRP	à
+ton	DET:POS	ton
+devoir	NOM	devoir
+!	SENT	!
+fais	VER:pres	faire
+des	PRP:det	du
+enfants	NOM	enfant
+,	PUN	,
+plante	NOM	plante
+des	PRP:det	du
+arbres	NOM	arbre
+,	PUN	,
+polis	VER:pper	polir
+des	PRP:det	du
+vers	NOM	ver|vers
+,	PUN	,
+sculpte	VER:pres	sculpter
+des	PRP:det	du
+marbres	NOM	marbre
+,	PUN	,
+la	DET:ART	le
+dent	NOM	dent
+dit	VER:pres	dire
+:	PUN	:
+vivras	VER:futu	vivre
+tu	VER:pper	taire
+ce	PRO:DEM	ce
+soir	NOM	soir
+?	SENT	?
+quoi	PRO	quoi
+qu'	KON	que
+il	PRO:PER	il
+ébauche	VER:pres	ébaucher
+ou	KON	ou
+qu'	PRO:REL	que
+il	PRO:PER	il
+espère	VER:pres	espérer
+,	PUN	,
+l'	DET:ART	le
+homme	NOM	homme
+ne	ADV	ne
+vit	VER:pres	vivre
+pas	ADV	pas
+un	DET:ART	un
+moment	NOM	moment
+sans	PRP	sans
+subir	VER:infi	subir
+l'	DET:ART	le
+avertissement	NOM	avertissement
+de	PRP	de
+l'	DET:ART	le
+insupportable	ADJ	insupportable
+vipère	NOM	vipère
+.	SENT	.

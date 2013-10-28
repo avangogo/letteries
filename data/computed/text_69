@@ -1,286 +1,286 @@
-c'	PRO:DEM
-était	VER:impf
-en	PRP
-juin	NOM
-,	PUN
-j'	PRO:PER
-étais	VER:impf
-à	PRP
-bruxelle	NOM
-;	PUN
-on	PRO:PER
-me	PRO:PER
-dit	VER:pres
-:	PUN
-savez	VER:pres
-vous	PRO:PER
-ce	PRO:DEM
-que	PRO:REL
-fait	VER:pres
-maintenant	ADV
-ce	PRO:DEM
-bandit	NOM
-?	SENT
-et	KON
-l'	PRO:PER
-on	PRO:PER
-me	PRO:PER
-raconta	VER:simp
-le	DET:ART
-meurtre	NOM
-juridique	ADJ
-,	PUN
-charlet	NOM
-assassiné	VER:pper
-sur	PRP
-la	DET:ART
-place	NOM
-publique	ADJ
-,	PUN
-cirasse	VER:subi
-,	PUN
-cuisinier	NOM
-,	PUN
-tous	PRO:IND
-ces	PRO:DEM
-infortunés	ADJ
-que	KON
-cet	PRO:DEM
-homme	NOM
-au	PRP:det
-supplice	NOM
-a	VER:pres
-lui	PRO:PER
-même	ADV
-traînés	VER:pper
-et	KON
-qu'	PRO:REL
-il	PRO:PER
-a	VER:pres
-de	PRP
-ses	DET:POS
-mains	NOM
-liés	VER:pper
-sur	PRP
-la	DET:ART
-bascule	NOM
-.	SENT
-ô	INT
-sauveur	ADJ
-,	PUN
-ô	INT
-héros	NOM
-,	PUN
-vainqueur	NOM
-de	PRP
-crépuscule	NOM
-,	PUN
-césar	NOM
-!	SENT
-dieu	NOM
-fait	VER:pres
-sortir	VER:infi
-de	PRP
-terre	NOM
-les	DET:ART
-moissons	NOM
-,	PUN
-la	DET:ART
-vigne	NOM
-,	PUN
-l'	DET:ART
-eau	NOM
-courante	ADJ
-abreuvant	VER:ppre
-les	DET:ART
-buissons	NOM
-,	PUN
-les	DET:ART
-fruits	NOM
-vermeils	ADJ
-,	PUN
-la	DET:ART
-rose	NOM
-où	PRO:REL
-l'	DET:ART
-abeille	NOM
-butine	VER:pres
-,	PUN
-les	DET:ART
-chênes	NOM
-,	PUN
-les	DET:ART
-lauriers	NOM
-,	PUN
-et	KON
-toi	PRO:PER
-,	PUN
-la	DET:ART
-guillotine	NOM
-.	SENT
-prince	NOM
-qu'	KON
-aucun	PRO:IND
-de	PRP
-ceux	PRO:DEM
-qui	PRO:REL
-lui	PRO:PER
-donnent	VER:pres
-leurs	DET:POS
-voix	NOM
-ne	ADV
-voudrait	VER:cond
-rencontrer	VER:infi
-le	DET:ART
-soir	NOM
-au	PRP:det
-coin	NOM
-d'	PRP
-un	DET:ART
-bois	NOM
-!	SENT
-j'	PRO:PER
-avais	VER:impf
-le	DET:ART
-front	NOM
-brûlant	ADJ
-;	PUN
-je	PRO:PER
-sortis	VER:pper
-par	PRP
-la	DET:ART
-ville	NOM
-.	SENT
-tout	ADV
-m'	PRO:PER
-y	PRO:PER
-parut	VER:simp
-plein	ADJ
-d'	PRP
-ombre	NOM
-et	KON
-de	PRP
-guerre	NOM
-civile	ADJ
-;	PUN
-les	DET:ART
-passants	NOM
-me	PRO:PER
-semblaient	VER:impf
-des	PRP:det
-spectres	NOM
-effarés	ADJ
-je	PRO:PER
-m'	PRO:PER
-enfuis	VER:pres
-dans	PRP
-les	DET:ART
-champs	NOM
-paisibles	ADJ
-et	KON
-dorés	ADJ
-;	PUN
-ô	INT
-contre	PRP
-coups	NOM
-du	PRP:det
-crime	NOM
-au	PRP:det
-fond	NOM
-de	PRP
-l'	DET:ART
-âme	NOM
-humaine	ADJ
-!	SENT
-la	DET:ART
-nature	NOM
-ne	ADV
-put	VER:simp
-me	PRO:PER
-calmer	VER:infi
-.	SENT
-l'	DET:ART
-air	NOM
-,	PUN
-la	DET:ART
-plaine	NOM
-,	PUN
-les	DET:ART
-fleurs	NOM
-,	PUN
-tout	ADV
-m'	PRO:PER
-irritait	VER:impf
-;	PUN
-je	PRO:PER
-frémissais	VER:impf
-devant	PRP
-ce	PRO:DEM
-monde	NOM
-où	PRO:REL
-je	PRO:PER
-sentais	VER:impf
-ce	PRO:DEM
-scélérat	ADJ
-vivant	NOM
-.	SENT
-sans	PRP
-pouvoir	NOM
-m'	PRO:PER
-apaiser	VER:infi
-je	PRO:PER
-fis	VER:simp
-plus	ADV
-d'	PRP
-une	DET:ART
-lieue	NOM
-.	SENT
-le	DET:ART
-soir	NOM
-triste	ADJ
-monta	VER:simp
-sous	PRP
-la	DET:ART
-coupole	NOM
-bleue	ADJ
-.	SENT
-linceul	NOM
-frissonnant	ADJ
-,	PUN
-l'	DET:ART
-ombre	NOM
-autour	ADV
-de	PRP
-moi	PRO:PER
-s'	PRO:PER
-accrut	VER:simp
-;	PUN
-tout	ADV
-à	PRP
-coup	NOM
-la	DET:ART
-nuit	NOM
-vint	VER:simp
-,	PUN
-et	KON
-la	DET:ART
-lune	NOM
-apparut	VER:simp
-sanglante	ADJ
-,	PUN
-et	KON
-dans	PRP
-les	DET:ART
-cieux	NOM
-,	PUN
-de	PRP
-deuil	NOM
-enveloppée	VER:pper
-,	PUN
-je	PRO:PER
-regardai	VER:simp
-rouler	VER:infi
-cette	PRO:DEM
-tête	NOM
-coupée	VER:pper
-.	SENT
+c'	PRO:DEM	ce
+était	VER:impf	être
+en	PRP	en
+juin	NOM	juin
+,	PUN	,
+j'	PRO:PER	je
+étais	VER:impf	être
+à	PRP	à
+bruxelle	NOM	bruxelle
+;	PUN	;
+on	PRO:PER	on
+me	PRO:PER	me
+dit	VER:pres	dire
+:	PUN	:
+savez	VER:pres	savoir
+vous	PRO:PER	vous
+ce	PRO:DEM	ce
+que	PRO:REL	que
+fait	VER:pres	faire
+maintenant	ADV	maintenant
+ce	PRO:DEM	ce
+bandit	NOM	bandit
+?	SENT	?
+et	KON	et
+l'	PRO:PER	la|le
+on	PRO:PER	on
+me	PRO:PER	me
+raconta	VER:simp	raconter
+le	DET:ART	le
+meurtre	NOM	meurtre
+juridique	ADJ	juridique
+,	PUN	,
+charlet	NOM	charlet
+assassiné	VER:pper	assassiner
+sur	PRP	sur
+la	DET:ART	le
+place	NOM	place
+publique	ADJ	publique
+,	PUN	,
+cirasse	VER:subi	cirer
+,	PUN	,
+cuisinier	NOM	cuisinier
+,	PUN	,
+tous	PRO:IND	tout
+ces	PRO:DEM	ce
+infortunés	ADJ	infortuné
+que	KON	que
+cet	PRO:DEM	ce
+homme	NOM	homme
+au	PRP:det	au
+supplice	NOM	supplice
+a	VER:pres	avoir
+lui	PRO:PER	lui
+même	ADV	même
+traînés	VER:pper	traîner
+et	KON	et
+qu'	PRO:REL	que
+il	PRO:PER	il
+a	VER:pres	avoir
+de	PRP	de
+ses	DET:POS	son
+mains	NOM	main
+liés	VER:pper	lier
+sur	PRP	sur
+la	DET:ART	le
+bascule	NOM	bascule
+.	SENT	.
+ô	INT	ô
+sauveur	ADJ	sauveur
+,	PUN	,
+ô	INT	ô
+héros	NOM	héro|héros
+,	PUN	,
+vainqueur	NOM	vainqueur
+de	PRP	de
+crépuscule	NOM	crépuscule
+,	PUN	,
+césar	NOM	césar
+!	SENT	!
+dieu	NOM	dieu
+fait	VER:pres	faire
+sortir	VER:infi	sortir
+de	PRP	de
+terre	NOM	terre
+les	DET:ART	le
+moissons	NOM	moisson
+,	PUN	,
+la	DET:ART	le
+vigne	NOM	vigne
+,	PUN	,
+l'	DET:ART	le
+eau	NOM	eau
+courante	ADJ	courant
+abreuvant	VER:ppre	abreuver
+les	DET:ART	le
+buissons	NOM	buisson
+,	PUN	,
+les	DET:ART	le
+fruits	NOM	fruit
+vermeils	ADJ	vermeil
+,	PUN	,
+la	DET:ART	le
+rose	NOM	rose
+où	PRO:REL	où
+l'	DET:ART	le
+abeille	NOM	abeille
+butine	VER:pres	butiner
+,	PUN	,
+les	DET:ART	le
+chênes	NOM	chêne
+,	PUN	,
+les	DET:ART	le
+lauriers	NOM	laurier
+,	PUN	,
+et	KON	et
+toi	PRO:PER	toi
+,	PUN	,
+la	DET:ART	le
+guillotine	NOM	guillotine
+.	SENT	.
+prince	NOM	prince
+qu'	KON	que
+aucun	PRO:IND	aucun
+de	PRP	de
+ceux	PRO:DEM	celui
+qui	PRO:REL	qui
+lui	PRO:PER	lui
+donnent	VER:pres	donner
+leurs	DET:POS	leur
+voix	NOM	voix
+ne	ADV	ne
+voudrait	VER:cond	vouloir
+rencontrer	VER:infi	rencontrer
+le	DET:ART	le
+soir	NOM	soir
+au	PRP:det	au
+coin	NOM	coin
+d'	PRP	de
+un	DET:ART	un
+bois	NOM	bois
+!	SENT	!
+j'	PRO:PER	je
+avais	VER:impf	avoir
+le	DET:ART	le
+front	NOM	front
+brûlant	ADJ	brûlant
+;	PUN	;
+je	PRO:PER	je
+sortis	VER:pper	sortir
+par	PRP	par
+la	DET:ART	le
+ville	NOM	ville
+.	SENT	.
+tout	ADV	tout
+m'	PRO:PER	me
+y	PRO:PER	y
+parut	VER:simp	paraître
+plein	ADJ	plein
+d'	PRP	de
+ombre	NOM	ombre
+et	KON	et
+de	PRP	de
+guerre	NOM	guerre
+civile	ADJ	civil
+;	PUN	;
+les	DET:ART	le
+passants	NOM	passant
+me	PRO:PER	me
+semblaient	VER:impf	sembler
+des	PRP:det	du
+spectres	NOM	spectre
+effarés	ADJ	effaré
+je	PRO:PER	je
+m'	PRO:PER	me
+enfuis	VER:pres	enfuir
+dans	PRP	dans
+les	DET:ART	le
+champs	NOM	champ
+paisibles	ADJ	paisible
+et	KON	et
+dorés	ADJ	doré
+;	PUN	;
+ô	INT	ô
+contre	PRP	contre
+coups	NOM	coup
+du	PRP:det	du
+crime	NOM	crime
+au	PRP:det	au
+fond	NOM	fond
+de	PRP	de
+l'	DET:ART	le
+âme	NOM	âme
+humaine	ADJ	humain
+!	SENT	!
+la	DET:ART	le
+nature	NOM	nature
+ne	ADV	ne
+put	VER:simp	pouvoir
+me	PRO:PER	me
+calmer	VER:infi	calmer
+.	SENT	.
+l'	DET:ART	le
+air	NOM	air
+,	PUN	,
+la	DET:ART	le
+plaine	NOM	plaine
+,	PUN	,
+les	DET:ART	le
+fleurs	NOM	fleur
+,	PUN	,
+tout	ADV	tout
+m'	PRO:PER	me
+irritait	VER:impf	irriter
+;	PUN	;
+je	PRO:PER	je
+frémissais	VER:impf	frémir
+devant	PRP	devant
+ce	PRO:DEM	ce
+monde	NOM	monde
+où	PRO:REL	où
+je	PRO:PER	je
+sentais	VER:impf	sentir
+ce	PRO:DEM	ce
+scélérat	ADJ	scélérat
+vivant	NOM	vivant
+.	SENT	.
+sans	PRP	sans
+pouvoir	NOM	pouvoir
+m'	PRO:PER	me
+apaiser	VER:infi	apaiser
+je	PRO:PER	je
+fis	VER:simp	faire
+plus	ADV	plus
+d'	PRP	de
+une	DET:ART	un
+lieue	NOM	lieue
+.	SENT	.
+le	DET:ART	le
+soir	NOM	soir
+triste	ADJ	triste
+monta	VER:simp	monter
+sous	PRP	sous
+la	DET:ART	le
+coupole	NOM	coupole
+bleue	ADJ	bleu
+.	SENT	.
+linceul	NOM	linceul
+frissonnant	ADJ	frissonnant
+,	PUN	,
+l'	DET:ART	le
+ombre	NOM	ombre
+autour	ADV	autour
+de	PRP	de
+moi	PRO:PER	moi
+s'	PRO:PER	se
+accrut	VER:simp	accroire
+;	PUN	;
+tout	ADV	tout
+à	PRP	à
+coup	NOM	coup
+la	DET:ART	le
+nuit	NOM	nuit
+vint	VER:simp	venir
+,	PUN	,
+et	KON	et
+la	DET:ART	le
+lune	NOM	lune
+apparut	VER:simp	apparaître
+sanglante	ADJ	sanglant
+,	PUN	,
+et	KON	et
+dans	PRP	dans
+les	DET:ART	le
+cieux	NOM	cieux
+,	PUN	,
+de	PRP	de
+deuil	NOM	deuil
+enveloppée	VER:pper	envelopper
+,	PUN	,
+je	PRO:PER	je
+regardai	VER:simp	regarder
+rouler	VER:infi	rouler
+cette	PRO:DEM	ce
+tête	NOM	tête
+coupée	VER:pper	couper
+.	SENT	.

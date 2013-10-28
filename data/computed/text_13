@@ -1,100 +1,100 @@
-un	DET:ART
-jour	NOM
-,	PUN
-dieu	NOM
-sur	PRP
-sa	DET:POS
-table	NOM
-jouait	VER:impf
-avec	PRP
-le	DET:ART
-diable	NOM
-du	PRP:det
-genre	NOM
-humain	ADJ
-haï	VER:pper
-.	SENT
-chacun	PRO:IND
-tenait	VER:impf
-sa	DET:POS
-carte	NOM
-l'	DET:ART
-un	NOM
-jouait	VER:impf
-bonaparte	NOM
-,	PUN
-et	KON
-l'	DET:ART
-autre	ADJ
-mastaï	NOM
-.	SENT
-un	DET:ART
-pauvre	ADJ
-abbé	NOM
-bien	ADV
-mince	ADJ
-!	SENT
-un	DET:ART
-méchant	NOM
-petit	ADJ
-prince	NOM
-,	PUN
-polisson	NOM
-hasardeux	ADJ
-!	SENT
-quel	PRO:REL
-enjeu	NOM
-pitoyable	ADJ
-!	SENT
-dieu	NOM
-fit	VER:simp
-tant	ADV
-que	KON
-le	DET:ART
-diable	NOM
-les	PRO:PER
-gagna	VER:simp
-tous	PRO:IND
-les	DET:ART
-deux	NUM
-.	SENT
-prends	VER:pres
-!	SENT
-cria	VER:simp
-dieu	NOM
-le	DET:ART
-père	NOM
-,	PUN
-tu	PRO:PER
-ne	ADV
-sauras	VER:simp
-qu'	ADV
-en	PRP
-faire	VER:infi
-!	SENT
-le	DET:ART
-diable	NOM
-dit	VER:pper
-!	SENT
-erreur	NOM
-!	SENT
-et	KON
-,	PUN
-ricanant	VER:ppre
-sous	PRP
-cape	NOM
-,	PUN
-il	PRO:PER
-fit	VER:simp
-de	PRP
-l'	DET:ART
-un	NOM
-un	DET:ART
-pape	NOM
-,	PUN
-de	PRP
-l'	DET:ART
-autre	ADJ
-un	DET:ART
-empereur	NOM
-.	SENT
+un	DET:ART	un
+jour	NOM	jour
+,	PUN	,
+dieu	NOM	dieu
+sur	PRP	sur
+sa	DET:POS	son
+table	NOM	table
+jouait	VER:impf	jouer
+avec	PRP	avec
+le	DET:ART	le
+diable	NOM	diable
+du	PRP:det	du
+genre	NOM	genre
+humain	ADJ	humain
+haï	VER:pper	haïr
+.	SENT	.
+chacun	PRO:IND	chacun
+tenait	VER:impf	tenir
+sa	DET:POS	son
+carte	NOM	carte
+l'	DET:ART	le
+un	NOM	un
+jouait	VER:impf	jouer
+bonaparte	NOM	bonaparte
+,	PUN	,
+et	KON	et
+l'	DET:ART	le
+autre	ADJ	autre
+mastaï	NOM	mastaï
+.	SENT	.
+un	DET:ART	un
+pauvre	ADJ	pauvre
+abbé	NOM	abbé
+bien	ADV	bien
+mince	ADJ	mince
+!	SENT	!
+un	DET:ART	un
+méchant	NOM	méchant
+petit	ADJ	petit
+prince	NOM	prince
+,	PUN	,
+polisson	NOM	polisson
+hasardeux	ADJ	hasardeux
+!	SENT	!
+quel	PRO:REL	quel
+enjeu	NOM	enjeu
+pitoyable	ADJ	pitoyable
+!	SENT	!
+dieu	NOM	dieu
+fit	VER:simp	faire
+tant	ADV	tant
+que	KON	que
+le	DET:ART	le
+diable	NOM	diable
+les	PRO:PER	la|le
+gagna	VER:simp	gagner
+tous	PRO:IND	tout
+les	DET:ART	le
+deux	NUM	deux
+.	SENT	.
+prends	VER:pres	prendre
+!	SENT	!
+cria	VER:simp	crier
+dieu	NOM	dieu
+le	DET:ART	le
+père	NOM	père
+,	PUN	,
+tu	PRO:PER	tu
+ne	ADV	ne
+sauras	VER:simp	saurer
+qu'	ADV	qu'
+en	PRP	en
+faire	VER:infi	faire
+!	SENT	!
+le	DET:ART	le
+diable	NOM	diable
+dit	VER:pper	dire
+!	SENT	!
+erreur	NOM	erreur
+!	SENT	!
+et	KON	et
+,	PUN	,
+ricanant	VER:ppre	ricaner
+sous	PRP	sous
+cape	NOM	cape
+,	PUN	,
+il	PRO:PER	il
+fit	VER:simp	faire
+de	PRP	de
+l'	DET:ART	le
+un	NOM	un
+un	DET:ART	un
+pape	NOM	pape
+,	PUN	,
+de	PRP	de
+l'	DET:ART	le
+autre	ADJ	autre
+un	DET:ART	un
+empereur	NOM	empereur
+.	SENT	.

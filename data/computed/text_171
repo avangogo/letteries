@@ -1,157 +1,157 @@
-voici	ADV
-venir	VER:infi
-les	DET:ART
-temps	NOM
-où	PRO:REL
-vibrant	VER:ppre
-sur	PRP
-sa	DET:POS
-tige	NOM
-chaque	PRO:IND
-fleur	NOM
-s'	PRO:PER
-évapore	VER:pres
-ainsi	ADV
-qu'	KON
-un	DET:ART
-encensoir	NOM
-;	PUN
-les	DET:ART
-sons	NOM
-et	KON
-les	DET:ART
-parfums	NOM
-tournent	VER:pres
-dans	PRP
-l'	DET:ART
-air	NOM
-du	PRP:det
-soir	NOM
-;	PUN
-valse	NOM
-mélancolique	ADJ
-et	KON
-langoureux	ADJ
-vertige	NOM
-!	SENT
-chaque	PRO:IND
-fleur	NOM
-s'	PRO:PER
-évapore	VER:pres
-ainsi	ADV
-qu'	KON
-un	DET:ART
-encensoir	NOM
-;	PUN
-le	DET:ART
-violon	NOM
-frémit	VER:pres
-comme	ADV
-un	DET:ART
-coeur	NOM
-qu'	PRO:REL
-on	PRO:PER
-afflige	VER:pres
-;	PUN
-valse	NOM
-mélancolique	ADJ
-et	KON
-langoureux	ADJ
-vertige	NOM
-!	SENT
-le	DET:ART
-ciel	NOM
-est	VER:pres
-triste	ADJ
-et	KON
-beau	ADJ
-comme	KON
-un	DET:ART
-grand	ADJ
-reposoir	NOM
-.	SENT
-le	DET:ART
-violon	NOM
-frémit	VER:pres
-comme	ADV
-un	DET:ART
-coeur	NOM
-qu'	PRO:REL
-on	PRO:PER
-afflige	VER:pres
-,	PUN
-un	DET:ART
-coeur	NOM
-tendre	ADJ
-,	PUN
-qui	PRO:REL
-hait	VER:pres
-le	DET:ART
-néant	NOM
-vaste	ADJ
-et	KON
-noir	ADJ
-!	SENT
-le	DET:ART
-ciel	NOM
-est	VER:pres
-triste	ADJ
-et	KON
-beau	ADJ
-comme	KON
-un	DET:ART
-grand	ADJ
-reposoir	NOM
-;	PUN
-le	DET:ART
-soleil	NOM
-s'	PRO:PER
-est	VER:pres
-noyé	VER:pper
-dans	PRP
-son	DET:POS
-sang	NOM
-qui	PRO:REL
-se	PRO:PER
-fige	VER:pres
-...	PUN
-un	DET:ART
-coeur	NOM
-tendre	ADJ
-,	PUN
-qui	PRO:REL
-hait	VER:pres
-le	DET:ART
-néant	NOM
-vaste	ADJ
-et	KON
-noir	ADJ
-,	PUN
-du	PRP:det
-passé	NOM
-lumineux	ADJ
-recueille	VER:pres
-tout	PRO:IND
-vestige	NOM
-!	SENT
-le	DET:ART
-soleil	NOM
-s'	PRO:PER
-est	VER:pres
-noyé	VER:pper
-dans	PRP
-son	DET:POS
-sang	NOM
-qui	PRO:REL
-se	PRO:PER
-fige	VER:pres
-...	PUN
-ton	DET:POS
-souvenir	NOM
-en	PRO:PER
-moi	PRO:PER
-luit	VER:pres
-comme	ADV
-un	DET:ART
-ostensoir	NOM
-!	SENT
+voici	ADV	voici
+venir	VER:infi	venir
+les	DET:ART	le
+temps	NOM	temps
+où	PRO:REL	où
+vibrant	VER:ppre	vibrer
+sur	PRP	sur
+sa	DET:POS	son
+tige	NOM	tige
+chaque	PRO:IND	chaque
+fleur	NOM	fleur
+s'	PRO:PER	se
+évapore	VER:pres	évaporer
+ainsi	ADV	ainsi
+qu'	KON	que
+un	DET:ART	un
+encensoir	NOM	encensoir
+;	PUN	;
+les	DET:ART	le
+sons	NOM	son
+et	KON	et
+les	DET:ART	le
+parfums	NOM	parfum
+tournent	VER:pres	tourner
+dans	PRP	dans
+l'	DET:ART	le
+air	NOM	air
+du	PRP:det	du
+soir	NOM	soir
+;	PUN	;
+valse	NOM	valse
+mélancolique	ADJ	mélancolique
+et	KON	et
+langoureux	ADJ	langoureux
+vertige	NOM	vertige
+!	SENT	!
+chaque	PRO:IND	chaque
+fleur	NOM	fleur
+s'	PRO:PER	se
+évapore	VER:pres	évaporer
+ainsi	ADV	ainsi
+qu'	KON	que
+un	DET:ART	un
+encensoir	NOM	encensoir
+;	PUN	;
+le	DET:ART	le
+violon	NOM	violon
+frémit	VER:pres	frémir
+comme	ADV	comme
+un	DET:ART	un
+coeur	NOM	cœur
+qu'	PRO:REL	que
+on	PRO:PER	on
+afflige	VER:pres	affliger
+;	PUN	;
+valse	NOM	valse
+mélancolique	ADJ	mélancolique
+et	KON	et
+langoureux	ADJ	langoureux
+vertige	NOM	vertige
+!	SENT	!
+le	DET:ART	le
+ciel	NOM	ciel
+est	VER:pres	être
+triste	ADJ	triste
+et	KON	et
+beau	ADJ	beau
+comme	KON	comme
+un	DET:ART	un
+grand	ADJ	grand
+reposoir	NOM	reposoir
+.	SENT	.
+le	DET:ART	le
+violon	NOM	violon
+frémit	VER:pres	frémir
+comme	ADV	comme
+un	DET:ART	un
+coeur	NOM	cœur
+qu'	PRO:REL	que
+on	PRO:PER	on
+afflige	VER:pres	affliger
+,	PUN	,
+un	DET:ART	un
+coeur	NOM	cœur
+tendre	ADJ	tendre
+,	PUN	,
+qui	PRO:REL	qui
+hait	VER:pres	haïr
+le	DET:ART	le
+néant	NOM	néant
+vaste	ADJ	vaste
+et	KON	et
+noir	ADJ	noir
+!	SENT	!
+le	DET:ART	le
+ciel	NOM	ciel
+est	VER:pres	être
+triste	ADJ	triste
+et	KON	et
+beau	ADJ	beau
+comme	KON	comme
+un	DET:ART	un
+grand	ADJ	grand
+reposoir	NOM	reposoir
+;	PUN	;
+le	DET:ART	le
+soleil	NOM	soleil
+s'	PRO:PER	se
+est	VER:pres	être
+noyé	VER:pper	noyer
+dans	PRP	dans
+son	DET:POS	son
+sang	NOM	sang
+qui	PRO:REL	qui
+se	PRO:PER	se
+fige	VER:pres	figer
+...	PUN	...
+un	DET:ART	un
+coeur	NOM	cœur
+tendre	ADJ	tendre
+,	PUN	,
+qui	PRO:REL	qui
+hait	VER:pres	haïr
+le	DET:ART	le
+néant	NOM	néant
+vaste	ADJ	vaste
+et	KON	et
+noir	ADJ	noir
+,	PUN	,
+du	PRP:det	du
+passé	NOM	passé
+lumineux	ADJ	lumineux
+recueille	VER:pres	recueillir
+tout	PRO:IND	tout
+vestige	NOM	vestige
+!	SENT	!
+le	DET:ART	le
+soleil	NOM	soleil
+s'	PRO:PER	se
+est	VER:pres	être
+noyé	VER:pper	noyer
+dans	PRP	dans
+son	DET:POS	son
+sang	NOM	sang
+qui	PRO:REL	qui
+se	PRO:PER	se
+fige	VER:pres	figer
+...	PUN	...
+ton	DET:POS	ton
+souvenir	NOM	souvenir
+en	PRO:PER	en
+moi	PRO:PER	moi
+luit	VER:pres	luire
+comme	ADV	comme
+un	DET:ART	un
+ostensoir	NOM	ostensoir
+!	SENT	!

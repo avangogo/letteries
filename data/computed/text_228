@@ -1,156 +1,156 @@
-le	DET:ART
-démon	NOM
-,	PUN
-dans	PRP
-ma	DET:POS
-chambre	NOM
-haute	ADJ
-,	PUN
-ce	PRO:DEM
-matin	NOM
-est	VER:pres
-venu	VER:pper
-me	PRO:PER
-voir	VER:infi
-,	PUN
-et	KON
-,	PUN
-tâchant	VER:ppre
-à	PRP
-me	PRO:PER
-prendre	VER:infi
-en	PRP
-faute	NOM
-,	PUN
-me	PRO:PER
-dit	VER:pres
-:	PUN
-je	PRO:PER
-voudrais	VER:cond
-bien	ADV
-savoir	VER:infi
-,	PUN
-parmi	PRP
-toutes	PRO:IND
-les	DET:ART
-belles	ADJ
-choses	NOM
-dont	PRO:REL
-est	VER:pres
-fait	VER:pper
-son	DET:POS
-enchantement	NOM
-,	PUN
-parmi	PRP
-les	DET:ART
-objets	NOM
-noirs	ADJ
-ou	KON
-roses	ADJ
-qui	PRO:REL
-composent	VER:pres
-son	DET:POS
-corps	NOM
-charmant	ADJ
-,	PUN
-quel	PRO:REL
-est	VER:pres
-le	DET:ART
-plus	ADV
-doux	ADJ
-.	SENT
-ô	INT
-mon	DET:POS
-âme	NOM
-!	SENT
-tu	PRO:PER
-répondis	VER:simp
-à	PRP
-l'	DET:ART
-abhorré	VER:pper
-:	PUN
-puisqu'en	ADJ
-elle	PRO:PER
-tout	ADV
-est	VER:pres
-dictame	NOM
-,	PUN
-rien	NOM
-ne	ADV
-peut	VER:pres
-être	VER:infi
-préféré	VER:pper
-.	SENT
-lorsque	KON
-tout	ADV
-me	PRO:PER
-ravit	VER:pres
-,	PUN
-j'	PRO:PER
-ignore	VER:pres
-si	ADV
-quelque	PRO:IND
-chose	NOM
-me	PRO:PER
-séduit	VER:pres
-.	SENT
-elle	PRO:PER
-éblouit	VER:pres
-comme	ADV
-l'	DET:ART
-aurore	NOM
-et	KON
-console	NOM
-comme	KON
-la	DET:ART
-nuit	NOM
-;	PUN
-et	KON
-l'	DET:ART
-harmonie	NOM
-est	VER:pres
-trop	ADV
-exquise	ADJ
-,	PUN
-qui	PRO:REL
-gouverne	VER:pres
-tout	ADV
-son	DET:POS
-beau	ADJ
-corps	NOM
-,	PUN
-pour	KON
-que	KON
-l'	DET:ART
-impuissante	ADJ
-analyse	NOM
-en	PRO:PER
-note	VER:pres
-les	DET:ART
-nombreux	ADJ
-accords	NOM
-.	SENT
-ô	INT
-métamorphose	NOM
-mystique	ADJ
-de	PRP
-tous	PRO:IND
-mes	DET:POS
-sens	NOM
-fondus	VER:pper
-en	PRP
-un	NUM
-!	SENT
-son	DET:POS
-haleine	NOM
-fait	VER:pres
-la	DET:ART
-musique	NOM
-,	PUN
-comme	KON
-sa	DET:POS
-voix	NOM
-fait	VER:pres
-le	DET:ART
-parfum	NOM
-!	SENT
+le	DET:ART	le
+démon	NOM	démon
+,	PUN	,
+dans	PRP	dans
+ma	DET:POS	mon
+chambre	NOM	chambre
+haute	ADJ	haut
+,	PUN	,
+ce	PRO:DEM	ce
+matin	NOM	matin
+est	VER:pres	être
+venu	VER:pper	venir
+me	PRO:PER	me
+voir	VER:infi	voir
+,	PUN	,
+et	KON	et
+,	PUN	,
+tâchant	VER:ppre	tâcher
+à	PRP	à
+me	PRO:PER	me
+prendre	VER:infi	prendre
+en	PRP	en
+faute	NOM	faute
+,	PUN	,
+me	PRO:PER	me
+dit	VER:pres	dire
+:	PUN	:
+je	PRO:PER	je
+voudrais	VER:cond	vouloir
+bien	ADV	bien
+savoir	VER:infi	savoir
+,	PUN	,
+parmi	PRP	parmi
+toutes	PRO:IND	tout
+les	DET:ART	le
+belles	ADJ	beau
+choses	NOM	chose
+dont	PRO:REL	dont
+est	VER:pres	être
+fait	VER:pper	faire
+son	DET:POS	son
+enchantement	NOM	enchantement
+,	PUN	,
+parmi	PRP	parmi
+les	DET:ART	le
+objets	NOM	objet
+noirs	ADJ	noir
+ou	KON	ou
+roses	ADJ	rose
+qui	PRO:REL	qui
+composent	VER:pres	composer
+son	DET:POS	son
+corps	NOM	corps
+charmant	ADJ	charmant
+,	PUN	,
+quel	PRO:REL	quel
+est	VER:pres	être
+le	DET:ART	le
+plus	ADV	plus
+doux	ADJ	doux
+.	SENT	.
+ô	INT	ô
+mon	DET:POS	mon
+âme	NOM	âme
+!	SENT	!
+tu	PRO:PER	tu
+répondis	VER:simp	répondre
+à	PRP	à
+l'	DET:ART	le
+abhorré	VER:pper	abhorrer
+:	PUN	:
+puisqu'en	ADJ	puisqu'en
+elle	PRO:PER	elle
+tout	ADV	tout
+est	VER:pres	être
+dictame	NOM	dictame
+,	PUN	,
+rien	NOM	rien
+ne	ADV	ne
+peut	VER:pres	pouvoir
+être	VER:infi	être
+préféré	VER:pper	préférer
+.	SENT	.
+lorsque	KON	lorsque
+tout	ADV	tout
+me	PRO:PER	me
+ravit	VER:pres	ravir
+,	PUN	,
+j'	PRO:PER	je
+ignore	VER:pres	ignorer
+si	ADV	si
+quelque	PRO:IND	quelque
+chose	NOM	chose
+me	PRO:PER	me
+séduit	VER:pres	séduire
+.	SENT	.
+elle	PRO:PER	elle
+éblouit	VER:pres	éblouir
+comme	ADV	comme
+l'	DET:ART	le
+aurore	NOM	aurore
+et	KON	et
+console	NOM	console
+comme	KON	comme
+la	DET:ART	le
+nuit	NOM	nuit
+;	PUN	;
+et	KON	et
+l'	DET:ART	le
+harmonie	NOM	harmonie
+est	VER:pres	être
+trop	ADV	trop
+exquise	ADJ	exquis
+,	PUN	,
+qui	PRO:REL	qui
+gouverne	VER:pres	gouverner
+tout	ADV	tout
+son	DET:POS	son
+beau	ADJ	beau
+corps	NOM	corps
+,	PUN	,
+pour	KON	pour
+que	KON	que
+l'	DET:ART	le
+impuissante	ADJ	impuissant
+analyse	NOM	analyse
+en	PRO:PER	en
+note	VER:pres	noter
+les	DET:ART	le
+nombreux	ADJ	nombreux
+accords	NOM	accord
+.	SENT	.
+ô	INT	ô
+métamorphose	NOM	métamorphose
+mystique	ADJ	mystique
+de	PRP	de
+tous	PRO:IND	tout
+mes	DET:POS	mon
+sens	NOM	sen|sens
+fondus	VER:pper	fondre
+en	PRP	en
+un	NUM	un
+!	SENT	!
+son	DET:POS	son
+haleine	NOM	haleine
+fait	VER:pres	faire
+la	DET:ART	le
+musique	NOM	musique
+,	PUN	,
+comme	KON	comme
+sa	DET:POS	son
+voix	NOM	voix
+fait	VER:pres	faire
+le	DET:ART	le
+parfum	NOM	parfum
+!	SENT	!

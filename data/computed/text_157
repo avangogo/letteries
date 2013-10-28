@@ -1,72 +1,72 @@
-à	PRP
-la	DET:ART
-nue	NOM
-accablante	ADJ
-tu	PRO:PER
-basse	ADJ
-de	PRP
-basalte	NOM
-et	KON
-de	PRP
-laves	NOM
-à	PRP
-même	ADV
-les	DET:ART
-échos	NOM
-esclaves	NOM
-par	PRP
-une	DET:ART
-trompe	NOM
-sans	PRP
-vertu	NOM
-quel	PRO:REL
-sépulcral	ADJ
-naufrage	NOM
-tu	PRO:PER
-le	PRO:PER
-sais	VER:pres
-,	PUN
-écume	NOM
-,	PUN
-mais	KON
-y	PRO:PER
-baves	VER:pres
-suprême	ADJ
-une	NOM
-entre	PRP
-les	DET:ART
-épaves	NOM
-abolit	VER:pres
-le	DET:ART
-mât	NOM
-dévêtu	VER:pper
-ou	KON
-cela	PRO:DEM
-que	PRO:REL
-furibond	ADJ
-faute	NOM
-de	PRP
-quelque	PRO:IND
-perdition	NOM
-haute	ADJ
-tout	PRO:IND
-l'	DET:ART
-abîme	NOM
-vain	ADJ
-éployé	VER:pper
-dans	PRP
-le	DET:ART
-si	ADV
-blanc	ADJ
-cheveu	NOM
-qui	PRO:REL
-traîne	VER:pres
-avarement	ADV
-aura	VER:futu
-noyé	VER:pper
-le	DET:ART
-flanc	NOM
-enfant	NOM
-d'	PRP
-une	DET:ART
-sirène	NOM
+à	PRP	à
+la	DET:ART	le
+nue	NOM	nue
+accablante	ADJ	accablant
+tu	PRO:PER	tu
+basse	ADJ	bas
+de	PRP	de
+basalte	NOM	basalte
+et	KON	et
+de	PRP	de
+laves	NOM	lave
+à	PRP	à
+même	ADV	même
+les	DET:ART	le
+échos	NOM	écho
+esclaves	NOM	esclave
+par	PRP	par
+une	DET:ART	un
+trompe	NOM	trompe
+sans	PRP	sans
+vertu	NOM	vertu
+quel	PRO:REL	quel
+sépulcral	ADJ	sépulcral
+naufrage	NOM	naufrage
+tu	PRO:PER	tu
+le	PRO:PER	le
+sais	VER:pres	savoir
+,	PUN	,
+écume	NOM	écume
+,	PUN	,
+mais	KON	mais
+y	PRO:PER	y
+baves	VER:pres	baver
+suprême	ADJ	suprême
+une	NOM	un
+entre	PRP	entre
+les	DET:ART	le
+épaves	NOM	épave
+abolit	VER:pres	abolir
+le	DET:ART	le
+mât	NOM	mât
+dévêtu	VER:pper	dévêtir
+ou	KON	ou
+cela	PRO:DEM	cela
+que	PRO:REL	que
+furibond	ADJ	furibond
+faute	NOM	faute
+de	PRP	de
+quelque	PRO:IND	quelque
+perdition	NOM	perdition
+haute	ADJ	haut
+tout	PRO:IND	tout
+l'	DET:ART	le
+abîme	NOM	abîme
+vain	ADJ	vain
+éployé	VER:pper	éployer
+dans	PRP	dans
+le	DET:ART	le
+si	ADV	si
+blanc	ADJ	blanc
+cheveu	NOM	cheveu
+qui	PRO:REL	qui
+traîne	VER:pres	traîner
+avarement	ADV	avarement
+aura	VER:futu	avoir
+noyé	VER:pper	noyer
+le	DET:ART	le
+flanc	NOM	flanc
+enfant	NOM	enfant
+d'	PRP	de
+une	DET:ART	un
+sirène	NOM	sirène

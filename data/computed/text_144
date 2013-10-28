@@ -1,139 +1,139 @@
-quand	KON
-l'	DET:ART
-ombre	NOM
-menaça	VER:simp
-de	PRP
-la	DET:ART
-fatale	ADJ
-loi	NOM
-tel	PRO:DEM
-vieux	ADJ
-rêve	NOM
-,	PUN
-désir	NOM
-et	KON
-mal	ADV
-de	PRP
-mes	DET:POS
-vertèbres	NOM
-,	PUN
-affligé	VER:pper
-de	PRP
-périr	VER:infi
-sous	PRP
-les	DET:ART
-plafonds	NOM
-funèbres	ADJ
-il	PRO:PER
-a	VER:pres
-ployé	VER:pper
-son	DET:POS
-aile	NOM
-indubitable	ADJ
-en	PRP
-moi	PRO:PER
-.	SENT
-luxe	NOM
-,	PUN
-ô	INT
-salle	NOM
-d'	PRP
-ébène	NOM
-où	PRO:REL
-,	PUN
-pour	PRP
-séduire	VER:infi
-un	DET:ART
-roi	NOM
-se	PRO:PER
-tordent	VER:pres
-dans	PRP
-leur	DET:POS
-mort	NOM
-des	PRP:det
-guirlandes	NOM
-célèbres	ADJ
-,	PUN
-vous	PRO:PER
-n'	ADV
-êtes	VER:pres
-qu'	KON
-un	DET:ART
-orgueil	NOM
-menti	VER:pper
-par	PRP
-les	DET:ART
-ténèbres	NOM
-aux	PRP:det
-yeux	NOM
-du	PRP:det
-solitaire	NOM
-ébloui	VER:pper
-de	PRP
-sa	DET:POS
-foi	NOM
-.	SENT
-oui	INT
-,	PUN
-je	PRO:PER
-sais	VER:pres
-qu'	KON
-au	PRP:det
-lointain	NOM
-de	PRP
-cette	PRO:DEM
-nuit	NOM
-,	PUN
-la	DET:ART
-terre	NOM
-jette	VER:pres
-d'	PRP
-un	DET:ART
-grand	ADJ
-éclat	NOM
-l'	DET:ART
-insolite	ADJ
-mystère	NOM
-,	PUN
-sous	PRP
-les	DET:ART
-siècles	NOM
-hideux	ADJ
-qui	PRO:REL
-l'	PRO:PER
-obscurcissent	VER:pres
-moins	ADV
-.	SENT
-l'	DET:ART
-espace	NOM
-à	PRP
-soi	PRO:PER
-pareil	NOM
-qu'	PRO:REL
-il	PRO:PER
-s'	PRO:PER
-accroisse	VER:subp
-ou	KON
-se	PRO:PER
-nie	VER:pres
-roule	NOM
-dans	PRP
-cet	PRO:DEM
-ennui	NOM
-des	PRP:det
-feux	NOM
-vils	ADJ
-pour	PRP
-témoins	NOM
-que	PRO:REL
-s'	PRO:PER
-est	VER:pres
-d'	PRP
-un	DET:ART
-astre	NOM
-en	PRP
-fête	NOM
-allumé	VER:pper
-le	DET:ART
-génie	NOM
-.	SENT
+quand	KON	quand
+l'	DET:ART	le
+ombre	NOM	ombre
+menaça	VER:simp	menacer
+de	PRP	de
+la	DET:ART	le
+fatale	ADJ	fatal
+loi	NOM	loi
+tel	PRO:DEM	tel
+vieux	ADJ	vieux
+rêve	NOM	rêve
+,	PUN	,
+désir	NOM	désir
+et	KON	et
+mal	ADV	mal
+de	PRP	de
+mes	DET:POS	mon
+vertèbres	NOM	vertèbre
+,	PUN	,
+affligé	VER:pper	affliger
+de	PRP	de
+périr	VER:infi	périr
+sous	PRP	sous
+les	DET:ART	le
+plafonds	NOM	plafond
+funèbres	ADJ	funèbre
+il	PRO:PER	il
+a	VER:pres	avoir
+ployé	VER:pper	ployer
+son	DET:POS	son
+aile	NOM	aile
+indubitable	ADJ	indubitable
+en	PRP	en
+moi	PRO:PER	moi
+.	SENT	.
+luxe	NOM	luxe
+,	PUN	,
+ô	INT	ô
+salle	NOM	salle
+d'	PRP	de
+ébène	NOM	ébène
+où	PRO:REL	où
+,	PUN	,
+pour	PRP	pour
+séduire	VER:infi	séduire
+un	DET:ART	un
+roi	NOM	roi
+se	PRO:PER	se
+tordent	VER:pres	tordre
+dans	PRP	dans
+leur	DET:POS	leur
+mort	NOM	mort
+des	PRP:det	du
+guirlandes	NOM	guirlande
+célèbres	ADJ	célèbre
+,	PUN	,
+vous	PRO:PER	vous
+n'	ADV	ne
+êtes	VER:pres	être
+qu'	KON	que
+un	DET:ART	un
+orgueil	NOM	orgueil
+menti	VER:pper	mentir
+par	PRP	par
+les	DET:ART	le
+ténèbres	NOM	ténèbre
+aux	PRP:det	au
+yeux	NOM	œil
+du	PRP:det	du
+solitaire	NOM	solitaire
+ébloui	VER:pper	éblouir
+de	PRP	de
+sa	DET:POS	son
+foi	NOM	foi
+.	SENT	.
+oui	INT	oui
+,	PUN	,
+je	PRO:PER	je
+sais	VER:pres	savoir
+qu'	KON	que
+au	PRP:det	au
+lointain	NOM	lointain
+de	PRP	de
+cette	PRO:DEM	ce
+nuit	NOM	nuit
+,	PUN	,
+la	DET:ART	le
+terre	NOM	terre
+jette	VER:pres	jeter
+d'	PRP	de
+un	DET:ART	un
+grand	ADJ	grand
+éclat	NOM	éclat
+l'	DET:ART	le
+insolite	ADJ	insolite
+mystère	NOM	mystère
+,	PUN	,
+sous	PRP	sous
+les	DET:ART	le
+siècles	NOM	siècle
+hideux	ADJ	hideux
+qui	PRO:REL	qui
+l'	PRO:PER	la|le
+obscurcissent	VER:pres	obscurcir
+moins	ADV	moins
+.	SENT	.
+l'	DET:ART	le
+espace	NOM	espace
+à	PRP	à
+soi	PRO:PER	soi
+pareil	NOM	pareil
+qu'	PRO:REL	que
+il	PRO:PER	il
+s'	PRO:PER	se
+accroisse	VER:subp	accroître
+ou	KON	ou
+se	PRO:PER	se
+nie	VER:pres	nier
+roule	NOM	roule
+dans	PRP	dans
+cet	PRO:DEM	ce
+ennui	NOM	ennui
+des	PRP:det	du
+feux	NOM	feu
+vils	ADJ	vil
+pour	PRP	pour
+témoins	NOM	témoin
+que	PRO:REL	que
+s'	PRO:PER	se
+est	VER:pres	être
+d'	PRP	de
+un	DET:ART	un
+astre	NOM	astre
+en	PRP	en
+fête	NOM	fête
+allumé	VER:pper	allumer
+le	DET:ART	le
+génie	NOM	génie
+.	SENT	.

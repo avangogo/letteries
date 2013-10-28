@@ -1,63 +1,63 @@
-ce	PRO:DEM
-somnambule	NOM
-obscur	ADJ
-,	PUN
-brusquement	ADV
-frénétique	ADJ
-,	PUN
-que	KON
-schoelcher	NOM
-a	VER:pres
-nommé	VER:pper
-le	DET:ART
-président	NOM
-obus	NOM
-.	SENT
-oui	INT
-,	PUN
-nous	PRO:PER
-appellerons	VER:futu
-jusqu'	PRP
-au	PRP:det
-dernier	ADJ
-soupir	NOM
-,	PUN
-au	PRP:det
-secours	NOM
-de	PRP
-la	DET:ART
-france	NOM
-aux	PRP:det
-fers	NOM
-et	KON
-presque	ADV
-éteinte	VER:pper
-,	PUN
-comme	KON
-nos	DET:POS
-grands	ADJ
-aïeux	NOM
-,	PUN
-l'	DET:ART
-insurrection	NOM
-sainte	ADJ
-.	SENT
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-vivre	VER:infi
-sans	PRP
-pain	NOM
-;	PUN
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-pas	ADV
-non	ADV
-plus	ADV
-vivre	VER:infi
-sans	PRP
-la	DET:ART
-patrie	NOM
-.	SENT
+ce	PRO:DEM	ce
+somnambule	NOM	somnambule
+obscur	ADJ	obscur
+,	PUN	,
+brusquement	ADV	brusquement
+frénétique	ADJ	frénétique
+,	PUN	,
+que	KON	que
+schoelcher	NOM	schoelcher
+a	VER:pres	avoir
+nommé	VER:pper	nommer
+le	DET:ART	le
+président	NOM	président
+obus	NOM	obus
+.	SENT	.
+oui	INT	oui
+,	PUN	,
+nous	PRO:PER	nous
+appellerons	VER:futu	appeler
+jusqu'	PRP	jusque
+au	PRP:det	au
+dernier	ADJ	dernier
+soupir	NOM	soupir
+,	PUN	,
+au	PRP:det	au
+secours	NOM	secours
+de	PRP	de
+la	DET:ART	le
+france	NOM	france
+aux	PRP:det	au
+fers	NOM	fer
+et	KON	et
+presque	ADV	presque
+éteinte	VER:pper	éteindre
+,	PUN	,
+comme	KON	comme
+nos	DET:POS	notre
+grands	ADJ	grand
+aïeux	NOM	aïeux
+,	PUN	,
+l'	DET:ART	le
+insurrection	NOM	insurrection
+sainte	ADJ	saint
+.	SENT	.
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+vivre	VER:infi	vivre
+sans	PRP	sans
+pain	NOM	pain
+;	PUN	;
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+pas	ADV	pas
+non	ADV	non
+plus	ADV	plus
+vivre	VER:infi	vivre
+sans	PRP	sans
+la	DET:ART	le
+patrie	NOM	patrie
+.	SENT	.

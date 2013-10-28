@@ -1,109 +1,109 @@
-le	DET:ART
-silence	NOM
-déjà	ADV
-funèbre	ADJ
-d'	PRP
-une	DET:ART
-moire	NOM
-dispose	VER:pres
-plus	ADV
-qu'	KON
-un	DET:ART
-pli	NOM
-seul	ADJ
-sur	PRP
-le	DET:ART
-mobilier	NOM
-que	PRO:REL
-doit	VER:pres
-un	DET:ART
-tassement	NOM
-du	PRP:det
-principal	ADJ
-pilier	NOM
-précipiter	VER:infi
-avec	PRP
-le	DET:ART
-manque	NOM
-de	PRP
-mémoire	NOM
-.	SENT
-notre	DET:POS
-si	NOM
-vieil	ADJ
-ébat	VER:pres
-triomphal	ADJ
-du	PRP:det
-grimoire	NOM
-,	PUN
-hiéroglyphes	NOM
-dont	PRO:REL
-s'	PRO:PER
-exalte	VER:pres
-le	DET:ART
-millier	NOM
-a	VER:pres
-propager	VER:infi
-de	PRP
-l'	DET:ART
-aile	NOM
-un	DET:ART
-frisson	NOM
-familier	ADJ
-!	SENT
-enfouissez	VER:pres
-le	DET:ART
-moi	PRO:PER
-plutôt	ADV
-dans	PRP
-une	DET:ART
-armoire	NOM
-.	SENT
-du	PRP:det
-souriant	ADJ
-fracas	NOM
-originel	ADJ
-haï	VER:pper
-entre	PRP
-elles	PRO:PER
-de	PRP
-clartés	NOM
-maîtresses	NOM
-a	VER:pres
-jailli	VER:pper
-jusque	PRP
-vers	PRP
-un	DET:ART
-parvis	NOM
-né	VER:pper
-pour	PRP
-leur	DET:POS
-simulacre	NOM
-,	PUN
-trompettes	VER:pres
-tout	ADV
-haut	ADV
-d'	PRP
-or	NOM
-pâmé	VER:pper
-sur	PRP
-les	DET:ART
-vélins	NOM
-,	PUN
-le	DET:ART
-dieu	NOM
-richard	NOM
-wagner	NOM
-irradiant	VER:ppre
-un	DET:ART
-sacre	NOM
-mal	ADV
-tu	VER:pper
-par	PRP
-l'	DET:ART
-encre	NOM
-même	ADJ
-en	PRP
-sanglots	NOM
-sibyllins	ADJ
-.	SENT
+le	DET:ART	le
+silence	NOM	silence
+déjà	ADV	déjà
+funèbre	ADJ	funèbre
+d'	PRP	de
+une	DET:ART	un
+moire	NOM	moire
+dispose	VER:pres	disposer
+plus	ADV	plus
+qu'	KON	que
+un	DET:ART	un
+pli	NOM	pli
+seul	ADJ	seul
+sur	PRP	sur
+le	DET:ART	le
+mobilier	NOM	mobilier
+que	PRO:REL	que
+doit	VER:pres	devoir
+un	DET:ART	un
+tassement	NOM	tassement
+du	PRP:det	du
+principal	ADJ	principal
+pilier	NOM	pilier
+précipiter	VER:infi	précipiter
+avec	PRP	avec
+le	DET:ART	le
+manque	NOM	manque
+de	PRP	de
+mémoire	NOM	mémoire
+.	SENT	.
+notre	DET:POS	notre
+si	NOM	si
+vieil	ADJ	vieux
+ébat	VER:pres	ébattre
+triomphal	ADJ	triomphal
+du	PRP:det	du
+grimoire	NOM	grimoire
+,	PUN	,
+hiéroglyphes	NOM	hiéroglyphe
+dont	PRO:REL	dont
+s'	PRO:PER	se
+exalte	VER:pres	exalter
+le	DET:ART	le
+millier	NOM	millier
+a	VER:pres	avoir
+propager	VER:infi	propager
+de	PRP	de
+l'	DET:ART	le
+aile	NOM	aile
+un	DET:ART	un
+frisson	NOM	frisson
+familier	ADJ	familier
+!	SENT	!
+enfouissez	VER:pres	enfouir
+le	DET:ART	le
+moi	PRO:PER	moi
+plutôt	ADV	plutôt
+dans	PRP	dans
+une	DET:ART	un
+armoire	NOM	armoire
+.	SENT	.
+du	PRP:det	du
+souriant	ADJ	souriant
+fracas	NOM	fracas
+originel	ADJ	originel
+haï	VER:pper	haïr
+entre	PRP	entre
+elles	PRO:PER	elle
+de	PRP	de
+clartés	NOM	clarté
+maîtresses	NOM	maître|maîtresse
+a	VER:pres	avoir
+jailli	VER:pper	jaillir
+jusque	PRP	jusque
+vers	PRP	vers
+un	DET:ART	un
+parvis	NOM	parvis
+né	VER:pper	naître
+pour	PRP	pour
+leur	DET:POS	leur
+simulacre	NOM	simulacre
+,	PUN	,
+trompettes	VER:pres	trompeter
+tout	ADV	tout
+haut	ADV	haut
+d'	PRP	de
+or	NOM	or
+pâmé	VER:pper	pâmer
+sur	PRP	sur
+les	DET:ART	le
+vélins	NOM	vélin
+,	PUN	,
+le	DET:ART	le
+dieu	NOM	dieu
+richard	NOM	richard
+wagner	NOM	wagner
+irradiant	VER:ppre	irradier
+un	DET:ART	un
+sacre	NOM	sacre
+mal	ADV	mal
+tu	VER:pper	taire
+par	PRP	par
+l'	DET:ART	le
+encre	NOM	encre
+même	ADJ	même
+en	PRP	en
+sanglots	NOM	sanglot
+sibyllins	ADJ	sibyllin
+.	SENT	.

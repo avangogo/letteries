@@ -1,485 +1,485 @@
-approchez	VER:pres
-vous	PRO:PER
-.	SENT
-ceci	PRO:DEM
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-le	DET:ART
-tas	NOM
-des	PRP:det
-dévots	NOM
-.	SENT
-cela	PRO:DEM
-hurle	VER:pres
-en	PRP
-grinçant	VER:ppre
-un	DET:ART
-benedicat	NOM
-vos	DET:POS
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-laid	ADJ
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-vieux	ADJ
-,	PUN
-c'	PRO:DEM
-est	VER:pres
-noir	ADJ
-.	SENT
-cela	PRO:DEM
-fait	VER:pres
-des	PRP:det
-gazettes	NOM
-.	SENT
-pères	NOM
-fouetteurs	ADJ
-du	PRP:det
-siècle	NOM
-,	PUN
-à	PRP
-grands	ADJ
-coups	NOM
-de	PRP
-garcettes	NOM
-.	SENT
-ils	PRO:PER
-nous	PRO:PER
-mènent	VER:pres
-au	PRP:det
-ciel	NOM
-.	SENT
-ils	PRO:PER
-font	VER:pres
-,	PUN
-blêmes	ADJ
-grimauds	NOM
-,	PUN
-de	PRP
-l'	DET:ART
-âme	NOM
-et	KON
-de	PRP
-jésus	NOM
-des	PRP:det
-querelles	NOM
-de	PRP
-mots	NOM
-comme	KON
-à	PRP
-byzance	NOM
-au	PRP:det
-temps	NOM
-des	PRP:det
-jeans	NOM
-et	KON
-des	PRP:det
-eudoxes	NOM
-.	SENT
-méfions	VER:pres
-nous	PRO:PER
-;	PUN
-ce	PRO:DEM
-sont	VER:pres
-des	PRP:det
-gredins	NOM
-orthodoxes	ADJ
-.	SENT
-ils	PRO:PER
-auraient	VER:cond
-fait	VER:pper
-pousser	VER:infi
-des	PRP:det
-cris	NOM
-à	PRP
-juvénal	NOM
-.	SENT
-la	DET:ART
-douairière	NOM
-aux	PRP:det
-yeux	NOM
-gris	ADJ
-s'	PRO:PER
-ébat	VER:pres
-sur	PRP
-leur	DET:POS
-journal	NOM
-comme	KON
-sur	PRP
-les	DET:ART
-marais	NOM
-la	DET:ART
-grue	NOM
-et	KON
-la	DET:ART
-bécasse	NOM
-.	SENT
-ils	PRO:PER
-citent	VER:pres
-poquelin	NOM
-,	PUN
-pascal	ADJ
-,	PUN
-rousseau	ADJ
-,	PUN
-boccace	NOM
-,	PUN
-voltaire	NOM
-,	PUN
-diderot	NOM
-,	PUN
-l'	DET:ART
-aigle	NOM
-au	PRP:det
-vol	NOM
-inégal	ADJ
-,	PUN
-devant	PRP
-l'	DET:ART
-official	NOM
-et	KON
-le	DET:ART
-théologal	NOM
-.	SENT
-l'	DET:ART
-esprit	NOM
-étant	VER:ppre
-gênant	VER:ppre
-,	PUN
-ces	PRO:DEM
-saints	NOM
-le	PRO:PER
-congédient	VER:pres
-.	SENT
-ils	PRO:PER
-mettent	VER:pres
-escobar	NOM
-sous	PRP
-bande	NOM
-et	KON
-l'	DET:ART
-expédient	NOM
-aux	PRP:det
-bedeaux	NOM
-rayonnants	ADJ
-,	PUN
-pour	PRP
-quatre	NUM
-francs	NOM
-par	PRP
-mois	NOM
-.	SENT
-avec	PRP
-le	DET:ART
-vieux	ADJ
-savon	NOM
-des	PRP:det
-jésuites	NOM
-sournois	ADJ
-ils	PRO:PER
-lavent	VER:pres
-notre	DET:POS
-époque	NOM
-incrédule	ADJ
-et	KON
-pensive	ADJ
-,	PUN
-et	KON
-le	DET:ART
-bûcher	NOM
-fournit	VER:pres
-sa	DET:POS
-cendre	NOM
-à	PRP
-leur	DET:POS
-lessive	NOM
-.	SENT
-leur	DET:POS
-gazette	NOM
-,	PUN
-où	PRO:REL
-les	DET:ART
-mots	NOM
-de	PRP
-venin	NOM
-sont	VER:pres
-verdis	VER:pper
-,	PUN
-est	VER:pres
-la	DET:ART
-seule	ADJ
-qui	PRO:REL
-soit	VER:subp
-reçue	VER:pper
-au	PRP:det
-paradis	NOM
-.	SENT
-ils	PRO:PER
-sont	VER:pres
-,	PUN
-là	ADV
-,	PUN
-tout	PRO:IND
-puissants	NOM
-;	PUN
-et	KON
-tandis	KON
-que	KON
-leur	DET:POS
-bande	NOM
-prêche	VER:pres
-ici	ADV
-bas	ADV
-la	DET:ART
-dîme	NOM
-et	KON
-défend	VER:pres
-la	DET:ART
-prébende	NOM
-,	PUN
-ils	PRO:PER
-font	VER:pres
-chez	PRP
-jéhovah	NOM
-la	DET:ART
-pluie	NOM
-et	KON
-le	DET:ART
-beau	ADJ
-temps	NOM
-.	SENT
-l'	DET:ART
-ange	NOM
-au	PRP:det
-glaive	NOM
-de	PRP
-feu	NOM
-leur	PRO:PER
-ouvre	VER:pres
-à	PRP
-deux	NUM
-battants	NOM
-la	DET:ART
-porte	NOM
-bienheureuse	ADJ
-,	PUN
-effrayante	ADJ
-et	KON
-vermeille	ADJ
-;	PUN
-tous	PRO:IND
-les	DET:ART
-matins	NOM
-,	PUN
-à	PRP
-l'	DET:ART
-heure	NOM
-où	PRO:REL
-l'	DET:ART
-oiseau	NOM
-se	PRO:PER
-réveille	VER:pres
-,	PUN
-quand	KON
-l'	DET:ART
-aube	NOM
-,	PUN
-se	PRO:PER
-dressant	VER:ppre
-au	PRP:det
-bord	NOM
-du	PRP:det
-ciel	NOM
-profond	ADJ
-,	PUN
-rougit	VER:pres
-en	PRP
-regardant	VER:ppre
-ce	PRO:DEM
-que	PRO:REL
-les	DET:ART
-hommes	NOM
-font	VER:pres
-et	KON
-que	KON
-des	PRP:det
-pleurs	NOM
-de	PRP
-honte	NOM
-emplissent	VER:pres
-sa	DET:POS
-paupière	NOM
-,	PUN
-gais	ADJ
-,	PUN
-ils	PRO:PER
-grimpent	VER:pres
-là	ADV
-haut	ADJ
-,	PUN
-et	KON
-,	PUN
-cognant	VER:ppre
-chez	PRP
-saint	ADJ
-pierre	NOM
-,	PUN
-jettent	VER:pres
-à	PRP
-ce	PRO:DEM
-portier	NOM
-leur	DET:POS
-journal	NOM
-impudent	ADJ
-.	SENT
-ils	PRO:PER
-écrivent	VER:pres
-à	PRP
-dieu	NOM
-comme	KON
-à	PRP
-leur	DET:POS
-intendant	NOM
-,	PUN
-critiquant	VER:ppre
-,	PUN
-gourmandant	VER:ppre
-,	PUN
-et	KON
-lui	PRO:PER
-demandant	VER:ppre
-compte	NOM
-des	PRP:det
-révolutions	NOM
-,	PUN
-des	PRP:det
-vents	NOM
-,	PUN
-du	PRP:det
-flot	NOM
-qui	PRO:REL
-monte	VER:pres
-,	PUN
-de	PRP
-l'	DET:ART
-astre	NOM
-au	PRP:det
-pur	ADJ
-regard	NOM
-qu'	PRO:REL
-ils	PRO:PER
-voudraient	VER:cond
-voir	VER:infi
-loucher	VER:infi
-,	PUN
-de	PRP
-ce	PRO:DEM
-qu'	PRO:REL
-il	PRO:PER
-fait	VER:pres
-tourner	VER:infi
-notre	DET:POS
-terre	NOM
-et	KON
-marcher	VER:infi
-notre	DET:POS
-esprit	NOM
-,	PUN
-et	KON
-,	PUN
-d'	PRP
-un	DET:ART
-timbre	NOM
-ornant	VER:ppre
-l'	DET:ART
-eucharistie	NOM
-,	PUN
-ils	PRO:PER
-cachettent	VER:pres
-leur	DET:POS
-lettre	NOM
-immonde	ADJ
-avec	PRP
-l'	DET:ART
-hostie	NOM
-.	SENT
-jamais	ADV
-marquis	NOM
-.	SENT
-voyant	VER:ppre
-son	DET:POS
-carrosse	NOM
-broncher	VER:infi
-,	PUN
-n'	ADV
-a	VER:pres
-plus	ADV
-superbement	ADV
-tutoyé	VER:pper
-son	DET:POS
-cocher	NOM
-;	PUN
-si	KON
-bien	ADV
-que	KON
-,	PUN
-ne	ADV
-sachant	VER:ppre
-comment	ADV
-mener	VER:infi
-le	DET:ART
-monde	NOM
-,	PUN
-ce	PRO:DEM
-pauvre	NOM
-vieux	ADJ
-bon	ADJ
-dieu	NOM
-,	PUN
-sur	PRP
-qui	PRO:REL
-leur	DET:POS
-foudre	NOM
-gronde	VER:pres
-,	PUN
-tremblant	VER:ppre
-,	PUN
-cherchant	VER:ppre
-un	DET:ART
-trou	NOM
-dans	PRP
-ses	DET:POS
-cieux	NOM
-éclatants	ADJ
-,	PUN
-ne	ADV
-sait	VER:pres
-où	ADV
-se	PRO:PER
-fourrer	VER:infi
-quand	KON
-ils	PRO:PER
-sont	VER:pres
-mécontents	ADJ
-.	SENT
-ils	PRO:PER
-ont	VER:pres
-supprimé	VER:pper
-rome	NOM
-;	PUN
-ils	PRO:PER
-auraient	VER:cond
-détruit	VER:pper
-sparte	NOM
-.	SENT
-ces	PRO:DEM
-drôles	NOM
-sont	VER:pres
-charmés	VER:pper
-de	PRP
-monsieur	NOM
-bonaparte	NOM
-.	SENT
+approchez	VER:pres	approcher
+vous	PRO:PER	vous
+.	SENT	.
+ceci	PRO:DEM	ceci
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+le	DET:ART	le
+tas	NOM	tas
+des	PRP:det	du
+dévots	NOM	dévot
+.	SENT	.
+cela	PRO:DEM	cela
+hurle	VER:pres	hurler
+en	PRP	en
+grinçant	VER:ppre	grincer
+un	DET:ART	un
+benedicat	NOM	benedicat
+vos	DET:POS	votre
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+laid	ADJ	laid
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+vieux	ADJ	vieux
+,	PUN	,
+c'	PRO:DEM	ce
+est	VER:pres	être
+noir	ADJ	noir
+.	SENT	.
+cela	PRO:DEM	cela
+fait	VER:pres	faire
+des	PRP:det	du
+gazettes	NOM	gazette
+.	SENT	.
+pères	NOM	père
+fouetteurs	ADJ	fouetteur
+du	PRP:det	du
+siècle	NOM	siècle
+,	PUN	,
+à	PRP	à
+grands	ADJ	grand
+coups	NOM	coup
+de	PRP	de
+garcettes	NOM	garcette
+.	SENT	.
+ils	PRO:PER	il
+nous	PRO:PER	nous
+mènent	VER:pres	mener
+au	PRP:det	au
+ciel	NOM	ciel
+.	SENT	.
+ils	PRO:PER	il
+font	VER:pres	faire
+,	PUN	,
+blêmes	ADJ	blême
+grimauds	NOM	grimaud
+,	PUN	,
+de	PRP	de
+l'	DET:ART	le
+âme	NOM	âme
+et	KON	et
+de	PRP	de
+jésus	NOM	jésus
+des	PRP:det	du
+querelles	NOM	querelle
+de	PRP	de
+mots	NOM	mot
+comme	KON	comme
+à	PRP	à
+byzance	NOM	byzance
+au	PRP:det	au
+temps	NOM	temps
+des	PRP:det	du
+jeans	NOM	jean|jeans
+et	KON	et
+des	PRP:det	du
+eudoxes	NOM	eudoxes
+.	SENT	.
+méfions	VER:pres	méfier
+nous	PRO:PER	nous
+;	PUN	;
+ce	PRO:DEM	ce
+sont	VER:pres	être
+des	PRP:det	du
+gredins	NOM	gredin
+orthodoxes	ADJ	orthodoxe
+.	SENT	.
+ils	PRO:PER	il
+auraient	VER:cond	avoir
+fait	VER:pper	faire
+pousser	VER:infi	pousser
+des	PRP:det	du
+cris	NOM	cri
+à	PRP	à
+juvénal	NOM	juvénal
+.	SENT	.
+la	DET:ART	le
+douairière	NOM	douairière
+aux	PRP:det	au
+yeux	NOM	œil
+gris	ADJ	gris
+s'	PRO:PER	se
+ébat	VER:pres	ébattre
+sur	PRP	sur
+leur	DET:POS	leur
+journal	NOM	journal
+comme	KON	comme
+sur	PRP	sur
+les	DET:ART	le
+marais	NOM	marais
+la	DET:ART	le
+grue	NOM	grue
+et	KON	et
+la	DET:ART	le
+bécasse	NOM	bécasse
+.	SENT	.
+ils	PRO:PER	il
+citent	VER:pres	citer
+poquelin	NOM	poquelin
+,	PUN	,
+pascal	ADJ	pascal
+,	PUN	,
+rousseau	ADJ	rousseau
+,	PUN	,
+boccace	NOM	boccace
+,	PUN	,
+voltaire	NOM	voltaire
+,	PUN	,
+diderot	NOM	diderot
+,	PUN	,
+l'	DET:ART	le
+aigle	NOM	aigle
+au	PRP:det	au
+vol	NOM	vol
+inégal	ADJ	inégal
+,	PUN	,
+devant	PRP	devant
+l'	DET:ART	le
+official	NOM	official
+et	KON	et
+le	DET:ART	le
+théologal	NOM	théologal
+.	SENT	.
+l'	DET:ART	le
+esprit	NOM	esprit
+étant	VER:ppre	être
+gênant	VER:ppre	gêner
+,	PUN	,
+ces	PRO:DEM	ce
+saints	NOM	saint
+le	PRO:PER	le
+congédient	VER:pres	congédier
+.	SENT	.
+ils	PRO:PER	il
+mettent	VER:pres	mettre
+escobar	NOM	escobar
+sous	PRP	sous
+bande	NOM	bande
+et	KON	et
+l'	DET:ART	le
+expédient	NOM	expédient
+aux	PRP:det	au
+bedeaux	NOM	bedeau
+rayonnants	ADJ	rayonnant
+,	PUN	,
+pour	PRP	pour
+quatre	NUM	quatre
+francs	NOM	franc
+par	PRP	par
+mois	NOM	moi|mois
+.	SENT	.
+avec	PRP	avec
+le	DET:ART	le
+vieux	ADJ	vieux
+savon	NOM	savon
+des	PRP:det	du
+jésuites	NOM	jésuite
+sournois	ADJ	sournois
+ils	PRO:PER	il
+lavent	VER:pres	laver
+notre	DET:POS	notre
+époque	NOM	époque
+incrédule	ADJ	incrédule
+et	KON	et
+pensive	ADJ	pensif
+,	PUN	,
+et	KON	et
+le	DET:ART	le
+bûcher	NOM	bûcher
+fournit	VER:pres	fournir
+sa	DET:POS	son
+cendre	NOM	cendre
+à	PRP	à
+leur	DET:POS	leur
+lessive	NOM	lessive
+.	SENT	.
+leur	DET:POS	leur
+gazette	NOM	gazette
+,	PUN	,
+où	PRO:REL	où
+les	DET:ART	le
+mots	NOM	mot
+de	PRP	de
+venin	NOM	venin
+sont	VER:pres	être
+verdis	VER:pper	verdir
+,	PUN	,
+est	VER:pres	être
+la	DET:ART	le
+seule	ADJ	seul
+qui	PRO:REL	qui
+soit	VER:subp	être
+reçue	VER:pper	recevoir
+au	PRP:det	au
+paradis	NOM	paradis
+.	SENT	.
+ils	PRO:PER	il
+sont	VER:pres	être
+,	PUN	,
+là	ADV	là
+,	PUN	,
+tout	PRO:IND	tout
+puissants	NOM	puissant
+;	PUN	;
+et	KON	et
+tandis	KON	tandis
+que	KON	que
+leur	DET:POS	leur
+bande	NOM	bande
+prêche	VER:pres	prêcher
+ici	ADV	ici
+bas	ADV	bas
+la	DET:ART	le
+dîme	NOM	dîme
+et	KON	et
+défend	VER:pres	défendre
+la	DET:ART	le
+prébende	NOM	prébende
+,	PUN	,
+ils	PRO:PER	il
+font	VER:pres	faire
+chez	PRP	chez
+jéhovah	NOM	jéhovah
+la	DET:ART	le
+pluie	NOM	pluie
+et	KON	et
+le	DET:ART	le
+beau	ADJ	beau
+temps	NOM	temps
+.	SENT	.
+l'	DET:ART	le
+ange	NOM	ange
+au	PRP:det	au
+glaive	NOM	glaive
+de	PRP	de
+feu	NOM	feu
+leur	PRO:PER	lui
+ouvre	VER:pres	ouvrer|ouvrir
+à	PRP	à
+deux	NUM	deux
+battants	NOM	battant
+la	DET:ART	le
+porte	NOM	porte
+bienheureuse	ADJ	bienheureux
+,	PUN	,
+effrayante	ADJ	effrayant
+et	KON	et
+vermeille	ADJ	vermeil
+;	PUN	;
+tous	PRO:IND	tout
+les	DET:ART	le
+matins	NOM	matin
+,	PUN	,
+à	PRP	à
+l'	DET:ART	le
+heure	NOM	heure
+où	PRO:REL	où
+l'	DET:ART	le
+oiseau	NOM	oiseau
+se	PRO:PER	se
+réveille	VER:pres	réveiller
+,	PUN	,
+quand	KON	quand
+l'	DET:ART	le
+aube	NOM	aube
+,	PUN	,
+se	PRO:PER	se
+dressant	VER:ppre	dresser
+au	PRP:det	au
+bord	NOM	bord
+du	PRP:det	du
+ciel	NOM	ciel
+profond	ADJ	profond
+,	PUN	,
+rougit	VER:pres	rougir
+en	PRP	en
+regardant	VER:ppre	regarder
+ce	PRO:DEM	ce
+que	PRO:REL	que
+les	DET:ART	le
+hommes	NOM	homme
+font	VER:pres	faire
+et	KON	et
+que	KON	que
+des	PRP:det	du
+pleurs	NOM	pleur|pleurs
+de	PRP	de
+honte	NOM	honte
+emplissent	VER:pres	emplir
+sa	DET:POS	son
+paupière	NOM	paupière
+,	PUN	,
+gais	ADJ	gai
+,	PUN	,
+ils	PRO:PER	il
+grimpent	VER:pres	grimper
+là	ADV	là
+haut	ADJ	haut
+,	PUN	,
+et	KON	et
+,	PUN	,
+cognant	VER:ppre	cogner
+chez	PRP	chez
+saint	ADJ	saint
+pierre	NOM	pierre
+,	PUN	,
+jettent	VER:pres	jeter
+à	PRP	à
+ce	PRO:DEM	ce
+portier	NOM	portier
+leur	DET:POS	leur
+journal	NOM	journal
+impudent	ADJ	impudent
+.	SENT	.
+ils	PRO:PER	il
+écrivent	VER:pres	écrire
+à	PRP	à
+dieu	NOM	dieu
+comme	KON	comme
+à	PRP	à
+leur	DET:POS	leur
+intendant	NOM	intendant
+,	PUN	,
+critiquant	VER:ppre	critiquer
+,	PUN	,
+gourmandant	VER:ppre	gourmander
+,	PUN	,
+et	KON	et
+lui	PRO:PER	lui
+demandant	VER:ppre	demander
+compte	NOM	compte
+des	PRP:det	du
+révolutions	NOM	révolution
+,	PUN	,
+des	PRP:det	du
+vents	NOM	vent
+,	PUN	,
+du	PRP:det	du
+flot	NOM	flot
+qui	PRO:REL	qui
+monte	VER:pres	monter
+,	PUN	,
+de	PRP	de
+l'	DET:ART	le
+astre	NOM	astre
+au	PRP:det	au
+pur	ADJ	pur
+regard	NOM	regard
+qu'	PRO:REL	que
+ils	PRO:PER	il
+voudraient	VER:cond	vouloir
+voir	VER:infi	voir
+loucher	VER:infi	loucher
+,	PUN	,
+de	PRP	de
+ce	PRO:DEM	ce
+qu'	PRO:REL	que
+il	PRO:PER	il
+fait	VER:pres	faire
+tourner	VER:infi	tourner
+notre	DET:POS	notre
+terre	NOM	terre
+et	KON	et
+marcher	VER:infi	marcher
+notre	DET:POS	notre
+esprit	NOM	esprit
+,	PUN	,
+et	KON	et
+,	PUN	,
+d'	PRP	de
+un	DET:ART	un
+timbre	NOM	timbre
+ornant	VER:ppre	orner
+l'	DET:ART	le
+eucharistie	NOM	eucharistie
+,	PUN	,
+ils	PRO:PER	il
+cachettent	VER:pres	cacheter
+leur	DET:POS	leur
+lettre	NOM	lettre
+immonde	ADJ	immonde
+avec	PRP	avec
+l'	DET:ART	le
+hostie	NOM	hostie
+.	SENT	.
+jamais	ADV	jamais
+marquis	NOM	marquis
+.	SENT	.
+voyant	VER:ppre	voir
+son	DET:POS	son
+carrosse	NOM	carrosse
+broncher	VER:infi	broncher
+,	PUN	,
+n'	ADV	ne
+a	VER:pres	avoir
+plus	ADV	plus
+superbement	ADV	superbement
+tutoyé	VER:pper	tutoyer
+son	DET:POS	son
+cocher	NOM	cocher
+;	PUN	;
+si	KON	si
+bien	ADV	bien
+que	KON	que
+,	PUN	,
+ne	ADV	ne
+sachant	VER:ppre	savoir
+comment	ADV	comment
+mener	VER:infi	mener
+le	DET:ART	le
+monde	NOM	monde
+,	PUN	,
+ce	PRO:DEM	ce
+pauvre	NOM	pauvre
+vieux	ADJ	vieux
+bon	ADJ	bon
+dieu	NOM	dieu
+,	PUN	,
+sur	PRP	sur
+qui	PRO:REL	qui
+leur	DET:POS	leur
+foudre	NOM	foudre
+gronde	VER:pres	gronder
+,	PUN	,
+tremblant	VER:ppre	trembler
+,	PUN	,
+cherchant	VER:ppre	chercher
+un	DET:ART	un
+trou	NOM	trou
+dans	PRP	dans
+ses	DET:POS	son
+cieux	NOM	cieux
+éclatants	ADJ	éclatant
+,	PUN	,
+ne	ADV	ne
+sait	VER:pres	savoir
+où	ADV	où
+se	PRO:PER	se
+fourrer	VER:infi	fourrer
+quand	KON	quand
+ils	PRO:PER	il
+sont	VER:pres	être
+mécontents	ADJ	mécontent
+.	SENT	.
+ils	PRO:PER	il
+ont	VER:pres	avoir
+supprimé	VER:pper	supprimer
+rome	NOM	rome
+;	PUN	;
+ils	PRO:PER	il
+auraient	VER:cond	avoir
+détruit	VER:pper	détruire
+sparte	NOM	sparte
+.	SENT	.
+ces	PRO:DEM	ce
+drôles	NOM	drôle
+sont	VER:pres	être
+charmés	VER:pper	charmer
+de	PRP	de
+monsieur	NOM	monsieur
+bonaparte	NOM	bonaparte
+.	SENT	.

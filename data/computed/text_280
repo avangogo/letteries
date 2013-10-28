@@ -1,84 +1,84 @@
-par	PRP
-les	DET:ART
-soirs	NOM
-bleus	ADJ
-d'	PRP
-été	NOM
-,	PUN
-j'	PRO:PER
-irai	VER:futu
-dans	PRP
-les	DET:ART
-sentiers	NOM
-,	PUN
-picoté	VER:pper
-par	PRP
-les	DET:ART
-blés	NOM
-,	PUN
-fouler	VER:infi
-l'	DET:ART
-herbe	NOM
-menue	ADJ
-:	PUN
-rêveur	ADJ
-,	PUN
-j'	PRO:PER
-en	PRO:PER
-sentirai	VER:futu
-la	DET:ART
-fraîcheur	NOM
-à	PRP
-mes	DET:POS
-pieds	NOM
-.	SENT
-je	PRO:PER
-laisserai	VER:futu
-le	DET:ART
-vent	NOM
-baigner	VER:infi
-ma	DET:POS
-tête	NOM
-nue	VER:pres
-!	SENT
-je	PRO:PER
-ne	ADV
-parlerai	VER:futu
-pas	ADV
-,	PUN
-je	PRO:PER
-ne	ADV
-penserai	VER:futu
-rien	ADV
-:	PUN
-mais	KON
-l'	DET:ART
-amour	NOM
-infini	ADJ
-me	PRO:PER
-montera	VER:futu
-dans	PRP
-l'	DET:ART
-âme	NOM
-,	PUN
-et	KON
-j'	PRO:PER
-irai	VER:futu
-loin	ADV
-,	PUN
-bien	ADV
-loin	ADV
-,	PUN
-comme	KON
-un	DET:ART
-bohémien	NOM
-par	PRP
-la	DET:ART
-nature	NOM
-,	PUN
-heureux	ADJ
-comme	KON
-avec	PRP
-une	DET:ART
-femme	NOM
-.	SENT
+par	PRP	par
+les	DET:ART	le
+soirs	NOM	soir
+bleus	ADJ	bleu
+d'	PRP	de
+été	NOM	été
+,	PUN	,
+j'	PRO:PER	je
+irai	VER:futu	aller
+dans	PRP	dans
+les	DET:ART	le
+sentiers	NOM	sentier
+,	PUN	,
+picoté	VER:pper	picoter
+par	PRP	par
+les	DET:ART	le
+blés	NOM	blé
+,	PUN	,
+fouler	VER:infi	fouler
+l'	DET:ART	le
+herbe	NOM	herbe
+menue	ADJ	menu
+:	PUN	:
+rêveur	ADJ	rêveur
+,	PUN	,
+j'	PRO:PER	je
+en	PRO:PER	en
+sentirai	VER:futu	sentir
+la	DET:ART	le
+fraîcheur	NOM	fraîcheur
+à	PRP	à
+mes	DET:POS	mon
+pieds	NOM	pied
+.	SENT	.
+je	PRO:PER	je
+laisserai	VER:futu	laisser
+le	DET:ART	le
+vent	NOM	vent
+baigner	VER:infi	baigner
+ma	DET:POS	mon
+tête	NOM	tête
+nue	VER:pres	nuer
+!	SENT	!
+je	PRO:PER	je
+ne	ADV	ne
+parlerai	VER:futu	parler
+pas	ADV	pas
+,	PUN	,
+je	PRO:PER	je
+ne	ADV	ne
+penserai	VER:futu	penser
+rien	ADV	rien
+:	PUN	:
+mais	KON	mais
+l'	DET:ART	le
+amour	NOM	amour
+infini	ADJ	infini
+me	PRO:PER	me
+montera	VER:futu	monter
+dans	PRP	dans
+l'	DET:ART	le
+âme	NOM	âme
+,	PUN	,
+et	KON	et
+j'	PRO:PER	je
+irai	VER:futu	aller
+loin	ADV	loin
+,	PUN	,
+bien	ADV	bien
+loin	ADV	loin
+,	PUN	,
+comme	KON	comme
+un	DET:ART	un
+bohémien	NOM	bohémien
+par	PRP	par
+la	DET:ART	le
+nature	NOM	nature
+,	PUN	,
+heureux	ADJ	heureux
+comme	KON	comme
+avec	PRP	avec
+une	DET:ART	un
+femme	NOM	femme
+.	SENT	.

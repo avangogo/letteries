@@ -1,113 +1,113 @@
-viens	VER:pres
-,	PUN
-mon	DET:POS
-beau	ADJ
-chat	NOM
-,	PUN
-sur	PRP
-mon	DET:POS
-coeur	NOM
-amoureux	ADJ
-;	PUN
-retiens	VER:pres
-les	DET:ART
-griffes	NOM
-de	PRP
-ta	DET:POS
-patte	NOM
-,	PUN
-et	KON
-laisse	VER:pres
-moi	PRO:PER
-plonger	VER:infi
-dans	PRP
-tes	DET:POS
-beaux	ADJ
-yeux	NOM
-,	PUN
-mêlés	VER:pper
-de	PRP
-métal	NOM
-et	KON
-d'	PRP
-agate	NOM
-.	SENT
-lorsque	KON
-mes	DET:POS
-doigts	NOM
-caressent	VER:pres
-à	PRP
-loisir	NOM
-ta	DET:POS
-tête	NOM
-et	KON
-ton	DET:POS
-dos	NOM
-élastique	ADJ
-,	PUN
-et	KON
-que	KON
-ma	DET:POS
-main	NOM
-s'	PRO:PER
-enivre	VER:pres
-du	PRP:det
-plaisir	NOM
-de	PRP
-palper	VER:infi
-ton	DET:POS
-corps	NOM
-électrique	ADJ
-,	PUN
-je	PRO:PER
-vois	VER:pres
-ma	DET:POS
-femme	NOM
-en	PRP
-esprit	NOM
-.	SENT
-son	DET:POS
-regard	NOM
-,	PUN
-comme	KON
-le	PRO:PER
-tien	PRO:POS
-,	PUN
-aimable	ADJ
-bête	NOM
-,	PUN
-profond	ADJ
-et	KON
-froid	ADJ
-,	PUN
-coupe	NOM
-et	KON
-fend	VER:pres
-comme	ADV
-un	DET:ART
-dard	NOM
-,	PUN
-et	KON
-,	PUN
-des	PRP:det
-pieds	NOM
-jusques	KON
-à	PRP
-la	DET:ART
-tête	NOM
-,	PUN
-un	DET:ART
-air	NOM
-subtil	ADJ
-,	PUN
-un	DET:ART
-dangereux	ADJ
-parfum	NOM
-,	PUN
-nagent	VER:pres
-autour	ADV
-de	PRP
-son	DET:POS
-corps	NOM
-brun	ADJ
-.	SENT
+viens	VER:pres	venir
+,	PUN	,
+mon	DET:POS	mon
+beau	ADJ	beau
+chat	NOM	chat
+,	PUN	,
+sur	PRP	sur
+mon	DET:POS	mon
+coeur	NOM	cœur
+amoureux	ADJ	amoureux
+;	PUN	;
+retiens	VER:pres	retenir
+les	DET:ART	le
+griffes	NOM	griffe
+de	PRP	de
+ta	DET:POS	ton
+patte	NOM	patte
+,	PUN	,
+et	KON	et
+laisse	VER:pres	laisser
+moi	PRO:PER	moi
+plonger	VER:infi	plonger
+dans	PRP	dans
+tes	DET:POS	ton
+beaux	ADJ	beau
+yeux	NOM	œil
+,	PUN	,
+mêlés	VER:pper	mêler
+de	PRP	de
+métal	NOM	métal
+et	KON	et
+d'	PRP	de
+agate	NOM	agate
+.	SENT	.
+lorsque	KON	lorsque
+mes	DET:POS	mon
+doigts	NOM	doigt
+caressent	VER:pres	caresser
+à	PRP	à
+loisir	NOM	loisir
+ta	DET:POS	ton
+tête	NOM	tête
+et	KON	et
+ton	DET:POS	ton
+dos	NOM	dos
+élastique	ADJ	élastique
+,	PUN	,
+et	KON	et
+que	KON	que
+ma	DET:POS	mon
+main	NOM	main
+s'	PRO:PER	se
+enivre	VER:pres	enivrer
+du	PRP:det	du
+plaisir	NOM	plaisir
+de	PRP	de
+palper	VER:infi	palper
+ton	DET:POS	ton
+corps	NOM	corps
+électrique	ADJ	électrique
+,	PUN	,
+je	PRO:PER	je
+vois	VER:pres	voir
+ma	DET:POS	mon
+femme	NOM	femme
+en	PRP	en
+esprit	NOM	esprit
+.	SENT	.
+son	DET:POS	son
+regard	NOM	regard
+,	PUN	,
+comme	KON	comme
+le	PRO:PER	le
+tien	PRO:POS	tien
+,	PUN	,
+aimable	ADJ	aimable
+bête	NOM	bête
+,	PUN	,
+profond	ADJ	profond
+et	KON	et
+froid	ADJ	froid
+,	PUN	,
+coupe	NOM	coupe
+et	KON	et
+fend	VER:pres	fendre
+comme	ADV	comme
+un	DET:ART	un
+dard	NOM	dard
+,	PUN	,
+et	KON	et
+,	PUN	,
+des	PRP:det	du
+pieds	NOM	pied
+jusques	KON	jusques
+à	PRP	à
+la	DET:ART	le
+tête	NOM	tête
+,	PUN	,
+un	DET:ART	un
+air	NOM	air
+subtil	ADJ	subtil
+,	PUN	,
+un	DET:ART	un
+dangereux	ADJ	dangereux
+parfum	NOM	parfum
+,	PUN	,
+nagent	VER:pres	nager
+autour	ADV	autour
+de	PRP	de
+son	DET:POS	son
+corps	NOM	corps
+brun	ADJ	brun
+.	SENT	.

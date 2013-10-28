@@ -1,130 +1,130 @@
-o	NOM
-si	ADV
-chère	ADJ
-de	PRP
-loin	ADV
-et	KON
-proche	ADJ
-et	KON
-blanche	ADJ
-,	PUN
-si	KON
-délicieusement	ADV
-toi	PRO:PER
-,	PUN
-méry	NOM
-,	PUN
-que	KON
-je	PRO:PER
-songe	VER:pres
-à	PRP
-quelque	PRO:IND
-baume	NOM
-rare	ADJ
-émané	VER:pper
-par	PRP
-mensonge	NOM
-sur	PRP
-aucun	PRO:IND
-bouquetier	NOM
-de	PRP
-cristal	NOM
-obscurci	VER:pper
-le	PRO:PER
-sais	VER:pres
-tu	PRO:PER
-,	PUN
-oui	INT
-!	SENT
-pour	KON
-moi	PRO:PER
-voici	ADV
-des	PRP:det
-ans	NOM
-,	PUN
-voici	ADV
-toujours	ADV
-que	KON
-ton	DET:POS
-sourire	NOM
-éblouissant	ADJ
-prolonge	VER:pres
-la	DET:ART
-même	ADV
-rose	ADJ
-avec	PRP
-son	DET:POS
-bel	ADJ
-été	NOM
-qui	PRO:REL
-plonge	VER:pres
-dans	PRP
-autrefois	ADV
-et	KON
-puis	ADV
-dans	PRP
-le	DET:ART
-futur	NOM
-aussi	ADV
-.	SENT
-mon	DET:POS
-coeur	NOM
-qui	PRO:REL
-dans	PRP
-les	DET:ART
-nuits	NOM
-parfois	ADV
-cherche	VER:pres
-à	PRP
-s'	PRO:PER
-entendre	VER:infi
-ou	KON
-de	PRP
-quel	PRO:REL
-dernier	ADJ
-mot	NOM
-t'	PRO:PER
-appeler	VER:infi
-le	DET:ART
-plus	ADV
-tendre	ADJ
-s'	PRO:PER
-exalte	VER:pres
-en	PRP
-celui	PRO:DEM
-rien	NOM
-que	KON
-chuchoté	VER:pper
-de	PRP
-soeur	NOM
-n'	ADV
-était	VER:impf
-,	PUN
-très	ADV
-grand	ADJ
-trésor	NOM
-et	KON
-tête	NOM
-si	ADV
-petite	ADJ
-,	PUN
-que	KON
-tu	PRO:PER
-m'	PRO:PER
-enseignes	VER:pres
-bien	ADV
-toute	PRO:IND
-une	DET:ART
-autre	ADJ
-douceur	NOM
-tout	ADV
-bas	ADV
-par	PRP
-le	DET:ART
-baiser	NOM
-seul	ADJ
-dans	PRP
-tes	DET:POS
-cheveux	NOM
-dite	ADJ
-.	SENT
+o	NOM	o
+si	ADV	si
+chère	ADJ	cher
+de	PRP	de
+loin	ADV	loin
+et	KON	et
+proche	ADJ	proche
+et	KON	et
+blanche	ADJ	blanc
+,	PUN	,
+si	KON	si
+délicieusement	ADV	délicieusement
+toi	PRO:PER	toi
+,	PUN	,
+méry	NOM	méry
+,	PUN	,
+que	KON	que
+je	PRO:PER	je
+songe	VER:pres	songer
+à	PRP	à
+quelque	PRO:IND	quelque
+baume	NOM	baume
+rare	ADJ	rare
+émané	VER:pper	émaner
+par	PRP	par
+mensonge	NOM	mensonge
+sur	PRP	sur
+aucun	PRO:IND	aucun
+bouquetier	NOM	bouquetier
+de	PRP	de
+cristal	NOM	cristal
+obscurci	VER:pper	obscurcir
+le	PRO:PER	le
+sais	VER:pres	savoir
+tu	PRO:PER	tu
+,	PUN	,
+oui	INT	oui
+!	SENT	!
+pour	KON	pour
+moi	PRO:PER	moi
+voici	ADV	voici
+des	PRP:det	du
+ans	NOM	an
+,	PUN	,
+voici	ADV	voici
+toujours	ADV	toujours
+que	KON	que
+ton	DET:POS	ton
+sourire	NOM	sourire
+éblouissant	ADJ	éblouissant
+prolonge	VER:pres	prolonger
+la	DET:ART	le
+même	ADV	même
+rose	ADJ	rose
+avec	PRP	avec
+son	DET:POS	son
+bel	ADJ	beau
+été	NOM	été
+qui	PRO:REL	qui
+plonge	VER:pres	plonger
+dans	PRP	dans
+autrefois	ADV	autrefois
+et	KON	et
+puis	ADV	puis
+dans	PRP	dans
+le	DET:ART	le
+futur	NOM	futur
+aussi	ADV	aussi
+.	SENT	.
+mon	DET:POS	mon
+coeur	NOM	cœur
+qui	PRO:REL	qui
+dans	PRP	dans
+les	DET:ART	le
+nuits	NOM	nuit
+parfois	ADV	parfois
+cherche	VER:pres	chercher
+à	PRP	à
+s'	PRO:PER	se
+entendre	VER:infi	entendre
+ou	KON	ou
+de	PRP	de
+quel	PRO:REL	quel
+dernier	ADJ	dernier
+mot	NOM	mot
+t'	PRO:PER	te
+appeler	VER:infi	appeler
+le	DET:ART	le
+plus	ADV	plus
+tendre	ADJ	tendre
+s'	PRO:PER	se
+exalte	VER:pres	exalter
+en	PRP	en
+celui	PRO:DEM	celui
+rien	NOM	rien
+que	KON	que
+chuchoté	VER:pper	chuchoter
+de	PRP	de
+soeur	NOM	sœur
+n'	ADV	ne
+était	VER:impf	être
+,	PUN	,
+très	ADV	très
+grand	ADJ	grand
+trésor	NOM	trésor
+et	KON	et
+tête	NOM	tête
+si	ADV	si
+petite	ADJ	petit
+,	PUN	,
+que	KON	que
+tu	PRO:PER	tu
+m'	PRO:PER	me
+enseignes	VER:pres	enseigner
+bien	ADV	bien
+toute	PRO:IND	tout
+une	DET:ART	un
+autre	ADJ	autre
+douceur	NOM	douceur
+tout	ADV	tout
+bas	ADV	bas
+par	PRP	par
+le	DET:ART	le
+baiser	NOM	baiser
+seul	ADJ	seul
+dans	PRP	dans
+tes	DET:POS	ton
+cheveux	NOM	cheveu
+dite	ADJ	dit
+.	SENT	.

@@ -1,87 +1,87 @@
-rien	ADV
-,	PUN
-cette	PRO:DEM
-écume	NOM
-,	PUN
-vierge	ADJ
-vers	PRP
-a	VER:pres
-ne	ADV
-désigner	VER:infi
-que	KON
-la	DET:ART
-coupe	NOM
-;	PUN
-telle	PRO:DEM
-loin	ADV
-se	PRO:PER
-noie	VER:pres
-une	DET:ART
-troupe	NOM
-de	PRP
-sirènes	NOM
-mainte	PRO:IND
-à	PRP
-l'	DET:ART
-envers	NOM
-.	SENT
-nous	PRO:PER
-naviguons	VER:pres
-,	PUN
-ô	INT
-mes	DET:POS
-divers	ADJ
-amis	NOM
-,	PUN
-moi	PRO:PER
-déjà	ADV
-sur	PRP
-la	DET:ART
-poupe	NOM
-vous	PRO:PER
-l'	DET:ART
-avant	NOM
-fastueux	ADJ
-qui	PRO:REL
-coupe	VER:pres
-le	DET:ART
-flot	NOM
-de	PRP
-foudres	NOM
-et	KON
-d'	PRP
-hivers	NOM
-;	PUN
-une	DET:ART
-ivresse	NOM
-belle	ADJ
-m'	PRO:PER
-engage	VER:pres
-sans	PRP
-craindre	VER:infi
-même	ADV
-son	DET:POS
-tangage	NOM
-de	PRP
-porter	VER:infi
-debout	ADV
-ce	PRO:DEM
-salut	NOM
-solitude	NOM
-,	PUN
-récif	NOM
-,	PUN
-étoile	NOM
-a	VER:pres
-n'	ADV
-importe	VER:pres
-ce	PRO:DEM
-qui	PRO:REL
-valut	VER:simp
-le	DET:ART
-blanc	ADJ
-souci	NOM
-de	PRP
-notre	DET:POS
-toile	NOM
-.	SENT
+rien	ADV	rien
+,	PUN	,
+cette	PRO:DEM	ce
+écume	NOM	écume
+,	PUN	,
+vierge	ADJ	vierge
+vers	PRP	vers
+a	VER:pres	avoir
+ne	ADV	ne
+désigner	VER:infi	désigner
+que	KON	que
+la	DET:ART	le
+coupe	NOM	coupe
+;	PUN	;
+telle	PRO:DEM	tel
+loin	ADV	loin
+se	PRO:PER	se
+noie	VER:pres	noyer
+une	DET:ART	un
+troupe	NOM	troupe
+de	PRP	de
+sirènes	NOM	sirène
+mainte	PRO:IND	maint
+à	PRP	à
+l'	DET:ART	le
+envers	NOM	envers
+.	SENT	.
+nous	PRO:PER	nous
+naviguons	VER:pres	naviguer
+,	PUN	,
+ô	INT	ô
+mes	DET:POS	mon
+divers	ADJ	divers
+amis	NOM	ami
+,	PUN	,
+moi	PRO:PER	moi
+déjà	ADV	déjà
+sur	PRP	sur
+la	DET:ART	le
+poupe	NOM	poupe
+vous	PRO:PER	vous
+l'	DET:ART	le
+avant	NOM	avant
+fastueux	ADJ	fastueux
+qui	PRO:REL	qui
+coupe	VER:pres	couper
+le	DET:ART	le
+flot	NOM	flot
+de	PRP	de
+foudres	NOM	foudre
+et	KON	et
+d'	PRP	de
+hivers	NOM	hiver
+;	PUN	;
+une	DET:ART	un
+ivresse	NOM	ivresse
+belle	ADJ	beau
+m'	PRO:PER	me
+engage	VER:pres	engager
+sans	PRP	sans
+craindre	VER:infi	craindre
+même	ADV	même
+son	DET:POS	son
+tangage	NOM	tangage
+de	PRP	de
+porter	VER:infi	porter
+debout	ADV	debout
+ce	PRO:DEM	ce
+salut	NOM	salut
+solitude	NOM	solitude
+,	PUN	,
+récif	NOM	récif
+,	PUN	,
+étoile	NOM	étoile
+a	VER:pres	avoir
+n'	ADV	ne
+importe	VER:pres	importer
+ce	PRO:DEM	ce
+qui	PRO:REL	qui
+valut	VER:simp	valoir
+le	DET:ART	le
+blanc	ADJ	blanc
+souci	NOM	souci
+de	PRP	de
+notre	DET:POS	notre
+toile	NOM	toile
+.	SENT	.

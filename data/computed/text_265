@@ -1,172 +1,172 @@
-seigneur	NOM
-,	PUN
-quand	ADV
-froide	ADJ
-est	VER:pres
-la	DET:ART
-prairie	NOM
-,	PUN
-quand	KON
-dans	PRP
-les	DET:ART
-hameaux	NOM
-abattus	VER:pper
-,	PUN
-les	DET:ART
-longs	ADJ
-angelus	NOM
-se	PRO:PER
-sont	VER:pres
-tus	VER:pper
-sur	PRP
-la	DET:ART
-nature	NOM
-défleurie	VER:pper
-,	PUN
-faites	VER:pres
-s'	PRO:PER
-abattre	VER:infi
-des	PRP:det
-grands	ADJ
-cieux	NOM
-les	DET:ART
-chers	ADJ
-corbeaux	NOM
-délicieux	ADJ
-.	SENT
-armée	NOM
-étrange	ADJ
-aux	PRP:det
-cris	NOM
-sévères	ADJ
-,	PUN
-les	DET:ART
-vents	NOM
-froids	ADJ
-attaquent	VER:pres
-vos	DET:POS
-nids	NOM
-!	SENT
-vous	PRO:PER
-,	PUN
-le	DET:ART
-long	NOM
-des	PRP:det
-fleuves	NOM
-jaunis	VER:pper
-,	PUN
-sur	PRP
-les	DET:ART
-routes	NOM
-aux	PRP:det
-vieux	ADJ
-calvaires	NOM
-,	PUN
-sur	PRP
-les	DET:ART
-fossés	NOM
-et	KON
-sur	PRP
-les	DET:ART
-trous	NOM
-,	PUN
-dispersez	VER:pres
-vous	PRO:PER
-,	PUN
-ralliez	VER:impf
-vous	PRO:PER
-!	SENT
-par	PRP
-milliers	NOM
-,	PUN
-sur	PRP
-les	DET:ART
-champs	NOM
-de	PRP
-france	NOM
-,	PUN
-où	PRO:REL
-dorment	VER:pres
-les	DET:ART
-morts	NOM
-d'	PRP
-avant	PRP
-hier	VER:infi
-,	PUN
-tournoyez	VER:pres
-,	PUN
-n'	ADV
-est	VER:pres
-ce	PRO:DEM
-pas	NOM
-,	PUN
-l'	DET:ART
-hiver	NOM
-,	PUN
-pour	KON
-que	KON
-chaque	PRO:IND
-passant	NOM
-repense	VER:pres
-!	SENT
-sois	VER:impe
-donc	ADV
-le	DET:ART
-crieur	NOM
-du	PRP:det
-devoir	NOM
-,	PUN
-o	VER:pper
-notre	DET:POS
-funèbre	ADJ
-oiseau	NOM
-noir	ADJ
-!	SENT
-mais	KON
-,	PUN
-saints	NOM
-du	PRP:det
-ciel	NOM
-,	PUN
-en	PRP
-haut	ADV
-du	PRP:det
-chêne	NOM
-,	PUN
-mât	NOM
-perdu	VER:pper
-dans	PRP
-le	DET:ART
-soir	NOM
-charmé	VER:pper
-,	PUN
-laissez	VER:pres
-les	DET:ART
-fauvettes	NOM
-de	PRP
-mai	NOM
-pour	PRP
-ceux	PRO:DEM
-qu'	PRO:REL
-au	PRP:det
-fond	NOM
-du	PRP:det
-bois	NOM
-enchaîne	VER:pres
-,	PUN
-dans	PRP
-l'	DET:ART
-herbe	NOM
-d'	PRP
-où	PRO:REL
-l'	DET:ART
-on	PRO:PER
-ne	ADV
-peut	VER:pres
-fuir	VER:infi
-,	PUN
-la	DET:ART
-défaite	NOM
-sans	PRP
-avenir	NOM
-.	SENT
+seigneur	NOM	seigneur
+,	PUN	,
+quand	ADV	quand
+froide	ADJ	froid
+est	VER:pres	être
+la	DET:ART	le
+prairie	NOM	prairie
+,	PUN	,
+quand	KON	quand
+dans	PRP	dans
+les	DET:ART	le
+hameaux	NOM	hameau
+abattus	VER:pper	abattre
+,	PUN	,
+les	DET:ART	le
+longs	ADJ	long
+angelus	NOM	angelus
+se	PRO:PER	se
+sont	VER:pres	être
+tus	VER:pper	taire
+sur	PRP	sur
+la	DET:ART	le
+nature	NOM	nature
+défleurie	VER:pper	défleurir
+,	PUN	,
+faites	VER:pres	faire
+s'	PRO:PER	se
+abattre	VER:infi	abattre
+des	PRP:det	du
+grands	ADJ	grand
+cieux	NOM	cieux
+les	DET:ART	le
+chers	ADJ	cher
+corbeaux	NOM	corbeau
+délicieux	ADJ	délicieux
+.	SENT	.
+armée	NOM	armée
+étrange	ADJ	étrange
+aux	PRP:det	au
+cris	NOM	cri
+sévères	ADJ	sévère
+,	PUN	,
+les	DET:ART	le
+vents	NOM	vent
+froids	ADJ	froid
+attaquent	VER:pres	attaquer
+vos	DET:POS	votre
+nids	NOM	nid
+!	SENT	!
+vous	PRO:PER	vous
+,	PUN	,
+le	DET:ART	le
+long	NOM	long
+des	PRP:det	du
+fleuves	NOM	fleuve
+jaunis	VER:pper	jaunir
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+routes	NOM	route
+aux	PRP:det	au
+vieux	ADJ	vieux
+calvaires	NOM	calvaire
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+fossés	NOM	fossé
+et	KON	et
+sur	PRP	sur
+les	DET:ART	le
+trous	NOM	trou
+,	PUN	,
+dispersez	VER:pres	disperser
+vous	PRO:PER	vous
+,	PUN	,
+ralliez	VER:impf	raller
+vous	PRO:PER	vous
+!	SENT	!
+par	PRP	par
+milliers	NOM	millier
+,	PUN	,
+sur	PRP	sur
+les	DET:ART	le
+champs	NOM	champ
+de	PRP	de
+france	NOM	france
+,	PUN	,
+où	PRO:REL	où
+dorment	VER:pres	dormir
+les	DET:ART	le
+morts	NOM	mort
+d'	PRP	de
+avant	PRP	avant
+hier	VER:infi	hier
+,	PUN	,
+tournoyez	VER:pres	tournoyer
+,	PUN	,
+n'	ADV	ne
+est	VER:pres	être
+ce	PRO:DEM	ce
+pas	NOM	pas
+,	PUN	,
+l'	DET:ART	le
+hiver	NOM	hiver
+,	PUN	,
+pour	KON	pour
+que	KON	que
+chaque	PRO:IND	chaque
+passant	NOM	passant
+repense	VER:pres	repenser
+!	SENT	!
+sois	VER:impe	être
+donc	ADV	donc
+le	DET:ART	le
+crieur	NOM	crieur
+du	PRP:det	du
+devoir	NOM	devoir
+,	PUN	,
+o	VER:pper	o
+notre	DET:POS	notre
+funèbre	ADJ	funèbre
+oiseau	NOM	oiseau
+noir	ADJ	noir
+!	SENT	!
+mais	KON	mais
+,	PUN	,
+saints	NOM	saint
+du	PRP:det	du
+ciel	NOM	ciel
+,	PUN	,
+en	PRP	en
+haut	ADV	haut
+du	PRP:det	du
+chêne	NOM	chêne
+,	PUN	,
+mât	NOM	mât
+perdu	VER:pper	perdre
+dans	PRP	dans
+le	DET:ART	le
+soir	NOM	soir
+charmé	VER:pper	charmer
+,	PUN	,
+laissez	VER:pres	laisser
+les	DET:ART	le
+fauvettes	NOM	fauvette
+de	PRP	de
+mai	NOM	mai
+pour	PRP	pour
+ceux	PRO:DEM	celui
+qu'	PRO:REL	que
+au	PRP:det	au
+fond	NOM	fond
+du	PRP:det	du
+bois	NOM	bois
+enchaîne	VER:pres	enchaîner
+,	PUN	,
+dans	PRP	dans
+l'	DET:ART	le
+herbe	NOM	herbe
+d'	PRP	de
+où	PRO:REL	où
+l'	DET:ART	le
+on	PRO:PER	on
+ne	ADV	ne
+peut	VER:pres	pouvoir
+fuir	VER:infi	fuir
+,	PUN	,
+la	DET:ART	le
+défaite	NOM	défaite
+sans	PRP	sans
+avenir	NOM	avenir
+.	SENT	.

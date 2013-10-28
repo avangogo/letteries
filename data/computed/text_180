@@ -1,212 +1,212 @@
-mon	DET:POS
-enfant	NOM
-,	PUN
-ma	DET:POS
-soeur	NOM
-,	PUN
-songe	NOM
-à	PRP
-la	DET:ART
-douceur	NOM
-d'	PRP
-aller	VER:infi
-là	ADV
-bas	ADV
-vivre	VER:infi
-ensemble	ADV
-!	SENT
-aimer	VER:infi
-à	PRP
-loisir	NOM
-,	PUN
-aimer	VER:infi
-et	KON
-mourir	VER:infi
-au	PRP:det
-pays	NOM
-qui	PRO:REL
-te	PRO:PER
-ressemble	VER:pres
-!	SENT
-les	DET:ART
-soleils	NOM
-mouillés	VER:pper
-de	PRP
-ces	PRO:DEM
-ciels	NOM
-brouillés	VER:pper
-pour	PRP
-mon	DET:POS
-esprit	NOM
-ont	VER:pres
-les	DET:ART
-charmes	NOM
-si	ADV
-mystérieux	ADJ
-de	PRP
-tes	DET:POS
-traîtres	ADJ
-yeux	NOM
-,	PUN
-brillant	VER:ppre
-à	PRP
-travers	NOM
-leurs	DET:POS
-larmes	NOM
-.	SENT
-là	ADV
-,	PUN
-tout	ADV
-n'	ADV
-est	VER:pres
-qu'	KON
-ordre	NOM
-et	KON
-beauté	NOM
-,	PUN
-luxe	NOM
-,	PUN
-calme	ADJ
-et	KON
-volupté	NOM
-.	SENT
-des	PRP:det
-meubles	NOM
-luisants	ADJ
-,	PUN
-polis	VER:pper
-par	PRP
-les	DET:ART
-ans	NOM
-,	PUN
-décoreraient	VER:cond
-notre	DET:POS
-chambre	NOM
-;	PUN
-les	DET:ART
-plus	ADV
-rares	ADJ
-fleursmêlant	VER:ppre
-leurs	DET:POS
-odeurs	NOM
-aux	PRP:det
-vagues	ADJ
-senteurs	NOM
-de	PRP
-l'	DET:ART
-ambre	NOM
-,	PUN
-les	DET:ART
-riches	ADJ
-plafonds	NOM
-,	PUN
-les	DET:ART
-miroirs	NOM
-profonds	ADJ
-,	PUN
-la	DET:ART
-splendeur	NOM
-orientale	ADJ
-,	PUN
-tout	ADV
-y	PRO:PER
-parlerait	VER:cond
-à	PRP
-l'	DET:ART
-âme	NOM
-en	PRP
-secret	NOM
-sa	DET:POS
-douce	ADJ
-langue	NOM
-natale	ADJ
-.	SENT
-là	ADV
-,	PUN
-tout	ADV
-n'	ADV
-est	VER:pres
-qu'	KON
-ordre	NOM
-et	KON
-beauté	NOM
-,	PUN
-luxe	NOM
-,	PUN
-calme	ADJ
-et	KON
-volupté	NOM
-.	SENT
-vois	VER:pres
-sur	PRP
-ces	PRO:DEM
-canaux	NOM
-dormir	VER:infi
-ces	PRO:DEM
-vaisseaux	NOM
-dont	PRO:REL
-l'	DET:ART
-humeur	NOM
-est	VER:pres
-vagabonde	ADJ
-;	PUN
-c'	PRO:DEM
-est	VER:pres
-pour	PRP
-assouvir	VER:infi
-ton	DET:POS
-moindre	ADJ
-désir	NOM
-qu'	PRO:REL
-ils	PRO:PER
-viennent	VER:pres
-du	PRP:det
-bout	NOM
-du	PRP:det
-monde	NOM
-.	SENT
-les	DET:ART
-soleils	NOM
-couchants	ADJ
-revêtent	VER:pres
-les	DET:ART
-champs	NOM
-,	PUN
-les	DET:ART
-canaux	NOM
-,	PUN
-la	DET:ART
-ville	NOM
-entière	ADJ
-,	PUN
-d'	PRP
-hyacinthe	NOM
-et	KON
-d'	PRP
-or	NOM
-;	PUN
-le	DET:ART
-monde	NOM
-s'	PRO:PER
-endort	VER:pres
-dans	PRP
-une	DET:ART
-chaude	ADJ
-lumière	NOM
-.	SENT
-là	ADV
-,	PUN
-tout	ADV
-n'	ADV
-est	VER:pres
-qu'	KON
-ordre	NOM
-et	KON
-beauté	NOM
-,	PUN
-luxe	NOM
-,	PUN
-calme	ADJ
-et	KON
-volupté	NOM
-.	SENT
+mon	DET:POS	mon
+enfant	NOM	enfant
+,	PUN	,
+ma	DET:POS	mon
+soeur	NOM	sœur
+,	PUN	,
+songe	NOM	songe
+à	PRP	à
+la	DET:ART	le
+douceur	NOM	douceur
+d'	PRP	de
+aller	VER:infi	aller
+là	ADV	là
+bas	ADV	bas
+vivre	VER:infi	vivre
+ensemble	ADV	ensemble
+!	SENT	!
+aimer	VER:infi	aimer
+à	PRP	à
+loisir	NOM	loisir
+,	PUN	,
+aimer	VER:infi	aimer
+et	KON	et
+mourir	VER:infi	mourir
+au	PRP:det	au
+pays	NOM	pays
+qui	PRO:REL	qui
+te	PRO:PER	te
+ressemble	VER:pres	ressembler
+!	SENT	!
+les	DET:ART	le
+soleils	NOM	soleil
+mouillés	VER:pper	mouiller
+de	PRP	de
+ces	PRO:DEM	ce
+ciels	NOM	ciel
+brouillés	VER:pper	brouiller
+pour	PRP	pour
+mon	DET:POS	mon
+esprit	NOM	esprit
+ont	VER:pres	avoir
+les	DET:ART	le
+charmes	NOM	charme
+si	ADV	si
+mystérieux	ADJ	mystérieux
+de	PRP	de
+tes	DET:POS	ton
+traîtres	ADJ	traître
+yeux	NOM	œil
+,	PUN	,
+brillant	VER:ppre	briller
+à	PRP	à
+travers	NOM	travers
+leurs	DET:POS	leur
+larmes	NOM	larme
+.	SENT	.
+là	ADV	là
+,	PUN	,
+tout	ADV	tout
+n'	ADV	ne
+est	VER:pres	être
+qu'	KON	que
+ordre	NOM	ordre
+et	KON	et
+beauté	NOM	beauté
+,	PUN	,
+luxe	NOM	luxe
+,	PUN	,
+calme	ADJ	calme
+et	KON	et
+volupté	NOM	volupté
+.	SENT	.
+des	PRP:det	du
+meubles	NOM	meuble
+luisants	ADJ	luisant
+,	PUN	,
+polis	VER:pper	polir
+par	PRP	par
+les	DET:ART	le
+ans	NOM	an
+,	PUN	,
+décoreraient	VER:cond	décorer
+notre	DET:POS	notre
+chambre	NOM	chambre
+;	PUN	;
+les	DET:ART	le
+plus	ADV	plus
+rares	ADJ	rare
+fleursmêlant	VER:ppre	fleursmêlant
+leurs	DET:POS	leur
+odeurs	NOM	odeur
+aux	PRP:det	au
+vagues	ADJ	vague
+senteurs	NOM	senteur
+de	PRP	de
+l'	DET:ART	le
+ambre	NOM	ambre
+,	PUN	,
+les	DET:ART	le
+riches	ADJ	riche
+plafonds	NOM	plafond
+,	PUN	,
+les	DET:ART	le
+miroirs	NOM	miroir
+profonds	ADJ	profond
+,	PUN	,
+la	DET:ART	le
+splendeur	NOM	splendeur
+orientale	ADJ	oriental
+,	PUN	,
+tout	ADV	tout
+y	PRO:PER	y
+parlerait	VER:cond	parler
+à	PRP	à
+l'	DET:ART	le
+âme	NOM	âme
+en	PRP	en
+secret	NOM	secret
+sa	DET:POS	son
+douce	ADJ	doux
+langue	NOM	langue
+natale	ADJ	natal
+.	SENT	.
+là	ADV	là
+,	PUN	,
+tout	ADV	tout
+n'	ADV	ne
+est	VER:pres	être
+qu'	KON	que
+ordre	NOM	ordre
+et	KON	et
+beauté	NOM	beauté
+,	PUN	,
+luxe	NOM	luxe
+,	PUN	,
+calme	ADJ	calme
+et	KON	et
+volupté	NOM	volupté
+.	SENT	.
+vois	VER:pres	voir
+sur	PRP	sur
+ces	PRO:DEM	ce
+canaux	NOM	canal
+dormir	VER:infi	dormir
+ces	PRO:DEM	ce
+vaisseaux	NOM	vaisseau
+dont	PRO:REL	dont
+l'	DET:ART	le
+humeur	NOM	humeur
+est	VER:pres	être
+vagabonde	ADJ	vagabond
+;	PUN	;
+c'	PRO:DEM	ce
+est	VER:pres	être
+pour	PRP	pour
+assouvir	VER:infi	assouvir
+ton	DET:POS	ton
+moindre	ADJ	moindre
+désir	NOM	désir
+qu'	PRO:REL	que
+ils	PRO:PER	il
+viennent	VER:pres	venir
+du	PRP:det	du
+bout	NOM	bout
+du	PRP:det	du
+monde	NOM	monde
+.	SENT	.
+les	DET:ART	le
+soleils	NOM	soleil
+couchants	ADJ	couchant
+revêtent	VER:pres	revêtir
+les	DET:ART	le
+champs	NOM	champ
+,	PUN	,
+les	DET:ART	le
+canaux	NOM	canal
+,	PUN	,
+la	DET:ART	le
+ville	NOM	ville
+entière	ADJ	entier
+,	PUN	,
+d'	PRP	de
+hyacinthe	NOM	hyacinthe
+et	KON	et
+d'	PRP	de
+or	NOM	or
+;	PUN	;
+le	DET:ART	le
+monde	NOM	monde
+s'	PRO:PER	se
+endort	VER:pres	endormir
+dans	PRP	dans
+une	DET:ART	un
+chaude	ADJ	chaud
+lumière	NOM	lumière
+.	SENT	.
+là	ADV	là
+,	PUN	,
+tout	ADV	tout
+n'	ADV	ne
+est	VER:pres	être
+qu'	KON	que
+ordre	NOM	ordre
+et	KON	et
+beauté	NOM	beauté
+,	PUN	,
+luxe	NOM	luxe
+,	PUN	,
+calme	ADJ	calme
+et	KON	et
+volupté	NOM	volupté
+.	SENT	.
