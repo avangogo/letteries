@@ -24,3 +24,11 @@ let remove_duplicate l =
     | [ a ] -> a :: acc 
     | [] -> acc in
   aux [] (List.sort compare l);;
+
+
+let string_map f s =
+  let res = String.copy s in
+  for i = 0 to (String.length s) - 1 do
+    res.[i] <- f s.[i]
+  done;
+  res

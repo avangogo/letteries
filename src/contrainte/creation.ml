@@ -42,7 +42,7 @@ struct
   let precompute w =
     if w.relevant then int_of_filename w.file else 0
 
-  let filter _ _ = true
+  let final _ = true
 
   let step j k  =
     if k=0 then j
@@ -65,7 +65,7 @@ struct
 
   let precompute = Normal.precompute
 
-  let filter = Normal.filter
+  let final = Normal.final
 
   let step ( (a, b) as state ) c  =
     if c = 0 then state

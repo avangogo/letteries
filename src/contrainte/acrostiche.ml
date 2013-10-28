@@ -8,7 +8,7 @@ struct
 
   let precompute w = w.word.[0]
 
-  let filter _ _ = true
+  let final _ = true
 
   let step _ c = c
   

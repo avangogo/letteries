@@ -10,7 +10,7 @@ struct
 
   let precompute w = (String.length w.word) + 1
 
-  let filter _ _ = true
+  let final _ = true
 
   let step i j = i - j
 

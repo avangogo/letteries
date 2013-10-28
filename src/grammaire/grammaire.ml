@@ -53,7 +53,7 @@ type state = Finiteautomaton.state
 
 let precompute w = Tag.int_of_tag w.tag
 
-let filter _ _ = true
+let final s = Finiteautomaton.isFinal !automaton s
 
 let step (state : state) id_tag =
   let new_state = Finiteautomaton.delta !automaton state id_tag in

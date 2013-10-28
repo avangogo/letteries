@@ -17,7 +17,7 @@ struct
   let int_of_liaison muet debut =
     Phonetique.nbre_voyelles (Phonetique.liaison muet debut)
 
-  let filter (debut, i) (_, j, muet) = i >= j + (int_of_liaison muet debut)
+  let final _ = true
 
   let step (debut, i) (debut2, j, muet) =
     let new_debut = if debut2 <> Phonetique.phoneme_vide then debut2 else debut in

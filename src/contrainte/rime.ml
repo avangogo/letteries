@@ -70,7 +70,7 @@ struct
     let s = if w.phonetic = [] then "" else w.lemma in
     rime, s
 
-  let filter _ _ = true
+  let final _ = true
 
   let step ((task, assoc) as state) (rime, word) =
     if word = "" then state

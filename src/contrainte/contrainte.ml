@@ -22,12 +22,17 @@ type ('a, 'b) sum =
   |L of 'a
   |R of 'b;;
 
+type ('a, 'b) finalOrder =
+  |O of 'a
+  |M of 'b
+  |STOP
+
 module type Constraint =
 sig
   type metadata (*metadonnée*)
   type state (*etat*)
   val precompute : Word.word -> metadata
-  val filter : state -> metadata -> bool
+  val final : state -> bool
   val step : state -> metadata -> state
   (* compute the initial state AND initiate the automaton *)
   (* constraints can assume that init_state is called exctly once at the begining of each computation *)
@@ -59,7 +64,7 @@ struct
   type metadata = A.metadata * B.metadata
   type state = A.state*B.state
   let precompute w = A.precompute w, B.precompute w
-  let filter (sa, sb) (ma, mb) = (A.filter sa ma) && (B.filter sb mb)
+  let final (sa, sb) = A.final sa && B.final sb  
   let step (sa, sb) (ma, mb) = (A.step sa ma), (B.step sb mb)
   let init_state () = A.init_state (), B.init_state ()
   (* prettyprinting *)
@@ -90,13 +95,16 @@ module FinalConstraint
 struct
   module C = MergeConstraint (O.C) (Metric.C)
   type metadata = C.metadata
-  type state = C.state * (((O.order, Metric.order) sum) list)
+  type state = C.state * (((O.order, Metric.order) finalOrder) list)
   let precompute = C.precompute
-  let filter (s, _ : state) (m : metadata) = C.filter s m
+  let final (s, _) = C.final s (* a priori inutile *)
   let rec read_order oState metricState  = function
-    |(R metricOrder)::q ->
+    |(M metricOrder)::q ->
       (oState, Metric.use_order metricState metricOrder), q
-    |(L oOrder)::q -> read_order (O.use_order oState oOrder) metricState q
+    |(O oOrder)::q -> read_order (O.use_order oState oOrder) metricState q
+    |STOP::q -> if O.C.final oState (* flou: C.final ou O.C.final ? *)
+      then read_order oState metricState q
+      else raise ContrainteNonRespectee
     |[] -> failwith "read_order"
   let step (cState, l : state) (cMeta : metadata) =
     let (oState, metricState) as newState = C.step cState cMeta in

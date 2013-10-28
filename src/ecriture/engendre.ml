@@ -39,9 +39,9 @@ choose : trans -> arrow * trans
 go : state -> arrow -> state
 *)
 
-(*type state = string * C.state
+(*type state = State.t * C.state
   type trans = Markov.trans
-  type arrow = string * C.metadata list*)
+  type arrow = State.t * C.metadata list*)
 
 
 module type Markov =

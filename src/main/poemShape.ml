@@ -43,12 +43,12 @@ module Noble =
 	  (Rime))
        (Record)) (Pieds)
 
-let rime i = L (L i)
-let newline n = R (Pieds.Newline n)
-let cesure n = R (Pieds.Cesure n)
-let add s = L (R (Record.Add s))
+let rime i = O (L i)
+let newline n = M (Pieds.Newline n)
+let cesure n = M (Pieds.Cesure n)
+let add s = O (R (Record.Add s))
 let addNewline = add "\n"
-let end_ = L (R Record.END)
+let end_ = O (R Record.END)
 
 (* alexandrin avec césure à l'hémistiche *)
 let alexandrin idRime =
@@ -72,7 +72,7 @@ let poeme_alexandrins n =
   let rec aux = function
     |0 -> []
     |i -> ( alexandrin ((i + 1) / 2) ) @ ( aux (i - 1) ) in
-  [addNewline; add "."]@(aux n)@[end_]
+  [addNewline; add "."]@(aux n)@[STOP; end_]
 
 let quatrain _ =
   List.concat
@@ -82,7 +82,7 @@ let quatrain _ =
       alexandrin 2;
       alexandrin 1;
       alexandrin 2;
-      [end_]
+      [STOP; end_]
     ]
 
 (* ************************ En vers libres *********************** *)
@@ -94,10 +94,10 @@ module Free =
 	  (Contrainte.MergeConstraint (Singulier) (Creation.Weak)))
        (Record)) (Libre)
 
-let read n = R n
-let add s = L (Record.Add s)
+let read n = M n
+let add s = O (Record.Add s)
 let addNewline = add "\n"
-let end_ = L Record.END
+let end_ = O Record.END
 
 let vers_libre n = [read n; addNewline]
 
@@ -105,7 +105,7 @@ let poeme_libre n =
   let rec aux = function
     |0 -> []
     |i -> (vers_libre (Random.int 30))@(aux (i - 1)) in
-  [ addNewline; add "." ]@( aux n )@[ end_ ]
+  [ addNewline; add "." ]@( aux n )@[ STOP; end_ ]
 
 
 (* *********************** Acrostiche *************************** *)
@@ -124,13 +124,13 @@ module AvecAcrostiche =
        (Constraints) (OrderConstraint))
     (Pieds)
 
-let rime i = L (L i)
+let rime i = O (L i)
 (* let newline n = R (Pieds.Newline n)
 let cesure n = R (Pieds.Cesure n)*)
-let add s = L (R (L (Record.Add s)))
+let add s = O (R (L (Record.Add s)))
 let addNewline = add "\n"
-let end_ = L (R (L Record.END))
-let initiale a = L (R (R a))
+let end_ = O (R (L Record.END))
+let initiale a = O (R (R a))
 
 let acrovers a idRime =
   [ 
@@ -152,7 +152,7 @@ let poeme_acrostiche s _ =
   let rimes = make_rimes (List.length letters) in
   [addNewline; add "."]
   @ (List.concat (List.map2 acrovers letters rimes))
-  @ [end_];;
+  @ [STOP; end_];;
 
 
 (* ******** Tests *************** *)

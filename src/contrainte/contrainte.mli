@@ -2,12 +2,14 @@ exception ContrainteNonRespectee
 
 type ('a, 'b) sum = L of 'a | R of 'b
 
+type ('a, 'b) finalOrder = O of 'a | M of 'b | STOP
+
 module type Constraint =
   sig
     type metadata
     type state
     val precompute : Word.word -> metadata
-    val filter : state -> metadata -> bool
+    val final : state -> bool
     val step : state -> metadata -> state
     val init_state : unit -> state
     val name : string
@@ -47,5 +49,5 @@ module FinalConstraint :
     functor (Metric : MetricConstraint) ->
       (sig
 	include Constraint
-	val make_init : (O.order, Metric.order) sum list -> state
+	val make_init : (O.order, Metric.order) finalOrder list -> state
        end)

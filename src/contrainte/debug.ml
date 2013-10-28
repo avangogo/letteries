@@ -31,7 +31,7 @@ struct
   type metadata = C.metadata
   type state = C.state  * string list
   let precompute w = C.precompute w
-  let filter (s, _) m = C.filter s m
+  let final (s, _) = C.final s
   let step (s, l) m =
     let new_s = C.step s m in
     let new_l = (Printf.sprintf "%s%s%s -> %s%s%s" rouge (C.print_metadata m) fin bleu (C.print_state new_s) fin )::l in

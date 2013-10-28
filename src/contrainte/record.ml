@@ -26,7 +26,7 @@ struct
   type metadata = word
   type state = word list
   let precompute w = w
-  let filter _ _ = true
+  let final _ = true
   let step l s = s::l
   let init_state () = []
  (*pretty-printing*)

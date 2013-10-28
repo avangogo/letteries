@@ -27,7 +27,7 @@ type state = StringSet.t
 let precompute w =
   if w.relevant then Some w.lemma else None
     
-let filter _ _ = true
+let final _ = true
 
 let step map = function
   |None -> map
