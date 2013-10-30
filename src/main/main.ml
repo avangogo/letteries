@@ -96,7 +96,17 @@ let construit_poeme parse_texts =
       Print.p "Écriture…";
 
       let poeme_words = E.write markov (State.make (firstWord, tag)) state_init in
-      let poeme = List.map (fun w -> w.Word.word) poeme_words in
+      let poeme =
+	if !Param.xml
+	then
+	  begin (* FIXME *)
+	    List.concat [
+	      ["<data>"];
+	      List.map Xml.xml_of_word poeme_words;
+	      ["</data>"]
+	    ]
+	  end
+	else List.map (fun w -> w.Word.word) poeme_words in
 
 	(* Mise en forme et affichage *)
       Print.p "Mise en page…";

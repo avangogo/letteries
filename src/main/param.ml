@@ -36,6 +36,7 @@ let seed = ref (Random.self_init (); Random.int (1 lsl 29))
 
 (* output *)
 let output = ref None
+let xml = ref false
 
 (* information writing *)
 let loquacity = ref Usual
@@ -149,7 +150,15 @@ let chdir_spec =
     " Set the working directory. It should be */lettreries"
   )
 
-let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; oldGrammar_spec; chdir_spec; clean_spec]
+let xml_spec =
+  (
+    "-xml",
+    Arg.Set xml,
+    " Print the output in an xml format"
+  )
+
+
+let spec = Arg.align [output_spec; seed_spec; first_spec; poemlength_spec; quietmod_spec; verbosemod_spec; without_treetagger_spec; makecorpus_spec; oldGrammar_spec; xml_spec; chdir_spec; clean_spec]
  
 let empty_anon_fun s =
   raise (Arg.Bad ( Printf.sprintf "Don't know what to do with %s" s ))
