@@ -26,7 +26,7 @@ module B = Complex_bdd.ComplexBdd (T)
 module E = Engendre.Engendre (T) (B);;
 
 
-let construit_poeme parse_texts =
+let construit_poeme reps_corpus parse_texts =
   Print.p (Printf.sprintf "Premier mot : %s" !Param.first_word);
   Print.p (Printf.sprintf "Graine : %i" !Param.seed);
   Print.p (Printf.sprintf "Nom de la contrainte : %s." T.name);
@@ -41,24 +41,37 @@ let construit_poeme parse_texts =
   Print.verbose (Printf.sprintf "%d états" (Phonetique.size machine));
   Print.verbose (Printf.sprintf "Temps de création de l’automate : %f" t1);
 
-  (* La fonction de traduction aux modules qui l’utilisent *)
+  (* La fonction de traduction en phonetique *)
   let traduit mot = Phonetique.of_string machine (UseCamomile.latin0_of_utf8 mot) in
 
-  (* Lecture du corpus *)
-  Print.p "Récupération des textes…";
+  (* Fonction de lecture du corpus *)
+  let build_corpus () =
+    Print.p "Récupération des textes…";
+    let textes_parses = parse_texts traduit in
+ 
+    Print.p "Précalcul…";
+    let markov0 = B.build textes_parses in
 
-  let textes_parses = Obj.magic (parse_texts traduit) in
-  
-  Print.p "Précalcul des données…";
-  let markov0 = B.build textes_parses in
+    let forbiddenWords = ["a"; "ont"; "est"; "sont"] in
+    let markov = B.filter
+      (fun x -> let s, _ = Obj.magic x in
+		not (List.mem s forbiddenWords))
+      markov0 in
+    markov in
 
-  let forbiddenWords = ["a"; "ont"; "est"; "sont"] in
+  (* spécification des depandances*)
+  let dep_corpus = List.concat (List.map Lecture.getFiles reps_corpus) in
+  let dep_phonetique = [!Param.phoneticrules_file] in
+  let dep_grammaire = [!Param.grammarrules_file] in
+  let dep_lettreries = [Sys.executable_name] in
+  let dep = List.concat
+    [ dep_phonetique; dep_grammaire; dep_lettreries; dep_corpus ] in
   
-  let markov = B.filter
-    (fun x -> let s, _ = Obj.magic x in
-	      not (List.mem s forbiddenWords))
-    markov0 in
-  
+  let markov = Make.load
+    ~makeMessage:"Précalcul des données…"
+    ~loadMessage:"Chargement des données…"
+    dep !Param.markov_file build_corpus in
+
   (*
   let out = open_out "bdd" in
   B.printAll out markov;
@@ -78,7 +91,6 @@ let construit_poeme parse_texts =
 
   Print.p "Initialisation…";
   (* Création de l’état initial *)
-
 
   let regle = poeme !Param.poemLength  in
   
@@ -135,13 +147,17 @@ let main () =
   Param.parse_arg ();
 
   match !Param.task with
-    |Param.PoemFromComputed -> construit_poeme
-      (fun traduit ->
-	Lecture.getComputed traduit [!Param.computed_dir])
-    |Param.PoemFromCorpus -> construit_poeme  
-      (fun traduit ->
-	Lecture.getRaw traduit
-	  (List.map ((^) !Param.corpus_dir) !Param.corpus_subdirs))
+    |Param.PoemFromComputed ->
+      let corpus = [!Param.computed_dir] in 
+      construit_poeme corpus
+	(fun traduit ->
+	  Lecture.getComputed traduit corpus)
+    |Param.PoemFromCorpus ->
+      let corpus = List.map ((^) !Param.corpus_dir) !Param.corpus_subdirs in 
+      construit_poeme corpus
+	(fun traduit ->
+	  Lecture.getRaw traduit corpus
+	)
     |Param.MakeComputed -> Makecorpus.main ()
     |Param.Clean -> Action.makeClean ();;
 

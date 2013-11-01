@@ -56,6 +56,7 @@ let phoneticautomaton_file = ref "data/precomputed/automatephonetique"
 let grammarrules_file = ref "data/reglesdegrammaire"
 let grammarautomaton_file = ref "data/precomputed/automategramatical"
 let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
+let markov_file = ref "data/precomputed/markov"
 
 (* algorithm parameters *)
 let minSentenceLength = ref 10

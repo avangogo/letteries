@@ -8,4 +8,5 @@ let loadPhonetic () =
 
 let makeClean () =
   Sys.remove !Param.phoneticautomaton_file;
-  Sys.remove !Param.grammarautomaton_file;;
+  Sys.remove !Param.grammarautomaton_file;
+  Sys.remove !Param.markov_file;;
