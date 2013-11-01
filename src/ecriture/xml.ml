@@ -23,3 +23,7 @@ let xml_of_sep = function
 let xml_of_token = function
   |R w -> xml_of_word w
   |L s -> xml_of_sep s
+
+let prelude = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<data>"
+
+let epilogue = "</data>"

@@ -106,9 +106,9 @@ let construit_poeme parse_texts =
 	then
 	  begin (* FIXME *)
 	    List.concat [
-	      ["<data>"];
+	      [Xml.prelude];
 	      List.map Xml.xml_of_token poeme_tokens;
-	      ["</data>"]
+	      [Xml.epilogue]
 	    ]
 	  end
 	else List.map Word.string_of_token poeme_tokens in
