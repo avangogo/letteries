@@ -15,12 +15,9 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *)
+open Common
 
 exception ContrainteNonRespectee
-
-type ('a, 'b) sum =
-  |L of 'a
-  |R of 'b;;
 
 type ('a, 'b) finalOrder =
   |O of 'a

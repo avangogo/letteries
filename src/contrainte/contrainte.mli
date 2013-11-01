@@ -1,6 +1,6 @@
-exception ContrainteNonRespectee
+open Common
 
-type ('a, 'b) sum = L of 'a | R of 'b
+exception ContrainteNonRespectee
 
 type ('a, 'b) finalOrder = O of 'a | M of 'b | STOP
 

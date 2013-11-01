@@ -36,7 +36,12 @@ let string_of_muet (p1, p2) =
     |Some x -> Affichage.so_phoneme x
     |None -> "'_'" in
   Printf.sprintf "%s%s" (aux p1) (aux p2)
-let print l = List.iter Affichage.p_phoneme l
+let sprint l =
+  String.concat "" (List.map Affichage.so_phoneme l)
+let print l =
+  print_string (sprint l)
+let sprettyprint_api_utf8 l =
+  Printf.sprintf "[ %s ]" (String.concat "" (List.map Phoneme.api l))
 let prettyprint_api_utf8 l =
-  Printf.printf "[ %s ]" (String.concat "" (List.map Phoneme.api l))
+  print_string (sprettyprint_api_utf8 l)
 let size = Traduction.size

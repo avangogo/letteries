@@ -25,6 +25,7 @@ module DSingulier = Debug.OfConstraint (Singulier)
 
 (* ********************* Forme habituelle *********************** *)
 
+open Common
 open Contrainte
 
 module Classic =

@@ -17,16 +17,23 @@
 (* Remarque : tout ou une partie de ce code pourrait être récrit
 de manière plus lisible avec lex *)
 
+(* FIXME : à nettoyer *)
+
+open Common
+open Word
+
+(*
 let ps = print_string
-let p = fun s -> ps s; print_newline ()
+let p = fun s -> ps s; print_newline ()*)
 
 (* comportement de la ponctuation vis-à-vis des espaces *)
 let ponctuation_liante = ['-' ; '\'']
-let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ','; '\n' ]
+let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ',';'\n']
 let ponctuation_espace = [' ']
 
 (* éléments de ponctuation suivis par une majuscule *)
 let ponctuation_capitalisante = ['\n'; '!'; '?'; '.']
+
 
 type type_carac = 
   |PonctuationLiante
@@ -50,30 +57,17 @@ let type_carac_of_char c =
 [ - ' ]  [. ? , ; !] [a b c]
 1: ' -> 2 | , -> 1 | a -> 3,x| " " -> 1
 2: ' -> 2 | , -> 1 | a -> 3  | " " -> 2
-3: ' -> 2 | , -> 1 | a -> 3  | " " -> 1
+3: ' -> 2 | , -> 1 | a -> 3  | " " -> 1*)
 
-*)
-
-let list_iteri f (*int -> 'a -> unit*) =
-  let rec aux i  = function
-    |t::q -> (f i t); aux (i+1) q
-    |[]   -> () in
-    aux 0;;
-
-let string_of_char_list liste=
-  let n = List.length liste in
-  let res = String.make n 't' in
-    list_iteri (fun i c -> (res.[n-i-1] <- c)) liste;
-    res;;
 
 (*fait une nouvelle liste de mot, plus propre*)
 (*en réunissant les caractères devant être collés*)
-let reparse l =
+(*let reparse l =
   let mot_en_cours = ref [] in
   let resultat = ref [] in
   let push x = mot_en_cours := x::(!mot_en_cours);
   and mot_fini () =
-    let mot_lu = string_of_char_list (!mot_en_cours) in
+    let mot_lu = string_of_charlist (List.rev !mot_en_cours) in
       if mot_lu <> "" then resultat := mot_lu::(!resultat);
       mot_en_cours := [] in
   let transition etat c = match (etat, (type_carac_of_char c)) with
@@ -91,11 +85,11 @@ let reparse l =
     List.iter (function m -> String.iter lire m; lire ' ') l;
     mot_fini (); (*on finit le dernier mot*)
     List.rev (!resultat)(*le resultat est à l'envers*)
-;;
+;;*)
 
 (* met les sauts de ligne à la fin du mot *)
 (* exemple : "lampadophore\n," -> "lampadophore,\n" *)
-let gere_sauts s0 =
+(*let gere_sauts s0 =
   let s = String.copy s0 in
   let n = String.length s in
   let swap a b =
@@ -109,53 +103,104 @@ let gere_sauts s0 =
   for i = 0 to n-2 do
     if s.[i] = '\n' then decale i
   done;
-  s;;
-
-(*écrit le poeme par "vers"*)
-let met_en_page largeur l =
-  let rec aux decalage (*ponctuation*) mot =
-    let lmot = String.length mot in
-      if decalage = 0 then
-	begin
-	  ps (String.capitalize mot);
-	  lmot
-	end
-      else
-	if (decalage + lmot + 1 < largeur) then
-	  begin
-	    ps " ";
-	    ps mot;
-	    decalage + lmot + 1
-	  end
-	else
-	  begin
-	    print_newline ();
-	    aux 0 mot
-	  end
-  in
-    List.fold_left aux (-1) l;;
+  s;;*)
 
 (**)
 let string_end s = match String.length s with
   |0 -> failwith "string_end: chaine vide"
   |n -> s.[n-1];;
 
-let ajoute_majuscules =
+(*let ajoute_majuscules =
   let rec aux maj = function
     | mot :: texte ->
       (if maj then String.capitalize mot else mot) ::
 	(aux (List.mem (string_end mot) ponctuation_capitalisante) texte)
     | [] -> [] in
-  aux true
+  aux true*)
 
-(*affiche un texte déjà mis en page*)
-let affiche out l =
-  let aux est_debut mot =
-    if not est_debut then output_string out " ";
-    output_string out mot;
-    (string_end mot = '\n') in
-  ignore (List.fold_left aux true l);;
+(* **nouvelle version** *)
+type etat =
+ |Next
+ |Stick
+ |Word
 
-(*met en page et affiche*)
-let affiche_poeme ?(out=stdout) poeme =
-  affiche out (ajoute_majuscules (List.map gere_sauts (reparse poeme)));;
+let rec list_make l a =
+  match l with
+  |0 -> []
+  |n -> a::(list_make (n-1) a)
+
+let transition etat c = match (etat, (type_carac_of_char c)) with
+  |(_, n), PonctuationLiante -> (Stick, n), [c]
+  |(_, n), PonctuationFinale ->
+    if c = '\n'
+    then (Next, n+1), []
+    else (Next, n),   [c]
+  |(Next, 0), Lettre       -> (Word, 0), [' '; c]
+  |(Next, n), Lettre       -> (Word, 0), (list_make n '\n')@[c]
+  |(_, n), Lettre          -> (Word, n), [c]
+  |(Next, n), Espace       -> (Next, n), []
+  |(Stick, n), Espace      -> (Stick, n),[]
+  |(Word, n), Espace       -> (Next, n), [];;
+
+let init = (Stick, 0);;
+
+let reparse_string etat_init s =
+  let res = ref []
+  and etat = ref etat_init in
+  for i = 0 to (String.length s) - 1 do
+    let etat_suivant, out = transition !etat s.[i] in
+    etat := etat_suivant;
+    res := List.rev_append out !res
+  done;
+  !etat, string_of_charlist (List.rev !res);;
+
+
+let recoupe s =
+  let push k pile =
+    pile := (List.assoc s.[k] sep_assoc) :: !pile in
+  let i, j = ref 0, ref ((String.length s) - 1)
+  and left, right = ref [], ref [] in
+  while 0 < !j && List.mem_assoc s.[!j] sep_assoc do
+    push !j right;
+    decr j
+  done;
+  while !i < !j && List.mem_assoc s.[!i] sep_assoc do
+    push !i left;
+    incr i
+  done;
+  (List.rev !left, String.sub s !i (!j - !i + 1), !right);;
+
+let print_end (_, n) =
+  list_make n (token_of_sep Newline);;
+
+let reparse_words l =
+  let rec aux acc state = function
+    | w :: q ->
+      let new_state, token0 = reparse_string state (" "^w.word) in
+      let left, token, right = recoupe token0 in
+      let new_acc = List.concat
+	[ List.rev_map token_of_sep right;
+	  if token = ""
+	  then []
+	  else [token_of_word (Word.set_word w token)];
+	  List.rev_map token_of_sep left;
+	  acc] in
+      aux new_acc new_state q
+    | [] -> List.rev (List.rev_append (print_end state) acc) in
+  aux [] init l;;
+
+(* usine à gaz.. *)
+let capitalize l =
+  let rec aux acc maj = function
+    | (L Space) as t :: q -> aux (t::acc) maj q
+    | (L Newline) as t :: q -> aux (t::acc) true q
+    | (R w) :: q ->
+      let t =
+	R (if maj then Word.set_word w (String.capitalize w.word) else w) in
+      aux (t::acc) (List.mem (string_end w.word) ponctuation_capitalisante) q
+    | [] -> List.rev acc in
+  aux [] true l;;
+
+
+let reparse l =
+  capitalize (reparse_words l)

@@ -96,26 +96,29 @@ let construit_poeme parse_texts =
       Print.p "Écriture…";
 
       let poeme_words = E.write markov (State.make (firstWord, tag)) state_init in
+      
+      (* Mise en forme et affichage *)
+      Print.p "Mise en page…";
+      let poeme_tokens = Ecriture.reparse poeme_words in
+
       let poeme =
 	if !Param.xml
 	then
 	  begin (* FIXME *)
 	    List.concat [
 	      ["<data>"];
-	      List.map Xml.xml_of_word poeme_words;
+	      List.map Xml.xml_of_token poeme_tokens;
 	      ["</data>"]
 	    ]
 	  end
-	else List.map (fun w -> w.Word.word) poeme_words in
+	else List.map Word.string_of_token poeme_tokens in
 
-	(* Mise en forme et affichage *)
-      Print.p "Mise en page…";
       match !Param.output with
-      |None -> Ecriture.affiche_poeme poeme
+      |None -> List.iter print_string poeme
       |Some file ->
 	begin
 	  let out = open_out file in
-	  Ecriture.affiche_poeme ~out:out poeme;
+	  List.iter (output_string out) poeme;
 	  close_out out
 	end
     with

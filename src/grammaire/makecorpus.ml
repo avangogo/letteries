@@ -21,10 +21,13 @@ let corpus_dir = !Param.corpus_dir
 let computed_dir = !Param.computed_dir
 let dir_tmp = !Param.tmp_dir
 
-
 let new_id =
   let i = ref 0 in
   function () -> incr i; "text_"^(string_of_int !i);;
+
+(* let normalized_basename name =
+  let normalize = Common.string_map (function ' ' -> '_' | c -> c) in
+  normalize (Filename.basename name)*)
 
 let precompute () =
   let fichiers = List.concat
@@ -34,10 +37,11 @@ let precompute () =
     let tmp = !Param.tmp_dir ^ "normalize" in
     Lecture.normalize name tmp;
     Lecture.treeTagger tmp ( !Param.computed_dir ^ ( new_id () ) ) in
+(*    Lecture.treeTagger tmp ( !Param.computed_dir ^ ( normalized_basename name ) ) in*) (* FIXME : faire quelque chose si un fichier du même nom existe *)
   List.iter lireFichier fichiers;;
 
 let main () =
   ignore
     (Unix.system
-       (Printf.sprintf "rm %stext_*" !Param.computed_dir));
+       (Printf.sprintf "rm %s*" !Param.computed_dir));
   precompute ();;

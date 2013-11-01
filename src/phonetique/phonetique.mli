@@ -45,8 +45,12 @@ val string_of_rime :
   rime -> string
 val string_of_muet :
   muet -> string
+val sprint :
+  phoneme list -> string
 val print :
   phoneme list -> unit
+val sprettyprint_api_utf8 :
+  phoneme list -> string
 val prettyprint_api_utf8 :
   phoneme list -> unit
 val size :
