@@ -14,13 +14,15 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>. *)
 {
-   exception Caractere_inconnu of char*Lexing.position;;
+   exception Caractere_non_valide of char*string;;
 }
 
 
 rule token out = parse
-  | [' ' '\t' '\n'] as c                         	      { output_char out c; token out lexbuf }
-  | "(*" [^ '*']* "*)"		                              { token out lexbuf } (* pas d'étoile dans un commentaire (lex est mauvais..) *)
+  | ['\n' '\r']                                               { Lexing.new_line lexbuf; output_char out '\n'; token out lexbuf }
+  | [' ' '\t' ] as c                             	      { output_char out c; token out lexbuf }
+  | "(*" [^ '*']* "*)"
+  | "(*" [^ ')']* "*)"		                              { token out lexbuf } (* pas d'étoile dans un commentaire (lex est mauvais..) *)
   | ['(' ')']                                                 { token out lexbuf }      
   | ".." ['.']*                                               { output_string out "..." ; token out lexbuf}
   | "'"|"`"|"\'"                                              { output_string out "'" ; token out lexbuf}
@@ -31,4 +33,17 @@ rule token out = parse
 	'À''Â''Ç''È''É''Ê''Ë''Î''Ï''Ô''Û''Ù'
         'à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*   as s         { output_string out (String.lowercase s); token out lexbuf }
   | eof             					      { () }
-  | _ as x                                                    { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
+  | _ as x                                                    { let pos = lexbuf.Lexing.lex_curr_p in
+								raise (Caractere_non_valide (x, 
+									Printf.sprintf "Line %d, Column %d"
+										pos.Lexing.pos_lnum
+										(pos.Lexing.pos_cnum - pos.Lexing.pos_bol))) }
+
+
+
+
+
+
+
+
+

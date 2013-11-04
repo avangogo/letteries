@@ -44,7 +44,9 @@ let loquacity = ref Usual
 (* locations and directories *)
 let corpus_dir     = ref "data/corpus/"
 let corpus_subdirs = ref
-  [ "Les Châtiments/";
+  [ 
+    "Verlaine/";
+    "Les Châtiments/";
     "Poésies(Mallarmé,1914)/";
     "Les fleurs du mal (1868)/";
     "Rimbaud, Poésies/";

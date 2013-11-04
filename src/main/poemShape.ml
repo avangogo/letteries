@@ -86,6 +86,30 @@ let quatrain _ =
       [STOP; end_]
     ]
 
+let sonnet _ =
+  List.concat
+    [
+      [addNewline; add "."];
+      alexandrin 1;
+      alexandrin 2;
+      alexandrin 2;
+      [addNewline];
+      alexandrin 0;
+      alexandrin 3;
+      alexandrin 3;
+      [addNewline];
+      alexandrin 4;
+      alexandrin 5;
+      alexandrin 4;
+      alexandrin 5;
+      [addNewline];
+      alexandrin 6;
+      alexandrin 7;
+      alexandrin 6;
+      alexandrin 7;
+      [STOP; end_]
+    ]
+
 (* ************************ En vers libres *********************** *)
 
 module Free =

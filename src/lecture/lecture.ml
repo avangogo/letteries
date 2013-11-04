@@ -49,13 +49,13 @@ let printTreeTaggerOutput treetagger output =
   List.iter (fun (w, tag) -> Printf.fprintf outChannel "%s\t%s\n" w (Tag.string_of_tag tag)) treetagger;
   close_out outChannel;;
 
-let parse filename =
+(*let parse filename =
   let tmp_normalize = !Param.tmp_dir ^ "normalize"
   and tmp_withtag = !Param.tmp_dir ^ "withtag" in
   normalize filename tmp_normalize;
   treeTagger tmp_normalize tmp_withtag;
   let text = readTreeTaggerOutput tmp_withtag in
-  text;;
+  text;;*)
 
 let getFiles rep =
   let files = List.sort compare (Array.to_list (Sys.readdir rep)) in

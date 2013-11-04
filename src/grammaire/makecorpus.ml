@@ -34,6 +34,7 @@ let precompute () =
     ( List.map Lecture.getFiles
 	( List.map ( (^) !Param.corpus_dir ) !Param.corpus_subdirs ) ) in
   let lireFichier name =
+    Print.p (Printf.sprintf "Lecture de %s" name);
     let tmp = !Param.tmp_dir ^ "normalize" in
     Lecture.normalize name tmp;
     Lecture.treeTagger tmp ( !Param.computed_dir ^ ( new_id () ) ) in
