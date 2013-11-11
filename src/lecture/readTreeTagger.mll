@@ -18,7 +18,7 @@
   open Tag;;
 }
 let word = ['\'''.' ',' ';' '?' ':' '\'' '/' '!''a'-'z''à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*
-let lemma = [^ ' ' '\t' '\n']*
+let lemma = [^ ' ' '\t' '\n' '|']*
 let letters = ['a'-'z' 'A'-'Z' ':'] 
 let tag = letters* (':' letters*)?
 
@@ -32,7 +32,7 @@ rule token acc = parse
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 
 and lemma = parse
-  | '\t'(lemma as lemma)'\n'        { lemma }
+  | '\t'(lemma as lemma)('|'lemma)*'\n'        { lemma }
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 
 and tag = parse
