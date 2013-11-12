@@ -57,7 +57,7 @@ let phoneticrules_file = ref "data/reglesphonetiques"
 let phoneticautomaton_file = ref "data/precomputed/automatephonetique"
 let grammarrules_file = ref "data/reglesdegrammaire"
 let grammarautomaton_file = ref "data/precomputed/automategramatical"
-let treetagger_script = ref "./treetagger/cmd/tree-tagger-french"
+let treetagger_script = ref "./tree-tagger.sh"
 let markov_file = ref "data/precomputed/markov"
 
 (* algorithm parameters *)
