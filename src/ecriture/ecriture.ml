@@ -28,7 +28,7 @@ let p = fun s -> ps s; print_newline ()*)
 
 (* comportement de la ponctuation vis-à-vis des espaces *)
 let ponctuation_liante = ['-' ; '\'']
-let ponctuation_finale = ['.'; '!'; '?'; ';'; ':'; ',';'\n']
+let ponctuation_finale = ['.'; ';'; ',';'\n'] (* enlevés : '!'; '?'; ':' *)
 let ponctuation_espace = [' ']
 
 (* éléments de ponctuation suivis par une majuscule *)
