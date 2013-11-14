@@ -16,18 +16,21 @@
 {
   exception Caractere_inconnu of char*Lexing.position;;
   open Tag;;
+  let convert = UseCamomile.utf8_of_latin0;;
 }
+let space = [' ' '\t' '\n']
 let word = ['\'''.' ',' ';' '?' ':' '\'' '/' '!''a'-'z''à''â''ç''è''é''ê''ë''î''ï''ô''û''ù']*
 let lemma = [^ ' ' '\t' '\n' '|']*
 let letters = ['a'-'z' 'A'-'Z' ':'] 
 let tag = letters* (':' letters*)?
 
-rule token acc = parse
+rule token source acc = parse
+  | ('<'[^ '>']*'>' as balise) space*		      { let new_source = Word.read_source (convert balise) in
+							token new_source acc lexbuf }
   | ((word as word) '\t')                             { let tag = tag lexbuf
 							and lemma = lemma lexbuf in
 							(* Traduction en même temps *)
-							let convert = UseCamomile.utf8_of_latin0 in
-						        token ((convert word, tag, convert lemma) :: acc) lexbuf }
+						        token source ((convert word, tag, convert lemma, source) :: acc) lexbuf }
   | eof             		        	      { List.rev acc }
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 

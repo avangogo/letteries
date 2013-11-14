@@ -29,14 +29,22 @@ let new_id =
   let normalize = Common.string_map (function ' ' -> '_' | c -> c) in
   normalize (Filename.basename name)*)
 
+(* Un moyen simple mais sale de récupérer le nom et le recueil du poème *)
+let source_of_filename name =
+  let poemName = UseCamomile.latin0_of_utf8 (Filename.basename name) in
+  let bookName = UseCamomile.latin0_of_utf8 (Filename.basename (Filename.dirname name)) in
+  Word.make_source ~text:poemName ~book:bookName ();;
+
+
 let precompute () =
   let fichiers = List.concat
     ( List.map Lecture.getFiles
 	( List.map ( (^) !Param.corpus_dir ) !Param.corpus_subdirs ) ) in
   let lireFichier name =
     Print.p (Printf.sprintf "Lecture de %s" name);
+    let source_text = Word.sprint_source (source_of_filename name) in
     let tmp = !Param.tmp_dir ^ "normalize" in
-    Lecture.normalize name tmp;
+    Lecture.normalize ~header:source_text name tmp;
     Lecture.treeTagger tmp ( !Param.computed_dir ^ ( new_id () ) ) in
 (*    Lecture.treeTagger tmp ( !Param.computed_dir ^ ( normalized_basename name ) ) in*) (* FIXME : faire quelque chose si un fichier du même nom existe *)
   List.iter lireFichier fichiers;;

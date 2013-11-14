@@ -108,17 +108,21 @@ let construit_poeme reps_corpus parse_texts =
       Print.p "Écriture…";
 
       let poeme_words = E.write markov (State.make (firstWord, tag)) state_init in
-      
+      let title = Title.title poeme_words in
+
       (* Mise en forme et affichage *)
       Print.p "Mise en page…";
+      Print.p (Printf.sprintf "Titre : %s" title);
+
       let poeme_tokens = Ecriture.reparse poeme_words in
 
       let poeme =
 	if !Param.xml
 	then
-	  begin (* FIXME *)
+	  begin
 	    List.concat [
 	      [Xml.prelude];
+	      [Xml.title title];
 	      List.map Xml.xml_of_token poeme_tokens;
 	      [Xml.epilogue]
 	    ]

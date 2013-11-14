@@ -18,9 +18,10 @@
 open Word
 
 (* rewrite input on output with only authorized characters *)
-let normalize input output =
+let normalize ?header:(header="") input output =
   let inChannel = open_in input
   and outChannel = open_out output in
+  output_string outChannel header;
   Normalize.token outChannel (Lexing.from_channel inChannel);
   close_out outChannel;
   close_in inChannel;;
@@ -33,7 +34,7 @@ let treeTagger input output =
 (* read the file outputed by TreeTagger *)
 let readTreeTaggerOutput input =
   let inChannel = open_in input in
-  let result = ReadTreeTagger.token [] (Lexing.from_channel inChannel) in
+  let result = ReadTreeTagger.token (Word.make_source ()) [] (Lexing.from_channel inChannel) in
   close_in inChannel;
   result;;
 
@@ -72,7 +73,7 @@ let punctuize l =
     |[] -> acc in
   aux [] [] (List.rev l);;
 
-let makeWord file phon (w, tag, lemma) =
+let makeWord file phon (w, tag, lemma, source) =
 {
   word = w;
   tag = tag;
@@ -80,7 +81,8 @@ let makeWord file phon (w, tag, lemma) =
   lemma = if w = lemma then w else lemma;
   file = file;
   phonetic = phon w;
-  relevant = Grammaire.isRelevant tag
+  relevant = Grammaire.isRelevant tag;
+  source = source
 }
 
 
@@ -103,7 +105,6 @@ let getRaw phon dossiers =
   let fichiers = List.concat (List.map getFiles dossiers) in
   let lireFichier nom =
     Print.verbose (Printf.sprintf "Lecture : %s." nom);
-    normalize nom tmp_normalize;
     let texte = readAndTag tmp_normalize in
     return phon nom texte in
   List.map lireFichier fichiers;;

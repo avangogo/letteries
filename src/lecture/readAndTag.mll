@@ -16,7 +16,7 @@
 {
   open Tag
   let stringOfChar = String.make 1
-  and make (s, tag) = (s, tag, s)
+  and make (s, tag) = (s, tag, s, Word.make_source ())
 }
 
 

@@ -12,3 +12,5 @@ wget www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/french-par-linux-3.2.
 sh install-tagger.sh
 
 cat LICENSE
+
+echo "For more informations about TreeTagger visit www.cis.uni-muenchen.de/~schmid/tools/TreeTagger."

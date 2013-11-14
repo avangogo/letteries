@@ -6,7 +6,7 @@ BIN=./tree-tagger/bin
 CMD=./tree-tagger/cmd
 LIB=./tree-tagger/lib
 
-OPTIONS="-token -lemma -no-unknown"
+OPTIONS="-token -lemma -no-unknown -sgml"
 
 TAGGER=${BIN}/tree-tagger
 TOKENIZER=${CMD}/tokenize.pl
