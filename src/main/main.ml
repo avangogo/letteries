@@ -23,7 +23,7 @@ let poeme n = PoemShape.poeme_alexandrins n (*PoemShape.quatrain n; PoemShape.po
 
 module B = Complex_bdd.ComplexBdd (T)
 
-module E = Engendre.Engendre (T) (B);;
+module E = Engendre_interactive.Engendre (T) (B);;
 
 
 let construit_poeme reps_corpus parse_texts =

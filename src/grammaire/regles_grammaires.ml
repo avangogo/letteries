@@ -15,7 +15,7 @@ let nd_minimize a = nondeterministic_of_t (minimize (determinize a))
 
 
 let min_length sigma min =
-  let sent = nd_letter sigma (int_of_tag SENT) in
+  let sent = nd_letter sigma (int_of_tag Tag.sent) in
   let all = nd_comp (nd_empty sigma) in
   let no_sent = nd_comp (nd_concat (nd_concat all sent) all) in
   let oneletter = nd_inter (nd_comp (nd_epsilon sigma)) no_sent in
@@ -39,7 +39,7 @@ let old words =
     let l = List.length sentence in
     !Param.minSentenceLength <= l
     && l <= !Param.maxSentenceLength
-    && not (List.mem INT sentence)
+    && not (List.mem (Tag.tag_of_string "INT") sentence)
   in
 
   let confuse_letters auto list =
@@ -56,10 +56,11 @@ let old words =
   let nd_auto = Finiteautomaton.make_setstar_naive ~k:Tag.nbre words2 in
   Print.verbose "Grammaire : fusionne tags"; (*allègement des regles de grammaires*)
   let conf_auto  = confuse_letters nd_auto
-    [[VER Futu; VER Impf; VER Pres; VER Simp];
-     [VER Subi; VER Subp];
-     [ADJ; VER Pper; VER Ppre];
-     [PRO (Some DEM); DET ART; DET Pos; NUM]] in
+    (List.map (List.map Tag.tag_of_string)
+       [["VER:Futu"; "VER:Impf"; "VER:Pres"; "VER:Simp"];
+	["VER:Subi"; "VER:Subp"];
+	["ADJ"; "VER:Pper"; "VER:Ppre"];
+	["PRO:DEM"; "DET:ART"; "DET:Pos"; "NUM"]]) in
   Print.verbose "Grammaire : determinisation";
   let det_auto = Finiteautomaton.determinize conf_auto in
   det_auto;;

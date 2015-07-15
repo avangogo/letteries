@@ -27,8 +27,8 @@ let tag = letters* (':' letters*)?
 rule token source acc = parse
   | ('<'[^ '>']*'>' as balise) space*		      { let new_source = Word.read_source (convert balise) in
 							token new_source acc lexbuf }
-  | ((word as word) '\t')                             { let tag = tag lexbuf
-							and lemma = lemma lexbuf in
+  | ((word as word) '\t' (tag as tag))               { let tag = Tag.tag_of_string tag
+						       and lemma = lemma lexbuf in
 							(* Traduction en même temps *)
 						        token source ((convert word, tag, convert lemma, source) :: acc) lexbuf }
   | eof             		        	      { List.rev acc }
@@ -38,7 +38,7 @@ and lemma = parse
   | '\t'(lemma as lemma)('|'lemma)*'\n'        { lemma }
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
 
-and tag = parse
+(*and tag = parse
   | "ABR"	{ABR}
   | "ADJ"	{ADJ}
   | "ADV"	{ADV}
@@ -73,3 +73,4 @@ and tag = parse
   | "VER:subi"	{VER Subi}
   | "VER:subp"	{VER Subp}
   | _ as x                                            { raise (Caractere_inconnu (x, Lexing.lexeme_end_p lexbuf)) }
+*)

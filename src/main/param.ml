@@ -63,7 +63,7 @@ let markov_file = ref "data/precomputed/markov"
 (* algorithm parameters *)
 let minSentenceLength = ref 10
 let maxSentenceLength = ref 30
-let maxTries = ref 50 (* Nombre maximal de backtracking sur un mot *)
+let maxTries = ref 70 (* 50 / Nombre maximal de backtracking sur un mot *)
 let oldGrammar = ref false
 
 (* poem form *)

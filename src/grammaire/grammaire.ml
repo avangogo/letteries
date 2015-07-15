@@ -25,23 +25,13 @@ let automaton = ref Finiteautomaton.empty
 let trash = ref []
 
 (* say wether the word can be a state of the automaton *)
-let isRelevant = function
-  |DET _ -> false
-  |PUN _ -> false
-  |SENT -> false
-  |PRP _ -> false
-  |PRO _ -> false
-  |ADV -> false
-  |INT -> false
-  |KON -> false
-  |_ -> true;;
-
+let isRelevant = Tag.isRelevant
 
  (* cut sentences after SENT tags *)
 let cutSentences l =
   let rec aux acc_text acc = function
     |[] -> List.rev acc_text
-    |SENT::q -> aux ((List.rev (SENT::acc))::acc_text) [] q
+    |sent::q when sent = Tag.sent -> aux ((List.rev (Tag.sent::acc))::acc_text) [] q
     |t::q -> aux acc_text (t::acc) q in
   aux [] [] l;;
 
@@ -85,7 +75,7 @@ let init_state () =
   Print.verbose (Printf.sprintf "%i states" (Finiteautomaton.size !automaton));
 
   trash := Finiteautomaton.trash !automaton;
-  Finiteautomaton.delta !automaton (Finiteautomaton.initState !automaton) (int_of_tag SENT)
+  Finiteautomaton.delta !automaton (Finiteautomaton.initState !automaton) (int_of_tag Tag.sent)
 
 let name = "Grammaire";;
 

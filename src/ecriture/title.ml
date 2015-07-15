@@ -9,8 +9,8 @@ let random_list l =
 
 
 let title l =
-  let adjs = List.filter (fun w -> w.tag = Tag.ADJ) l
-  and noms = List.filter (fun w -> w.tag = Tag.NOM) l in
+  let adjs = List.filter (fun w -> w.tag = Tag.tag_of_string "ADJ") l
+  and noms = List.filter (fun w -> w.tag = Tag.tag_of_string "NOM") l in
   let adj = random_list adjs
   and nom = random_list noms in
   Printf.sprintf "%s %s" (String.capitalize adj.lemma) nom.lemma;;

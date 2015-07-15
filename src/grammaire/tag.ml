@@ -136,3 +136,18 @@ let int_of_tag tag =
       then aux i mid
       else aux mid j in
   aux 0 (Array.length all);;
+
+let default = SYM
+let sent = SENT
+
+(* say wether the word can be a state of the automaton in the main algorithm *)
+let isRelevant = function
+  |DET _ -> false
+  |PUN _ -> false
+  |SENT -> false
+  |PRP _ -> false
+  |PRO _ -> false
+  |ADV -> false
+  |INT -> false
+  |KON -> false
+  |_ -> true;;

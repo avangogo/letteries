@@ -57,7 +57,7 @@ let state_of_word w =
 let make_word s =
   {
     word = s;
-    tag = Tag.SYM;
+    tag = Tag.default;
     lemma = s;
     file = "";
     source = make_source ();
